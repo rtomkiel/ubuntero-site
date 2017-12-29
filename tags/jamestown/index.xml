@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jamestown on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/jamestown/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/jamestown/</link>
     <description>Recent content in Jamestown on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 20 Oct 2012 14:34:20 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/jamestown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/jamestown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jamestown</title>
-      <link>http://ubuntero.com.br/jamestown/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/jamestown/</link>
       <pubDate>Sat, 20 Oct 2012 14:34:20 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/jamestown/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/jamestown/</guid>
       <description>Este é o quarto jogo da série Humble Bundle que estamos divulgando no site. Espero conseguir concluir todos os jogos até o final desta semana. Se quiserem que algum jogo tenha um gameplay completo é só dizer isso nos comentários.
  Assistir no Youtube </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acesso Remoto on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/acesso-remoto/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/acesso-remoto/</link>
     <description>Recent content in Acesso Remoto on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 01 Feb 2011 12:18:01 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/acesso-remoto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/acesso-remoto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acessando o Ubuntu remotamente com um smartphone com Android</title>
-      <link>http://ubuntero.com.br/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</link>
       <pubDate>Tue, 01 Feb 2011 12:18:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</guid>
       <description>Você já ouviu falar de tecnologias móveis? É claro que sim. Pode-se dizer que hoje praticamente ninguém vive sem um celular, ele já faz parte do nosso cotidiano de tal maneira que nos deixam dependentes. Aliado a função principal do aparelho, que é falar, muitas outras funções foram adicionadas aos pequenos equipamentos a ponto de transforma-los em computadores. Então, surge uma nova linhagem: os smartphones. Eles já conquistaram o mercado e agora os olhos dos programadores estão em sua volta.</description>
     </item>
     

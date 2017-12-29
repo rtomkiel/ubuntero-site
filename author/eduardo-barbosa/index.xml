@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eduardo Barbosa on Ubuntero</title>
-    <link>http://ubuntero.com.br/author/eduardo-barbosa/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/author/eduardo-barbosa/</link>
     <description>Recent content in Eduardo Barbosa on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 06 Apr 2011 11:23:35 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/author/eduardo-barbosa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/author/eduardo-barbosa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FLISOL – Arapiraca</title>
-      <link>http://ubuntero.com.br/flisol-arapiraca/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/flisol-arapiraca/</link>
       <pubDate>Wed, 06 Apr 2011 11:23:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/flisol-arapiraca/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/flisol-arapiraca/</guid>
       <description>Este ano nós faremos o FLISOL no SENAC, na rua São Francisco. Na ocasião, serão apresentadas algumas palestras sobre Software Livre e Cultura Livre.
 Teremos o apoio da OFICINA LIVRE, que é Ubuntu Partner em Alagoas e está autorizada a ministrar os cursos oficiais Ubuntu no estado.
 Para quem não sabe ainda, FLISOL é o Festival Latinoamericano de Instalação de Software Livre. Isso significa que você pode levar seu computador lá e instalaremos gratuitamente softwares livres.</description>
@@ -24,29 +24,29 @@ Para quem não sabe ainda, FLISOL é o Festival Latinoamericano de Instalação 
     
     <item>
       <title>Emulando jogos do Super Nintendo no Ubuntu</title>
-      <link>http://ubuntero.com.br/emulando-jogos-do-super-nintendo-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/emulando-jogos-do-super-nintendo-no-ubuntu/</link>
       <pubDate>Mon, 07 Feb 2011 10:38:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/emulando-jogos-do-super-nintendo-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/emulando-jogos-do-super-nintendo-no-ubuntu/</guid>
       <description>Para você que, como eu, viveu num tempo ondes os jogos do Super Nintendo faziam o maior sucesso &amp;#8211; jogos esses como Bomberman, Donkey Kong e até mesmo aquele velho futebol com um enorme círculo ao redor do jogador &amp;#8211; e para você que nasceu depois e deixou de jogar esses clássicos games, aqui vai um pequeno tutorial para voltar ao passado usando um Emulador chamado Snes9x no Ubuntu.
 Primeiro abra o Gerenciador de pacotes Synaptic.</description>
     </item>
     
     <item>
       <title>Acessando o Ubuntu remotamente com um smartphone com Android</title>
-      <link>http://ubuntero.com.br/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</link>
       <pubDate>Tue, 01 Feb 2011 12:18:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</guid>
       <description>Você já ouviu falar de tecnologias móveis? É claro que sim. Pode-se dizer que hoje praticamente ninguém vive sem um celular, ele já faz parte do nosso cotidiano de tal maneira que nos deixam dependentes. Aliado a função principal do aparelho, que é falar, muitas outras funções foram adicionadas aos pequenos equipamentos a ponto de transforma-los em computadores. Então, surge uma nova linhagem: os smartphones. Eles já conquistaram o mercado e agora os olhos dos programadores estão em sua volta.</description>
     </item>
     
     <item>
       <title>Usando atalhos, economizando tempo.</title>
-      <link>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/usando-atalhos-economizando-tempo/</link>
       <pubDate>Fri, 28 Jan 2011 16:38:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/usando-atalhos-economizando-tempo/</guid>
       <description>Segundo um famoso dicionário eletrônico, atalho significa Caminho fora da estrada principal, pelo qual se encurtam distâncias.
 Bem, como podemos incluir a palavra atalho no nosso meio? Ou seja, como podemos falar de atalho na área da informática?
 Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários de Sistemas Operacionais utilizam atalhos. Seja na forma de ícones na área de trabalho ou simplesmente usando combinações de teclas.</description>
@@ -54,10 +54,10 @@ Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários 
     
     <item>
       <title>Instalando o CMS Joomla no Ubuntu</title>
-      <link>http://ubuntero.com.br/instalando-o-cms-joomla-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</link>
       <pubDate>Wed, 26 Jan 2011 10:15:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/instalando-o-cms-joomla-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</guid>
       <description>Para iniciar, gostaria de responder a uma simples e importante dúvida que insiste em aparecer quando ouvimos o termo CMS. Afinal, o que é um CMS? Ele significa Content Management System, ou Sistema Gerenciador de Conteúdo. Mais especificamente, ele serve pra ajudar você a criar um website. Simples não? Tudo se torna ainda mais simples, quando o CMS é o Joomla. O sistema Joomla é um dos mais completos, por possuir muitos recursos.</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hd on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/hd/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/hd/</link>
     <description>Recent content in Hd on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 18 Apr 2013 02:10:42 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/hd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recupere arquivos e até partições com o TestDisk</title>
-      <link>http://ubuntero.com.br/recupere-arquivos-e-ate-particoes-com-o-testdisk/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/recupere-arquivos-e-ate-particoes-com-o-testdisk/</link>
       <pubDate>Thu, 18 Apr 2013 02:10:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/recupere-arquivos-e-ate-particoes-com-o-testdisk/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/recupere-arquivos-e-ate-particoes-com-o-testdisk/</guid>
       <description>Você está instalando o Ubuntu e seleciona uma partição, escolhe um tipo de sistema de arquivos e marca para formatar. Começa o processo de instalação do sistema e você lembra que aquela não era a partição que você queria formatar. Alguns palavrões passam pela cabeça, outros são ditos mas o que prevalece é o desespero ao lembrar dos arquivos que você perdeu. Calma, não se apavore. Assim que terminar sua instalação, volte ao seu live CD ou pendrive, ou ainda plugue o HD em outro computador com Ubuntu e comece a restauração com o programa TestDisk.</description>
     </item>
     
     <item>
       <title>Disco cheio sem motivo aparente</title>
-      <link>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</link>
       <pubDate>Sat, 27 Nov 2010 22:19:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</guid>
       <description>Hoje a tarde liguei meu computador e recebi a mensagem de que minha partição home estava totalmente cheia. Achei muito estranho porque até o último desligamento eu tinha mais de 100 GB livre.
 Investigando o problema encontrei um arquivo de log(.xsession-errors) ocupando todo o espaço livre do disco. Analisando o conteúdo do arquivo pude ver a seguinte mensagem sendo repetida inúmeras vezes:
 (nautilus:1882): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL&#39; failed</description>

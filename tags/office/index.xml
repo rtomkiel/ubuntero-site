@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Office on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/office/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/office/</link>
     <description>Recent content in Office on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 19 Mar 2012 13:36:01 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/office/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/office/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review Semanal #10 – Wine</title>
-      <link>http://ubuntero.com.br/review-semanal-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-10/</link>
       <pubDate>Mon, 19 Mar 2012 13:36:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-10/</guid>
       <description>Há muito tempo eu queria fazer um post sobre o Wine e neste final de semana consegui fazer para o Review Semanal. Não reparem para a falta de qualidade da imagem quando algum programa aparece rodando pelo wine, o gravador de tela resolveu sacanear só nestas partes, mas as janelas aparecem normal no programa.</description>
     </item>
     
     <item>
       <title>Paginação no LibreOffice</title>
-      <link>http://ubuntero.com.br/paginacao-no-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</link>
       <pubDate>Wed, 19 Oct 2011 10:58:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/paginacao-no-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</guid>
       <description>Tenho ajudado minha esposa nos vários trabalhos que ela tem para entregar na Faculdade e uma coisa bem chata de se fazer no LibreOffice é a simples tarefa de numerar páginas. A maneira que eu utilizava até ontem para esta tarefa é a maneira considerada difícil, mas encontrei uma maneira mais fácil no viva o Linux.
 Como eu fazia Posicionar o cursor na última página da página anterior de onde você quer começar a numerar.</description>
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/open-source/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/open-source/</link>
     <description>Recent content in Open Source on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 06 Aug 2012 22:18:50 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VideoCast 16 – FISL 13</title>
-      <link>http://ubuntero.com.br/videocast-16-fisl-13/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-16-fisl-13/</link>
       <pubDate>Mon, 06 Aug 2012 22:18:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-16-fisl-13/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-16-fisl-13/</guid>
       <description>Um grande evento foi o FISL 13, não pelas palestras que não assisti a nenhuma, mas pelas experiências trocadas e as pessoas conhecidas. Veja neste episódio do VideoCast como foi o evento para o grupo Ubuntu-BR.
 As fotos do evento podem ser vista no Facebook do site, já aproveite e curta nossa página.</description>
     </item>
     
     <item>
       <title>Fórum Tchelinux de Tecnologias Livres – Edição Porto Alegre 2011</title>
-      <link>http://ubuntero.com.br/forum-tchelinux-de-tecnologias-livres-edicao-porto-alegre-2011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/forum-tchelinux-de-tecnologias-livres-edicao-porto-alegre-2011/</link>
       <pubDate>Wed, 05 Oct 2011 11:42:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/forum-tchelinux-de-tecnologias-livres-edicao-porto-alegre-2011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/forum-tchelinux-de-tecnologias-livres-edicao-porto-alegre-2011/</guid>
       <description>É com grande honra que informamos o lançamento do &amp;#8220;Fórum Tchelinux de Tecnologias Livres &amp;#8211; Edição Porto Alegre 2011&amp;#8221;.
 As inscrições para o evento podem ser feitas através do site deste link e as palestras podem ser submetidas através deste link.
   O Fórum Tchelinux de Tecnologias Livres &amp;#8211; Edição Porto Alegre 2011, é um evento promovido por voluntários do Grupo de Usuários de Software Livre Tchelinux.org em parceria com a FTEC Porto Alegre, com a finalidade de divulgar Tecnologias Livres, como Softwares, Linguagens de Programação e Hardware, através de palestras e workshops, veiculadas para todos os interessados da área de Tecnologia da Informação.</description>

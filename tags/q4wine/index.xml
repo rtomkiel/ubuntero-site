@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q4wine on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/q4wine/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/q4wine/</link>
     <description>Recent content in Q4wine on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 01 Sep 2011 12:05:47 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/q4wine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/q4wine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Q4Wine</title>
-      <link>http://ubuntero.com.br/q4wine/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/q4wine/</link>
       <pubDate>Thu, 01 Sep 2011 12:05:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/q4wine/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/q4wine/</guid>
       <description>Em tempos de Unity, tornou-se diferente a forma de organizar os atalhos no Ubuntu. E o que eu menos quero no meu desktop é enchê-lo de atalhos! Como posso então centralizar TODOS os softwares da MS que eu utilizo no Linux em um só local? A melhor alternativa que eu encontrei é o Q4Wine.
 Para instalar abra um terminal e digite:
 sudo apt-get install q4wine Depois de instalá-lo você pode arrastar para a barra do Unity e a partir dali centralizar todos os atalhos.</description>

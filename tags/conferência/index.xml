@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferência on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/confer%C3%AAncia/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/confer%C3%AAncia/</link>
     <description>Recent content in Conferência on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 24 May 2013 12:26:32 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/confer%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/confer%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tosconf 2013</title>
-      <link>http://ubuntero.com.br/tosconf-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tosconf-2013/</link>
       <pubDate>Fri, 24 May 2013 12:26:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tosconf-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tosconf-2013/</guid>
       <description>A Tosconf é a desconferência anual organizada pelo Laboratório Hacker de Campinas (LHC). Em sua primeira edição, em 2012, atraiu desenvolvedores, pesquisadores de segurança da informação e figuras míticas da computação. Na edição de 2013, a fórmula será ajustada levemente para trazer um pouco mais de ecleticismo ao evento. O evento será realizado no dia 08 de junho.
 Este evento contará com uma palestra, que acredito interessar a muitos, de um dos nossos novos podcasters.</description>
     </item>

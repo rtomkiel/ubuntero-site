@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gimp on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gimp/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gimp/</link>
     <description>Recent content in Gimp on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Dec 2013 00:41:39 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #31 – Sua TV te espiona e não use Linux Mint</title>
-      <link>http://ubuntero.com.br/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
       <pubDate>Thu, 05 Dec 2013 00:41:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
       <description>Ainda não foi desta vez, mas ainda não desistimos e pelo menos acredito que vamos gravar neste ano o episódio do openSUSE. Neste episódio, Ivan, Aprígio, Og Maciel e Diego se juntaram para falar um pouco sobre algumas notícias que foram divulgadas nos últimos dias e aproveitamos para responder algumas perguntas feitas pelos ouvintes que acompanhavam a gravação ao vivo.
 Links do episódio  Link do raspbery comentado no espaço da comunidade Opencast #12a &amp;#8211; Libreoffice Opencast #12b &amp;#8211; Libreoffice Linux Mint não é seguro para transações bancárias Resposta do Linux Mint Post explicando o que realmente foi dito sobre o Mint FAQ do Kernel do Ubuntu Drones da Amazon Vírus de computador pode se comunicar pelos alto-falantes Ilustrador troca Photoshop por Gimp Sua TV te espiona Sailfish-OS Instalador do Cyanogenmod é retirado da Play Store NSA pediu para que Linus instalasse backdoor no Linux  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Lançado Gimp 2.8.6</title>
-      <link>http://ubuntero.com.br/lancado-gimp-2-8-6/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-gimp-2-8-6/</link>
       <pubDate>Thu, 27 Jun 2013 12:59:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-gimp-2-8-6/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-gimp-2-8-6/</guid>
       <description>Foi lançado uma nova versão do editor de imagens mais famoso do mundo do software livre. A versão 2.8.6 traz várias correções de bugs, mas os dois bugs que mais me irritavam, e foram corrigidos, são o fechamento do gimp quando uma imagem estava aberta e o tamanho das barras de ferramentas que não eram salvo.
 Ainda fazem parte destas atualizações:
  Corrigido salvamento/exportação de arquivos comprimidos Corrigido espaçamento do pincel quando desenhando Otimizado o tratamento de fontes  Se quiser saber a lista completa das modificações, acesse este endereço git.</description>
@@ -34,10 +34,10 @@ Ainda fazem parte destas atualizações:
     
     <item>
       <title>Gimp 2.8 no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/gimp-2-8-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gimp-2-8-no-ubuntu-12-04/</link>
       <pubDate>Wed, 30 May 2012 13:19:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gimp-2-8-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gimp-2-8-no-ubuntu-12-04/</guid>
       <description>Muitos pediram e enfim saiu o Gimp 2.8 com as tais janelas unificadas. Esta opção é opcional e por padrão nada muda, as janelas continuam separadas.
 Para instalar abra o nosso tão conhecido terminal, usaremos ele por ser mais rápido, pressionando Ctrl+Alt+t e digite os seguintes comandos:
 sudo add-apt-repository ppa:otto-kesselgulasch/gimp sudo apt-get update sudo apt-get install gimp Abra o gimp e vá no menu Janelas -&amp;gt; Modo de janela única.</description>
@@ -45,10 +45,10 @@ sudo add-apt-repository ppa:otto-kesselgulasch/gimp sudo apt-get update sudo apt
     
     <item>
       <title>Ubuntu é mais social</title>
-      <link>http://ubuntero.com.br/ubuntu-e-mais-social/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</link>
       <pubDate>Sat, 19 Feb 2011 19:50:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-e-mais-social/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</guid>
       <description>Mais do que nunca estamos conectados, a internet vive a febre da rede social e o Ubuntu está preparado para tudo isso.
 Hoje é comum encontrarmos em vários computadores ferramentas para Twitter e Faceebook e também sempre um messenger para conectar no MSN, o protocolo mais utilizado no Brasil.
 Twitter e Facebook

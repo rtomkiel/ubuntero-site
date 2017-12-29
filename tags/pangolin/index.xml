@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pangolin on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/pangolin/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/pangolin/</link>
     <description>Recent content in Pangolin on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 02 Apr 2013 02:05:28 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/pangolin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/pangolin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #31 – 1000 inscritos dão direito a um sorteio</title>
-      <link>http://ubuntero.com.br/videocast-31-1000-inscritos-dao-direito-a-um-sorteio/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-31-1000-inscritos-dao-direito-a-um-sorteio/</link>
       <pubDate>Tue, 02 Apr 2013 02:05:28 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-31-1000-inscritos-dao-direito-a-um-sorteio/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-31-1000-inscritos-dao-direito-a-um-sorteio/</guid>
       <description>É isso mesmo, nosso canal no YouTube agora alcançou a marca de 1.000 inscritos e com isso vamos sortear aquela camiseta que vocês viram no outro Videocast.
 Para participar você precisa seguir as seguintes regras:
  Seguir o @ubunterobr no twitter Tuitar a seguinte frase, sem as aspas, &amp;#8220;quero ganhar uma camiseta do Ubuntu Precise Pangolin sorteada pelo site ubuntero.com.br. http://ads.tt/1OY5 RT para concorrer&amp;#8220; Não valerão perfis de twitter específicos para sorteios.</description>
@@ -24,40 +24,40 @@ Para participar você precisa seguir as seguintes regras:
     
     <item>
       <title>VídeoCast #13 – Ubuntu 12.04 LTS</title>
-      <link>http://ubuntero.com.br/videocast-13-ubuntu-12-04-lts/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-13-ubuntu-12-04-lts/</link>
       <pubDate>Sun, 29 Apr 2012 20:10:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-13-ubuntu-12-04-lts/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-13-ubuntu-12-04-lts/</guid>
       <description>Neste vídeo mostro um pouco do funcionamento do Ubuntu 12.04 LTS principalmente para os usuários que estão vindo da última versão LTS, a 10.04.
 Entenda que o Dash não é um lugar para apenas digitar o nome dos programas que quer que sejam abertos, você pode digitar o que quer fazer.</description>
     </item>
     
     <item>
       <title>Precise pangolin não gosta de hibernar</title>
-      <link>http://ubuntero.com.br/precise-pangolin-nao-gosta-de-hibernar/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</link>
       <pubDate>Mon, 23 Apr 2012 19:27:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/precise-pangolin-nao-gosta-de-hibernar/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</guid>
       <description>Esta é uma funcionalidade que não costumo usar, para falar a verdade eu só usei uma vez para ver o que acontecia, então não é algo que eu tenha notado, se não fosse o post do Andre Noel e o Cristiano Lazzari me perguntar eu nem saberia que isto não está mais acontecendo no 12.04.
 O problema é simples, a Canonical resolveu tirar a opção de hibernar da próxima versão do Ubuntu simplesmente por não funcionar em grande parte dos computadores existentes no mundo.</description>
     </item>
     
     <item>
       <title>Multi-monitores no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/multimonitores-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/multimonitores-no-ubuntu-12-04/</link>
       <pubDate>Fri, 06 Apr 2012 22:00:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/multimonitores-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/multimonitores-no-ubuntu-12-04/</guid>
       <description>Como prometido, um vídeo falando um pouco mais sobre multi-monitores no Ubuntu 12.04.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Videocast #11</title>
-      <link>http://ubuntero.com.br/videocast-11/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-11/</link>
       <pubDate>Mon, 02 Apr 2012 01:59:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-11/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-11/</guid>
       <description>Brincadeira de primeiro de abril que não podemos passar em branco, algumas pessoas mataram de primeira, outras ficaram desconfiadas.
 Estamos com novo nome, VideoCast, o que nos permitirá falar sobre qualquer coisa de software livre sem ser um review, isso não quer dizer que não faremos review.
 Esta semana não poderíamos falar de nada diferente do Ubuntu 12.04 Beta 2 e suas novidades, então é isto que você poderá ver neste vídeo.</description>
@@ -65,40 +65,40 @@ Esta semana não poderíamos falar de nada diferente do Ubuntu 12.04 Beta 2 e su
     
     <item>
       <title>Coloque o contador oficial para o lançamento do 12.04 em seu site</title>
-      <link>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</link>
       <pubDate>Thu, 29 Mar 2012 13:41:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</guid>
       <description>Está ansioso para o lançamento da 12.04? Acompanhe quanto tempo falta pra o lançamento adicionando um contador no seu site. Um concurso foi realizado para escolher o contador oficial para a próxima versão e os ganhadores foram estes que você está vendo abaixo:
  Para usar eles insira os códigos respectivos abaixo(na ordem de exibição acima). Primeiro &amp;lt;a href=&#34;http://www.ubuntu.com/&#34;&amp;gt; &amp;lt;img src=&#34;http://www.ubuntu.com/countdown/banner1.png&#34; border=&#34;0&#34; width=&#34;180&#34; height=&#34;150&#34; alt=&#34;The next version of Ubuntu is coming soon&#34;</description>
     </item>
     
     <item>
       <title>Ubuntu 12.04 não ultrapassará o limite de um CD</title>
-      <link>http://ubuntero.com.br/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</link>
       <pubDate>Fri, 09 Mar 2012 11:49:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</guid>
       <description>Já falamos sobre este assunto no Opencast #5 e uma boa discussão foi gerada sobre o Ubuntu utilizar mais espaço do que era possível gravar em um simples CD. No próprio episódio os representantes da Canonical não afirmaram que isto estava definido, era apenas uma possibilidade.
 Agora parece que a coisa se definiu e não precisaremos nos preocupar com isto para esta versão pelo menos. Segundo Stéphane Graber a imagem do Ubuntu 12.</description>
     </item>
     
     <item>
       <title>Review semanal 08</title>
-      <link>http://ubuntero.com.br/review-semanal-08/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-08/</link>
       <pubDate>Mon, 05 Mar 2012 11:19:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-08/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-08/</guid>
       <description>Depois de uma semana sem Review, explico os motivos no próprio vídeo desta semana, voltamos e desta vez mostramos o Ubuntu 12.04 Beta 1.
 Como podem ver no vídeo, fui entrevistado para o Podcast Castalio, então quem tiver alguma curiosidade sobre minha pessoa, o Site e o Opencast, dá uma passada no Castalio Podcast e confira.</description>
     </item>
     
     <item>
       <title>Neil Patel fala sobre planos para Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/neil-patel-fala-sobre-planos-para-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/neil-patel-fala-sobre-planos-para-ubuntu-12-04/</link>
       <pubDate>Fri, 21 Oct 2011 13:35:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/neil-patel-fala-sobre-planos-para-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/neil-patel-fala-sobre-planos-para-ubuntu-12-04/</guid>
       <description>Em entrevista divulgada pelo site OMGUbuntu, o líder de desenvolvimento do Unity falou um poco sobre os planos para o Ubuntu 12.04. Não vou fazer uma tradução literal das palavras dele, quem quiser pode visitar o site e ler por sí, o que vou fazer é postar alguns comentários.
 Começo pelo fim da entrevista. Para quem espera alguma novidade sobre a mudança do xorg pelo wayland pode sentar e pedir uma cerveja, ou qualquer coisa para beber, porque não existe uma previsão para isto acontecer, a equipe nem está acompanhando muito bem o desenvolvimento.</description>
     </item>

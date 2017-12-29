@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gcc on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gcc/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gcc/</link>
     <description>Recent content in Gcc on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 13 Jun 2014 02:34:53 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gcc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gcc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #35 – Fim do Ubuntu One e TrueCrypt</title>
-      <link>http://ubuntero.com.br/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
       <pubDate>Fri, 13 Jun 2014 02:34:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
       <description>Como avisado, atrasamos em um dia o lançamento deste episódio. Mesmo contra todas as agendas que deram errado, conseguimos gravar um episódio bacaninha para vocês. Neste episódio Ivan e Diego comentam algumas notícias sobre o mundo das tecnologias livres.
 Links do episódio  Provedores deveriam isolar computadores infectados 10 novidades do OS X que já existiam no Ubuntu Smart TV da Samsung com Tizen em breve Vodafone confirma coleta de dados Fim do Ubuntu One TrueCrypt não morreu Modelos hibridos da Dell com Ubuntu Mozila vai oferecer serviço de conferência em áudio e vídeo nativo no navegador Comparativo clang e gcc Porta dos fundos no expresso Sem porta dos fundos no expresso Meizu mostra Ubuntu Touch na Mobile Asia Expo 2014  Twitter: @tecnologiaabert</description>
     </item>

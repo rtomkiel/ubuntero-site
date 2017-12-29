@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/podcast/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/podcast/</link>
     <description>Recent content in Podcast on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 23 Oct 2014 20:18:04 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #39 – Netflix e Android Pirulito</title>
-      <link>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
       <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
       <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
 Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
 Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
@@ -24,99 +24,99 @@ Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouc
     
     <item>
       <title>Opencast #36 – Mozilla TV e Patentes da Microsoft no Android</title>
-      <link>http://ubuntero.com.br/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
       <pubDate>Thu, 26 Jun 2014 02:14:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
       <description>Até parece mentira, mas estamos conseguindo manter a periodicidade dos episódios. Neste episódio falamos sobre a Mozilla TV, Android, patentes da Microsoft no Android, GTK2 e GTK3 entre outros assuntos.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do Opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.com.br. Por enquanto, os episódios estão sendo publicados em paralelo, mas em breve serão publicados exclusivamente no site tecnologiaaberta.</description>
     </item>
     
     <item>
       <title>Opencast #35 – Fim do Ubuntu One e TrueCrypt</title>
-      <link>http://ubuntero.com.br/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
       <pubDate>Fri, 13 Jun 2014 02:34:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
       <description>Como avisado, atrasamos em um dia o lançamento deste episódio. Mesmo contra todas as agendas que deram errado, conseguimos gravar um episódio bacaninha para vocês. Neste episódio Ivan e Diego comentam algumas notícias sobre o mundo das tecnologias livres.
 Links do episódio  Provedores deveriam isolar computadores infectados 10 novidades do OS X que já existiam no Ubuntu Smart TV da Samsung com Tizen em breve Vodafone confirma coleta de dados Fim do Ubuntu One TrueCrypt não morreu Modelos hibridos da Dell com Ubuntu Mozila vai oferecer serviço de conferência em áudio e vídeo nativo no navegador Comparativo clang e gcc Porta dos fundos no expresso Sem porta dos fundos no expresso Meizu mostra Ubuntu Touch na Mobile Asia Expo 2014  Twitter: @tecnologiaabert</description>
     </item>
     
     <item>
       <title>Opencast #33 – Firefox 29 e Ubuntu 14.04</title>
-      <link>http://ubuntero.com.br/opencast-33-firefox-29-e-ubuntu-14-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</link>
       <pubDate>Wed, 14 May 2014 23:43:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
       <description>Voltamos, sei que já está cansativa esta história, mas o que importa é que estamos de volta e com ânimo renovado. Neste episódio falamos um pouco sobre algumas notícias que julgamos importantes e também respondemos a algumas perguntas dos ouvintes que estavam assistindo a gravação ao vivo. Os participantes deste episódio foram Ivan, Diego, Rudinei(com o som muito melhor) e Og Maciel.
 Links do episódio  Lançado o Ubuntu 14.</description>
     </item>
     
     <item>
       <title>Opencast #32 – Hardening</title>
-      <link>http://ubuntero.com.br/opencast-32-hardenig/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
       <pubDate>Wed, 12 Mar 2014 23:32:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-32-hardenig/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
       <description>Voltamos com o Opencast depois de uma boa parada para espairecer. Neste episódio Ivan, Aprígio Simões, Diego e Og Maciel falam sobre o processo de &amp;#8220;endurecimento&amp;#8221; de um sistema. Na verdade o episódio é quase um monólogo do Aprígio que foi quem sugeriu a pauta e também foi o especialista &amp;#8220;convidado&amp;#8221;.
 Excepcionalmente, mas pode se tornar o padrão, não teremos a versão em vídeo no youtube. O motivo é bem simples, é muito trabalho e isto acabaria prejudicando a periodicidade do Videocast e provavelmente a do Opencast também (mais do que já é prejudicada).</description>
     </item>
     
     <item>
       <title>Opencast #30 – SteamOS e FixUbuntu</title>
-      <link>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
       <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
       <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
 Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
     </item>
     
     <item>
       <title>Videocast #45 – Latinoware e Ubuntu Touch com Mir</title>
-      <link>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
       <pubDate>Mon, 14 Oct 2013 11:00:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
       <description>Hoje não temos grandes novidades em relação ao último videocast onde mostramos o estado atual, para aquela data, do Ubuntu Touch. Alguns dias depois de publicar o vídeo, o Mir passou a ser o servidor gráfico padrão do Ubuntu Touch e a experiência do sistema mudou bastante, o que me motivou a mostrar novamente como o sistema está.
 Neste vídeo também explico antecipadamente que o opencast e o próximo videocast podem atrasar ou até mesmo nem sair nas datas previstas devido a eu estar na Latinoware que fica a quase 8 horas de carro de onde eu moro.</description>
     </item>
     
     <item>
       <title>Opencast #28 – Debian</title>
-      <link>http://ubuntero.com.br/opencast-27-debian/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-27-debian/</link>
       <pubDate>Fri, 27 Sep 2013 23:16:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-27-debian/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-27-debian/</guid>
       <description>Neste episódio do Opencast Ivan, Aprígio Simões, Helio Loureiro e Luiz Guaraldo falam um pouco sobre a história da distribuição Mãe(ou seria Pai?) de tantas outras, o Debian. Podemos entender como funcionam cada repositório, diferenças e similaridades entre Debian, Ubuntu e outras distribuições não baseadas no Debian. Finalizamos o papo falando sobre a comunidade Debian no Brasil e como obter ajuda quando necessário.
 Links do episódio  Debian na wikipedia Distribuições baseadas no Debian Versões do Debian já lançadas Sistema de acompanhamento de bugs do Debian Obter uma cópia do Debian Como transformar seu Debian em Sid Criar pacotes DEB no Debian e Ubuntu Lista geral Debian Brasil Lista debian-user em português Comunidade Debian Brasil do Software Livre Brasil Como obter ajuda por IRC Wiki do Debian  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
       <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
       <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
     </item>
     
     <item>
       <title>Comunidades de Ubunteros</title>
-      <link>http://ubuntero.com.br/comunidades-de-ubunteros/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/comunidades-de-ubunteros/</link>
       <pubDate>Thu, 21 Mar 2013 11:46:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/comunidades-de-ubunteros/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/comunidades-de-ubunteros/</guid>
       <description>Frequentemente recebemos pedidos de ajuda nos comentários dos artigos, e eventualmente por e-mail, mas estes não são os melhores caminhos para dar este suporte pois acabam por desvirtuar o assunto tratado nos artigos e por e-mail não consigo dar a resposta em tempo.
 Pensando nisso e procurando a melhor alternativa para o momento, resolvemos criar duas comunidades do Google+, uma para assuntos gerais relacionados ao Ubuntu, incluindo algum suporte, e outro canal destinado a discutir os episódios do Opencast.</description>
     </item>
     
     <item>
       <title>Opencast #19 – Mir, Ubuntu Touch e Global Jam</title>
-      <link>http://ubuntero.com.br/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
       <pubDate>Wed, 20 Mar 2013 00:31:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
       <description>Voltamos enfim para mais um episódio do Opencast. Neste episódio falamos sobre o servidor gráfico da Canonical, o Mir, Ubuntu Touch Developer Preview e Ubuntu Global Jam Brazil 2013. Vamos tentar deixar o episódio sem música, além da abertura, e sem transições entre os assuntos e vocês nos dizem o que acharam.
 Não se acostumem, os episódios irão ao ar quinzenalmente nas quartas-feiras, apenas hoje saiu na terça.
 Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do Android &amp;#8211; SurfaceFinger Gnome considera acelerar suporte ao Wayland Ubuntu Touch Developer Preview Videocast 26 &amp;#8211; Galaxy X e Ubuntu Phone Vakinha para compra de um Galaxy X Ubuntu Touch pela equipe do Ubuntu-BR-SC Imagens diárias para o Ubuntu Touch Ubuntu Touch portado para novos aparelhos Site Ubuntued Canal do Youtube com hangouts do Ubuntu SDK e outros vídeos também.</description>
@@ -124,10 +124,10 @@ Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do An
     
     <item>
       <title>Opencast #18 – Arduino</title>
-      <link>http://ubuntero.com.br/opencast-18-arduino/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-18-arduino/</link>
       <pubDate>Thu, 27 Sep 2012 01:35:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-18-arduino/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-18-arduino/</guid>
       <description>Um pouco atrasado devido a viagem de trabalho mas o episódio 8 do Opencast está no ar. Neste episódio conversamos um pouco com o Saulo sobre o hardware aberto Arduino.
 As fotos e links que prometemos durante o episódio estarão no ar em breve, por enquanto fique apenas com o episódio.
 Links do episódio  Estação Meteorológica Prêmio TopBlog Brasil 2012 Sorteio Humble Bundle  Fotos o robô     Twitter: @tecnologiaabert</description>
@@ -135,79 +135,79 @@ Links do episódio  Estação Meteorológica Prêmio TopBlog Brasil 2012 Sorteio
     
     <item>
       <title>Melhorias no Rhythmbox via PPA</title>
-      <link>http://ubuntero.com.br/melhorias-no-rhythmbox-via-ppa/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/melhorias-no-rhythmbox-via-ppa/</link>
       <pubDate>Sat, 09 Jun 2012 11:00:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/melhorias-no-rhythmbox-via-ppa/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/melhorias-no-rhythmbox-via-ppa/</guid>
       <description>Uma coisa que sempre reclamei do rhythmbox, gerenciador de músicas, foi o gerenciamento de podcasts. Na nova versão, disponível via PPA, esta funcionalidade teve uma leve melhorada, mas ainda há muito o que se aprender com o antigo player padrão do Ubuntu, o banshee. Algumas mudanças visuais também foram feitas, mas a melhor mudança foi a possibilidade de pesquisar por podcasts diretamente na biblioteca do iTunes, e para você ter esta nova versão no Ubuntu 12.</description>
     </item>
     
     <item>
       <title>Opencast #8</title>
-      <link>http://ubuntero.com.br/opencast-8/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-8/</link>
       <pubDate>Sat, 24 Mar 2012 18:57:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-8/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-8/</guid>
       <description>Depois de muitas tentativas e parecer que o mundo estava conspirando contra a gravação do episódio #8 do Opencast, finalmente conseguimos finalizar a gravação e enfim fazer a publicação.
 Neste episódio apenas eu(Ivan) e Diego nos juntamos novamente e conversamos um pouco sobre o que aconteceu no mundo do software livre. Neste episódio você não ouvirá música de fundo durante o episódio, apenas na abertura. Isto é para que vocês possam votar melhor na enquete que está rolando no Facebook.</description>
     </item>
     
     <item>
       <title>Opencast episódio 6 – Retrospectiva</title>
-      <link>http://ubuntero.com.br/opencast-episodio-6-retrospectiva/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-6-retrospectiva/</link>
       <pubDate>Thu, 26 Jan 2012 10:00:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-6-retrospectiva/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-6-retrospectiva/</guid>
       <description>Ao contrário de todos os outros sites do mundo, nossa retrospectiva é feita no início do ano e não no final. Neste episódio eu(Ivan) e Diego conversamos um pouco sobre o que aconteceu no ano de 2011 no mundo do software livre, e alguns assuntos um pouco fora.
 Não temos links nesta postagem, este episódio é apenas um aquecimento para os próximos episódios que teremos este ano, agora com uma equipe fixa para enfim manter a periodicidade de um episódio a cada 15 dias.</description>
     </item>
     
     <item>
       <title>R.I.P. André Gondim</title>
-      <link>http://ubuntero.com.br/r-i-p-andre-gondim/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/r-i-p-andre-gondim/</link>
       <pubDate>Fri, 04 Nov 2011 00:05:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/r-i-p-andre-gondim/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/r-i-p-andre-gondim/</guid>
       <description>Este ano não está sendo nada bom para o mundo da tecnologia. Grandes gênios partiram do nosso mundo e deixarão muitas saudades e boas lembranças de seus feitos.
 Hoje escrevo para falar de uma grande pessoa que faz parte do mundo do software livre e do Ubuntu. Uma pessoa, que embora eu não tenha falado pessoalmente, que sei que é amigo e batalhador. Lutou contra uma doença com todas as forças que tinha.</description>
     </item>
     
     <item>
       <title>Opencast episódio #2 – Comunidade Ubuntu-BR</title>
-      <link>http://ubuntero.com.br/opencast-episodio-2-comunidade-ubuntu-br/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-2-comunidade-ubuntu-br/</link>
       <pubDate>Thu, 17 Mar 2011 12:22:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-2-comunidade-ubuntu-br/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-2-comunidade-ubuntu-br/</guid>
       <description>Está no ar o episódio de número dois do Opencast. Neste episódio temos como convidados André Gondim, Claiton Sega e Marcos Zin.
 Diferentemente dos outros dois episódios, neste foi feita uma espécie de entrevista com o André Gondim sobre a comunidade Ubuntu-BR e como as pessoas podem contribuir com o Ubuntu, também foi comentada a participação, ou não, da Canonical na comunidade brasileira e terminamos falando um pouco sobre o Ubuntu 11.</description>
     </item>
     
     <item>
       <title>Mudança de data do Tchelinux em Erechim, mudança do logotipo no planeta-ubuntu-br e Opencast</title>
-      <link>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
       <pubDate>Fri, 11 Mar 2011 11:47:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
       <description>Queremos dar algumas pequenas mas importantes informações sobre o site e sobre o Seminário Tchelinux em Erechim.
 Vamos começar pela notícia mais importante. A data de realização do Seminário Tchelinux em Erechim precisou sofrer alteração devido ao calendário de eventos da cidade que estará cheio de alternativas no dia 30 de abril. A nova data será no dia 14 de maio, o que acarreta em mais tempo para organizarmos o evento e mais tempo para que todos submetam suas palestras no formulário que já disponibilizamos em outro post.</description>
     </item>
     
     <item>
       <title>Opencast episódio #1</title>
-      <link>http://ubuntero.com.br/opencast-episodio-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-1/</link>
       <pubDate>Thu, 03 Mar 2011 12:57:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-1/</guid>
       <description>Está no ar mais um episódio do Opencast, o podcast sobre software livre. Neste episódio eu(Ivan), Marcos Lucas, Marcos Zin e Diego Tumelero falamos um pouco sobre como ganhar dinheiro com software livre tanto para um novo empreendedor como para empresas que já estão no mercado.
 Uma pequena correção sobre o livro de Shell Script, ele não está disponível na íntegra na internet, apenas algumas partes estão disponíveis e o link está na seção de links do podcast.</description>
     </item>
     
     <item>
       <title>Opencast, episódio zero</title>
-      <link>http://ubuntero.com.br/opencast-episodio-zero/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-zero/</link>
       <pubDate>Sat, 26 Feb 2011 17:41:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-zero/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-zero/</guid>
       <description>Depois de muito tempo discutindo com os amigos aqui está nosso primeiro podcast, o Opencast.
 O Opencast terá como tema principal o Software Livre. O objetivo do Opencast será de trazer informações sobre o mundo do software livre, sendo boas ou más notícias, sempre faremos nossos comentários pessoais e técnicos sobre os assuntos.
 Ao contrário do que fazemos no grupo Caudilho Livre, aqui comentaremos as intervenções políticas que envolvam software livre tanto no Brasil quanto no mundo.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Msn on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/msn/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/msn/</link>
     <description>Recent content in Msn on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 24 May 2013 12:48:57 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/msn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/msn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skype 4.2 nos repositórios do Ubuntu 13.04</title>
-      <link>http://ubuntero.com.br/skype-4-2-nos-repositorios-do-ubuntu-13-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/skype-4-2-nos-repositorios-do-ubuntu-13-04/</link>
       <pubDate>Fri, 24 May 2013 12:48:57 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/skype-4-2-nos-repositorios-do-ubuntu-13-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/skype-4-2-nos-repositorios-do-ubuntu-13-04/</guid>
       <description>Se você é uma pessoa paciente e aguardou um pouquinho já pode instalar a nova versão do Skype para Ubuntu sem precisar entrar em site nenhum, basta atualizar seu sistema que o Ubuntu cuida do resto.
 Esta nova versão conta com várias correções de bugs como pode ver abaixo:
  Compartilhamento de tela quando em dois monitores está melhorado Agora será visto um grupo com os usuários do MSN Botão para começar uma conferência foi adicionado a janela de conversação Várias correções menores  .</description>
@@ -24,10 +24,10 @@ Esta nova versão conta com várias correções de bugs como pode ver abaixo:
     
     <item>
       <title>Review semanal 03</title>
-      <link>http://ubuntero.com.br/review-semanal-03/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-03/</link>
       <pubDate>Tue, 20 Dec 2011 00:44:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-03/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-03/</guid>
       <description>Último resumo semanal, agora com o nome de Review Semanal, do ano no ar com bastante atraso, mas aí está ele.
 Os assuntos abordados neste episódio vão desde java, OpenJDK, passando incrivelmente pela microsoft e terminando com um rápido review da distribuição, baseada no Ubuntu, Bodhi.
 Links do episódio  TecLand Chapecó Canonical removerá Java do Ubuntu Oracla usará OpenJDK como base para desenvolvimento do Java 7 (inglês) MSN Messenger com suporte a XMPP Nvidia libera código do compilador da CUDA, baseado no LLVM The Humble Indie Bundle GNU Telephony in 2012 [Bodhi Linux   ]8</description>

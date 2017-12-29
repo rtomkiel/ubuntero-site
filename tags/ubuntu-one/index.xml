@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu One on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntu-one/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-one/</link>
     <description>Recent content in Ubuntu One on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 02 Apr 2014 13:52:43 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntu-one/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-one/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Canonical irá parar o serviço de arquivos e músicas do Ubuntu One</title>
-      <link>http://ubuntero.com.br/canonical-ira-parar-o-servico-de-arquivos-e-musicas-do-ubuntu-one/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/canonical-ira-parar-o-servico-de-arquivos-e-musicas-do-ubuntu-one/</link>
       <pubDate>Wed, 02 Apr 2014 13:52:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/canonical-ira-parar-o-servico-de-arquivos-e-musicas-do-ubuntu-one/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/canonical-ira-parar-o-servico-de-arquivos-e-musicas-do-ubuntu-one/</guid>
       <description>Hoje tivemos o anúncio da descontinuidade dos serviços de arquivos e músicas do Ubuntu One. O motivo é a forte concorrência neste mercado onde outras empresas oferecem mais de 20 GB gratuitos. Para a Canonical manter estes serviços, teria que investir muito dinheiro, mais do que tem capacidade. Como a empresa quer ficar no mercado apenas onde consegue ser realmente competitiva, a decisão foi de encerrar os serviços.
 Todos que usam estes serviços serão afetados da seguinte maneira.</description>
     </item>
     
     <item>
       <title>Ícone do Dropbox no Ubuntu 13.10</title>
-      <link>http://ubuntero.com.br/icone-do-dropbox-no-ubuntu-13-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/icone-do-dropbox-no-ubuntu-13-10/</link>
       <pubDate>Mon, 04 Nov 2013 18:02:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/icone-do-dropbox-no-ubuntu-13-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/icone-do-dropbox-no-ubuntu-13-10/</guid>
       <description>Não utilizo o Dropbox por dois motivos, apenas 2 GB de armazenamento e por ter o UbuntuOne com 6 GB disponíveis para mim. Mesmo assim, sei que muitos de vocês são usuários dele e muitos estão com problema no Ubuntu 13.10. O problema é que o ícone não aparece na bandeja do sistema.
 Haters vão dizer:
 &amp;#8220;Viu como o Ubuntu é bugado?!&amp;#8221;
@@ -35,29 +35,29 @@ Sinto informar que o bug é exclusivo do Dropbox que não adiciona uma dependên
     
     <item>
       <title>Uma conta para todos os serviços do Ubuntu</title>
-      <link>http://ubuntero.com.br/uma-conta-para-todos-os-servicos-do-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/uma-conta-para-todos-os-servicos-do-ubuntu/</link>
       <pubDate>Mon, 24 Jun 2013 13:26:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/uma-conta-para-todos-os-servicos-do-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/uma-conta-para-todos-os-servicos-do-ubuntu/</guid>
       <description>Acompanhando a tendência do Ubuntu de ser um sistema para todos os dispositivos, foi anunciado pela Canonical que o Ubuntu One agora será o concentrador de contas de serviços. Isto é algo que eu já esperava, embora veja muitos prós e contras devido a experiência com outros serviços como o Google onde utilizo mais de duas contas e isto acaba atrapalhando em muitas vezes, mas é uma mão na roda em outras.</description>
     </item>
     
     <item>
       <title>Ubuntu One no Android</title>
-      <link>http://ubuntero.com.br/ubuntuone-no-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntuone-no-android/</link>
       <pubDate>Tue, 26 Feb 2013 12:24:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntuone-no-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntuone-no-android/</guid>
       <description>Uma ótima opção para manter seus arquivos sempre perto de você, sem precisar levar um pendrive ou HD portátil é utilizar o poder da nuvem. Para isso o Ubuntu já oferece há um bom tempo o Ubuntu One.
 O Ubuntu One é um serviço de armazenamento e sincronização de arquivos na nuvem totalmente gratuito. O espaço oferecido de forma gratuita é de 5 GB, podendo ser aumentado com contratação de espaço adicional ou indicando novos usuários.</description>
     </item>
     
     <item>
       <title>Notes será retirado da interface web do Ubuntu One</title>
-      <link>http://ubuntero.com.br/notes-sera-retirado-da-interface-web-do-ubuntu-one/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/notes-sera-retirado-da-interface-web-do-ubuntu-one/</link>
       <pubDate>Mon, 06 Feb 2012 16:03:49 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/notes-sera-retirado-da-interface-web-do-ubuntu-one/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/notes-sera-retirado-da-interface-web-do-ubuntu-one/</guid>
       <description>Uma notícia muito importante saiu no blog do Ubuntu One sobre o serviço Notes.
 No dia 28 de fevereiro o serviço Notes será retirado da interface web por um simples motivo, não funcionar como era esperado. Se você usa este serviço, não tem mais o que fazer, ele não estará mais disponível via navegador, apenas via Tomboy notas no desktop.
 Pelo que pude entender, uma nova ferramenta está em desenvolvimento, mas nenhum detalhe foi divulgado.</description>
@@ -65,10 +65,10 @@ Pelo que pude entender, uma nova ferramenta está em desenvolvimento, mas nenhum
     
     <item>
       <title>Ferramenta de cópia de segurança Déjà Dup</title>
-      <link>http://ubuntero.com.br/ferramenta-de-copia-de-seguranca-deja-dup/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ferramenta-de-copia-de-seguranca-deja-dup/</link>
       <pubDate>Tue, 22 Nov 2011 10:55:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ferramenta-de-copia-de-seguranca-deja-dup/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ferramenta-de-copia-de-seguranca-deja-dup/</guid>
       <description>O Ubuntu 11.10 trouxe uma ótima ferramenta de backup chamada Déjà Dup. O Déjà Dup, embora difícil de se escrever, é um programa nada complicado. Os backups podem ser armazenados em HD externo, algum diretório no próprio sistema de arquivos ou no seu espaço no Ubuntu One.
 Para configurar o sistema de backup, pressiona a tecla Super e digite &amp;#8220;deja dup&amp;#8221; e pressione Enter.
  Na tela inicial do programa você escolhe se irá restaurar um backup já feito ou se irá configurar uma nova tarefa.</description>
@@ -76,10 +76,10 @@ Para configurar o sistema de backup, pressiona a tecla Super e digite &amp;#8220
     
     <item>
       <title>Ubuntu 11.04 alpha 2 com atualizações até 15/02/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
       <pubDate>Wed, 16 Feb 2011 23:35:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
       <description>Este vídeo mostra algumas mudanças já realizadas na próxima versão do Ubuntu que ainda está em fase alpha.
 Desde o último vídeo temos poucas mudanças como o menu do Unity, menu de aplicações, repaginada no Ubuntu One, Firefox 4 beta 11 e o menu de arquivos.
 Alguns aplicativos como a Central de Programas do Ubuntu e Gwibber ainda não estão rodando.
@@ -88,10 +88,10 @@ Alguns aplicativos como a Central de Programas do Ubuntu e Gwibber ainda não es
     
     <item>
       <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
       <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
       <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
 O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
  Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adilson De Oliveira on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/adilson-de-oliveira/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/adilson-de-oliveira/</link>
     <description>Recent content in Adilson De Oliveira on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 30 Jul 2012 20:03:31 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/adilson-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/adilson-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu for Android no FISL 13</title>
-      <link>http://ubuntero.com.br/ubuntu-for-android-no-fisl-13/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-no-fisl-13/</link>
       <pubDate>Mon, 30 Jul 2012 20:03:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-for-android-no-fisl-13/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-no-fisl-13/</guid>
       <description>Olá Ubunteros, fiquei um tempo sem postar nada no site, o Edigley salvou a semana com um ótimo artigo que consegui publicar entre uma conversa, instalação ou correção de algum problema durante o FISL.
 Em um dos raros momentos que consegui sair do estande do Ubuntu-BR, aproveitei os minutos do almoço, passei pelo estande da Canonical e o Adilson Oliveira gentilmente gravou este vídeo falando e mostrando um pouco do Ubuntu for Android.</description>
     </item>

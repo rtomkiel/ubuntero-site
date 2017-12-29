@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mario on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/mario/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/mario/</link>
     <description>Recent content in Mario on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 21 Apr 2013 14:35:08 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/mario/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/mario/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mario Bros em shell script</title>
-      <link>http://ubuntero.com.br/mario-bros-em-shell-script/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mario-bros-em-shell-script/</link>
       <pubDate>Sun, 21 Apr 2013 14:35:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mario-bros-em-shell-script/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mario-bros-em-shell-script/</guid>
       <description>Quando o Aprígio diz que &amp;#8220;Linux é o poder&amp;#8220;, não podemos menosprezar suas palavras. Estudantes da FATEC de Carapicuíba desenvolveram o jogo Mario Bros em shell script para um trabalho do 1º semestre, e ainda vejo gente reclamando porque tem que fazer trabalhos muito mais simples em Universidades por este Brasil.
 Veja meu vídeo jogando esta maravilhosa implementação.
  Assistir no Youtube Agora fique com o vídeo original.

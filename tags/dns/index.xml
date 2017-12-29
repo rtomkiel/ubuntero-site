@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dns on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/dns/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/dns/</link>
     <description>Recent content in Dns on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 20 Nov 2013 20:02:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #30 – SteamOS e FixUbuntu</title>
-      <link>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
       <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
       <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
 Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
     </item>
     
     <item>
       <title>Mudanças na resolução DNS no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudancas-na-resolucao-dns-no-ubuntu-12-04/</link>
       <pubDate>Mon, 27 Feb 2012 17:36:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudancas-na-resolucao-dns-no-ubuntu-12-04/</guid>
       <description>Se você pretende migrar pra o Ubuntu 12.04 e costuma fazer configurações manuais diretamente no arquivo resolv.conf esta notícia é para você.
 As mudanças são resultado da implementação do foundations-p-dns-resolving e as duas maiores mudanças são:
 Mudança no gerenciamento do resolvconf O resolvconf é um conjunto de scripts que gerenciam a resolução DNS. A diferença mais notável será que toda a configuração feita diretamente no arquivo resolv.conf será perdida sempre que os scripts do resolvconf seja invocado.</description>
@@ -34,10 +34,10 @@ Mudança no gerenciamento do resolvconf O resolvconf é um conjunto de scripts q
     
     <item>
       <title>ubuntu-br.org fora</title>
-      <link>http://ubuntero.com.br/ubuntu-br-org-fora/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-org-fora/</link>
       <pubDate>Thu, 13 Jan 2011 00:49:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-br-org-fora/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-org-fora/</guid>
       <description>Artigo de utilidade pública retirado do blog do André Gondim
 No dia 31 de dezembro de 2010 foi identificado que o domínio não estava disponível. Porém imaginou-se tratar de algo passageiro e foi aberto um ticket de verificação junto aos sysadmin da Canonical.
 Inicialmente parecia tratar-se de problema onde uma simples reinicialização de máquina resolveria, como já ocorreu em outras

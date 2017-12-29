@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/conference/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/conference/</link>
     <description>Recent content in Conference on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 11 Jul 2012 16:38:32 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aberta chamada de trabalhos para a PHP Conference Brasil 2012</title>
-      <link>http://ubuntero.com.br/aberta-chamada-de-trabalhos-para-a-php-conference-brasil-2012/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/aberta-chamada-de-trabalhos-para-a-php-conference-brasil-2012/</link>
       <pubDate>Wed, 11 Jul 2012 16:38:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/aberta-chamada-de-trabalhos-para-a-php-conference-brasil-2012/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/aberta-chamada-de-trabalhos-para-a-php-conference-brasil-2012/</guid>
       <description>Está aberta a Chamada de Trabalhos para a PHP Conference Brasil 2012.
 Propostas serão aceitas até o dia 3 de Agosto, para os seguintes macro-temas, escolhidos através de uma enquete com a comunidade:
  Frameworks &amp;amp; Ferramentas APIs &amp;amp; Webservices Desafios e Tendências Estudos de Caso e Casos de Sucesso Segurança Mercado de Trabalho  Envie sua proposta de palestra e boa sorte!

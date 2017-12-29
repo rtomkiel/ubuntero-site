@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spice on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/spice/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/spice/</link>
     <description>Recent content in Spice on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 08 Nov 2012 16:00:39 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/spice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/spice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux Magazine Community Edition 96</title>
-      <link>http://ubuntero.com.br/linux-magazine-community-edition-96/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/linux-magazine-community-edition-96/</link>
       <pubDate>Thu, 08 Nov 2012 16:00:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/linux-magazine-community-edition-96/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/linux-magazine-community-edition-96/</guid>
       <description>Já está no ar a Linux Magazine 96 Community Edition.
 Confira nesta edição as matérias selecionadas da Linux Magazine de novembro (Big Data) e aprenda a compilar um emulador para o vindouro Firefox OS, e começar a testar seus aplicativos web no novo sistema operacional móvel da Mozilla. Saiba mais sobre os recursos e novidades do Android 4.2 &amp;#8220;Jelly Bean&amp;#8221;, a nova versão do sistema operacional móvel do Google. Aprenda ainda como você pode usar scripts PHP para incrementar sua linha de comando.</description>
     </item>

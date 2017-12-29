@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Top Blog on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/top-blog/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/top-blog/</link>
     <description>Recent content in Top Blog on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 14 Oct 2013 11:00:04 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/top-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/top-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #45 – Latinoware e Ubuntu Touch com Mir</title>
-      <link>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
       <pubDate>Mon, 14 Oct 2013 11:00:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
       <description>Hoje não temos grandes novidades em relação ao último videocast onde mostramos o estado atual, para aquela data, do Ubuntu Touch. Alguns dias depois de publicar o vídeo, o Mir passou a ser o servidor gráfico padrão do Ubuntu Touch e a experiência do sistema mudou bastante, o que me motivou a mostrar novamente como o sistema está.
 Neste vídeo também explico antecipadamente que o opencast e o próximo videocast podem atrasar ou até mesmo nem sair nas datas previstas devido a eu estar na Latinoware que fica a quase 8 horas de carro de onde eu moro.</description>
     </item>

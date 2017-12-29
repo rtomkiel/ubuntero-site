@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black Colors on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/black-colors/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/black-colors/</link>
     <description>Recent content in Black Colors on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 05 Mar 2011 12:05:34 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/black-colors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/black-colors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2º Tema – Black Colors</title>
-      <link>http://ubuntero.com.br/2%C2%BA-tema-black-colors/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/2%C2%BA-tema-black-colors/</link>
       <pubDate>Sat, 05 Mar 2011 12:05:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/2%C2%BA-tema-black-colors/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/2%C2%BA-tema-black-colors/</guid>
       <description>Olá a todos os visitantes do Ubuntu, como dito no último post, aqui estou no sábado para trazer mais um belo tema para vocês. Seguindo o esquema do último tema, trago esse com cores escuras, mas num tom mais leve. O Black Colors foi ainda mais difícil de fazer do que o Life in BlackStyle. Então vamos começar a instalá-lo. Antes de tê-lo em vosso computador, recomendo a instalação do tema Elementary para os que ainda não o possuem; para isso vá em um terminal e digite.</description>
     </item>
     

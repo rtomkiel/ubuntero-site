@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gps on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gps/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gps/</link>
     <description>Recent content in Gps on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 24 Feb 2014 18:02:10 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu mobile maps</title>
-      <link>http://ubuntero.com.br/ubuntu-mobile-maps/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-maps/</link>
       <pubDate>Mon, 24 Feb 2014 18:02:10 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-mobile-maps/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-maps/</guid>
       <description>Está difícil manter uma publicação atualizada sobre o Ubuntu Touch, até a pouco eu dizia que o GPS não funcionava, mas na verdade ele funciona, só faltavam aplicações, isso mesmo, faltava.
 A Mapbox mostrou hoje, dia 24, na WMC uma aplicação com integração direta com HTML5 no Ubuntu Touch através da biblioteca mapbox.js. A biblioteca permite que outros desenvolvedores desenvolvam soluções utilizando mapas customizados utilizando câmera e o acelerômetro.</description>
     </item>

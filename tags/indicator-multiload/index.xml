@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indicator Multiload on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/indicator-multiload/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/indicator-multiload/</link>
     <description>Recent content in Indicator Multiload on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 03 Apr 2012 11:00:58 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/indicator-multiload/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/indicator-multiload/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Indicator Multiload agora com PPA</title>
-      <link>http://ubuntero.com.br/indicator-multiload-agora-com-ppa/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/indicator-multiload-agora-com-ppa/</link>
       <pubDate>Tue, 03 Apr 2012 11:00:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/indicator-multiload-agora-com-ppa/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/indicator-multiload-agora-com-ppa/</guid>
       <description>Eu tinha prometido que assim que tivesse um PPA do multiload indicator eu voltaria a informar vocês e graças ao Marcio Tavares no artigo anterior eu voltei a procurar por um PPA e lá está ele no Launchpad.
 Para adicionar o PPA e instalar o multiload indicator, abra o terminal pressionando Cttl+Alt+t e digite os seguintes comando:
 sudo add-apt-repository ppa:indicator-multiload/stable-daily sudo apt-get update sudo apt-get install indicator-multiload Agora pressione Alt+F2 e digite, sem aspas, &amp;#8220;indicator-multiload&amp;#8221; e pressione Enter.</description>

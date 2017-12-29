@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pioneiro on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/pioneiro/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/pioneiro/</link>
     <description>Recent content in Pioneiro on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 13 May 2014 18:01:03 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/pioneiro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/pioneiro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pioneiros do Ubuntu</title>
-      <link>http://ubuntero.com.br/pioneiros-do-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/pioneiros-do-ubuntu/</link>
       <pubDate>Tue, 13 May 2014 18:01:03 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/pioneiros-do-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/pioneiros-do-ubuntu/</guid>
       <description>Você é um desenvolveu ou está desenvolvendo um aplicativo para Ubuntu? Você pode ser um dos 200 desenvolvedores pioneiros do Ubuntu.
 Esta iniciativa foi lançada para valorizar as pessoas que já acreditaram e estão nos planos de convergência e estão aplicando tempo e recursos para desenvolver aplicativos.
 Esta iniciativa está trabalhando em duas frentes. Primeiro, foi criado o site http://developer.ubuntu.com/pioneers onde serão mostrados os desenvolvedores e seus aplicativos. A lista de aplicativos será mantida e atualizada sempre que um novo seja desenvolvido pelo desenvolvedor.</description>

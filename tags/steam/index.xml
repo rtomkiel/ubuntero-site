@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steam on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/steam/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/steam/</link>
     <description>Recent content in Steam on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Dec 2013 21:03:06 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/steam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #50 – Dell Inspiron 14, um notebook para jogos?</title>
-      <link>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
       <pubDate>Tue, 24 Dec 2013 21:03:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
       <description>Este é o último episódio deste ano e enfim caiu em minhas mãos um notebook que é bom para jogos no Linux. O notebook é o Dell Inspiron 14 que vem equipado com uma placa de vídeo Nvidia GT625M, processador Intel Core i5-3337U, 6GB de memória e HD de 1 TB.
 Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
  Assistir no Youtube Antes de ver como habilitar a placa de vídeo Nvidia, passa no site da Dell e compra o computador por nosso link, assim ajuda o site e fica com uma super máquina para jogar.</description>
@@ -24,20 +24,20 @@ Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
     
     <item>
       <title>Opencast #30 – SteamOS e FixUbuntu</title>
-      <link>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
       <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
       <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
 Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
     </item>
     
     <item>
       <title>Vencedor da promoção RocketBirds</title>
-      <link>http://ubuntero.com.br/vencedor-da-promocao-rocketbirds/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/vencedor-da-promocao-rocketbirds/</link>
       <pubDate>Sat, 09 Nov 2013 13:37:10 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/vencedor-da-promocao-rocketbirds/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/vencedor-da-promocao-rocketbirds/</guid>
       <description>E o grande vencedor da semana foi:JACIMAR FONSECA
 Entraremos em contato por e-mail entregando a chave do jogo, confira a lista de participantes em ordem de sorteio.
  Obrigado a todos que participaram, e ja temos um novo game para quem quiser participar e concorrer ao jogo eets Munchies. Clique aqui.</description>
@@ -45,10 +45,10 @@ Entraremos em contato por e-mail entregando a chave do jogo, confira a lista de 
     
     <item>
       <title>Ganhe o jogo “Brütal Legend”</title>
-      <link>http://ubuntero.com.br/ganhe-o-jogo-brutal-legend/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ganhe-o-jogo-brutal-legend/</link>
       <pubDate>Mon, 28 Oct 2013 21:15:11 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ganhe-o-jogo-brutal-legend/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ganhe-o-jogo-brutal-legend/</guid>
       <description>Toda a semana o Diolinux e o Canal Strondus Games com apoio da LinuxSociALL, Ubuntu Dicas e a partir de agora o Ubuntero sorteiam um super jogo para você!
 
 Para comemorar um mês de existência da promoção semanal o jogo a ser sorteado é o Brütal Legend. Brutal Legend está disponível na Steam para Linux, Windows e Mac OS, é um jogo de ação e aventura criado pela Double Fine Productions e publicado pela Electronic Arts.</description>
@@ -56,77 +56,77 @@ Para comemorar um mês de existência da promoção semanal o jogo a ser sortead
     
     <item>
       <title>Pesquisa da Valve sobre o uso da Steam</title>
-      <link>http://ubuntero.com.br/pesquisa-da-valve-sobre-o-uso-da-steam/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/pesquisa-da-valve-sobre-o-uso-da-steam/</link>
       <pubDate>Fri, 25 Oct 2013 16:23:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/pesquisa-da-valve-sobre-o-uso-da-steam/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/pesquisa-da-valve-sobre-o-uso-da-steam/</guid>
       <description>Já falamos no Opencast sobre a pesquisa que a Valve faz referente ao uso da Steam, mas não tínhamos imagens ou mais dados.
 Já foi discutido também que não faria sentido a Valve fazer uma pesquisa já que ela tem um programa no computador dos usuários que pode fazer esta coleta e enviar para seus servidores, ou até mesmo usar a conexão com seus servidores para que essa informação seja enviada assim que um cliente se conectar.</description>
     </item>
     
     <item>
       <title>Opencast #29 – SteamOS e a pérola da TechNet</title>
-      <link>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</link>
       <pubDate>Thu, 10 Oct 2013 02:59:41 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</guid>
       <description>Neste episódio do Opencast, Ivan, Aprígio Simões, Diego e Rudinei comentam alguns dos principais acontecimentos que viraram notícia no mundo do software e hardware livre. Nossa conversa começa com a pérola da Technet &amp;#8220;provando&amp;#8221; que o Windows é melhor que o Software Livre, passamos pelas novidades da Valve com o SteamOS e seus hardwares, liberação de especificação de placas de vídeo, Xmir, Raspberry Pi e o investimento da IBM no Linux.</description>
     </item>
     
     <item>
       <title>Dota 2 finalmente lançado para Linux</title>
-      <link>http://ubuntero.com.br/dota-2-finalmente-lancado-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dota-2-finalmente-lancado-para-linux/</link>
       <pubDate>Fri, 19 Jul 2013 02:32:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dota-2-finalmente-lancado-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dota-2-finalmente-lancado-para-linux/</guid>
       <description>Agora não é mais só para teste, se ainda não apareceu para você, aguarde mais um pouco que Dota 2 logo irá aparecer e você poderá instalar e começar a jogar. O meu foi liberado agora a noite e estou fazendo o download como vocês podem ver nesta imagem.
  Ainda não testei o jogo, mas logo irei jogar e falo para vocês como está, não vai ter como fazer videocast sobre ele por que meu computador não aguenta gravar a tela e rodar o jogo, infelizmente.</description>
     </item>
     
     <item>
       <title>Opencast #23 – PRISM, Bug #1, Fastboot e o fim dos Desktops</title>
-      <link>http://ubuntero.com.br/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</link>
       <pubDate>Wed, 19 Jun 2013 03:01:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</guid>
       <description>Mantendo a periodicidade, mais uma vez reunimos parte do time do Opencast para falar sobre os assuntos que envolvem software livre direta ou indiretamente. Neste episódio, Ivan, Aprígio, Julian e Og se reuniram e tiveram um bom bate-papo sobre o significado do encerramento do Bug número 1 no Launchpad, o fim dos desktops, o que significa a redução do número de usuários na Steam e como se chega a esse número, como funciona o fastboot que está ameaçando o reembolso para quem não quer usar soluções Microsoft e o Og nos mostrou que assim como cá, a imprensa americana também mascara e esconde fatos importantes a todos os cidadãos.</description>
     </item>
     
     <item>
       <title>Adicionar chave do Humble Bundle ao Steam</title>
-      <link>http://ubuntero.com.br/adicionar-chave-do-humble-bundle-ao-steam/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/adicionar-chave-do-humble-bundle-ao-steam/</link>
       <pubDate>Sat, 11 May 2013 23:14:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/adicionar-chave-do-humble-bundle-ao-steam/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/adicionar-chave-do-humble-bundle-ao-steam/</guid>
       <description>Estava vendo as novidades na Steam e me deparei com um jogo que me chamou a atenção, Brutal Legend. Postei no twitter que iria comprar o jogo e o preço da steam que é de R$ 34,99. Fui salvo pelo Iago Caran Aquino(@iagocaran) que me lembrou do Humble Bundle onde este jogo está disponível para quem pagar acima da média, o que eu sempre costumo fazer porque o conteúdo extra é sempre muito bom.</description>
     </item>
     
     <item>
       <title>Videocast #33 – Ultrabook Inspiron 14z</title>
-      <link>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
       <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
       <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
 Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
     </item>
     
     <item>
       <title>Dell lança computador gamer Alienware X51 com Ubuntu</title>
-      <link>http://ubuntero.com.br/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</link>
       <pubDate>Sat, 06 Apr 2013 13:33:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</guid>
       <description>A Dell lançou lá fora uma super máquina para os gamers. Aproveitando o sucesso da entrada da Valve no mundo Linux com o lançamento do Steam para Ubuntu, a Dell lançou uma super máquina com processadores da linha Core i, memória começando em 6 GB e placa de vídeo NVIDIA GeForce GTX 645. Veja as configurações disponíveis:
  Alienware X51 ($599)  Intel Core i3-3220 3.3GHz Dual Core Sistema Operacional Ubuntu 6GB DDR3 at 1600MHz (2 DIMMS) NVIDIA GeForce GTX 645 1GB GDDR5 Slot Load Dual Layer DVD Burner Dell Wireless 1506 (802.</description>
     </item>
     
     <item>
       <title>Videocast #27 – Steam e Killing Floor</title>
-      <link>http://ubuntero.com.br/videocast-27-steam-e-killing-floor/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-27-steam-e-killing-floor/</link>
       <pubDate>Mon, 04 Mar 2013 10:30:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-27-steam-e-killing-floor/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-27-steam-e-killing-floor/</guid>
       <description>Seguindo com o prometido, toda a semana temos o VideoCast. No vídeo desta semana mostramos um pouco de um dos vários jogos disponíveis na Steam para Linux, Killing Floor.
 O som não está muito bom, devido ao pouco tempo para editar, poderia ter tirado um pouco do ruído, mas acredito que vocês entendem como foi o final de semana com o Ubuntu Global Jam Brazil 2013.
 Durante o gameplay aconteceram algumas travadas, mas isso só acontece porque estava fazendo a gravação da tela, sem gravar a tela o jogo funciona perfeitamente sem estes engasgos.</description>
@@ -134,50 +134,50 @@ Durante o gameplay aconteceram algumas travadas, mas isso só acontece porque es
     
     <item>
       <title>Steam deixa de ser beta e tem promoção</title>
-      <link>http://ubuntero.com.br/steam-deixa-de-ser-beta-e-tem-promocao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/steam-deixa-de-ser-beta-e-tem-promocao/</link>
       <pubDate>Fri, 15 Feb 2013 13:05:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/steam-deixa-de-ser-beta-e-tem-promocao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/steam-deixa-de-ser-beta-e-tem-promocao/</guid>
       <description>Desde ontem, 14&amp;frasl;02, o Steam para Linux deixou de ser beta e já pode ser instalado diretamente pela Central de Programas do Ubuntu.
  Para instalar você tem que abrir a Central de Programas do Ubuntu, procurar por steam e clicar no botão comprar. Não se apavore, o steam não custa nada, mas como é um programa comercial, precisa ser &amp;#8220;comprado&amp;#8221;. Para fazer a compra por U$ 0.00 você precisará informar uma conta do Launchpad.</description>
     </item>
     
     <item>
       <title>Valve recomenda Linux para usuários Windows</title>
-      <link>http://ubuntero.com.br/valve-recomenda-linux-para-usuarios-windows/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/valve-recomenda-linux-para-usuarios-windows/</link>
       <pubDate>Tue, 22 Jan 2013 11:23:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/valve-recomenda-linux-para-usuarios-windows/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/valve-recomenda-linux-para-usuarios-windows/</guid>
       <description>O primeiro passo já havia sido dado pela Valve ao lançar o Steam para Linux, mas agora a coisa ficou realmente séria. Usuários do sistema operacional Windows da Microsoft recebem a recomendação de fazer a mudança de sistema operacional ao entrar na página de download do cliente da empresa.
 Para usuários Linux, ao entrar na página de downloads do Steam, um Tux já era mostrado para que fosse feito o download da versão beta.</description>
     </item>
     
     <item>
       <title>Problema com flash no Steam 64 bits</title>
-      <link>http://ubuntero.com.br/problema-com-flash-no-steam-64-bits/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/problema-com-flash-no-steam-64-bits/</link>
       <pubDate>Mon, 14 Jan 2013 19:38:23 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/problema-com-flash-no-steam-64-bits/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/problema-com-flash-no-steam-64-bits/</guid>
       <description>Se você, com muitos Ubunteros, está usando o Steam Beta e seu Ubuntu é 64 bits, já deve ter notado que os vídeos em flash não são mostrados. O problema é simples de ser resolvido e é causado pelo Steam não pegar o flash instalado no sistema, ele usa um que deveria estar na pasta de configuração do próprio Steam, mas não está.
 Para contornar este pequeno empecilho siga estes passos:</description>
     </item>
     
     <item>
       <title>Quer testar o steam para Linux?</title>
-      <link>http://ubuntero.com.br/quer-testar-o-steam-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-steam-para-linux/</link>
       <pubDate>Sat, 27 Oct 2012 12:07:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/quer-testar-o-steam-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-steam-para-linux/</guid>
       <description>Lembram que postamos aqui que enviando um email para a valve você poderia ser um dos escolhidos para testar o steam para Linux? Pois é, parece que aqueles emails serão ignorados, mas temos outra chance.
 A Valve lançou uma pesquisa para levantar informações de software e hardware dos possíveis testadores. Se você quiser concorrer a vaga de testador terá que responder a pesquisa que se encontra no link http://www.valvesoftware.com/linuxsurvey.php. É necessário ter uma conta no steam para responder a pesquisa, coisa que achei no mínimo absurda, já que é necessário baixar o steam para criar uma conta e o cliente ainda não existe para Linux.</description>
     </item>
     
     <item>
       <title>Ubuntero On Air 1</title>
-      <link>http://ubuntero.com.br/ubuntero-on-air-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
       <pubDate>Fri, 28 Sep 2012 11:51:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntero-on-air-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
       <description>No dia 27 fizemos nosso piloto do quadro Ubuntero On Air. Este primeiro episódio serviu mais para conhecermos a ferramenta e testar se algumas configurações da ferramenta estavam funcionando.
 Os assuntos que abordamos foram:
  Propagandas da Amazon no Ubuntu 12.10 Mudança de ideia da Intel sobre o suporte ao Linux nos chips da linha Clover Trail para tablets Grub 2 voltando ao Ubuntu 12.10 Adoção de software livre pelo governo francês Modelo de software livre brasileiro em destaque na campus party do Equador Ubuntu 12.</description>
@@ -185,40 +185,40 @@ Os assuntos que abordamos foram:
     
     <item>
       <title>Opencast #17 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-17-noticias/</link>
       <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-17-noticias/</guid>
       <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
 Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
     </item>
     
     <item>
       <title>Quer testar o beta do Steam para Linux?</title>
-      <link>http://ubuntero.com.br/quer-testar-o-beta-do-steam-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-beta-do-steam-para-linux/</link>
       <pubDate>Sat, 08 Sep 2012 14:11:07 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/quer-testar-o-beta-do-steam-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-beta-do-steam-para-linux/</guid>
       <description>A Valve está procurando interessados em ser beta tester do steam para Linux. Se você está interessado em ser um, basta mandar um email para valvelinuxteam@valvesoftware.com demonstrando o seu interesse e você poderá ser um dos felizardos a usar o steam para Linux antes de todo mundo.
 Não perca tempo e mande o seu email, e se for um dos felizardos nos diga como está o desenvolvimento.</description>
     </item>
     
     <item>
       <title>Steam no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/steam-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/steam-no-ubuntu-12-04/</link>
       <pubDate>Tue, 17 Jul 2012 12:04:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/steam-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/steam-no-ubuntu-12-04/</guid>
       <description>Não é mais novidade para ninguém que a Valve irá trazer sua loja de jogos para o Linux, no entanto, na da era oficial até ontem quando a empresa divulgou um post em seu blog.
 Na postagem é falado que os servidores da empresa já utilizam Ubuntu 64 bits a algum tempo. Em 2011 a empresa deu um passo maior e criou esforços para lançar uma versão oficial do seu cliente para o pinguim e o primeiro jogo onde trabalhariam no port seria o Left 4 Dead.</description>
     </item>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>

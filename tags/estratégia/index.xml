@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estratégia on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/estrat%C3%A9gia/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/estrat%C3%A9gia/</link>
     <description>Recent content in Estratégia on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 20 Nov 2011 10:00:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/estrat%C3%A9gia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/estrat%C3%A9gia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Warzone 2100</title>
-      <link>http://ubuntero.com.br/warzone-2100/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/warzone-2100/</link>
       <pubDate>Sun, 20 Nov 2011 10:00:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/warzone-2100/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/warzone-2100/</guid>
       <description>O jogo desta semana foi escolhido pensando nos fãs de jogos de estratégia em tempo real(RTS).
 O jogo Warzone 2100 é um jogo de ficção científica em 3D, reimplementação melhorada do clássico jogo desenvolvido pelo estúdio Pumpkin em 1999, calma, os gráficos não são de 1999.
 As modalidades oferecidas pelo jogo são campanha, tutorial, multi-player e single-player skirmish. Além disso o jogo permite que você monte suas unidades com esteiras e canhões conforme o seu desejo e a evolução das unidades que não são destruídas durante os combates.</description>
@@ -24,10 +24,10 @@ As modalidades oferecidas pelo jogo são campanha, tutorial, multi-player e sing
     
     <item>
       <title>Battle for Wesnoth – Um jogo incrível para Linux</title>
-      <link>http://ubuntero.com.br/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
       <pubDate>Sat, 22 Oct 2011 14:08:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
       <description>Olá a todos queridos visitantes do Ubuntero, acho que muitos já devem conhecer esse jogo, e também muitos devem desconhecê-lo. Estava procurando um jogo de qualidade na Central de Programas do Ubuntu, que rodasse em meu notebook com uma placa SiS. Sem querer achei Battle For Wesnoth e mesmo com seus gráficos simples, garante horas e horas de diversão, eu mesmo passei mais de 6 horas jogando.
 Basicamente é um jogo de estratégia muito bem elaborado, pois precisa tomar cuidado com vários detalhes, como por exemplo, o terreno em que coloca o seu personagem, pois no terreno errado, e contra o inimigo errado, será muito fácil ser derrotado.</description>
     </item>

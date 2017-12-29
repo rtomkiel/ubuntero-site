@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnome on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gnome/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gnome/</link>
     <description>Recent content in Gnome on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 29 May 2014 02:30:45 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #34 – FISL 15 E DRM</title>
-      <link>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
       <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
       <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
     </item>
     
     <item>
       <title>O Ubuntu GNOME precisa de você</title>
-      <link>http://ubuntero.com.br/o-ubuntu-gnome-precisa-de-voce/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/o-ubuntu-gnome-precisa-de-voce/</link>
       <pubDate>Mon, 04 Nov 2013 13:00:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/o-ubuntu-gnome-precisa-de-voce/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/o-ubuntu-gnome-precisa-de-voce/</guid>
       <description>Usuários do Ubuntu GNOME, sua distribuição precisa da sua contribuição. Em seu site, o projeto está pedindo uma grande ajuda visando a próxima versão do Ubuntu que será uma LTS, 14.04.
 Para poder lançar uma versão LTS, como os outros sabores do Ubuntu farão, o projeto precisa de pessoas dedicadas para as seguintes funções:
  Controle de Bugs para comitar os mesmos para a triagem Muitas pessoas para arrumar os bugs encontrados Pessoas para ajudar no empacotamento nos PPA&amp;#8217;s  O projeto também destaca que precisa de pessoas com conhecimento e experiência e comprometidas para trabalhar por 2 ou 5 anos e não para apenas alguns meses.</description>
@@ -33,78 +33,78 @@ Para poder lançar uma versão LTS, como os outros sabores do Ubuntu farão, o p
     
     <item>
       <title>Kubuntu não pretende utilizar o MIR</title>
-      <link>http://ubuntero.com.br/kubuntu-nao-pretende-utilizar-o-mir/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
       <pubDate>Thu, 27 Jun 2013 16:00:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kubuntu-nao-pretende-utilizar-o-mir/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
       <description>Talvez o que eu vou falar seja besteira, mas esta é uma opinião pessoal sobre os mimimi&amp;#8217;s referentes ao desenvolvimento do MIR e sua adoção.
 Ao contrário do que muitos dizem, o desenvolvimento do MIR está licenciado sobre a GPLv3, o que garante que o projeto é e sempre será open source, algumas pessoas tentam implantar rumores de que esta licença dá liberdade para o fechamento do código em qualquer momento, mas isso não é verdade, a licença mantém as mesmas proteções das versões 1 e 2, apenas adaptada a legislação americana mais atual.</description>
     </item>
     
     <item>
       <title>Videocast 20 – Ubuntu Gnome Remix 12.10</title>
-      <link>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</link>
       <pubDate>Mon, 29 Oct 2012 12:43:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</guid>
       <description>Passada uma semana de uso com o Ubuntu Gnome Remix 12.10, aqui está o vídeo que mostra as minhas impressões sobre o sistema. Em resumo posso dizer que a equipe que fez o trabalho estava com muita preguiça de adicionar o mínimo de qualidade ao sistema. Por padrão o sistema não tem nenhum programa gerenciador de pacotes instalado e precisei instalar muito software básico para poder trabalhar, nem falo dos programas específicos, estes todos sabemos que temos que instalar.</description>
     </item>
     
     <item>
       <title>VideoCast #14 – Mais Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/videocast-14-mais-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-14-mais-ubuntu-12-04/</link>
       <pubDate>Mon, 07 May 2012 22:29:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-14-mais-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-14-mais-ubuntu-12-04/</guid>
       <description>Post atrasado, mas o vídeo não(foi postado no domingo). Neste episódio do VideoCast mostro outro lado do Ubuntu 12.04, aquele para pessoas que tem máquinas mais antigas e não contam com a possibilidade de rodar o sistema com o Unity 3D.
 Se você quer conhecer um pouco do Unity 2D e do Gnome Clássico(gnome-session-fallback) este é o vídeo que você estava esperando. Para instalar o gnome-session-fallback basta digitar o seguinte comando no terminal:</description>
     </item>
     
     <item>
       <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
-      <link>http://ubuntero.com.br/opencast-episodio-9/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
       <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-9/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
       <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
 Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
     </item>
     
     <item>
       <title>VídeoCast 12</title>
-      <link>http://ubuntero.com.br/videocast-12/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-12/</link>
       <pubDate>Sun, 08 Apr 2012 13:49:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-12/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-12/</guid>
       <description>Neste episódio não temos review, graças ao novo nome consegui me livrar deste fardo. Como o site teve um artigo que gerou uma boa repercussão e algumas pessoas não entenderam direito o objetivo do artigo, aqui tento explicar melhor o meu dia de produção no Gnome-Shell. Também tento explicar melhor sobre os artigos de resposta dos bancos com relação aos seus Home e Office Bankings.</description>
     </item>
     
     <item>
       <title>Um dia de produção no Gnome-Shell</title>
-      <link>http://ubuntero.com.br/um-dia-de-producao-no-gnome-shell/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/um-dia-de-producao-no-gnome-shell/</link>
       <pubDate>Mon, 02 Apr 2012 11:00:11 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/um-dia-de-producao-no-gnome-shell/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/um-dia-de-producao-no-gnome-shell/</guid>
       <description>Quando nos acostumamos com uma interface, inevitavelmente nos tornamos mais produtivos nela. Quando mudei para o Unity pensei que perderia produtividade até me acostumar com a nova interface, no entanto, a perda de produtividade foi muito menor do que o imaginado e em questão de poucas horas já estava até mais produtivo que no antigo e muito conhecido Gnome-panel.
 Durante este tempo utilizei muito pouco o Gnome-Shell e nunca usei durante um dia comum de trabalho.</description>
     </item>
     
     <item>
       <title>Gnome clássico no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/gnome-classico-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</link>
       <pubDate>Mon, 26 Mar 2012 01:00:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gnome-classico-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</guid>
       <description>Esta semana não teremos o review semanal, mas na próxima semana voltamos e com novo nome para o programa. Para não passar em branco veja um vídeo rápido mostrando a nova interface do gnome-session-fallback que estará diponível para instalação no Ubuntu 12.04
 &amp;nbsp;</description>
     </item>
     
     <item>
       <title>Usando atalhos, economizando tempo.</title>
-      <link>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/usando-atalhos-economizando-tempo/</link>
       <pubDate>Fri, 28 Jan 2011 16:38:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/usando-atalhos-economizando-tempo/</guid>
       <description>Segundo um famoso dicionário eletrônico, atalho significa Caminho fora da estrada principal, pelo qual se encurtam distâncias.
 Bem, como podemos incluir a palavra atalho no nosso meio? Ou seja, como podemos falar de atalho na área da informática?
 Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários de Sistemas Operacionais utilizam atalhos. Seja na forma de ícones na área de trabalho ou simplesmente usando combinações de teclas.</description>
@@ -112,10 +112,10 @@ Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários 
     
     <item>
       <title>Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</title>
-      <link>http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</link>
       <pubDate>Sat, 01 Jul 2006 00:28:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</guid>
       <description>Começando um pouco atrasado mas começando.
 Dia primeiro de junho foi lançada a nova versão do Ubuntu Linux 6.06 Dapper Drake. Desde este dia estou usando esta versão que conseguiu me surpreender.
 A primeira grande mudança desta versão já aparece na hora de instalar o Ubuntu. Desta vez não temos mais uma versão &amp;#8220;Live CD&amp;#8221; separada da versão de instalação. Um ícone no desktop começaa todo o processo de instalação que também está muito mais simplificado e intuitivo.</description>

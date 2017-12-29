@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ensl on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ensl/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ensl/</link>
     <description>Recent content in Ensl on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 30 Aug 2011 11:47:38 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ensl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ensl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chamada de Trabalhos para o V Encontro Nordestino de Software Livre</title>
-      <link>http://ubuntero.com.br/chamada-de-trabalhos-para-o-v-encontro-nordestino-de-software-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/chamada-de-trabalhos-para-o-v-encontro-nordestino-de-software-livre/</link>
       <pubDate>Tue, 30 Aug 2011 11:47:38 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/chamada-de-trabalhos-para-o-v-encontro-nordestino-de-software-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/chamada-de-trabalhos-para-o-v-encontro-nordestino-de-software-livre/</guid>
       <description>É com grande satisfação que o V Encontro Nordestino de Software Livre convida para a submissão de trabalhos entre os dias* 27&amp;frasl;08* a *23&amp;frasl;09*, através da página: http://papers.ensl.org.br/speaker/
 As palestras no V ENSL serão divididas em trilhas, e o envio de propostas deve indicar que trilha a palestra irá seguir. Caso não consiga identificar a que trilha sua proposta pertenceria, entre em contato com a coordenação pelo endereço http://ensl.org.br/contato.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reviewvideocast on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/reviewvideocast/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/reviewvideocast/</link>
     <description>Recent content in Reviewvideocast on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 22 Jul 2013 11:39:50 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/reviewvideocast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/reviewvideocast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #38 – Fedora 19</title>
-      <link>http://ubuntero.com.br/videocast-38-fedora-19/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</link>
       <pubDate>Mon, 22 Jul 2013 11:39:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-38-fedora-19/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</guid>
       <description>Voltando a nossa programação normal, mais um episódio do videocast está no ar. Para alegria de muitos, testei o Fedora 19, claro que algumas comparações com o Ubuntu são feitas, isto é inevitável.
 No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o que agradou e desagradou no vídeo abaixo.
  Assistir no Youtube </description>

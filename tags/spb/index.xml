@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spb on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/spb/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/spb/</link>
     <description>Recent content in Spb on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 09 Jul 2012 14:06:09 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/spb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/spb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Manual do Ofertante explica como disponibilizar um software público</title>
-      <link>http://ubuntero.com.br/manual-do-ofertante-explica-como-disponibilizar-um-software-publico/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/manual-do-ofertante-explica-como-disponibilizar-um-software-publico/</link>
       <pubDate>Mon, 09 Jul 2012 14:06:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/manual-do-ofertante-explica-como-disponibilizar-um-software-publico/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/manual-do-ofertante-explica-como-disponibilizar-um-software-publico/</guid>
       <description>A equipe de analistas do Software Público disponibiliza hoje a versão final do Manual do Ofertante de software. O documento começa a ser adotado oficialmente a partir desta semana, momento em que o processo de disponibilização de soluções será automatizado diretamente pelo portal. O coordenador do Portal Cesar Brod informa que a partir de 16 de julho a liberação de um software poderá ser realizada automaticamente pelo portal e o processo acompanhado pela sociedade de forma transparente.</description>
     </item>
     

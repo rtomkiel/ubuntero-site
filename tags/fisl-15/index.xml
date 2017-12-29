@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fisl 15 on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/fisl-15/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/fisl-15/</link>
     <description>Recent content in Fisl 15 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 29 May 2014 02:30:45 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/fisl-15/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fisl-15/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #34 – FISL 15 E DRM</title>
-      <link>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
       <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
       <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
     </item>
     

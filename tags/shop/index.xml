@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shop on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/shop/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/shop/</link>
     <description>Recent content in Shop on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 17 Apr 2012 12:46:30 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/shop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/shop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novos produtos na loja do Ubuntu</title>
-      <link>http://ubuntero.com.br/novos-produtos-na-loja-do-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/novos-produtos-na-loja-do-ubuntu/</link>
       <pubDate>Tue, 17 Apr 2012 12:46:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/novos-produtos-na-loja-do-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/novos-produtos-na-loja-do-ubuntu/</guid>
       <description>Já fez alguma compra na loja oficial do Ubuntu? Eu já fiz e os produtos são de muita qualidade. Demora bastante para chegarem e são bem caros mas vale a pena comprar.
 Se você der uma espiada no site de venda de produtos do Ubuntu, verá que eles tem novos produtos, inclusive estão mais bonitos.
    Será que ninguém da Canonical pode patrocinar alguns itens para o site sortear?</description>

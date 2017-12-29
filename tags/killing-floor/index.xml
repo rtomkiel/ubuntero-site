@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Killing Floor on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/killing-floor/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/killing-floor/</link>
     <description>Recent content in Killing Floor on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 04 Mar 2013 10:30:50 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/killing-floor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/killing-floor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #27 – Steam e Killing Floor</title>
-      <link>http://ubuntero.com.br/videocast-27-steam-e-killing-floor/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-27-steam-e-killing-floor/</link>
       <pubDate>Mon, 04 Mar 2013 10:30:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-27-steam-e-killing-floor/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-27-steam-e-killing-floor/</guid>
       <description>Seguindo com o prometido, toda a semana temos o VideoCast. No vídeo desta semana mostramos um pouco de um dos vários jogos disponíveis na Steam para Linux, Killing Floor.
 O som não está muito bom, devido ao pouco tempo para editar, poderia ter tirado um pouco do ruído, mas acredito que vocês entendem como foi o final de semana com o Ubuntu Global Jam Brazil 2013.
 Durante o gameplay aconteceram algumas travadas, mas isso só acontece porque estava fazendo a gravação da tela, sem gravar a tela o jogo funciona perfeitamente sem estes engasgos.</description>

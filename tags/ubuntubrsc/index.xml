@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntubrsc on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntubrsc/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntubrsc/</link>
     <description>Recent content in Ubuntubrsc on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 04 Apr 2013 13:02:48 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntubrsc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntubrsc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ExpoLivre 2013: 1ª Exposição Brasileira de Software Livre</title>
-      <link>http://ubuntero.com.br/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</link>
       <pubDate>Thu, 04 Apr 2013 13:02:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</guid>
       <description>É com grande prazer que o time do blog Ubuntu-BR-SC convida a todos para a primeira edição da ExpoLivre, a primeira exposição brasileira de software livre.
 O evento irá ocorrer nos dias 26 e 27 de julho e terá como palco a Universidade Federal de Santa Catarina em Joinville, a cidade mais populosa de Santa Catarina, com cerca de 526 mil habitantes.
 Mais informações podem ser vistas no site do evento em www.</description>
@@ -24,10 +24,10 @@ Mais informações podem ser vistas no site do evento em www.</description>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>

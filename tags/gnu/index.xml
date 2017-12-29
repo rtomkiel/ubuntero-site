@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnu on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gnu/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gnu/</link>
     <description>Recent content in Gnu on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 17 Mar 2014 03:07:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #55 – GNU or not GNU, eis a questão</title>
-      <link>http://ubuntero.com.br/videocast-55-gnu-or-not-gnu-eis-a-questao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-55-gnu-or-not-gnu-eis-a-questao/</link>
       <pubDate>Mon, 17 Mar 2014 03:07:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-55-gnu-or-not-gnu-eis-a-questao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-55-gnu-or-not-gnu-eis-a-questao/</guid>
       <description>Vídeocast no ar e neste episódio falo um pouco sobre o por que algumas distribuições se chamam GNU/Linux e outras apenas Linux.
  Assistir no Youtube Links  Prêmio TopBlog Podpesquisa  &amp;nbsp;</description>
     </item>

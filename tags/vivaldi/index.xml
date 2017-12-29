@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivaldi on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/vivaldi/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/vivaldi/</link>
     <description>Recent content in Vivaldi on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 09 Jul 2014 04:14:57 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/vivaldi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/vivaldi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
-      <link>http://ubuntero.com.br/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
       <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
       <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
 Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alpha on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/alpha/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/alpha/</link>
     <description>Recent content in Alpha on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 29 Jun 2013 18:02:01 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/alpha/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/alpha/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu 13.10 (Saucy Salamander) Alpha 1 está disponível</title>
-      <link>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</link>
       <pubDate>Sat, 29 Jun 2013 18:02:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</guid>
       <description>Seguindo o calendário de lançamento do Ubuntu 13.10 (Saucy Salamander), o primeiro Alpha foi disponibilizado para testes no dia 27 de junho de 2013.
 O Alpha 1 inclui uma série de atualizações de software que estarão na próxima versão do Ubuntu. Este é um conjunto inicial de imagens para testes, não recomendado para uso em produção, use somente para testes pois é possível encontrar vários bugs nesse primeiro lançamento.</description>
     </item>

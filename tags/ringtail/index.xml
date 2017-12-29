@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ringtail on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ringtail/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ringtail/</link>
     <description>Recent content in Ringtail on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 26 Apr 2013 13:01:31 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ringtail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ringtail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resolvendo problema com bumblebee no Ubuntu 13.04</title>
-      <link>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</link>
       <pubDate>Fri, 26 Apr 2013 13:01:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</guid>
       <description>Artigo enviado por Flavio Brandão (@airdumb)
 Se você está enfrentando problemas ao utilizar o bumblebee no Ubuntu 13.04, saiba que já existem duas soluções para este problema. A mais difícil por N motivos é fazer o downgrade do Xorg, porém, existe outro método que você pode aplicar. Na nova versão do Ubuntu, arquivo de configuração do drive vem sem a informação do BusID, logo, quando você tenta rodar o bumblebee, ele diz que a placa de vídeo não existe e da o erro abaixo:</description>
     </item>
     
     <item>
       <title>Lançado o Ubuntu 13.04 Raring Ringtail</title>
-      <link>http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-13-04-raring-ringtail/</link>
       <pubDate>Thu, 25 Apr 2013 12:18:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-13-04-raring-ringtail/</guid>
       <description>A melhor versão já lançada desde o lançamento do Unity está disponível.
 A principal mudança em relação a versão 12.10 está na performance que foi absurdamente melhorada. O suporte desta versão, por ser uma interim, é de 9 meses, diferente das outras versões interim que tinham suporte por 18 meses.
 Para fazer o download do Ubuntu 13.04 use os links abaixo
@@ -35,10 +35,10 @@ Download direto  Ubuntu Desktop 32 bits Ubuntu Desktop 64 bits Ubuntu Server 32 
     
     <item>
       <title>Videocast #29 – Ubuntu 13.04 Beta 1</title>
-      <link>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</link>
       <pubDate>Mon, 18 Mar 2013 11:00:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</guid>
       <description>É com um papelão do OpenSuse que começamos este VideoCast. Esta semana iria falar e mostrar um pouco do OpenSuse, mas ele resolveu que não queria funcionar comigo e me deixou na mão. Por isso este VideoCast dá uma rápida olhada em algumas novidades do Ubuntu 13.04 Beta 1 (na verdade único beta).
  Assistir no Youtube </description>
     </item>

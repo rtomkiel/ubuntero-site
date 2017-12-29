@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extensão on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/extens%C3%A3o/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/extens%C3%A3o/</link>
     <description>Recent content in Extensão on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 05 Jan 2011 15:58:48 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/extens%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/extens%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Editar PDF no OpenOffice</title>
-      <link>http://ubuntero.com.br/editar-pdf-no-openoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</link>
       <pubDate>Wed, 05 Jan 2011 15:58:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/editar-pdf-no-openoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</guid>
       <description>Um pedido muito comum entre meus clientes é uma maneira de editar arquivos PDF. É difícil explicar que este tipo de arquivo foi desenvolvido para simples visualização e que não é igual a um arquivo .odt.
 Para agradar a todos, utilizo uma extensão do OpenOffice que permite a edição dos arquivos PDF diretamente pelo OpenOffice Write. Para instalar a extensão PDF Import, siga os passos abaixo:
 Acesse o endereço http://extensions.services.openoffice.org/en/project/pdfimport e desça a página até o local onde estão disponíveis os arquivos e faça o download conforme sua instalação do Ubuntu, 32 ou 64 bits.</description>

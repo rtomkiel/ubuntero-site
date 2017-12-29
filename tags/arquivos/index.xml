@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquivos on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/arquivos/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/arquivos/</link>
     <description>Recent content in Arquivos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 06 Mar 2012 16:52:46 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/arquivos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/arquivos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mudança na lens de arquivos no 12.04</title>
-      <link>http://ubuntero.com.br/mudanca-na-len-de-arquivos-no-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudanca-na-len-de-arquivos-no-12-04/</link>
       <pubDate>Tue, 06 Mar 2012 16:52:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudanca-na-len-de-arquivos-no-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudanca-na-len-de-arquivos-no-12-04/</guid>
       <description>Quem já usou o Unity sabe que ele tem uma grande ferramenta na lens Arquivos. Esta lens facilita a abertura de arquivos da mesma maneira que a lens de aplicativos ajuda a encontrar aplicações, no entanto esta lens, até a versão 11.10, trabalho apenas com os arquivos que já foram abertos pelo usuário.
 Para a versão 12.04 esta dinâmica está sendo alterada e os arquivos a serem pesquisados e mostrados serão relativos a todos os arquivos do sistema, independentemente de já terem sido abertos ou não pelo usuário.</description>
     </item>
     
     <item>
       <title>Acessar arquivos do Ubuntu no Windows</title>
-      <link>http://ubuntero.com.br/acessar-arquivos-do-ubuntu-no-windows/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/acessar-arquivos-do-ubuntu-no-windows/</link>
       <pubDate>Wed, 15 Feb 2012 13:04:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/acessar-arquivos-do-ubuntu-no-windows/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/acessar-arquivos-do-ubuntu-no-windows/</guid>
       <description>Muitos usuários ainda usam o formato de instalação Dual Boot e é frequente a necessidade de acessar arquivos que estão na partição do Ubuntu quando se está utilizando o Windows.
 Uma solução adotada por muitos é ter uma partição NTFS para fazer esta troca de arquivos. Esta solução funciona parcialmente porque nem sempre os arquivos que queremos estão na partição de troca e é necessário fazer um reboot para entrar no Ubuntu para copiar os arquivos para um local que o Windows possa acessar.</description>
     </item>
     
     <item>
       <title>Opera Unite 11 no Ubuntu</title>
-      <link>http://ubuntero.com.br/opera-unite-11-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opera-unite-11-no-ubuntu/</link>
       <pubDate>Sun, 13 Mar 2011 14:38:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opera-unite-11-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opera-unite-11-no-ubuntu/</guid>
       <description>Antes de tudo recomendo a baixar/instalar o Opera 11, você não vai se arrepender. Caso não goste é só desinstalar, não custa nada! &amp;nbsp; [][1]Clique na imagem para instalar o Opera 11 O link na imagem acima lhe redirecionará para o site baixaki onde poderá baixar o pacote .deb (Basta clicar duas vezes e pronto, instalação normal). Sempre fui curioso e gostei de pesquisar/testar novas opções de quaisquer programa. Mas não é apenas testar por testar, busco sempre funcionalidades que satisfaçam alguma necessidade que tenho.</description>
     </item>
     

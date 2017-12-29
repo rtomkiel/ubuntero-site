@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ginga on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ginga/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ginga/</link>
     <description>Recent content in Ginga on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 03 May 2012 14:44:27 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ginga/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ginga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Livro sobre programação GINGA</title>
-      <link>http://ubuntero.com.br/livro-sobre-programacao-ginga/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/livro-sobre-programacao-ginga/</link>
       <pubDate>Thu, 03 May 2012 14:44:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/livro-sobre-programacao-ginga/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/livro-sobre-programacao-ginga/</guid>
       <description>Está certo que nossa televisão digital anda a passos de tartaruga manca, mas este não é um assunto a se tratar aqui. Hoje quero epenas divulgar um livro licenciado sobre uma licença Creative Commons e que fala exatamente em como desenvolver aplicativos para esta tecnologia que tanto prometeu e continua prometendo no nosso país.
  São 589 páginas abordando tudo o que é necessário saber para desenvolver para a televisão digital e utilizar o middleware ginga.</description>
     </item>

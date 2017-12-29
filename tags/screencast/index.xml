@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Screencast on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/screencast/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/screencast/</link>
     <description>Recent content in Screencast on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 12 Mar 2011 21:57:31 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/screencast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/screencast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3º Tema – Glory</title>
-      <link>http://ubuntero.com.br/3%C2%BA-tema-glory/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</link>
       <pubDate>Sat, 12 Mar 2011 21:57:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/3%C2%BA-tema-glory/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</guid>
       <description>Olá, venho até aqui hoje para demonstrar um dos mais belos temas já visto por mim até hoje. O tema é encantador, com predominância do cinza, mas com ícones mais coloridos para dar um certo contraste, fiquem com o vídeo abaixo e depois dele, colocarei o tutorial de instalação.
 ; &amp;nbsp; Bem, agora vamos enfim obter os arquivos necessários para montar o nosso tema Glory, para obter os Controladores e as Margens de Janelas baixe o seguinte arquivo em seu computador.</description>
     </item>
     
     <item>
       <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
       <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
       <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
 O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
  Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>

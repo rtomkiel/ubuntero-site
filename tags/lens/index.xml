@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lens on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/lens/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/lens/</link>
     <description>Recent content in Lens on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 21 Oct 2013 16:21:02 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/lens/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/lens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como desabilitar a lente da Amazon no Ubuntu 13.10</title>
-      <link>http://ubuntero.com.br/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
       <pubDate>Mon, 21 Oct 2013 16:21:02 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
       <description>Se você não gosta da lente da Amazon e está usando o Ubuntu 13.10, já deve ter percebido que não adianta desinstalar o pacote unity-lens-shopping como era feito na versão 13.04. O procedimento agora é um pouco diferente.
 Para desabilitar a lente abra o Dash e clique na lente Aplicativos.
 
@@ -28,10 +28,10 @@ Clique em Amazon e clique no botão Desabilitar.
     
     <item>
       <title>Mudança na lens de arquivos no 12.04</title>
-      <link>http://ubuntero.com.br/mudanca-na-len-de-arquivos-no-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudanca-na-len-de-arquivos-no-12-04/</link>
       <pubDate>Tue, 06 Mar 2012 16:52:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudanca-na-len-de-arquivos-no-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudanca-na-len-de-arquivos-no-12-04/</guid>
       <description>Quem já usou o Unity sabe que ele tem uma grande ferramenta na lens Arquivos. Esta lens facilita a abertura de arquivos da mesma maneira que a lens de aplicativos ajuda a encontrar aplicações, no entanto esta lens, até a versão 11.10, trabalho apenas com os arquivos que já foram abertos pelo usuário.
 Para a versão 12.04 esta dinâmica está sendo alterada e os arquivos a serem pesquisados e mostrados serão relativos a todos os arquivos do sistema, independentemente de já terem sido abertos ou não pelo usuário.</description>
     </item>

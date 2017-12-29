@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fsf on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/fsf/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/fsf/</link>
     <description>Recent content in Fsf on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 17 May 2013 11:52:16 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/fsf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fsf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Richard Stallman em Passo Fundo</title>
-      <link>http://ubuntero.com.br/richard-stallman-em-passo-fundo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/richard-stallman-em-passo-fundo/</link>
       <pubDate>Fri, 17 May 2013 11:52:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/richard-stallman-em-passo-fundo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/richard-stallman-em-passo-fundo/</guid>
       <description>Os eventos de software livre no norte gaúcho estão a toda, nunca pensei que isso viesse a acontecer e estou bem contente com o que está por vir. No dia 01/07, às 18:30, Richard Stallman estará na UPF &amp;#8211; Universidade de Passo Fundo.
 Se você gosta de software livre e não sabem quem é Richard Stallman, é melhor baixar a cabeça e reconhecer que é um &amp;#8220;poser&amp;#8221;, mas eu vou ajudar vocês e explicar quem é este cara.</description>
     </item>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>

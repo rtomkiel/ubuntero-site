@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omgubuntu on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/omgubuntu/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/omgubuntu/</link>
     <description>Recent content in Omgubuntu on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 04 Dec 2011 18:18:44 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/omgubuntu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/omgubuntu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resumo semanal 02</title>
-      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
       <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
       <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
 Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
     </item>

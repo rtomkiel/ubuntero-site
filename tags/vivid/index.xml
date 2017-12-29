@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivid on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/vivid/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/vivid/</link>
     <description>Recent content in Vivid on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 20 Oct 2014 15:41:31 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/vivid/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/vivid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vivid Vervet será o nome do Ubuntu 15.04</title>
-      <link>http://ubuntero.com.br/vivid-vervet-sera-o-nome-do-ubuntu-15-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/vivid-vervet-sera-o-nome-do-ubuntu-15-04/</link>
       <pubDate>Mon, 20 Oct 2014 15:41:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/vivid-vervet-sera-o-nome-do-ubuntu-15-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/vivid-vervet-sera-o-nome-do-ubuntu-15-04/</guid>
       <description>Como de costume, nem foi lançada a versão final do Ubuntu 14.10 e já temos o nome da próxima versão. O nome escolhido por Mark Shuttleworth foi &amp;#8220;Vivid Vervet&amp;#8221;.
 O Ubuntu 15.04 será lançado em abril de 2015 e já sabemos que não trará o Unity 8 com o servidor gráfico Mir por padrão. Vamos esperar para ver o que esta versão nos trará de novidades além do mascote, já que a versão 14.</description>
     </item>

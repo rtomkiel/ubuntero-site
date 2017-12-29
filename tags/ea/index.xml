@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ea on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ea/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ea/</link>
     <description>Recent content in Ea on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 08 May 2012 18:54:46 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ea/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EA Games e Ubuntu</title>
-      <link>http://ubuntero.com.br/ea-games-e-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ea-games-e-ubuntu/</link>
       <pubDate>Tue, 08 May 2012 18:54:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ea-games-e-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ea-games-e-ubuntu/</guid>
       <description>Parem as máquinas, o mundo dos games para Linux está definitivamente mudando. A EA está entrando neste mercado quase esquecido pelas grandes produtores de jogos e os dois primeiros títulos serão &amp;#8220;Command &amp;amp; Conquer Tiberium Alliances&amp;#8221; e &amp;#8220;Lord of Ultima&amp;#8221;. Este jogos estarão disponíveis na Central de Programas no melhor estilo Ubuntu.
 Ok, os jogos são web e então não são nativos para Linux, mas é um gigantesco sinal de que os grandes dos jogos começaram a olhar com novos olhos os usuários deste ótimo sistema operacional.</description>
     </item>

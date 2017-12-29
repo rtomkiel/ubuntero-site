@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntubrsp on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntubrsp/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntubrsp/</link>
     <description>Recent content in Ubuntubrsp on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 01 Apr 2013 12:51:27 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntubrsp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntubrsp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu Day</title>
-      <link>http://ubuntero.com.br/ubuntu-day/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-day/</link>
       <pubDate>Mon, 01 Apr 2013 12:51:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-day/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-day/</guid>
       <description>O Ubuntu Day é um evento oficial da Comunidade Ubuntu Brasil, que nasceu na ideia se criar um ambiente de troca de informações e experiências entre as diversas áreas da Tecnologia da Informação que desenvolvem, colaboram, difundem, treinam e utilizam o Ubuntu como ambiente operacional, apresentando assim ao usuário final a gama de possibilidades de uso do ecossistema Ubuntu.
 Neste ano de 2013 nós teremos nossa primeira edição do Ubuntu Day São Paulo no dia 22 de junho, das 09 às 17 horas, no Clube Social do Sport Club Corinthians Paulista.</description>
     </item>

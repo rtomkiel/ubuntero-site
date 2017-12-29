@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indicator on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/indicator/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/indicator/</link>
     <description>Recent content in Indicator on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 03 May 2011 14:17:39 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/indicator/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/indicator/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Indicador de Uso de CPU, Memória e Rede no Ubuntu 11.04</title>
-      <link>http://ubuntero.com.br/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</link>
       <pubDate>Tue, 03 May 2011 14:17:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</guid>
       <description>OBS: O PROGRAMA PODE CAUSAR VAZAMENTO DE MEMÓRIA OCASIONANDO UM USO DE MEMÓRIA EXORBITANTE PELO COMPIZ.
 Uma das coisas que me desagradou no Ubuntu 11.04 foi exatamente não ter um applet para visualizar em tempo real o que estava acontecendo com meu processador, memória e rede. Hoje, foi divulgada uma solução que mostra apenas os gráficos, sem tooltip com velocidades e porcentagens, que descrevo abaixo:
  Por enquanto não existe um PPA para a instalação dos pacotes mas basta fazer o download do arquivo conforme a sua plataforma:</description>

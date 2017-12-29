@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/mac/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/mac/</link>
     <description>Recent content in Mac on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 19 Nov 2013 10:32:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>UbuntuOne pede que reconecte sua conta</title>
-      <link>http://ubuntero.com.br/ubuntuone-pede-que-reconecte-sua-conta/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</link>
       <pubDate>Tue, 19 Nov 2013 10:32:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntuone-pede-que-reconecte-sua-conta/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</guid>
       <description>Se você não prestou atenção nos e-mails enviados pelo Ubuntu, não viu que os servidores do UbuntuOne passaram por manutenção e é necessário que seja feito um procedimento simples. Remover a conta e adicionar novamente. Caso não faça isto, seus arquivos podem não ser sincronizados até lá.
 A mensagem que o Ubuntu enviou para os usuários do UbuntuOne é a seguinte:
 Hi, We are continually enhancing the security of all the Ubuntu One services (login, payments, file syncing, etc).</description>
@@ -24,20 +24,20 @@ Hi, We are continually enhancing the security of all the Ubuntu One services (lo
     
     <item>
       <title>Opencast #15 – FISL 13 e notícias</title>
-      <link>http://ubuntero.com.br/opencast-15-fisl-13-e-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</link>
       <pubDate>Wed, 15 Aug 2012 04:11:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-15-fisl-13-e-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</guid>
       <description>Voltamos com o Opencast depois de uma pausa necessária para descanso e falamos um pouco sobre nossa participação no FISL 13 e alguma notícias que foram destaques nos últimos dias. O feed para iTunes não está funcionando e eu desisti de tentar arrumar, se alguém souber como arrumar eu agradeço, mas eu não vou mais correr atras deste negócio.
 Links  FISL 13 VideoCast 16 &amp;#8211; FISL 13 Instalando o Ubuntu em um computador Apple Intel Video Game OUYA O pirata dos barramentos TexMate LibreOffice 3.</description>
     </item>
     
     <item>
       <title>Instalando o Ubuntu em um computador Apple Intel</title>
-      <link>http://ubuntero.com.br/instalando-o-ubuntu-em-um-computador-apple-intel/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/instalando-o-ubuntu-em-um-computador-apple-intel/</link>
       <pubDate>Sun, 12 Aug 2012 20:39:23 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/instalando-o-ubuntu-em-um-computador-apple-intel/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/instalando-o-ubuntu-em-um-computador-apple-intel/</guid>
       <description>Tendo como inspiração a façanha do Andrei durante o FISL, o qual instalou paralelamente ao MacOS o Ubuntu, resolvi também realizar o processo.
 Como a preguiça de ver como que funciona o rFit, baixa-lo e instala-lo era mais forte, resolvi fazer a instalação usando apenas o CD do Ubuntu 12.04 LTS 32bits.
 Implementação Depois desta breve introdução, iniciei o iMac, que vem com o MacOSX Leopard por padrão, e particionei o disco usando a ferramenta nativa BootCamp, como se fosse instalar paralelamente no disco o Windows.</description>

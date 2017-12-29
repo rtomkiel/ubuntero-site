@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dodge on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/dodge/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/dodge/</link>
     <description>Recent content in Dodge on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 30 Apr 2012 13:51:15 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/dodge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dodge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Re-habilitar o efeito “dodge” no 12.04</title>
-      <link>http://ubuntero.com.br/re-habilitar-o-efeito-dodge-no-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/re-habilitar-o-efeito-dodge-no-12-04/</link>
       <pubDate>Mon, 30 Apr 2012 13:51:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/re-habilitar-o-efeito-dodge-no-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/re-habilitar-o-efeito-dodge-no-12-04/</guid>
       <description>Para quem vem do Ubuntu 11.10, o comportamento &amp;#8220;dodge&amp;#8221; que esconde o lançador quando uma janela ocupa a área do lançador pode fazer falta, concordo que no início eu achava isto mas me acostumei ao ponto de não sentir falta.
 Para re-habilitar este comportamento você pode utilizar um PPA, mas lembre que não é oficial e qualquer problema que venha a acontecer a culpa deve ser dada ao desenvolvedor do PPA e não a Canonical.</description>
     </item>

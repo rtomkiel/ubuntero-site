@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grub on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/grub/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/grub/</link>
     <description>Recent content in Grub on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 28 Sep 2012 11:51:58 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/grub/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/grub/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntero On Air 1</title>
-      <link>http://ubuntero.com.br/ubuntero-on-air-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
       <pubDate>Fri, 28 Sep 2012 11:51:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntero-on-air-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
       <description>No dia 27 fizemos nosso piloto do quadro Ubuntero On Air. Este primeiro episódio serviu mais para conhecermos a ferramenta e testar se algumas configurações da ferramenta estavam funcionando.
 Os assuntos que abordamos foram:
  Propagandas da Amazon no Ubuntu 12.10 Mudança de ideia da Intel sobre o suporte ao Linux nos chips da linha Clover Trail para tablets Grub 2 voltando ao Ubuntu 12.10 Adoção de software livre pelo governo francês Modelo de software livre brasileiro em destaque na campus party do Equador Ubuntu 12.</description>
@@ -24,30 +24,30 @@ Os assuntos que abordamos foram:
     
     <item>
       <title>Opencast #17 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-17-noticias/</link>
       <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-17-noticias/</guid>
       <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
 Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
     </item>
     
     <item>
       <title>Customizando o gerenciador de inicialização</title>
-      <link>http://ubuntero.com.br/customizando-o-gerenciador-de-inicializacao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/customizando-o-gerenciador-de-inicializacao/</link>
       <pubDate>Tue, 11 Oct 2011 14:16:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/customizando-o-gerenciador-de-inicializacao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/customizando-o-gerenciador-de-inicializacao/</guid>
       <description>Já precisou fazer alterações no GRUB( gerenciador de inicialização) e ficou perdido no meio dos arquivos de configuração?
 Muita gente sente a necessidade de fazer pequenas alterações na inicialização do sistema e se depara com os amedrontadores arquivos de configuração tradicionais do Linux. Estes arquivos são maravilhosos quando se domina a configuração de algo, mas quando se quer fazer coisas simples e não tem tempo de conhecer um aplicativo a fundo, estes arquivos se tornam apenas um bom motivo para se falar mal do sistema todo.</description>
     </item>
     
     <item>
       <title>Falha no Startup Manager no Ubuntu – e a solução: GRUB Customizer</title>
-      <link>http://ubuntero.com.br/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</link>
       <pubDate>Fri, 15 Jul 2011 20:46:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</guid>
       <description>Os que fizeram a última atualização do Kernell do Ubuntu 11.04 ontem (14 de julho) e utilizavam o &amp;#8220;startupmanager&amp;#8221; para configurar o GRUB notaram que o mesmo não funciona mais neste Kernell.
 Ou seja, ao inicializar um computador com dual-boot (no meu caso, Windows + Ubuntu) o sistema livre ficou novamente como padrão para inicialização e o startupmanager não consegue mais reconfigurar. Resumindo: o startupmanager NÃO funciona nesta versão do Ubuntu, com o Kernell atualizado.</description>
     </item>

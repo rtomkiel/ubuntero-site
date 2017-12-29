@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certificação on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/certifica%C3%A7%C3%A3o/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/certifica%C3%A7%C3%A3o/</link>
     <description>Recent content in Certificação on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Dec 2013 00:41:39 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/certifica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/certifica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #31 – Sua TV te espiona e não use Linux Mint</title>
-      <link>http://ubuntero.com.br/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
       <pubDate>Thu, 05 Dec 2013 00:41:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
       <description>Ainda não foi desta vez, mas ainda não desistimos e pelo menos acredito que vamos gravar neste ano o episódio do openSUSE. Neste episódio, Ivan, Aprígio, Og Maciel e Diego se juntaram para falar um pouco sobre algumas notícias que foram divulgadas nos últimos dias e aproveitamos para responder algumas perguntas feitas pelos ouvintes que acompanhavam a gravação ao vivo.
 Links do episódio  Link do raspbery comentado no espaço da comunidade Opencast #12a &amp;#8211; Libreoffice Opencast #12b &amp;#8211; Libreoffice Linux Mint não é seguro para transações bancárias Resposta do Linux Mint Post explicando o que realmente foi dito sobre o Mint FAQ do Kernel do Ubuntu Drones da Amazon Vírus de computador pode se comunicar pelos alto-falantes Ilustrador troca Photoshop por Gimp Sua TV te espiona Sailfish-OS Instalador do Cyanogenmod é retirado da Play Store NSA pediu para que Linus instalasse backdoor no Linux  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Opencast # 22 – Red Hat</title>
-      <link>http://ubuntero.com.br/opencast-22-red-hat/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-22-red-hat/</link>
       <pubDate>Wed, 05 Jun 2013 03:01:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-22-red-hat/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-22-red-hat/</guid>
       <description>Mantendo a promessa, aí está mais um episódio do Opencast. Neste episódio juntamos Aprígio Simões, Fabio Olive, Og Maciel e Kurt Kraut para falar sobre a Red Hat. A ideia inicial era falar sobre o projeto Fedora, mas a conversa se desenvolveu tão bem que o tempo foi pouco e deixamos o projeto Fedora para outro episódio para também não atropelarmos os assuntos.
 Links do episódio  Semana Acadêmica do Curso de Ciência da Computação da URI &amp;#8211; Erechim Tosconf Castalio Podcast Top 500 de super-computadores Katello Lançamentos Red Hat Ciclo de vida extendido do RHEL Opensource.</description>
     </item>
     
     <item>
       <title>Document Foundation anuncia um Programa de Certificação</title>
-      <link>http://ubuntero.com.br/document-foundation-anuncia-um-programa-de-certificacao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/document-foundation-anuncia-um-programa-de-certificacao/</link>
       <pubDate>Mon, 07 May 2012 22:16:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/document-foundation-anuncia-um-programa-de-certificacao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/document-foundation-anuncia-um-programa-de-certificacao/</guid>
       <description>A Document Foundation anuncia seu Programa de Certificação para estimular o fornecimento de serviços profissionais em torno do LibreOffice, e ajudar no crescimentos de um ecosistema de negócios da melhor suite office livre do mundo. O programa está detalhado na página http://www.documentfoundation.org/certification.
 Aí está uma ótima notícia para começar o dia!
 Fonte: LibreOffice Brasil</description>

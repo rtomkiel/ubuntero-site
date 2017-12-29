@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/docs/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/docs/</link>
     <description>Recent content in Docs on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 04 Jul 2012 17:00:19 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Versão offline do Google Docs</title>
-      <link>http://ubuntero.com.br/versao-offline-do-google-docs/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</link>
       <pubDate>Wed, 04 Jul 2012 17:00:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/versao-offline-do-google-docs/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</guid>
       <description>Não sou o maior dos fãs do Google e suas ferramentas, mas esta novidade pode até mudar um pouco a minha opinião, menos em relação ao sistema adsense.
 Agora é possível ter a suíte de escritório online Google Docs de maneira offline, e o melhor, no Ubuntu.
 Para isso abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:

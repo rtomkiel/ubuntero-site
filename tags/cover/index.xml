@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cover on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/cover/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/cover/</link>
     <description>Recent content in Cover on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Apr 2012 18:12:42 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/cover/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/cover/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Divulgada a arte dos CD’s do Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</link>
       <pubDate>Sun, 01 Apr 2012 18:12:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</guid>
       <description>Seguindo o mesmo padrão da versão anterior, aí está a arte das capas do Ubuntu 12.04 e da impressão nos CD&amp;#8217;s.
    Fonte: OMG Ubuntu </description>
     </item>

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oesc Livre on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/oesc-livre/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/oesc-livre/</link>
     <description>Recent content in Oesc Livre on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 29 May 2012 12:04:40 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/oesc-livre/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/oesc-livre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Oeste Kurã Kavar na UNOESC Chapecó</title>
-      <link>http://ubuntero.com.br/oeste-kura-kavar-na-unoesc-chapeco/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/oeste-kura-kavar-na-unoesc-chapeco/</link>
       <pubDate>Tue, 29 May 2012 12:04:40 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/oeste-kura-kavar-na-unoesc-chapeco/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/oeste-kura-kavar-na-unoesc-chapeco/</guid>
       <description>O Prof. Coord. Tiago Zonta, do Curso de Sistemas de Informação da UNOESC Chapecó, organizou em conjunto com o OeSC-Livre um Dia Livre misturado com um PG Day, aproveitando a presença do Prof. visitante Euler Taveira. O Oeste Kurã Kavar na UNOESC Chapecó vai acontecer no sábado dia 02/06, no bloco B do curso de Sistemas de Informação, a partir das 9h.
 A UNOESC fornecerá certificados de participação, comprovando 4h de envolvimento, para aqueles que precisam acumular horas em atividades extra-curriculares.</description>
     </item>
     
     <item>
       <title>I BootCamp OeSC-Livre em São Miguel do Oeste – Chamada de trabalhos</title>
-      <link>http://ubuntero.com.br/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</link>
       <pubDate>Tue, 17 Apr 2012 00:18:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</guid>
       <description>O Grupo OeSC-Livre, em parceria com o SENAC em São Miguel do Oeste, convida a todos os interessados da região Oeste de Santa Catarina a submeterem palestras e/ou oficinas sobre os assuntos relacionados abaixo, para apresentação no I BootCamp OeSC-Livre São Miguel do Oeste. O evento se realizará no Auditório do Senac São Miguel do Oeste no sábado, dia 5 de Maio de 2012.  Prazo final: 21/04/2012  Assuntos de interesse:    Firewall;     Python;     RubyOnRails ou outro framework, talvez para python;     PostgreSQL;     CakePHP ou outro framework para php;     Aplicações gráficas com GTK ou Qt;     ShellScript ou SysAdmin;     FreeBSD ou *BSD;     Git;     Escovação de bits generalizada.</description>
     </item>
     
     <item>
       <title>I BootCamp OeSC-Livre Xanxerê: Inscrições abertas!</title>
-      <link>http://ubuntero.com.br/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/</link>
       <pubDate>Sat, 25 Feb 2012 10:00:12 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/</guid>
       <description>O Grupo de Usuários de Software Livre do Oeste Catarinense, em parceria com a Unoesc Xanxerê, tem o prazer de convidar a todos os interessados para o evento I BootCamp OeSC-Livre Xanxerê, a se realizar no Auditório da Unoesc no sábado dia 10 de Março.
 A grade com palestrantes de várias cidades da região já está disponível, e as inscrições estão abertas. Se você é da região, participe! Ajude a divulgar e reforçar a cultura do Software Livre no Oeste Catarinense, participando do OeSC-Livre e prestigiando os nossos eventos!</description>
     </item>
     
     <item>
       <title>I BootCamp OeSC-Livre em Xanxerê</title>
-      <link>http://ubuntero.com.br/i-bootcamp-oesc-livre-em-xanxere/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-em-xanxere/</link>
       <pubDate>Sat, 04 Feb 2012 18:09:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/i-bootcamp-oesc-livre-em-xanxere/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-em-xanxere/</guid>
       <description>Com o apoio da Unoesc Xanxerê, através da Profª Coord. Rosicler Felippi Puerari e do Prof. André Luiz Forchesatto, e contando com a participação dos acadêmicos já acostumados com os eventos “Boot”, o grupo OeSC-Livre realizará no sábado dia 10/03/2012 o I BootCamp OeSC-Livre em Xanxerê. O evento se realizará no Auditório da Unoesc, com capacidade para até 150 pessoas, a partir das 9h.
 Chamada de Trabalhos O Grupo OeSC-Livre, em parceria com a Unoesc em Xanxerê, convida a todos os interessados da região Oeste de Santa Catarina a submeterem palestras sobre os assuntos relacionados abaixo, para apresentação no I BootCamp OeSC-Livre Xanxerê.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravação Skype on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-skype/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o-skype/</link>
     <description>Recent content in Gravação Skype on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 28 Oct 2011 15:30:32 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-skype/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o-skype/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skype Call Recorder no Ubuntu 11.10</title>
-      <link>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-11-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-11-10/</link>
       <pubDate>Fri, 28 Oct 2011 15:30:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-11-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-11-10/</guid>
       <description>Este tópico já existe para o Ubuntu 11.04, no entanto nele é necessário substituir o sistema de áudio do Ubuntu para que o skype call recorder funcione normalmente. Para quem ainda está utilizando o Ubuntu 11.04, o antigo artigo continua valendo, mas para quem está utilizando o Ubuntu 11.10 os passos para ter o skype call recorder instalado e sempre atualizados são menores.
 Abra o terminal pressionando Ctrl+Alt+t e adicione o repositório com o seguinte comando:</description>
     </item>

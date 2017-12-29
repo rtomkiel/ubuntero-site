@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odt on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/odt/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/odt/</link>
     <description>Recent content in Odt on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 05 Jul 2013 11:00:56 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/odt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/odt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Governo do RS prefere padrão ODF</title>
-      <link>http://ubuntero.com.br/governo-do-rs-prefere-padrao-odf/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</link>
       <pubDate>Fri, 05 Jul 2013 11:00:56 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/governo-do-rs-prefere-padrao-odf/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</guid>
       <description>Os primeiros frutos do Fisl 14 já estão sendo colhidos. O Estado do Rio Grande do Sul, por intermédio da Secretaria Geral de Governo, com a interveniência do Departamento de Tecnologia da Informação e Telecomunicações, e a The Document Foundation firmaram o Protocolo ODF (Open Document Format). O objetivo é a realização de ações conjuntas para o desenvolvimento e a promoção de políticas públicas de uso de padrões abertos nas administrações governamentais.</description>
     </item>
     

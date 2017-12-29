@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dvd Protegido on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/dvd-protegido/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/dvd-protegido/</link>
     <description>Recent content in Dvd Protegido on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 10 Mar 2012 12:45:53 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/dvd-protegido/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dvd-protegido/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DVD’s protegidos</title>
-      <link>http://ubuntero.com.br/dvd-s-protegidos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</link>
       <pubDate>Sat, 10 Mar 2012 12:45:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dvd-s-protegidos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</guid>
       <description>A ideia de fazer este artigo veio do pedido de ajuda de um Ubuntero que entrou em contato comigo por e-mail para tentar resolver o problema com alguns DVD&amp;#8217;s protegidos. Sim isto mostra muito bem porque estas proteções não são nada boas.
 Sem enrolação, vamos ao que é necessário para que todos possam assistir aos seus DVD&amp;#8217;s originais que custaram caro.
 Abra o terminal, pressione Ctrl+Alt+t, e digite ou cole estes comandos(os comandos são bem grandes, por isso recomendo que copie e cole):</description>

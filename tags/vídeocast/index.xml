@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vídeocast on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/v%C3%ADdeocast/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/v%C3%ADdeocast/</link>
     <description>Recent content in Vídeocast on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 12 May 2014 13:32:13 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/v%C3%ADdeocast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/v%C3%ADdeocast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #58 – Tecnologia Aberta</title>
-      <link>http://ubuntero.com.br/videocast-58-tecnologia-aberta/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-58-tecnologia-aberta/</link>
       <pubDate>Mon, 12 May 2014 13:32:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-58-tecnologia-aberta/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-58-tecnologia-aberta/</guid>
       <description> 
 Voltando com o Videocast após problemas que são explicados no vídeo, falo um pouco sobre a placa mãe Gigabyte B75M-D3H que substituiu a minha falecida. Também falo sobre um novo projeto onde convido todos a participar.
  Assistir no Youtube Links do episódio  Tecnologia aberta Twitter Tecnologia aberta Facebook Tecnologia aberta Google+ Tecnologia aberta Canal no youtube Tecnologia aberta  </description>
@@ -24,66 +24,66 @@ Voltando com o Videocast após problemas que são explicados no vídeo, falo um 
     
     <item>
       <title>Videocast #57 – Pequenos enganos</title>
-      <link>http://ubuntero.com.br/videocast-57-pequenos-enganos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-57-pequenos-enganos/</link>
       <pubDate>Mon, 07 Apr 2014 18:59:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-57-pequenos-enganos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-57-pequenos-enganos/</guid>
       <description>  Aproveitando o último episódio do Opencast, neste episódio do Videocast eu falo um pouco sobre grandes pequenos enganos que todos já cometemos e que alguns de nós ainda continuam cometendo.
  Assistir no Youtube Links  Sudo su, por que não usar? Opencast #32 &amp;#8211; Hardening Loja do Ubuntero  </description>
     </item>
     
     <item>
       <title>Videocast #56 – Marco Civil</title>
-      <link>http://ubuntero.com.br/videocast-56-marco-civil/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-56-marco-civil/</link>
       <pubDate>Mon, 31 Mar 2014 13:06:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-56-marco-civil/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-56-marco-civil/</guid>
       <description>Hoje o assunto não é ligado diretamente a software livre, mas é importante para todos os brasileiros e eu não poderia deixar de falar um pouco sobre ele. Ao falar sobre o Marco Civil, gostaria que todos lessem antes de tecer qualquer comentário abaixo deste vídeo, já temos uma internet cheia de comentários baseados no &amp;#8220;eu acho que&amp;#8221; e &amp;#8220;eu acredito que&amp;#8221;. Tirem suas próprias conclusões e exponham nos comentários.</description>
     </item>
     
     <item>
       <title>Videocast #55 – GNU or not GNU, eis a questão</title>
-      <link>http://ubuntero.com.br/videocast-55-gnu-or-not-gnu-eis-a-questao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-55-gnu-or-not-gnu-eis-a-questao/</link>
       <pubDate>Mon, 17 Mar 2014 03:07:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-55-gnu-or-not-gnu-eis-a-questao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-55-gnu-or-not-gnu-eis-a-questao/</guid>
       <description>Vídeocast no ar e neste episódio falo um pouco sobre o por que algumas distribuições se chamam GNU/Linux e outras apenas Linux.
  Assistir no Youtube Links  Prêmio TopBlog Podpesquisa  &amp;nbsp;</description>
     </item>
     
     <item>
       <title>Videocast #54 – Arduino Leonardo</title>
-      <link>http://ubuntero.com.br/videocast-54-arduino-leonardo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-54-arduino-leonardo/</link>
       <pubDate>Mon, 10 Mar 2014 17:12:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-54-arduino-leonardo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-54-arduino-leonardo/</guid>
       <description>Nesta semana estou propondo o início de uma séria sobre a programação para Arduino. Comprei uma placa compatível com o Arduino Leonardo, mas até agora não dei nenhum fim para ela, já tem 3 ou 4 meses, até por não ter nenhuma ideia de uma aplicação para a placa. Me acompanhe nesta série e vamos aprender juntos as possibilidades deste hardware livre. Estou aceitando dicas de o que fazer com a placa, até mesmo comprar novos componentes para desenvolver algo útil.</description>
     </item>
     
     <item>
       <title>Videocast #53 – Dell Vostro 5470</title>
-      <link>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</link>
       <pubDate>Wed, 05 Mar 2014 13:23:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</guid>
       <description>O carnaval atrapalhou a postagem do Videocast, pequenos problemas com DNS e com a conexão lá no meio do mato onde eu estava. No episódio de hoje mostro o Dell Vostro 5479. Ele não é um Ultrabook, mas pode brigar com eles se você não se importar com a qualidade do som. O notebook é muito leve e rápido. Como bônus, consegui ele na versão com e sem Touch Screen e mostro os dois com Ubuntu, mesmo eles não vindo com Linux de fábrica.</description>
     </item>
     
     <item>
       <title>Videocast #52 – Ubuntu Touch em Dual Boot com Android</title>
-      <link>http://ubuntero.com.br/videocast-52-ubuntu-touch-em-dual-boot-com-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</link>
       <pubDate>Mon, 24 Feb 2014 16:56:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-52-ubuntu-touch-em-dual-boot-com-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</guid>
       <description>Antes de qualquer coisa, este Videocast está longo mesmo. Neste episódio mostro o Ubuntu Touch em Dual Boot com o Android. É o vídeo mais detalhado do Ubuntu Touch que eu já fiz, incluindo informações no post de como instalar o Dual Boot e como importar contatos no Ubuntu Touch. Não voltarei a fazer vídeos do Ubuntu Touch rodando no Galaxy Nexus porque ele não é mais suportado oficialmente, o que prejudica bastante qualquer coisa que possa ser dita.</description>
     </item>
     
     <item>
       <title>Videocast #50 – Dell Inspiron 14, um notebook para jogos?</title>
-      <link>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
       <pubDate>Tue, 24 Dec 2013 21:03:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
       <description>Este é o último episódio deste ano e enfim caiu em minhas mãos um notebook que é bom para jogos no Linux. O notebook é o Dell Inspiron 14 que vem equipado com uma placa de vídeo Nvidia GT625M, processador Intel Core i5-3337U, 6GB de memória e HD de 1 TB.
 Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
  Assistir no Youtube Antes de ver como habilitar a placa de vídeo Nvidia, passa no site da Dell e compra o computador por nosso link, assim ajuda o site e fica com uma super máquina para jogar.</description>
@@ -91,70 +91,70 @@ Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
     
     <item>
       <title>Videocast #49 – Erros ao divulgar Software Livre</title>
-      <link>http://ubuntero.com.br/videocast-49-erros-ao-divulgar-software-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</link>
       <pubDate>Tue, 03 Dec 2013 16:38:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-49-erros-ao-divulgar-software-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</guid>
       <description>Era para sair na segunda, mas saiu na terça. Neste episódio comento um pouco sobre alguns erros muito comuns a quem está começando a divulgar software livre.
  Assistir no Youtube Deixe nos comentários erros que eu não citei neste vídeo.</description>
     </item>
     
     <item>
       <title>Videocast #48 – Refisefuqui</title>
-      <link>http://ubuntero.com.br/videocast-48-refisefuqui/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-48-refisefuqui/</link>
       <pubDate>Mon, 11 Nov 2013 00:56:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-48-refisefuqui/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-48-refisefuqui/</guid>
       <description> Neste episódio do Videocast falo um pouco sobre uma coisa que muitas vezes me irrita, as &amp;#8220;distribuições&amp;#8221; refisefuqui. Com muita frequência me pedem para fazer reviews de &amp;#8220;distribuições&amp;#8221; refisefuqui e neste vídeo poderão entender por que eu acabo nunca fazendo.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Videocast #47 – Debian</title>
-      <link>http://ubuntero.com.br/videocast-47-debian/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-47-debian/</link>
       <pubDate>Mon, 04 Nov 2013 11:28:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-47-debian/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-47-debian/</guid>
       <description>Como prometido lá no Opencast #28, passei uma semana utilizando o Debian 7.2 e aqui falo um pouco sobre minha experiência. Quero lembrar que o que for dito neste vídeo é baseado na minha experiência e minhas opiniões podem ser diferentes das suas, o que não quer dizer que apenas eu ou você estamos certos, na verdade nós dois estaremos certos.
 Resumindo o que verão no vídeo, o instalador do Debian, mesmo gráfico, não é o mais amigável que eu já vi, mas é melhor que o do Fedora e pior que do Ubuntu.</description>
     </item>
     
     <item>
       <title>Videocast #46 – Latinoware</title>
-      <link>http://ubuntero.com.br/videocast-46-latinoware/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-46-latinoware/</link>
       <pubDate>Mon, 28 Oct 2013 02:20:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-46-latinoware/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-46-latinoware/</guid>
       <description>Entre os dias 16 e 18 de outubro ocorreu a décima edição da Latinoware e eu estive no evento para representar o site e acabei sendo o representante do Ubuntu-BR-RS. Participei de maneira tímida, já que não estava preparado para isto, era para ser apenas mais um participante.
 Estive presente no evento apenas nos dois primeiros dias devido a um compromisso pessoal que me fez pegar a estrada antes da hora, mas deu para fazer bons contatos, conhecer gente nova e reencontrar velhos amigos.</description>
     </item>
     
     <item>
       <title>Videocast #45 – Latinoware e Ubuntu Touch com Mir</title>
-      <link>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
       <pubDate>Mon, 14 Oct 2013 11:00:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
       <description>Hoje não temos grandes novidades em relação ao último videocast onde mostramos o estado atual, para aquela data, do Ubuntu Touch. Alguns dias depois de publicar o vídeo, o Mir passou a ser o servidor gráfico padrão do Ubuntu Touch e a experiência do sistema mudou bastante, o que me motivou a mostrar novamente como o sistema está.
 Neste vídeo também explico antecipadamente que o opencast e o próximo videocast podem atrasar ou até mesmo nem sair nas datas previstas devido a eu estar na Latinoware que fica a quase 8 horas de carro de onde eu moro.</description>
     </item>
     
     <item>
       <title>Videocast #44 – Ubuntu Touch funcional</title>
-      <link>http://ubuntero.com.br/videocast-44-ubuntu-touch-funcional/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-44-ubuntu-touch-funcional/</link>
       <pubDate>Mon, 07 Oct 2013 13:51:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-44-ubuntu-touch-funcional/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-44-ubuntu-touch-funcional/</guid>
       <description>Demoramos mas voltamos com o Videocast. Neste episódio mostro o estado atual do Ubuntu Touch rodando em um Galaxy Nexus, não confundam com o Nexus 4. O sistema está muito melhor do que em nosso último vídeo.
 Agora temos um aplicativo de configuração, o lançador tem as funções presentes na versão desktop e já é possível instalar e remover aplicativos sem a necessidade de fazer conexões adb ou ssh.</description>
     </item>
     
     <item>
       <title>Videocast #43 – Dell Vostro 3460</title>
-      <link>http://ubuntero.com.br/videocast-43-dell-vostro-3460/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</link>
       <pubDate>Sun, 01 Sep 2013 16:16:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-43-dell-vostro-3460/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</guid>
       <description>Neste episódio eu mostro mais um computador Dell rodando Ubuntu, mas desta vez o Ubuntu não vem instalado de fábrica. Mesmo assim quase tudo funciona perfeitamente, para variar o leitor biométrico continua sem funcionar, uma grande falha da Dell ao escolher este modelo de leitor biométrico.
  Assistir no Youtube Gostou do notebook? Compre por este ou este link e ajude o site.
 &amp;nbsp;</description>
@@ -162,30 +162,30 @@ Agora temos um aplicativo de configuração, o lançador tem as funções presen
     
     <item>
       <title>Videocast #42 – Primeiros passos no Ubuntu – Vídeo 6</title>
-      <link>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-42-primeiros-passos-no-ubuntu-video-6/</link>
       <pubDate>Sun, 25 Aug 2013 13:34:20 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-42-primeiros-passos-no-ubuntu-video-6/</guid>
       <description>Algo que leio bastante por fórums e listas é a dificuldade em se compartilhar pastas na rede utilizando o Ubuntu, o que realmente não consigo entender. Para facilitar a vida de todos, este vídeo mostra a maneira simples de se acessar e fazer compartilhamento. Não é necessário fazer configurações mirabolantes no samba, isso é coisa para compartilhamentos avançados e não para simples compartilhamentos.
  Assistir no Youtube Viu como é fácil e não precisa nem abrir o terminal?</description>
     </item>
     
     <item>
       <title>Videocast #41 – Elementary OS</title>
-      <link>http://ubuntero.com.br/videocast-41-elementary-os/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-41-elementary-os/</link>
       <pubDate>Sat, 17 Aug 2013 14:52:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-41-elementary-os/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-41-elementary-os/</guid>
       <description>Neste episódio falo um pouco sobre minha experiência utilizando o sistema Elementary OS, baseado no Ubuntu 12.04. Como já havia dito nas redes sociais, este promete ser o episódio onde farei mais inimigos, pois a experiência com o sistema foi &amp;#8230; assista o vídeo para saber como foi.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Videocast #38 – Fedora 19</title>
-      <link>http://ubuntero.com.br/videocast-38-fedora-19/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</link>
       <pubDate>Mon, 22 Jul 2013 11:39:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-38-fedora-19/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</guid>
       <description>Voltando a nossa programação normal, mais um episódio do videocast está no ar. Para alegria de muitos, testei o Fedora 19, claro que algumas comparações com o Ubuntu são feitas, isto é inevitável.
 No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o que agradou e desagradou no vídeo abaixo.
  Assistir no Youtube </description>
@@ -193,69 +193,69 @@ No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o
     
     <item>
       <title>Videocast #37 – Primeiros passos no Ubuntu – Vídeo 5</title>
-      <link>http://ubuntero.com.br/videocast-37-primeiros-passos-no-ubuntu-video-5/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-37-primeiros-passos-no-ubuntu-video-5/</link>
       <pubDate>Mon, 08 Jul 2013 03:28:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-37-primeiros-passos-no-ubuntu-video-5/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-37-primeiros-passos-no-ubuntu-video-5/</guid>
       <description>Depois deu uma grande pausa, estamos de novo ao Videocast e para mais um episódio do nosso quadro &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;. Neste vídeo mostro como usar as funções da Central de programas do Ubuntu, não só as funções básicas de instalar e desinstalar programas, mas também algumas funções pouco conhecidas da maioria dos usuários.
 Se gostarem do vídeo, não esqueçam de curtir, e se não são inscritos no canal, não custa nada se inscrever também.</description>
     </item>
     
     <item>
       <title>Videocast #36 – Primeiros passos no Ubuntu – Vídeo 4</title>
-      <link>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-36-primeiros-passos-no-ubuntu-video-4/</link>
       <pubDate>Mon, 03 Jun 2013 03:27:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-36-primeiros-passos-no-ubuntu-video-4/</guid>
       <description>Depois de um final de semana de trabalho, do tipo que paga as contas e não no site, e 3 gravações do desktop, enfim está no ar o quarto vídeo da nossa série &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;.
 Neste vídeo apresento o Unity e tento botar na cabeça de todos que você não precisa saber o nome dos programas que quer abrir, precisa saber o que quer fazer. Acredito que agora ninguém tenha mais dúvida sobre como usar o sistema, ainda falta muita coisa para mostrar sobre o Ubuntu, nem mostrei a utilização do HUD neste vídeo, pretendo usar onde ele é realmente útil em um futuro vídeo.</description>
     </item>
     
     <item>
       <title>Videocast #35 – Primeiros passos no Ubuntu – 3</title>
-      <link>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-3/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-34-primeiros-passos-no-ubuntu-3/</link>
       <pubDate>Mon, 20 May 2013 12:50:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-3/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-34-primeiros-passos-no-ubuntu-3/</guid>
       <description>Neste terceiro vídeo da séria &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;, mostramos como é a instalação do sistema em dual boot com o Windows 7. Não mostramos nenhuma configuração mais avançada para não confundir, apenas ajudar quem está começando. Futuramente mostraremos como é o processo de particionamento avançado, mas isso acontecerá quando estiverem mais bem ambientado ao sistema. No próximo vídeo mostraremos as principais &amp;#8220;peças&amp;#8221; do Unity, a interface gráfica padrão do Ubuntu.</description>
     </item>
     
     <item>
       <title>Videocast #34 – Primeiros passos no Ubuntu – 2</title>
-      <link>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-2/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-34-primeiros-passos-no-ubuntu-2/</link>
       <pubDate>Mon, 13 May 2013 11:10:26 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-2/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-34-primeiros-passos-no-ubuntu-2/</guid>
       <description>Neste vídeo explico como funciona a configuração da BIOS para que seja possível fazer a inicialização do computador por um CD/DVD ou Pendrive. Como cada BIOS é diferente da outra e existem particularidades, neste vídeo mostro apenas uma BIOS e explico o que pode acontecer, cabe a você adaptar estes conhecimentos a sua BIOS.
  Assistir no Youtube Outros vídeos  Videocast #32 &amp;#8211; Primeiros passos no Ubuntu  .</description>
     </item>
     
     <item>
       <title>Videocast #33 – Ultrabook Inspiron 14z</title>
-      <link>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
       <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
       <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
 Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
     </item>
     
     <item>
       <title>Videocast #28 – Novo site e Elementary OS Luna</title>
-      <link>http://ubuntero.com.br/videocast-28-novo-site-e-elementary-os-luna/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-28-novo-site-e-elementary-os-luna/</link>
       <pubDate>Mon, 11 Mar 2013 00:28:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-28-novo-site-e-elementary-os-luna/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-28-novo-site-e-elementary-os-luna/</guid>
       <description>Site novo e novo dia para os vídeos. Agora o VideoCast vai ao ar nas segundas (eventualmente ainda vai sair no domingo), para dar tempo de aproveitar o final de semana e não atropelar tudo para largar o vídeo no Youtube. Neste vídeo tentei usar um teleprompter via software e vocês vão notar que não ficou bom, não vou mais usar esse negócio.
 Vejam no vídeo como ficou o novo layout do site e conheçam o Elementary OS Luna, ainda em beta.</description>
     </item>
     
     <item>
       <title>Videocast #27 – Steam e Killing Floor</title>
-      <link>http://ubuntero.com.br/videocast-27-steam-e-killing-floor/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-27-steam-e-killing-floor/</link>
       <pubDate>Mon, 04 Mar 2013 10:30:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-27-steam-e-killing-floor/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-27-steam-e-killing-floor/</guid>
       <description>Seguindo com o prometido, toda a semana temos o VideoCast. No vídeo desta semana mostramos um pouco de um dos vários jogos disponíveis na Steam para Linux, Killing Floor.
 O som não está muito bom, devido ao pouco tempo para editar, poderia ter tirado um pouco do ruído, mas acredito que vocês entendem como foi o final de semana com o Ubuntu Global Jam Brazil 2013.
 Durante o gameplay aconteceram algumas travadas, mas isso só acontece porque estava fazendo a gravação da tela, sem gravar a tela o jogo funciona perfeitamente sem estes engasgos.</description>
@@ -263,10 +263,10 @@ Durante o gameplay aconteceram algumas travadas, mas isso só acontece porque es
     
     <item>
       <title>Videocast #25 – Lubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-25-lubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-25-lubuntu-12-10/</link>
       <pubDate>Sun, 06 Jan 2013 20:51:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-25-lubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-25-lubuntu-12-10/</guid>
       <description>Ainda estou sem internet, mas novamente consegui ajuda para postar mais um vídeo.
 Aí está o review do Lubuntu 12.10 com minhas considerações, apenas opiniões sobre o que o sistema oferece ou deixa de oferecer.
 Aproveitando o lançamento do Ubuntu for phones, estamos realizando uma vakinha para comprar o aparelho usado para fazer uma demonstração do sistema. Veja este artigo que fala como vai funcionar.
@@ -275,10 +275,10 @@ Aproveitando o lançamento do Ubuntu for phones, estamos realizando uma vakinha 
     
     <item>
       <title>Videocast #23 – Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-23-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-23-ubuntu-12-10/</link>
       <pubDate>Fri, 16 Nov 2012 23:36:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-23-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-23-ubuntu-12-10/</guid>
       <description>Eu avisei que não teríamos vídeos nos próximos 15 dias, mas consegui uma brecha e gravei um vídeo, até porque agora o tempo é indeterminado como explico neste episódio.
 Ainda não falarei do Lubuntu, mas o próximo episódio será sobre ele, com toda a certeza. Neste episódio falo um pouco sobre as qualidades e defeitos do Ubuntu 12.10, com a interface Unity.
  Assistir no Youtube Links  Problemas com vídeos MP4 no totem Webapps no Ubuntu 12.</description>
@@ -286,58 +286,58 @@ Ainda não falarei do Lubuntu, mas o próximo episódio será sobre ele, com tod
     
     <item>
       <title>Videocast 20 – Ubuntu Gnome Remix 12.10</title>
-      <link>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</link>
       <pubDate>Mon, 29 Oct 2012 12:43:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</guid>
       <description>Passada uma semana de uso com o Ubuntu Gnome Remix 12.10, aqui está o vídeo que mostra as minhas impressões sobre o sistema. Em resumo posso dizer que a equipe que fez o trabalho estava com muita preguiça de adicionar o mínimo de qualidade ao sistema. Por padrão o sistema não tem nenhum programa gerenciador de pacotes instalado e precisei instalar muito software básico para poder trabalhar, nem falo dos programas específicos, estes todos sabemos que temos que instalar.</description>
     </item>
     
     <item>
       <title>Videocast #19</title>
-      <link>http://ubuntero.com.br/videocast-19/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-19/</link>
       <pubDate>Sun, 14 Oct 2012 05:17:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-19/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-19/</guid>
       <description>Aproveito este Videocast para esclarecer alguns pontos sobre o Opencast, agradecer aos votos para o prêmio TopBlog Brasil 2012 e comentar sobre a crítica que fiz sobre as webapps do Ubuntu 12.10.</description>
     </item>
     
     <item>
       <title>Opencast #15 – FISL 13 e notícias</title>
-      <link>http://ubuntero.com.br/opencast-15-fisl-13-e-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</link>
       <pubDate>Wed, 15 Aug 2012 04:11:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-15-fisl-13-e-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</guid>
       <description>Voltamos com o Opencast depois de uma pausa necessária para descanso e falamos um pouco sobre nossa participação no FISL 13 e alguma notícias que foram destaques nos últimos dias. O feed para iTunes não está funcionando e eu desisti de tentar arrumar, se alguém souber como arrumar eu agradeço, mas eu não vou mais correr atras deste negócio.
 Links  FISL 13 VideoCast 16 &amp;#8211; FISL 13 Instalando o Ubuntu em um computador Apple Intel Video Game OUYA O pirata dos barramentos TexMate LibreOffice 3.</description>
     </item>
     
     <item>
       <title>VideoCast 16 – FISL 13</title>
-      <link>http://ubuntero.com.br/videocast-16-fisl-13/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-16-fisl-13/</link>
       <pubDate>Mon, 06 Aug 2012 22:18:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-16-fisl-13/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-16-fisl-13/</guid>
       <description>Um grande evento foi o FISL 13, não pelas palestras que não assisti a nenhuma, mas pelas experiências trocadas e as pessoas conhecidas. Veja neste episódio do VideoCast como foi o evento para o grupo Ubuntu-BR.
 As fotos do evento podem ser vista no Facebook do site, já aproveite e curta nossa página.</description>
     </item>
     
     <item>
       <title>VideoCast #14 – Mais Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/videocast-14-mais-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-14-mais-ubuntu-12-04/</link>
       <pubDate>Mon, 07 May 2012 22:29:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-14-mais-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-14-mais-ubuntu-12-04/</guid>
       <description>Post atrasado, mas o vídeo não(foi postado no domingo). Neste episódio do VideoCast mostro outro lado do Ubuntu 12.04, aquele para pessoas que tem máquinas mais antigas e não contam com a possibilidade de rodar o sistema com o Unity 3D.
 Se você quer conhecer um pouco do Unity 2D e do Gnome Clássico(gnome-session-fallback) este é o vídeo que você estava esperando. Para instalar o gnome-session-fallback basta digitar o seguinte comando no terminal:</description>
     </item>
     
     <item>
       <title>Videocast #11</title>
-      <link>http://ubuntero.com.br/videocast-11/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-11/</link>
       <pubDate>Mon, 02 Apr 2012 01:59:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-11/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-11/</guid>
       <description>Brincadeira de primeiro de abril que não podemos passar em branco, algumas pessoas mataram de primeira, outras ficaram desconfiadas.
 Estamos com novo nome, VideoCast, o que nos permitirá falar sobre qualquer coisa de software livre sem ser um review, isso não quer dizer que não faremos review.
 Esta semana não poderíamos falar de nada diferente do Ubuntu 12.04 Beta 2 e suas novidades, então é isto que você poderá ver neste vídeo.</description>

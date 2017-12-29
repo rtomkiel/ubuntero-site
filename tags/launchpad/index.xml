@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Launchpad on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/launchpad/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/launchpad/</link>
     <description>Recent content in Launchpad on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 07 Mar 2013 11:59:19 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/launchpad/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/launchpad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu Global Jam Brazil 2013</title>
-      <link>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013-2/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-global-jam-brazil-2013-2/</link>
       <pubDate>Thu, 07 Mar 2013 11:59:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013-2/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-global-jam-brazil-2013-2/</guid>
       <description>Como anunciado anteriormente, o Ubuntu Global Jam Brazil 2013 foi realizado no dia 02 de março de 2013. O evento aconteceu com transmissão pelo Google Hangout que permite a transmissão ao vivo pelo Youtube e perguntas puderam ser feitas pelo canal #ubuntu-br no IRC.
 A audiência foi de aproximadamente 500 pessoas pelo Youtube e 100 pessoas pelo IRC. Se você perdeu alguma apresentação, assista a gravação.
  [conselhobrasil] Introduction to Ubuntu Global Jam Brazil 2013 [ivanbrasil] How to use IRC?</description>
@@ -24,10 +24,10 @@ A audiência foi de aproximadamente 500 pessoas pelo Youtube e 100 pessoas pelo 
     
     <item>
       <title>Opencast episódio #2 – Comunidade Ubuntu-BR</title>
-      <link>http://ubuntero.com.br/opencast-episodio-2-comunidade-ubuntu-br/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-2-comunidade-ubuntu-br/</link>
       <pubDate>Thu, 17 Mar 2011 12:22:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-2-comunidade-ubuntu-br/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-2-comunidade-ubuntu-br/</guid>
       <description>Está no ar o episódio de número dois do Opencast. Neste episódio temos como convidados André Gondim, Claiton Sega e Marcos Zin.
 Diferentemente dos outros dois episódios, neste foi feita uma espécie de entrevista com o André Gondim sobre a comunidade Ubuntu-BR e como as pessoas podem contribuir com o Ubuntu, também foi comentada a participação, ou não, da Canonical na comunidade brasileira e terminamos falando um pouco sobre o Ubuntu 11.</description>
     </item>

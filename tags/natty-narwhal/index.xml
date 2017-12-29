@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natty Narwhal on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/natty-narwhal/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/natty-narwhal/</link>
     <description>Recent content in Natty Narwhal on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 28 Apr 2011 11:37:17 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/natty-narwhal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/natty-narwhal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lançado o Ubuntu 11.04 Natty Narwhal</title>
-      <link>http://ubuntero.com.br/lancado-o-ubuntu-11-04-natty-narwhal/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-11-04-natty-narwhal/</link>
       <pubDate>Thu, 28 Apr 2011 11:37:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-o-ubuntu-11-04-natty-narwhal/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-11-04-natty-narwhal/</guid>
       <description>Está no ar o Ubuntu 11.04 Natty Narwhal.
 Como previsto no calendário, a versão 11.04 foi lançada hoje com muitas mudanças se compararmos com a versão anterior. A principal mudança, que chegou a causar alguma polêmica, é a mudança do shell padrão que agora deixa de ser o gnome-panel para ser o Unity.
 O motivo da polêmica foi uma entrevista onde Mark diz que o Unity ainda não está do jeito que ele queria, mas que na versão 11.</description>
@@ -24,10 +24,10 @@ O motivo da polêmica foi uma entrevista onde Mark diz que o Unity ainda não es
     
     <item>
       <title>Versões LTS, continuar ou não?</title>
-      <link>http://ubuntero.com.br/versoes-lts-continuar-ou-nao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/versoes-lts-continuar-ou-nao/</link>
       <pubDate>Sun, 24 Apr 2011 17:30:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/versoes-lts-continuar-ou-nao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/versoes-lts-continuar-ou-nao/</guid>
       <description>Dia 28 de Abril chegando, lançamento de mais uma nova versão do nosso querido Ubuntu.
 Muitos usuários e entusiastas assim como eu não aguentaram esperar e já instalaram a versão Beta, alguns já usam desde a versão Alpha.
 Mas muitos também perguntam: E a versão LTS? Continuo nela ou não?
@@ -37,20 +37,20 @@ Para quem quer ter todos os softwars atualizados e as últimas novidades dispon�
     
     <item>
       <title>Festa de lançamento do Ubuntu 11.04 Natty Narwhal</title>
-      <link>http://ubuntero.com.br/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</link>
       <pubDate>Sun, 17 Apr 2011 03:41:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</guid>
       <description>No dia 28 de abril o Ubuntu 11.04 Natty Narwhal deve estar no ar, que tal fazer uma reunião? A proposta é se juntar, conhecer, discutir, debater, conversar ou mesmo só beber, isso mesmo.
 Esta versão terá como o shell padrão o Unity e isso vai dar muito o que conversar, já que será um impacto muito grande para o usuário final que está acostumado com uma modelo de usar o Ubuntu.</description>
     </item>
     
     <item>
       <title>O que esperar do Ubuntu 11.04?</title>
-      <link>http://ubuntero.com.br/o-que-esperar-do-ubuntu-11-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</link>
       <pubDate>Wed, 06 Apr 2011 14:10:29 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/o-que-esperar-do-ubuntu-11-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</guid>
       <description>Estamos nos aproximando do lançamento do Ubuntu 11.04 e já podemos tirar algumas conclusões sobre esta nova versão. Você pode ver alguns vídeos no canal do Ubuntero no youtube.
 A coisa mais importante que devemos citar é que a mudança é grande e necessária para que o Ubuntu passe a ter sua própria identidade sem ser uma cópia de sistema operacional X ou Y.
 Falando agora especificamente de algumas mudanças quero falar sobre a necessidade de mais cliques para chegar até onde se quer.</description>
@@ -58,10 +58,10 @@ Falando agora especificamente de algumas mudanças quero falar sobre a necessida
     
     <item>
       <title>Ubuntu 11.04 com atualizações até o dia 26/03/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</link>
       <pubDate>Sun, 27 Mar 2011 11:00:56 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</guid>
       <description>Novo vídeo demonstrativo do Ubuntu 11.04 alpha 3 com atualizações até o dia 26/03/2011. Algumas mudanças de tema e algumas funcionalidades são demosntradas do vídeo. Assista e tire suas conclusões sobre a nova versão do Ubuntu que será lançada no dia 28/04/2011.</description>
     </item>
     

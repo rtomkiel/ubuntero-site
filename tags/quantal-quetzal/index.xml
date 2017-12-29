@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantal Quetzal on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/quantal-quetzal/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/quantal-quetzal/</link>
     <description>Recent content in Quantal Quetzal on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 19 Oct 2012 11:45:13 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/quantal-quetzal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/quantal-quetzal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntero On Air #2 – Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/ubuntero-on-air-2-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</link>
       <pubDate>Fri, 19 Oct 2012 11:45:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntero-on-air-2-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</guid>
       <description>No segundo episódio do Ubuntero On Air falamos um pouco sobre o lançamento do Ubuntu 12.10 e batemos um papo com quem estava assistindo ao vivo. O assunto da steam também veio a tona e uma notícia sobre o Ubuntu 13.04 também foi discutida.
 Ficou no ar a ideia de tornar o Ubuntero On Air em um quadro fixo no site, com intervalo de tempo regular. Esperamos seus comentários para definir como faremos isto.</description>
     </item>
     
     <item>
       <title>Foi dada a largada para as traduções do Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</link>
       <pubDate>Tue, 07 Aug 2012 17:33:57 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</guid>
       <description>Notícia saída fresquinha do blog do Fábio Nogueira.
 Chegou a hora de ajudar nas traduções da futura versão do Ubuntu: Ubuntu Quantal 12.10!
 A equipe de tradução do Ubuntu está esperando pelo seu apoio! Para isso, basta acessar o nossa wiki (http://wiki.ubuntu-br.org/TimeDeTraducao) e começar a fazer parte do time. A lista de todos os pacotes do Ubuntu Quantal a serem traduzidos estão em https://translations.launchpad.net/ubuntu/quantal/+lang/pt_BR.

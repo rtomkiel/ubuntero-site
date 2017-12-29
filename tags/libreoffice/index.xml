@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libreoffice on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/libreoffice/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/libreoffice/</link>
     <description>Recent content in Libreoffice on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 06 May 2014 11:48:34 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chamada para colaboração LibreOffice Magazine 11</title>
-      <link>http://ubuntero.com.br/chamada-para-colaboracao-libreoffice-magazina-11/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/chamada-para-colaboracao-libreoffice-magazina-11/</link>
       <pubDate>Tue, 06 May 2014 11:48:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/chamada-para-colaboracao-libreoffice-magazina-11/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/chamada-para-colaboracao-libreoffice-magazina-11/</guid>
       <description>A próxima edição da revista eletrônica LibreOffice Magazine será lançada no mês de junho de 2014. Se você tem interesse em escrever para a revista sobre os temas LibreOffice, ODF ou temas relacionados a softwares de código aberto, envie o seu texto por e-mail até o dia 30 de maio de 2014 para o endereço: redacao@libreoffice.org O formato do arquivo texto a ser enviado deve estar em formato aberto (ODF) e o mesmo deve conter a foto e o minicurrículo do autor.</description>
     </item>
     
     <item>
       <title>Bug de 10 anos é corrigido no LibreOffice</title>
-      <link>http://ubuntero.com.br/bug-de-10-anos-e-corrigido-no-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/bug-de-10-anos-e-corrigido-no-libreoffice/</link>
       <pubDate>Thu, 16 Jan 2014 18:40:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/bug-de-10-anos-e-corrigido-no-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/bug-de-10-anos-e-corrigido-no-libreoffice/</guid>
       <description>Limite de 65000 caracteres para parágrafos do LibreOffice, esse é o bug que será corrigido nas próximas versões, provavelmente na versão 4.3.
 Para ter uma ideia são 13 páginas em fonte tamanho 10 e espaçamento simples. Mas quem escreveria um parágrafo tão longo?
 
@@ -34,10 +34,10 @@ Textos com essas características geralmente são usados em atas, minutas, acór
     
     <item>
       <title>Abrindo “Open Document” no Google Drive</title>
-      <link>http://ubuntero.com.br/abrindo-open-document-no-google-drive/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/abrindo-open-document-no-google-drive/</link>
       <pubDate>Mon, 23 Dec 2013 19:45:02 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/abrindo-open-document-no-google-drive/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/abrindo-open-document-no-google-drive/</guid>
       <description>Artigo enviado por Everton Melo
 No Opencast #30 o Og Maciel falou sobre o Google Drive não ler arquivos do Libreoffice. Neste artigo estão os passos para habilitar esta funcionalidade.
 Após logar no Google Drive:
@@ -49,86 +49,86 @@ O mesmo será visualizado e depois é só clicar em &amp;#8220;Conectar&amp;#822
     
     <item>
       <title>Opencast #31 – Sua TV te espiona e não use Linux Mint</title>
-      <link>http://ubuntero.com.br/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
       <pubDate>Thu, 05 Dec 2013 00:41:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
       <description>Ainda não foi desta vez, mas ainda não desistimos e pelo menos acredito que vamos gravar neste ano o episódio do openSUSE. Neste episódio, Ivan, Aprígio, Og Maciel e Diego se juntaram para falar um pouco sobre algumas notícias que foram divulgadas nos últimos dias e aproveitamos para responder algumas perguntas feitas pelos ouvintes que acompanhavam a gravação ao vivo.
 Links do episódio  Link do raspbery comentado no espaço da comunidade Opencast #12a &amp;#8211; Libreoffice Opencast #12b &amp;#8211; Libreoffice Linux Mint não é seguro para transações bancárias Resposta do Linux Mint Post explicando o que realmente foi dito sobre o Mint FAQ do Kernel do Ubuntu Drones da Amazon Vírus de computador pode se comunicar pelos alto-falantes Ilustrador troca Photoshop por Gimp Sua TV te espiona Sailfish-OS Instalador do Cyanogenmod é retirado da Play Store NSA pediu para que Linus instalasse backdoor no Linux  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Disponível LibreOffice Magazine #7</title>
-      <link>http://ubuntero.com.br/disponivel-libreoffice-magazine-7/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-7/</link>
       <pubDate>Tue, 29 Oct 2013 10:00:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disponivel-libreoffice-magazine-7/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-7/</guid>
       <description>O mês de outubro é uma festa para a TDF e para todos que apostaram no projeto LibreOffice. Foi em outubro de 2010 que algumas pessoas resolveram mudar o rumo das coisas, que na época estavam paradas e sob as ordens de uma grande empresa, levando o projeto para um grupo que abraçou a causa e revolveu seguir sob a tutela de uma fundação. O grupo recebeu o apoio de pessoas de todo o mundo e deu nisso: 3 anos de LibreOffice.</description>
     </item>
     
     <item>
       <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
       <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
       <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
     </item>
     
     <item>
       <title>Lançado LibreOffice 4.1</title>
-      <link>http://ubuntero.com.br/lancado-libreoffice-4-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-libreoffice-4-1/</link>
       <pubDate>Thu, 25 Jul 2013 13:21:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-libreoffice-4-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-libreoffice-4-1/</guid>
       <description>Os desenvolvedores do LibreOffice não brincam em serviço. A Document Foundation anunciou o LibreOffice 4.1, a suíte Office livre de melhor interoperabilidade jamais publicada. O LibreOffice 4.1 contém um número grande de melhorias no campo da compatibilidade de documentos, permitindo mais oportunidades para compartilhar arquivos com usuários dos software proprietário e fechado, enquanto preserva o layout original e seu conteúdo. Entre as mudanças existe uma que muito me interessa que é a melhoria no trabalho com arquivos RTF.</description>
     </item>
     
     <item>
       <title>Governo do RS prefere padrão ODF</title>
-      <link>http://ubuntero.com.br/governo-do-rs-prefere-padrao-odf/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</link>
       <pubDate>Fri, 05 Jul 2013 11:00:56 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/governo-do-rs-prefere-padrao-odf/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</guid>
       <description>Os primeiros frutos do Fisl 14 já estão sendo colhidos. O Estado do Rio Grande do Sul, por intermédio da Secretaria Geral de Governo, com a interveniência do Departamento de Tecnologia da Informação e Telecomunicações, e a The Document Foundation firmaram o Protocolo ODF (Open Document Format). O objetivo é a realização de ações conjuntas para o desenvolvimento e a promoção de políticas públicas de uso de padrões abertos nas administrações governamentais.</description>
     </item>
     
     <item>
       <title>Disponível a revista LibreOffice Magazine – edição 5</title>
-      <link>http://ubuntero.com.br/disponivel-a-revista-libreoffice-magazine-edicao-5/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disponivel-a-revista-libreoffice-magazine-edicao-5/</link>
       <pubDate>Tue, 25 Jun 2013 19:23:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disponivel-a-revista-libreoffice-magazine-edicao-5/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disponivel-a-revista-libreoffice-magazine-edicao-5/</guid>
       <description>A edição número 5 da revista LibreOffice Magazine traz como capa &amp;#8220;Os meninos do Brasil&amp;#8221; em homenagem aos desenvolvedores brasileiros do projeto. A revista traz muitos tutorias na seção &amp;#8220;Como Fazer&amp;#8221;, matéria sobre o servidor XMPP Openfire, Kernel Linux, e o restante vocês devem fazer o download da revista para conferir.
  </description>
     </item>
     
     <item>
       <title>Opencast #21 – Mandou para o espaço e virou satélite, jogos e DRM</title>
-      <link>http://ubuntero.com.br/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
       <pubDate>Wed, 22 May 2013 03:07:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
       <description>Por motivos de força maior demos mais uma parada no Opencast, mas estamos de volta mais forte. A partir de agora, nosso casting aumentou e teremos vários participantes em todos os episódios. Nossa ideia é ter representação das mais diversas comunidades e regiões.
 Neste episódio, Ivan, Diego, Og Maciel, Tiago conversamos sobre vários assuntos, entre eles estão Jogos, DRM, Linux na estação espacial, impressoras 3D, LibreOffice no Android e muitas outras coisas.</description>
     </item>
     
     <item>
       <title>Gestor de referências bibliográficas para Ubuntu</title>
-      <link>http://ubuntero.com.br/gestor-de-referencias-bibliograficas-para-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</link>
       <pubDate>Tue, 14 May 2013 12:00:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gestor-de-referencias-bibliograficas-para-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</guid>
       <description>Artigo enviado por Cailon França de Castro(@cailondecastro)
 Umas das coisas que aprendemos cedo na Universidade é que quando vamos escrever algo devemos ler muita coisa a sobre o que vamos escrever, e não foi diferente quando comecei a escrever meu projeto de TCC alguns semestres atrás, li e citei pouco mais de uma dezena de artigos digitando cada uma das referências a mão. Um colega que já estava concluindo o curso disse que eu poderia ter automatizado o processo usando o Endnote, procurei o programa e para minha insatisfação o programa é pago e não possui versão para Linux.</description>
     </item>
     
     <item>
       <title>II Encontro Catarinense de LibreOffice</title>
-      <link>http://ubuntero.com.br/ii-encontro-catarinense-de-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ii-encontro-catarinense-de-libreoffice/</link>
       <pubDate>Tue, 07 May 2013 15:00:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ii-encontro-catarinense-de-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ii-encontro-catarinense-de-libreoffice/</guid>
       <description>O II Encontro Catarinense de LibreOffice ocorrerá na cidade de Joinville no dia 18 de maio de 2013, às 9:00 horas, no Centro de Ciências Tecnológicas da UDESC. O evento contará com diversas palestras, oficinas e minicursos. E o melhor, é GRATUITO!
 Corra e faça sua inscrição no endereço www2.joinville.udesc.br/~libreoffice/inscricao.html
 Quer conhecer mais sobre o LibreOffice? Temos dois episódios do Opencast falando sobre esta suíte de escritório, inclusive palestrantes do evento participaram da gravação.</description>
@@ -136,30 +136,30 @@ Quer conhecer mais sobre o LibreOffice? Temos dois episódios do Opencast faland
     
     <item>
       <title>Disponível LibreOffice Magazine edição 4</title>
-      <link>http://ubuntero.com.br/disponivel-libreoffice-magazine-edicao-4/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-edicao-4/</link>
       <pubDate>Mon, 22 Apr 2013 22:26:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disponivel-libreoffice-magazine-edicao-4/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-edicao-4/</guid>
       <description>Nesses últimos dias corre pelas comunidades de Software Livre e nas redes sociais brasileiras, notícias de retrocesso de um estado do Brasil no uso de formatos abertos de documentos. Ao mesmo tempo, nesta edição vamos mostrar um texto onde é possível perceber como resistir as essas investidas, pensando e planejando cuidadosamente a migração para Software Livre.
 Há ainda, nesta edição, um artigo sobre o Consegi que esta se tornando “uma arena para a troca de experiências e construção de acordos de cooperação utilizando tecnologias livres”, segundo seus organizadores, além da entrevista com um de seus idealizadores.</description>
     </item>
     
     <item>
       <title>Lançada a Edição 2 da revista LibreOffice Magazine Brasil</title>
-      <link>http://ubuntero.com.br/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</link>
       <pubDate>Wed, 19 Dec 2012 16:17:49 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</guid>
       <description>Nessa edição, há um tutorial bastante completo sobre fotos panorâmicas. E sobre a inteligência do seu negócio ou melhor, Inteligência Empresarial podemos dar uma dica apresentando o Pentaho, que promete ser assunto nas próximas edições.
 Sobre o ponto de vista de governos apresentamos dois casos. O primeiro, é um caso de sucesso da cidade de Guarulhos em São Paulo. A administração da cidade desenvolveu uma distribuição baseada no Debian/Ubuntu, chamada Guarux, para sanar suas necessidades de utilização de Software Livre em seus órgãos administrativos, como também no trabalho de Inclusão digital, ponto forte da cidade.</description>
     </item>
     
     <item>
       <title>LibreOffice Magazine</title>
-      <link>http://ubuntero.com.br/libreoffice-magazine/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/libreoffice-magazine/</link>
       <pubDate>Wed, 17 Oct 2012 11:22:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/libreoffice-magazine/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/libreoffice-magazine/</guid>
       <description>A comunidade LibreOffice Brasil anunciou hoje o lançamento da primeira edição da revista LibreOffice Magazine em português
 Se você quiser colaborar com a revista, inscreva-se em nossa lista de discussão e colabore com a atividade que mais lhe agradar. Se você quer escrever, revisar ou diagramar, então, junte-se ao time de voluntários. A informação sobre a lista da revista encontra-se neste link: http://pt-br.libreoffice.org/suporte/listas-de-discussao/
  Fonte: http://libreofficebrasil.blogspot.com.br/2012/10/libreoffice-magazine.html</description>
@@ -167,10 +167,10 @@ Se você quiser colaborar com a revista, inscreva-se em nossa lista de discussã
     
     <item>
       <title>Disponível LibreOffice 3.6 Beta 3</title>
-      <link>http://ubuntero.com.br/disponivel-libreoffice-3-6-beta-3/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-3-6-beta-3/</link>
       <pubDate>Mon, 09 Jul 2012 20:24:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disponivel-libreoffice-3-6-beta-3/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-3-6-beta-3/</guid>
       <description>Está disponível para download a Beta 3 do LibreOffice 3.6 no site do projeto.
 Você pode baixar uma versão de pré-lançamento para avaliação, testes de qualidade, etc&amp;#8230; Não recomendamos utilizar os pré-lançamentos do LibreOffice para trabalhos críticos. Para mais informações sobre o controle de qualidade, visite a página de controle de qualidade. Veja também as notas da versão.
 Se estiver interessado em versões binárias mais arrojadas em desenvolvimento, verifique os builds diários &amp;#8211; estes são ainda mais sujeitos a falhas e inadequados para trabalhos críticos,.</description>
@@ -178,30 +178,30 @@ Se estiver interessado em versões binárias mais arrojadas em desenvolvimento, 
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>
     
     <item>
       <title>TDF anuncia a Temporada de Caça-Bugs do LibreOffice 3.6</title>
-      <link>http://ubuntero.com.br/tdf-anuncia-a-temporada-de-caca-bugs-do-libreoffice-3-6/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tdf-anuncia-a-temporada-de-caca-bugs-do-libreoffice-3-6/</link>
       <pubDate>Mon, 02 Jul 2012 01:17:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tdf-anuncia-a-temporada-de-caca-bugs-do-libreoffice-3-6/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tdf-anuncia-a-temporada-de-caca-bugs-do-libreoffice-3-6/</guid>
       <description>A The Document Foundation (TDF) anuncia a &amp;#8220;Temporada de Caça-Bugs do LibreOffice 3.6&amp;#8221;, a ser realizado em um ambiente virtual, entre os dias 6 e 7 de julho de 2012.
  Caçadores de bugs voluntários distribuídos pelos 5 continentes se reunirão na Internet para identificar problemas de software do próximo grande lançamento, com um grande número de melhorias e novas funções, para fazer o LibreOffice 3.6 continuar sendo a melhor suíte de escritório livre jamais vista.</description>
     </item>
     
     <item>
       <title>Opencast # 12b – LibreOffice</title>
-      <link>http://ubuntero.com.br/opencast-12b-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-12b-libreoffice/</link>
       <pubDate>Tue, 26 Jun 2012 01:11:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-12b-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-12b-libreoffice/</guid>
       <description>Esta é a segunda parte do episódio #12 do Opencast sobre o LibreOffice. Caso não tenha ouvido a primeira parte, por favor faça isto acessando o endereço http://www.ubuntero.com.br/2012/06/opencat-12a-libreoffice/.
 Neste episódio voltamos a falar sobre o LibreOffice e focamos na comunidade e na legislação existente nos Estados.
 Infelizmente faltou tempo para fazer o Papo de buteco, mas não abandonamos o quadro, ele volta no próximo episódio.
@@ -210,10 +210,10 @@ Links  LibreOffice Brasil Lista de discussão Documentação Guia do Iniciante C
     
     <item>
       <title>Opencast # 12a – LibreOffice</title>
-      <link>http://ubuntero.com.br/opencat-12a-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencat-12a-libreoffice/</link>
       <pubDate>Tue, 19 Jun 2012 01:57:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencat-12a-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencat-12a-libreoffice/</guid>
       <description>Pela primeira vez teremos um episódio em duas partes. Tivemos uma ótima conversa com Eliane Domingos de Souza, Olivier Hallot e Vitorio Yoshinori Furusho sobre o LibreOffice. O som tem alguns probleminhas em alguns pontos mas não prejudica a totalidade do episódio.
 Os assuntos que conseguimos abordar nesta primeira parte passam mais por detalhes técnicos do LibreOffice e migração, mas também falamos um pouco sobre uma possível nova interface.
 Os links e o Papo de Buteco estarão disponíveis na segunda parte do episódio que irá ao ar exatamente daqui a uma semana.</description>
@@ -221,10 +221,10 @@ Os links e o Papo de Buteco estarão disponíveis na segunda parte do episódio 
     
     <item>
       <title>Document Foundation anuncia um Programa de Certificação</title>
-      <link>http://ubuntero.com.br/document-foundation-anuncia-um-programa-de-certificacao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/document-foundation-anuncia-um-programa-de-certificacao/</link>
       <pubDate>Mon, 07 May 2012 22:16:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/document-foundation-anuncia-um-programa-de-certificacao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/document-foundation-anuncia-um-programa-de-certificacao/</guid>
       <description>A Document Foundation anuncia seu Programa de Certificação para estimular o fornecimento de serviços profissionais em torno do LibreOffice, e ajudar no crescimentos de um ecosistema de negócios da melhor suite office livre do mundo. O programa está detalhado na página http://www.documentfoundation.org/certification.
 Aí está uma ótima notícia para começar o dia!
 Fonte: LibreOffice Brasil</description>
@@ -232,10 +232,10 @@ Fonte: LibreOffice Brasil</description>
     
     <item>
       <title>Resumo semanal 01</title>
-      <link>http://ubuntero.com.br/resumo-semanal-01/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</link>
       <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resumo-semanal-01/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</guid>
       <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
 Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
 A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>
@@ -243,10 +243,10 @@ A sessão ainda não tem nome e então está lançada aí chamada para sugestõe
     
     <item>
       <title>Atualizando o Libreoffice via PPA</title>
-      <link>http://ubuntero.com.br/atualizando-o-libreoffice-via-ppa/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/atualizando-o-libreoffice-via-ppa/</link>
       <pubDate>Wed, 09 Nov 2011 13:14:41 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/atualizando-o-libreoffice-via-ppa/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/atualizando-o-libreoffice-via-ppa/</guid>
       <description>O Ubuntu costuma ter versões novas dos programas, mas algumas atualizações podem demorar um pouco para entrar na distribuição e outras podem não entrar. No caso do LibreOffice temos um PPA que nos ajuda a manter a suíte de escritório sempre atualizada.
 Para adicionar o PPA abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:
 sudo apt-add-repository ppa:libreoffice/ppa Pressione Enter quando for pedido e digite os seguintes comandos após terminar de adicionar o PPA:</description>
@@ -254,10 +254,10 @@ sudo apt-add-repository ppa:libreoffice/ppa Pressione Enter quando for pedido e 
     
     <item>
       <title>Menu Global no LibreOffice</title>
-      <link>http://ubuntero.com.br/menu-global-no-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/menu-global-no-libreoffice/</link>
       <pubDate>Fri, 28 Oct 2011 10:16:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/menu-global-no-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/menu-global-no-libreoffice/</guid>
       <description>Na instalação padrão do Ubuntu, o LibreOffice não vem com o menu global funcionando. Para fazermos isto manualmente devemos executar um único comando.
 Para isso abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:
 sudo apt-get install lo-menubar Para mim, aparentou não funcionar ao abrir o LibreOffice pela primeira vez após o comando. Fechei o programa e abri novamente e o LibreOffice então abriu com o menu global habilitado.</description>
@@ -265,30 +265,30 @@ sudo apt-get install lo-menubar Para mim, aparentou não funcionar ao abrir o Li
     
     <item>
       <title>Paginação no LibreOffice</title>
-      <link>http://ubuntero.com.br/paginacao-no-libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</link>
       <pubDate>Wed, 19 Oct 2011 10:58:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/paginacao-no-libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</guid>
       <description>Tenho ajudado minha esposa nos vários trabalhos que ela tem para entregar na Faculdade e uma coisa bem chata de se fazer no LibreOffice é a simples tarefa de numerar páginas. A maneira que eu utilizava até ontem para esta tarefa é a maneira considerada difícil, mas encontrei uma maneira mais fácil no viva o Linux.
 Como eu fazia Posicionar o cursor na última página da página anterior de onde você quer começar a numerar.</description>
     </item>
     
     <item>
       <title>Lançado o livro LibreOffice Para Leigos</title>
-      <link>http://ubuntero.com.br/lancado-o-livro-libreoffice-para-leigos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-livro-libreoffice-para-leigos/</link>
       <pubDate>Tue, 26 Apr 2011 19:01:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-o-livro-libreoffice-para-leigos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-livro-libreoffice-para-leigos/</guid>
       <description>Desde o final do ano passado, estava escrevendo o livro, aproveitando as férias de janeiro e momentos de folga durante a semana e finais de semana. Mas finalmente ficou pronto minha primeira obra, LibreOffice Para Leigos.
 Enquanto estava escrevendo o livro, ocorreram diversas alterações como a logomarca, mudança do nome, lançamento de versões e extinção da ONG, mas depois de algumas correções e diagramação, segue o link para vocẽs fazerem download.</description>
     </item>
     
     <item>
       <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
       <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
       <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
 O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
  Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>
@@ -296,10 +296,10 @@ O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, L
     
     <item>
       <title>LibreOffice</title>
-      <link>http://ubuntero.com.br/libreoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/libreoffice/</link>
       <pubDate>Sat, 08 Jan 2011 11:00:26 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/libreoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/libreoffice/</guid>
       <description>Dizem as más e boas línguas que o Ubuntu 11.04 virá com o LibreOffice no lugar do Oracle Openoffice. Ainda não pude ver isto na versão alpha 1, quem sabe na alpha 2 já tenhamos esta mudança que considero bem acertada.
 Para você que não aguenta esperar nem o lançamento de uma versão final do LibreOffice, vamos ver agora como é fácil instalar o LibreOffice no seu Ubuntu 10.10.
 No artigo anterior mostramos alguns PPA&amp;#8217;s interessantes e agora vamos nos utilizar mais uma vez dele para fazermos a instalação de um programa.</description>

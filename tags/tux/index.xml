@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tux on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/tux/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/tux/</link>
     <description>Recent content in Tux on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 24 Apr 2011 13:45:13 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/tux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/tux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Feliz Páscoa</title>
-      <link>http://ubuntero.com.br/feliz-pascoa/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/feliz-pascoa/</link>
       <pubDate>Sun, 24 Apr 2011 13:45:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/feliz-pascoa/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/feliz-pascoa/</guid>
       <description>Queremos desejar a todos uma feliz páscoa.  </description>
     </item>
     

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papel De Parede on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/papel-de-parede/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/papel-de-parede/</link>
     <description>Recent content in Papel De Parede on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 18 Feb 2014 18:40:12 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/papel-de-parede/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/papel-de-parede/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Concurso para escolher os papeis de parede do Ubuntu 14.04</title>
-      <link>http://ubuntero.com.br/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</link>
       <pubDate>Tue, 18 Feb 2014 18:40:12 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</guid>
       <description>Artistas digitais e fotógrafos, agora é a vez da colaboração de vocês para o Ubuntu 14.04 LTS com suas fotos ou criações digitais.
 Todos estão livres para criar, não existe um tema definido, apenas algumas recomendações como simplicidade, um único ponto de foco, ter relação com o design do Unity e resolução mínima de 2560 x 1600. Além disso, as imagens devem estar disponíveis sobre a licença Creative Commons ShareAlike 3.</description>
     </item>
     
     <item>
       <title>Ubuntu 13.10: Wallpapers, Firefox, correções gráficas e apps do Touch</title>
-      <link>http://ubuntero.com.br/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</link>
       <pubDate>Tue, 03 Sep 2013 11:22:11 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</guid>
       <description>Veja em vídeo, os wallpapers da nova versão do Ubuntu, correções na aparência de aplicativos GNOME 3, aplicativos do Ubuntu Touch rodado no Desktop, e o Firefox como navegador padrão do Ubuntu.
  Assistir no Youtube Este vídeo é uma parceria entre o site Ubuntero e o LinuxVlog.</description>
     </item>
     
     <item>
       <title>Vídeo como papel de parede</title>
-      <link>http://ubuntero.com.br/video-como-papel-de-parede/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/video-como-papel-de-parede/</link>
       <pubDate>Tue, 03 Jan 2012 12:09:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/video-como-papel-de-parede/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/video-como-papel-de-parede/</guid>
       <description>Não sou o maior defensor dos efeitos que não acrescentam funcionalidade real ao sistema, mas algumas vezes eles também me conquistam, nem que seja por alguns poucos minutos. A opção de usar um vídeo como papel de parede foi um destes efeitos que me conquistaram.
 A dica original está no site nOObs on Ubuntu e o que fiz foi apenas traduzir os scripts que estão nos links abaixo para 32 e 64 bits respectivamente.</description>
     </item>

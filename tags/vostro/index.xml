@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vostro on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/vostro/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/vostro/</link>
     <description>Recent content in Vostro on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 05 Mar 2014 13:23:59 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/vostro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/vostro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #53 – Dell Vostro 5470</title>
-      <link>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</link>
       <pubDate>Wed, 05 Mar 2014 13:23:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</guid>
       <description>O carnaval atrapalhou a postagem do Videocast, pequenos problemas com DNS e com a conexão lá no meio do mato onde eu estava. No episódio de hoje mostro o Dell Vostro 5479. Ele não é um Ultrabook, mas pode brigar com eles se você não se importar com a qualidade do som. O notebook é muito leve e rápido. Como bônus, consegui ele na versão com e sem Touch Screen e mostro os dois com Ubuntu, mesmo eles não vindo com Linux de fábrica.</description>
     </item>
     
     <item>
       <title>Videocast #43 – Dell Vostro 3460</title>
-      <link>http://ubuntero.com.br/videocast-43-dell-vostro-3460/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</link>
       <pubDate>Sun, 01 Sep 2013 16:16:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-43-dell-vostro-3460/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</guid>
       <description>Neste episódio eu mostro mais um computador Dell rodando Ubuntu, mas desta vez o Ubuntu não vem instalado de fábrica. Mesmo assim quase tudo funciona perfeitamente, para variar o leitor biométrico continua sem funcionar, uma grande falha da Dell ao escolher este modelo de leitor biométrico.
  Assistir no Youtube Gostou do notebook? Compre por este ou este link e ajude o site.
 &amp;nbsp;</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Review semanal 06</title>
-      <link>http://ubuntero.com.br/review-semanal-06/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</link>
       <pubDate>Sun, 05 Feb 2012 20:44:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-06/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</guid>
       <description>Após novos problemas na gravação dos vídeos do desktop que necessitam conversão para que a edição seja possível, via twitter consegui a solução(vai ter postagem especial para isto) e voltamos a ter os reviews com as gravações do desktop.
 Neste episódio temos uma overdose de Ubuntu. Começamos falando do Ubuntu 10.10 que vem instalado no Dell Vostro 3450, passamos ao Ubuntu 11.10 instalado no mesmo computador e no final mostramos um pouco do Ubuntu 12.</description>
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bumblebee on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/bumblebee/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/bumblebee/</link>
     <description>Recent content in Bumblebee on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 26 Apr 2013 13:01:31 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/bumblebee/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/bumblebee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resolvendo problema com bumblebee no Ubuntu 13.04</title>
-      <link>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</link>
       <pubDate>Fri, 26 Apr 2013 13:01:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</guid>
       <description>Artigo enviado por Flavio Brandão (@airdumb)
 Se você está enfrentando problemas ao utilizar o bumblebee no Ubuntu 13.04, saiba que já existem duas soluções para este problema. A mais difícil por N motivos é fazer o downgrade do Xorg, porém, existe outro método que você pode aplicar. Na nova versão do Ubuntu, arquivo de configuração do drive vem sem a informação do BusID, logo, quando você tenta rodar o bumblebee, ele diz que a placa de vídeo não existe e da o erro abaixo:</description>
     </item>
     
     <item>
       <title>Dell XPS com Intel e Nvidia</title>
-      <link>http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dell-xps-com-intel-e-nvidia/</link>
       <pubDate>Mon, 02 Apr 2012 16:30:40 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dell-xps-com-intel-e-nvidia/</guid>
       <description>Usuários de notebooks com placas de vídeo híbridas Intel e Nvidia tem enfrentado graves problemas referentes a má utilização do hardware devido a baixa qualidade dos drivers disponíveis para Linux. Além de a mudança entre as placas não ser feita, os usuários sofrem também com o superaquecimento de seus equipamentos, nem preciso dizer que isto reduz a vida útil do computador e das baterias.
 Para resolver este problema, em um notebook Dell XPS os seguintes passos resolveram:</description>
     </item>

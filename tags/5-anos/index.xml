@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 Anos on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/5-anos/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/5-anos/</link>
     <description>Recent content in 5 Anos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 26 Jun 2011 18:29:53 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/5-anos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/5-anos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>5 anos</title>
-      <link>http://ubuntero.com.br/5-anos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/5-anos/</link>
       <pubDate>Sun, 26 Jun 2011 18:29:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/5-anos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/5-anos/</guid>
       <description>Quem diria? Há cinco anos começava a história deste blog. No meu quarto, em um pentium 100 com 32 MB de Ram começou o Ubuntero. No início nem nome tinha o blog, logo depois recebeu o nome de Ubuntero. Nos primeiros meses era um milagre ter 50 page views e o pentim 100 dava conta com sobra, mas o blog começou a se tornar conhecido e o pentium 100 foi substituído por um k6-II 500 com 128 MB de memória e assim foi por um bom tempo até começar a ser hospedado em um servidor de verdade.</description>
     </item>
     

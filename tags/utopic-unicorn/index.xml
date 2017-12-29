@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utopic Unicorn on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/utopic-unicorn/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/utopic-unicorn/</link>
     <description>Recent content in Utopic Unicorn on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 30 Apr 2014 12:58:35 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/utopic-unicorn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/utopic-unicorn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Divulgado calendário do Ubuntu 14.10</title>
-      <link>http://ubuntero.com.br/divulgado-calendario-do-ubuntu-14-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/divulgado-calendario-do-ubuntu-14-10/</link>
       <pubDate>Wed, 30 Apr 2014 12:58:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/divulgado-calendario-do-ubuntu-14-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/divulgado-calendario-do-ubuntu-14-10/</guid>
       <description>Como prometido, aqui está o calendário da próxima versão do Ubuntu 14.10.
 Como muitas pessoas tem dificuldade em interpretar a tabela abaixo, as principais informações são:
  Alpha 1 &amp;#8211; 26 de junho Alpha 2 – 24 de julho Congelamento de funcionalidades — 21 de agosto Beta 1 – 28 de agosto UI Freeze — 11 de setembro Beta Final – 25 de setembro Congelamento do Kernel — 2 de outubro Candidato a versão final – 9 de outubro Lançamento da versão final – 16 de outubro  &amp;nbsp;</description>

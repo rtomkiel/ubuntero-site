@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravação De Disco on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-de-disco/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o-de-disco/</link>
     <description>Recent content in Gravação De Disco on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Jan 2012 13:42:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-de-disco/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o-de-disco/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brasero não abre após instalar Unity 5</title>
-      <link>http://ubuntero.com.br/brasero-nao-abre-apos-instalar-unity-5/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/brasero-nao-abre-apos-instalar-unity-5/</link>
       <pubDate>Tue, 24 Jan 2012 13:42:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/brasero-nao-abre-apos-instalar-unity-5/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/brasero-nao-abre-apos-instalar-unity-5/</guid>
       <description>Se você, como eu, instalou a versão 5 do Unity para testar e teve problemas para abrir o gravador de disco Brasero, a solução é bem simples e passa pela criação de um link para a biblioteca mais nova. O Brasero instalado no Ubuntu 11.10 utiliza a versão 6 da biblioteca, mas no Unity 5 a biblioteca está na versão 9 então abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:</description>
     </item>
     

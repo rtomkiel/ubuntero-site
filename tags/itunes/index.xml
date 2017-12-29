@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Itunes on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/itunes/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/itunes/</link>
     <description>Recent content in Itunes on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 11 Mar 2011 11:47:32 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/itunes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/itunes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mudança de data do Tchelinux em Erechim, mudança do logotipo no planeta-ubuntu-br e Opencast</title>
-      <link>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
       <pubDate>Fri, 11 Mar 2011 11:47:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
       <description>Queremos dar algumas pequenas mas importantes informações sobre o site e sobre o Seminário Tchelinux em Erechim.
 Vamos começar pela notícia mais importante. A data de realização do Seminário Tchelinux em Erechim precisou sofrer alteração devido ao calendário de eventos da cidade que estará cheio de alternativas no dia 30 de abril. A nova data será no dia 14 de maio, o que acarreta em mais tempo para organizarmos o evento e mais tempo para que todos submetam suas palestras no formulário que já disponibilizamos em outro post.</description>
     </item>

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lançador on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/lan%C3%A7ador/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/lan%C3%A7ador/</link>
     <description>Recent content in Lançador on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 03 Jun 2013 03:27:15 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/lan%C3%A7ador/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/lan%C3%A7ador/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #36 – Primeiros passos no Ubuntu – Vídeo 4</title>
-      <link>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-36-primeiros-passos-no-ubuntu-video-4/</link>
       <pubDate>Mon, 03 Jun 2013 03:27:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-36-primeiros-passos-no-ubuntu-video-4/</guid>
       <description>Depois de um final de semana de trabalho, do tipo que paga as contas e não no site, e 3 gravações do desktop, enfim está no ar o quarto vídeo da nossa série &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;.
 Neste vídeo apresento o Unity e tento botar na cabeça de todos que você não precisa saber o nome dos programas que quer abrir, precisa saber o que quer fazer. Acredito que agora ninguém tenha mais dúvida sobre como usar o sistema, ainda falta muita coisa para mostrar sobre o Ubuntu, nem mostrei a utilização do HUD neste vídeo, pretendo usar onde ele é realmente útil em um futuro vídeo.</description>
     </item>
     
     <item>
       <title>Re-habilitar o efeito “dodge” no 12.04</title>
-      <link>http://ubuntero.com.br/re-habilitar-o-efeito-dodge-no-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/re-habilitar-o-efeito-dodge-no-12-04/</link>
       <pubDate>Mon, 30 Apr 2012 13:51:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/re-habilitar-o-efeito-dodge-no-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/re-habilitar-o-efeito-dodge-no-12-04/</guid>
       <description>Para quem vem do Ubuntu 11.10, o comportamento &amp;#8220;dodge&amp;#8221; que esconde o lançador quando uma janela ocupa a área do lançador pode fazer falta, concordo que no início eu achava isto mas me acostumei ao ponto de não sentir falta.
 Para re-habilitar este comportamento você pode utilizar um PPA, mas lembre que não é oficial e qualquer problema que venha a acontecer a culpa deve ser dada ao desenvolvedor do PPA e não a Canonical.</description>
     </item>
     
     <item>
       <title>Launcher na parte de Baixo da tela</title>
-      <link>http://ubuntero.com.br/launcher-na-parte-de-baixo-da-tela/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/launcher-na-parte-de-baixo-da-tela/</link>
       <pubDate>Thu, 27 Oct 2011 19:04:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/launcher-na-parte-de-baixo-da-tela/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/launcher-na-parte-de-baixo-da-tela/</guid>
       <description>Esta dica é para muitos que simplesmente não conseguiram, ou não quiseram, se acostumar com a mudança do local onde os programas abertos aparecem.
 Esta dica é apenas para quem utiliza o Unity 3D e Ubuntu 32 bits, não tem pacote para 64 bits, pois utiliza um plugin do Compiz para fazer a mágica!
 Para começar, faça o download do arquivo. Aqui ou aqui.

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu Touch on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntu-touch/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-touch/</link>
     <description>Recent content in Ubuntu Touch on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 13 Jun 2014 02:34:53 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntu-touch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-touch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #35 – Fim do Ubuntu One e TrueCrypt</title>
-      <link>http://ubuntero.com.br/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
       <pubDate>Fri, 13 Jun 2014 02:34:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
       <description>Como avisado, atrasamos em um dia o lançamento deste episódio. Mesmo contra todas as agendas que deram errado, conseguimos gravar um episódio bacaninha para vocês. Neste episódio Ivan e Diego comentam algumas notícias sobre o mundo das tecnologias livres.
 Links do episódio  Provedores deveriam isolar computadores infectados 10 novidades do OS X que já existiam no Ubuntu Smart TV da Samsung com Tizen em breve Vodafone confirma coleta de dados Fim do Ubuntu One TrueCrypt não morreu Modelos hibridos da Dell com Ubuntu Mozila vai oferecer serviço de conferência em áudio e vídeo nativo no navegador Comparativo clang e gcc Porta dos fundos no expresso Sem porta dos fundos no expresso Meizu mostra Ubuntu Touch na Mobile Asia Expo 2014  Twitter: @tecnologiaabert</description>
     </item>
     
     <item>
       <title>Ubuntu trará a verdadeira convergência antes da Microsoft</title>
-      <link>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</link>
       <pubDate>Mon, 30 Dec 2013 12:57:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</guid>
       <description>A convergência já deve chegar no Ubuntu 14.10 ou mais tardar na versão 15.04, aonde a mesma base de código (sistema operacional) irá rodar nos smartphones, tablets e desktops.
 Em entrevista concedida a PCPro o diretor da Canonical, Mark Shuttleworth falou sobre os planos de convergência para o Ubuntu, aonde o atual ciclo de atualizações poderá ser abandonado e sendo liberadas automaticamente &amp;#8220;sempre&amp;#8221; que estiverem prontas.
 Essa não seria a primeira vez que o ciclo de atualizações do Ubuntu seria alterada, recentemente o período de suporte das versões interim (versões não LTS) passou de 18 para 9 meses, cogitando-se até que nas próximas versões o Ubuntu poderá se tornar uma pseudo &amp;#8220;rolling release&amp;#8221;.</description>
@@ -34,39 +34,39 @@ Essa não seria a primeira vez que o ciclo de atualizações do Ubuntu seria alt
     
     <item>
       <title>Empresas de telefonia mostram interesse no Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</link>
       <pubDate>Thu, 20 Jun 2013 13:07:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</guid>
       <description>A Canonical anunciou a criação de um consórcio, Ubuntu Carrier Advisor Group(CAG), formado por 8 empresas que mostram o interesse em suportar o Ubuntu Touch. Fazem parte do grupo a Deutsche Telekom, Everything Everywhere, Telecom Italia, Korea Telecom, LG UPlus, Portugal Telecom, e SK Telecom. Este grupo é independente e tem como objetivo influenciar o roadmap do projeto. Vejam que é influenciar e não definir, que isso fique bem claro para os trolls que tentam aproveitar todas as oportunidades.</description>
     </item>
     
     <item>
       <title>Flisol Chapecó 2013</title>
-      <link>http://ubuntero.com.br/flisol-chapeco-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</link>
       <pubDate>Tue, 30 Apr 2013 12:25:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/flisol-chapeco-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</guid>
       <description>No dia 27 de abril aconteceu o Flisol 2013 por toda a América Latina e o local mais próximo da minha humilde residência foi Chapecó &amp;#8211; SC, mas este não foi o único motivo pelo qual estive no evento.
 Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela vakinha que ainda está em andamento.</description>
     </item>
     
     <item>
       <title>Ubuntu for Phones portado para novos aparelhos</title>
-      <link>http://ubuntero.com.br/ubuntu-for-phones-portado-para-novos-aparelhos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-phones-portado-para-novos-aparelhos/</link>
       <pubDate>Wed, 27 Feb 2013 11:53:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-for-phones-portado-para-novos-aparelhos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-phones-portado-para-novos-aparelhos/</guid>
       <description>Depois de anunciar as imagens diárias do Ubuntu for Phones, podemos ver o quão incrível o software livre pode ser. Extra oficialmente temos um grande número de aparelhos que já podem rodar o preview do Ubuntu for Phones, e todos resultado de trabalho da comunidade.
 A principal comunidade envolvida em portar o Ubuntu for Phones para outros aparelhos é a XDA Developers. Veja uma lista de aparelhos que já podem receber o Ubuntu for Phones graças a eles.</description>
     </item>
     
     <item>
       <title>Sai Ubuntu for Phones e volta Android</title>
-      <link>http://ubuntero.com.br/sai-ubuntu-for-phones-e-volta-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</link>
       <pubDate>Sun, 24 Feb 2013 16:26:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/sai-ubuntu-for-phones-e-volta-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</guid>
       <description>Ok, você já viu como instalar o Ubuntu for Phones no Galaxy X, instalou, e viu que está muito cru para usar e quer voltar ao Android, mas não sabe como fazer. Não se preocupe que é fácil e de lambuja vamos voltar ao Android 4.2.2 e não a imagem oficial da Samsung que ainda nos traz o Android 4.1.
 A descrição de como retornar ao Android está na mesma página que ensina a instalar o Ubuntu for Phones, o que está neste artigo é apenas a tradução, claro que já testei e voltei a versão no Galaxy X mostrado no VideoCast 26 &amp;#8211; Galaxy X e Ubuntu for Phones.</description>
     </item>

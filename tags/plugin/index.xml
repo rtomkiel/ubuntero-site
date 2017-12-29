@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plugin on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/plugin/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/plugin/</link>
     <description>Recent content in Plugin on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 May 2011 14:27:47 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mostrar barra de downloads no ícone do firefox no Ubuntu 11.04</title>
-      <link>http://ubuntero.com.br/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</link>
       <pubDate>Thu, 05 May 2011 14:27:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</guid>
       <description>Os dias vão passando e algumas coisas vão surgindo para facilitar ainda mais a vida de quem utiliza o Ubuntu 11.04. Os desenvolvedores estão aprendendo como podem usar melhor a interface a seu favor ao invés de simplesmente reclamar que as coisas mudaram e que terão que aprender coisas novas.
 A dica de hoje é de um plugin do firefox para mostrar a barra de progresso downloads do firefox diretamente no ícone do lançador na barra de lançadores no lado esquerdo.</description>
     </item>

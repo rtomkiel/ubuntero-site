@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/wine/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/wine/</link>
     <description>Recent content in Wine on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 11 Sep 2013 03:09:44 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>League of Legends no Ubuntu 13.04</title>
-      <link>http://ubuntero.com.br/league-of-legends-no-ubuntu-13-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/league-of-legends-no-ubuntu-13-04/</link>
       <pubDate>Wed, 11 Sep 2013 03:09:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/league-of-legends-no-ubuntu-13-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/league-of-legends-no-ubuntu-13-04/</guid>
       <description>Calma galera, ainda não lançaram o jogo para Linux, mas isto não significa que não possamos jogar. Através do Wine e do excelente trabalho dos desenvolvedores do PlayOnLinux, o Jogo League of Legends já pode ser rodando no Linux.
 Infelizmente não vai rodar em qualquer computador. Eu fiz testes no meu notebook Dell Vostro 3460 com VGA Intel integrada e não consegui passar do lançador do jogo, mesmo a instalação ocorrendo sem nenhum erro.</description>
     </item>
     
     <item>
       <title>Usando o CrossOver no Kubuntu 12.10</title>
-      <link>http://ubuntero.com.br/usando-o-crossover-no-kubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</link>
       <pubDate>Thu, 01 Nov 2012 11:24:29 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/usando-o-crossover-no-kubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</guid>
       <description>Para quem aproveitou e fez o download do CrossOver ontem, totalmente gratuito, mas não sabe como trabalhar com a ferramenta, hoje vou mostrar como trabalhar com ela no Kubuntu, em breve mostrarei como trabalhar no Unity.
 Para começo de conversa, algumas pessoas passaram por dificuldade para instalar o pacote deb em sistemas 64 bits. Vou mostrar aqui como instalar pela linha de comando com apenas três comandos. Abra o terminal pressionando as teclas Alt+F2 e digite o comando &amp;#8220;konsole&amp;#8221; sem as aspas e então pressione Enter.</description>
     </item>
     
     <item>
       <title>CrossOver de graça é só hoje</title>
-      <link>http://ubuntero.com.br/crossover-de-graca-e-so-hoje/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/crossover-de-graca-e-so-hoje/</link>
       <pubDate>Wed, 31 Oct 2012 11:04:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/crossover-de-graca-e-so-hoje/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/crossover-de-graca-e-so-hoje/</guid>
       <description>Não é a primeira vez que a CodeWeaver, empresa responsável pelo CrossOver e por muita contribuição ao wine, dá licenças gratuitas para qualquer usuário, já anunciamos isto aqui no blog no passado, infelizmente a postagem foi perdida durante alguns anos de migrações de servidores.
 A empresa costuma anunciar um desafio, se este for cumprido ela dá um dia de licenças de um ano grátis para quem tiver interesse. Da última vez estava relacionado ao preço do petróleo no Governo Bush, este ano estava atrelado ao número de pessoas nas eleições dos Estados Unidos.</description>
     </item>
     
     <item>
       <title>Review Semanal #10 – Wine</title>
-      <link>http://ubuntero.com.br/review-semanal-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-10/</link>
       <pubDate>Mon, 19 Mar 2012 13:36:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-10/</guid>
       <description>Há muito tempo eu queria fazer um post sobre o Wine e neste final de semana consegui fazer para o Review Semanal. Não reparem para a falta de qualidade da imagem quando algum programa aparece rodando pelo wine, o gravador de tela resolveu sacanear só nestas partes, mas as janelas aparecem normal no programa.</description>
     </item>
     
     <item>
       <title>Jogo GrandFantasia no Wine</title>
-      <link>http://ubuntero.com.br/jogo-grandfantasia-no-wine/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/jogo-grandfantasia-no-wine/</link>
       <pubDate>Sun, 06 Nov 2011 15:50:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/jogo-grandfantasia-no-wine/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/jogo-grandfantasia-no-wine/</guid>
       <description>Para quem gosta de jogos, hoje teremos uma ótima dica. Um jogo MMORPG em português e gratuito. O nome deste jogo é Grand Fantasia, mas ele não tem versão para Linux. O que fazemos então? Utilizaremos o programa Wine para instalar e rodar o jogo no Ubuntu.
 A primeira coisa que temos a fazer é adicionar o repositório do wine para instalarmos a última versão. Para isso abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:</description>
     </item>
     
     <item>
       <title>Q4Wine</title>
-      <link>http://ubuntero.com.br/q4wine/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/q4wine/</link>
       <pubDate>Thu, 01 Sep 2011 12:05:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/q4wine/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/q4wine/</guid>
       <description>Em tempos de Unity, tornou-se diferente a forma de organizar os atalhos no Ubuntu. E o que eu menos quero no meu desktop é enchê-lo de atalhos! Como posso então centralizar TODOS os softwares da MS que eu utilizo no Linux em um só local? A melhor alternativa que eu encontrei é o Q4Wine.
 Para instalar abra um terminal e digite:
 sudo apt-get install q4wine Depois de instalá-lo você pode arrastar para a barra do Unity e a partir dali centralizar todos os atalhos.</description>
@@ -73,30 +73,30 @@ sudo apt-get install q4wine Depois de instalá-lo você pode arrastar para a bar
     
     <item>
       <title>Linux vs Windows – Jogos</title>
-      <link>http://ubuntero.com.br/linux-vs-windows-jogos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</link>
       <pubDate>Mon, 25 Apr 2011 12:52:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/linux-vs-windows-jogos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</guid>
       <description>Ao contrário do que alguns falaram nos comentários do artigo anterior, a licença do Windows 7 que comprei não serve apenas para que eu possa falar mal do sistema, não sou louco para fazer isto.
 Como no primeiro artigo, onde falei da instalação dos dois sistemas, o Windows 7 perdeu de lavada para o Ubuntu 11.04, neste artigo irei falar de um campo onde o Windows ganha de lavada do Ubuntu e outros Linux.</description>
     </item>
     
     <item>
       <title>Phonemic Chart no Ubuntu</title>
-      <link>http://ubuntero.com.br/phonemic-chart-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/phonemic-chart-no-ubuntu/</link>
       <pubDate>Mon, 14 Mar 2011 11:00:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/phonemic-chart-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/phonemic-chart-no-ubuntu/</guid>
       <description>Para quem estuda inglês e sente falta dos símbolos fonéticos, bem como suas pronúncias nas aulas, o Phonemic Chart é uma boa saída. No entanto, o programa está disponível somente para sistemas Windows e Mac. A soluç﻿ão encontrada para instalá-lo no Ubuntu é através do Wine.
 Com o Wine em &amp;#8220;ponto de bala&amp;#8221; no seu micro, baixe o Phonemic Chart clicando aqui. Devidamente baixado, clique com o botão direito do seu mouse no arquivo e dê &amp;#8220;Propriedades&amp;#8221; &amp;#8211; Aba &amp;#8220;Permissões&amp;#8221; &amp;#8211; clique em &amp;#8220;Permitir execução do arquivo como um programa&amp;#8221;.</description>
     </item>
     
     <item>
       <title>Internet Explorer no Linux</title>
-      <link>http://ubuntero.com.br/internet-explorer-no-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</link>
       <pubDate>Wed, 05 Jul 2006 11:00:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/internet-explorer-no-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</guid>
       <description>Acredito que muitos já tenham tentado instalar algum programa para Windows em seus computadores com o auxílio do Wine. Muitos dos programas mais simples funcionam sem nenhum problema, no entantanto, alguns pedem que outros recursos sejam instalandos anteriormente. A lista de recursos vai desde fontes utilizadas pelo windows, passando por dll&amp;#8217;s de systema ou de terceiros, até alguns programas como o famoso, e cheio de falhas, Internet Explorer.
 Instalar e já sair usando o Internet Explorer no linux não é tão simples como parece.</description>
     </item>

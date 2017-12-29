@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu Edge on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntu-edge/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-edge/</link>
     <description>Recent content in Ubuntu Edge on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 31 Jul 2013 14:11:18 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntu-edge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-edge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novo “prêmio” para pequenas doações para o Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</link>
       <pubDate>Wed, 31 Jul 2013 14:11:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</guid>
       <description>Se você, como eu, não tem dinheiro para comprar o seu Ubuntu Edge, fique tranquilo que a Canonical está pensando em nós e aos poucos vai disponibilizando &amp;#8220;prêmios&amp;#8221; menores.
 O prêmio da vez é uma camiseta exclusiva com a marca do Ubuntu Edge. Para ter o direito a camiseta você deve doar o valor de US$ 50.00.
  Não deixe para amanhã e faça sua doação por este link.</description>

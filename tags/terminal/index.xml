@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/terminal/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/terminal/</link>
     <description>Recent content in Terminal on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 21 Jun 2015 13:35:42 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apt-get upgrade ou dist-upgrade?</title>
-      <link>http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/apt-get-upgrade-ou-dist-upgrade/</link>
       <pubDate>Sun, 21 Jun 2015 13:35:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/apt-get-upgrade-ou-dist-upgrade/</guid>
       <description>Para quem utiliza o terminal, mesmo que já tenha alguma experiência, a palavra dist-upgrade ainda gera bastante confusão e, ao contrário do que muita gente imagina, não vai atualizar sua distribuição para uma versão mais nova como por exemplo da 14.10 para a 15.04.
 Para auxiliar nesta explicação, vou apelar para o manual do comando(man apt-get):
  upgrade
@@ -25,10 +25,10 @@ upgrade é usado para instalar as versões mais recentes de todos os pacotes pre
     
     <item>
       <title>Atualizando uma imagem .iso do Ubuntu com zsync</title>
-      <link>http://ubuntero.com.br/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</link>
       <pubDate>Sat, 04 Aug 2012 20:46:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</guid>
       <description>Essa dica é para quem costuma baixar com frequência as imagens .iso do Live CD/DVD do Ubuntu e também para economizar no consumo de tráfego de dados de sua internet.
 Usando o zsync é possível fazer uma atualização da imagem .iso que você já baixou, aonde será feita uma comparação entre as imagens e irá baixar somente as diferenças.
 Exemplo: você tem a imagem .iso de uma versão Alpha 2 e quer baixar a Alpha 3, usando o zsync será feita uma leitura da imagem que você possui e comparar com a nova imagem a ser baixada, após irá iniciar o download de somente as diferenças entre os arquivos.</description>
@@ -36,10 +36,10 @@ Exemplo: você tem a imagem .iso de uma versão Alpha 2 e quer baixar a Alpha 3,
     
     <item>
       <title>Chromium, o Google Chrome “para Linux”</title>
-      <link>http://ubuntero.com.br/chromium-o-google-chrome-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</link>
       <pubDate>Wed, 02 Mar 2011 11:00:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/chromium-o-google-chrome-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</guid>
       <description>Desde sua primeira versão, o Google Chrome se tornou amado por muitos. Dentre esses fatores estão seu visual mais do que limpo e sua incrível velocidade. Mesmo que nas primeiras versões sua velocidade não fosse tão boa quanto nas versões atuais, não dá pra contestar a qualidade do navegador da Google nas suas versões mais atuais. Até a versão quatro do navegador, se não me engano (minha memória é péssima), nós usuários Linux em geral, não tínhamos acesso a versão oficial do Google Chrome.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>14r on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/14r/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/14r/</link>
     <description>Recent content in 14r on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 30 Sep 2013 13:01:59 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/14r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/14r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review – Notebook Dell Inspiron 14R com Ubuntu pré-instalado de fábrica</title>
-      <link>http://ubuntero.com.br/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</link>
       <pubDate>Mon, 30 Sep 2013 13:01:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</guid>
       <description>Artigo enviado por Jonathan
 É chato, iniciar um artigo com alguma desculpa, mas não escrevi o artigo antes por problemas pessoais. Cheguei a gravar todo processo, mas por usar uma webcam o áudio ficou horrível, tentei instalar um editor de vídeo para tentar resolver, o que não ajudou, daí a iniciativa de escrever o texto. Quando estava pesquisando sobre este notebook Inspiron 14R, não encontrei muita informação a não ser a do próprio site da Dell, motivando a escrever o artigo pensando em outros usuários que pretendam adquirir uma dessas máquinas.</description>
     </item>

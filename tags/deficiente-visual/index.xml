@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deficiente Visual on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/deficiente-visual/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/deficiente-visual/</link>
     <description>Recent content in Deficiente Visual on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 19 Apr 2011 11:24:29 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/deficiente-visual/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/deficiente-visual/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lançado linuxacessivel.org 2.0</title>
-      <link>http://ubuntero.com.br/lancado-linuxacessivel-org-2-0/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-linuxacessivel-org-2-0/</link>
       <pubDate>Tue, 19 Apr 2011 11:24:29 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-linuxacessivel-org-2-0/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-linuxacessivel-org-2-0/</guid>
       <description>linuxacessivel.org: nova imagem e agora também fala espanhol O linuxacessivel.org agora também fala espanhol. Graças ao amigo paraguaio Mario Bentiz e ao Latinoware 2010, temos o sitio satisfatoriamente traduzido e uma primeira imagem para o idioma de nossos vizinhos latinos americanos; onde esperamos que estes venham a somar em nossa comunidade e assim evoluirmos para uma melhor regionalização. Para tanto pedimos imensamente que divulguem o linuxacessivel.org para nossos irmãos da América Latina e outros países de idioma espanhol.</description>
     </item>
     

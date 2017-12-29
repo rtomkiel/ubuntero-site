@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nagios on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/nagios/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/nagios/</link>
     <description>Recent content in Nagios on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 21 Aug 2013 11:29:36 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/nagios/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/nagios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013</title>
-      <link>http://ubuntero.com.br/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
       <pubDate>Wed, 21 Aug 2013 11:29:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
       <description>O grupo Tchelinux, em parceria com a FTEC Caxias do Sul, tem o prazer de convidar a comunidade, independente do nível de conhecimento e experiência com a tecnologia, software livre e áreas afins, para participarem do Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013.
 Inscrições Com o objetivo de estimular a caridade e a boa vontade, o Tchelinux tradicionalmente não cobra um valor monetário para admissão em seus eventos, mas sim pede que cada participante doe 2kg de alimentos não perecíveis (exceto sal), que serão recolhidos no ato do credenciamento e doados a uma instituição local a ser definida.</description>
     </item>

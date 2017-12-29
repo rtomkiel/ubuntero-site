@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ddrescue on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ddrescue/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ddrescue/</link>
     <description>Recent content in Ddrescue on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 03 Jan 2011 02:37:55 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ddrescue/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ddrescue/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DVD riscado e seu drive não consegue mais ler?</title>
-      <link>http://ubuntero.com.br/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</link>
       <pubDate>Mon, 03 Jan 2011 02:37:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</guid>
       <description>Neste final de semana passei por esta situação com um DVD importante para seu proprietário. Os dados no DVD eram muito importante e uma cópia de segurança era extremamente necessária, no entanto a cópia não foi feita a tempo e a mídia já estava totalmente riscada.
 Como solução imediata pensei no comando &amp;#8220;dd&amp;#8221; no terminal, mas para minha surpresa eu conseguia copiar apenas 4.9 MB de dados antes de receber a mensagem de que a mídia estava com defeito.</description>
     </item>

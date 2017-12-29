@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oracle on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/oracle/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/oracle/</link>
     <description>Recent content in Oracle on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Apr 2012 20:19:25 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
-      <link>http://ubuntero.com.br/opencast-episodio-9/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
       <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-9/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
       <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
 Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
     </item>

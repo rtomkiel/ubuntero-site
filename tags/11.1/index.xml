@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>11.1 on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/11.1/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/11.1/</link>
     <description>Recent content in 11.1 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 03 Jan 2012 12:09:54 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/11.1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/11.1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vídeo como papel de parede</title>
-      <link>http://ubuntero.com.br/video-como-papel-de-parede/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/video-como-papel-de-parede/</link>
       <pubDate>Tue, 03 Jan 2012 12:09:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/video-como-papel-de-parede/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/video-como-papel-de-parede/</guid>
       <description>Não sou o maior defensor dos efeitos que não acrescentam funcionalidade real ao sistema, mas algumas vezes eles também me conquistam, nem que seja por alguns poucos minutos. A opção de usar um vídeo como papel de parede foi um destes efeitos que me conquistaram.
 A dica original está no site nOObs on Ubuntu e o que fiz foi apenas traduzir os scripts que estão nos links abaixo para 32 e 64 bits respectivamente.</description>
     </item>
     
     <item>
       <title>Novos vídeos no canal não oficial UbuntuAds</title>
-      <link>http://ubuntero.com.br/novos-videos-no-canal-nao-oficial-ubuntuads/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/novos-videos-no-canal-nao-oficial-ubuntuads/</link>
       <pubDate>Sat, 19 Nov 2011 11:22:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/novos-videos-no-canal-nao-oficial-ubuntuads/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/novos-videos-no-canal-nao-oficial-ubuntuads/</guid>
       <description>Dois novos vídeos foram disponibilizados no canal não oficial UbuntuAds no Youtube.
 Vírus Ubuntu 11.10 </description>
     </item>
     
     <item>
       <title>Firefox 8 via PPA (apenas Ubuntu 10.04 e 10.10)</title>
-      <link>http://ubuntero.com.br/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
       <pubDate>Wed, 09 Nov 2011 16:44:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
       <description>Seguindo a onda dos PPA e o lançamento do Firefox 8 seguem os passos para adicionar o PPA do Firefox para instalarmos a última versão nas versões 10.04 e 10.10.
 Abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:
 sudo apt-add-repository ppa:mozillateam/firefox-stable Pressione Enter quando for pedido e aguarde o terminal ser liberado. Após o terminal ser liberado digite os seguintes comandos:
@@ -45,30 +45,30 @@ sudo apt-get update sudo apt-get dist-upgrade Pronto, agora você terá sempre a
     
     <item>
       <title>Desabilitar Menu Global</title>
-      <link>http://ubuntero.com.br/desabilitar-menu-global/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/desabilitar-menu-global/</link>
       <pubDate>Wed, 26 Oct 2011 10:30:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/desabilitar-menu-global/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/desabilitar-menu-global/</guid>
       <description>Mesmo economizando bastante espaço no desktop, uma coisa que ainda não convenceu muito é a utilização do Menu Global pelo Unity. O menu global é o que faz com que os menus das aplicações saiam delas e fiquem na barra superior do sistema, dividindo lugar com a barra de título, sem conflitar com ela.
 Em conversas com um amigo, ele sugeriu que a barra só fosse disponibilizada na barra quando a aplicação estivesse maximizada, eu concordo que seria a melhor maneira para evitarmos de movimentar tanto o mouse para abrir um menu e depois voltar para a aplicação.</description>
     </item>
     
     <item>
       <title>Customizando o gerenciador de inicialização</title>
-      <link>http://ubuntero.com.br/customizando-o-gerenciador-de-inicializacao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/customizando-o-gerenciador-de-inicializacao/</link>
       <pubDate>Tue, 11 Oct 2011 14:16:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/customizando-o-gerenciador-de-inicializacao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/customizando-o-gerenciador-de-inicializacao/</guid>
       <description>Já precisou fazer alterações no GRUB( gerenciador de inicialização) e ficou perdido no meio dos arquivos de configuração?
 Muita gente sente a necessidade de fazer pequenas alterações na inicialização do sistema e se depara com os amedrontadores arquivos de configuração tradicionais do Linux. Estes arquivos são maravilhosos quando se domina a configuração de algo, mas quando se quer fazer coisas simples e não tem tempo de conhecer um aplicativo a fundo, estes arquivos se tornam apenas um bom motivo para se falar mal do sistema todo.</description>
     </item>
     
     <item>
       <title>Ubuntu 11.10 Beta 2</title>
-      <link>http://ubuntero.com.br/ubuntu-11-10-beta-2/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-10-beta-2/</link>
       <pubDate>Thu, 22 Sep 2011 23:19:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-10-beta-2/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-10-beta-2/</guid>
       <description>É com muito prazer que a equipe de desenvolvimento do Ubuntu anuncia o lançamento da segunda versão beta do Ubuntu 11.10.
 Mudanças desde a Beta 1 Novo conjunto de imagens suportado pela comunidade para processadores da arquitetura ARM que estão sendo disponibilizados a partir de agora até a versão f inal.
 Gnome atualizado para a versão instável 3.1.29 já visando a versão 3.2.
@@ -77,10 +77,10 @@ Recurso OneConf foi integrado a Central de programas do Ubuntu, para ajudar a ma
     
     <item>
       <title>Ubuntu 11.10 alpha 3</title>
-      <link>http://ubuntero.com.br/ubuntu-11-10-alpha-3/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-10-alpha-3/</link>
       <pubDate>Mon, 15 Aug 2011 11:30:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-10-alpha-3/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-10-alpha-3/</guid>
       <description>A próxima versão do Ubuntu já está em desenvolvimento a algum tempo e hoje vamos dar uma olhada no que já temos pronto, ou quase pronto.
 No vídeo abaixo podemos ver a nova tela de login que agora roda sobre o LightDM e não mais sobre o GDM. Também podemos ver o novo menu do Ubuntu que foi novamente reformulado mas segue o mesmo esquema do Ubuntu 11.04, alteração do alt+tab que pessoalmente não gostei e o me-menu que foi retirado.</description>
     </item>

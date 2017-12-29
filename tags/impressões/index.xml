@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressões on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/impress%C3%B5es/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/impress%C3%B5es/</link>
     <description>Recent content in Impressões on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 01 Jul 2006 00:28:52 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/impress%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/impress%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</title>
-      <link>http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</link>
       <pubDate>Sat, 01 Jul 2006 00:28:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</guid>
       <description>Começando um pouco atrasado mas começando.
 Dia primeiro de junho foi lançada a nova versão do Ubuntu Linux 6.06 Dapper Drake. Desde este dia estou usando esta versão que conseguiu me surpreender.
 A primeira grande mudança desta versão já aparece na hora de instalar o Ubuntu. Desta vez não temos mais uma versão &amp;#8220;Live CD&amp;#8221; separada da versão de instalação. Um ícone no desktop começaa todo o processo de instalação que também está muito mais simplificado e intuitivo.</description>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12.04 on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/12.04/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/12.04/</link>
     <description>Recent content in 12.04 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Apr 2014 13:03:29 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/12.04/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/12.04/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como atualizar o Ubuntu 12.04 para o 14.04</title>
-      <link>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
       <pubDate>Wed, 23 Apr 2014 13:03:29 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
       <description>Se você é usuário do Ubuntu 12.04, deve estar preocupado que a atualização para a versão 14.04 ainda não apareceu no seu gerenciador de atualizações. Pode ficar tranquilo que o seu Ubuntu não está com problema, este é o comportamento esperado para esta versão devido ao suporte até 2017 da versão 12.04. A notificação de atualização deve vir só em meados de julho, quando a versão 14.04.1 será lançada.
 Para atualizar para a versão 14.</description>
     </item>
     
     <item>
       <title>Videocast #32 – Primeiros passos no Ubuntu</title>
-      <link>http://ubuntero.com.br/videocast-32-primeiros-passos-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-32-primeiros-passos-no-ubuntu/</link>
       <pubDate>Mon, 22 Apr 2013 03:12:03 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-32-primeiros-passos-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-32-primeiros-passos-no-ubuntu/</guid>
       <description>De volta aos nossos vídeos quase semanais, hoje voltamos as origens do site e começaremos a ensinar todos os passos para começar no mundo do Ubuntu Linux.
 Neste primeiro vídeo mostramos como é fácil obter o Ubuntu e gravar em um CD/DVD ou pendrive. Nos próximos vídeos mostraremos o processo de instalação e utilização do sistema.
  Assistir no Youtube </description>
@@ -34,50 +34,50 @@ Neste primeiro vídeo mostramos como é fácil obter o Ubuntu e gravar em um CD/
     
     <item>
       <title>Guia Oficial do Ubuntu 12.04 LTS</title>
-      <link>http://ubuntero.com.br/guia-oficial-do-ubuntu-12-04-lts/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/guia-oficial-do-ubuntu-12-04-lts/</link>
       <pubDate>Thu, 05 Jul 2012 14:00:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/guia-oficial-do-ubuntu-12-04-lts/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/guia-oficial-do-ubuntu-12-04-lts/</guid>
       <description>&amp;#8220;Getting Started with Ubuntu 12.04&amp;#8221; é o manual Oficial do Ubuntu 12.04 LTS destinado para quem está conhecendo o Ubuntu e também para aqueles usuários mais experientes, que desejam conhecer as novidades e aprofundar seus conhecimentos no sistema operacional da Canonical.
 O guia gratuíto é mantido pela equipe do Ubuntu Manual Project e traz 143 páginas com guias ilustrados que abrangem desde como baixar o Ubuntu, instalação, apresentação detalhada do ambiente Unity, além de dicas de segurança e soluções de problemas.</description>
     </item>
     
     <item>
       <title>VídeoCast #13 – Ubuntu 12.04 LTS</title>
-      <link>http://ubuntero.com.br/videocast-13-ubuntu-12-04-lts/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-13-ubuntu-12-04-lts/</link>
       <pubDate>Sun, 29 Apr 2012 20:10:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-13-ubuntu-12-04-lts/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-13-ubuntu-12-04-lts/</guid>
       <description>Neste vídeo mostro um pouco do funcionamento do Ubuntu 12.04 LTS principalmente para os usuários que estão vindo da última versão LTS, a 10.04.
 Entenda que o Dash não é um lugar para apenas digitar o nome dos programas que quer que sejam abertos, você pode digitar o que quer fazer.</description>
     </item>
     
     <item>
       <title>Precise pangolin não gosta de hibernar</title>
-      <link>http://ubuntero.com.br/precise-pangolin-nao-gosta-de-hibernar/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</link>
       <pubDate>Mon, 23 Apr 2012 19:27:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/precise-pangolin-nao-gosta-de-hibernar/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</guid>
       <description>Esta é uma funcionalidade que não costumo usar, para falar a verdade eu só usei uma vez para ver o que acontecia, então não é algo que eu tenha notado, se não fosse o post do Andre Noel e o Cristiano Lazzari me perguntar eu nem saberia que isto não está mais acontecendo no 12.04.
 O problema é simples, a Canonical resolveu tirar a opção de hibernar da próxima versão do Ubuntu simplesmente por não funcionar em grande parte dos computadores existentes no mundo.</description>
     </item>
     
     <item>
       <title>Multi-monitores no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/multimonitores-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/multimonitores-no-ubuntu-12-04/</link>
       <pubDate>Fri, 06 Apr 2012 22:00:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/multimonitores-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/multimonitores-no-ubuntu-12-04/</guid>
       <description>Como prometido, um vídeo falando um pouco mais sobre multi-monitores no Ubuntu 12.04.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Indicator Multiload agora com PPA</title>
-      <link>http://ubuntero.com.br/indicator-multiload-agora-com-ppa/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/indicator-multiload-agora-com-ppa/</link>
       <pubDate>Tue, 03 Apr 2012 11:00:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/indicator-multiload-agora-com-ppa/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/indicator-multiload-agora-com-ppa/</guid>
       <description>Eu tinha prometido que assim que tivesse um PPA do multiload indicator eu voltaria a informar vocês e graças ao Marcio Tavares no artigo anterior eu voltei a procurar por um PPA e lá está ele no Launchpad.
 Para adicionar o PPA e instalar o multiload indicator, abra o terminal pressionando Cttl+Alt+t e digite os seguintes comando:
 sudo add-apt-repository ppa:indicator-multiload/stable-daily sudo apt-get update sudo apt-get install indicator-multiload Agora pressione Alt+F2 e digite, sem aspas, &amp;#8220;indicator-multiload&amp;#8221; e pressione Enter.</description>
@@ -85,10 +85,10 @@ sudo add-apt-repository ppa:indicator-multiload/stable-daily sudo apt-get update
     
     <item>
       <title>Videocast #11</title>
-      <link>http://ubuntero.com.br/videocast-11/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-11/</link>
       <pubDate>Mon, 02 Apr 2012 01:59:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-11/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-11/</guid>
       <description>Brincadeira de primeiro de abril que não podemos passar em branco, algumas pessoas mataram de primeira, outras ficaram desconfiadas.
 Estamos com novo nome, VideoCast, o que nos permitirá falar sobre qualquer coisa de software livre sem ser um review, isso não quer dizer que não faremos review.
 Esta semana não poderíamos falar de nada diferente do Ubuntu 12.04 Beta 2 e suas novidades, então é isto que você poderá ver neste vídeo.</description>
@@ -96,70 +96,70 @@ Esta semana não poderíamos falar de nada diferente do Ubuntu 12.04 Beta 2 e su
     
     <item>
       <title>Divulgada a arte dos CD’s do Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</link>
       <pubDate>Sun, 01 Apr 2012 18:12:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</guid>
       <description>Seguindo o mesmo padrão da versão anterior, aí está a arte das capas do Ubuntu 12.04 e da impressão nos CD&amp;#8217;s.
    Fonte: OMG Ubuntu </description>
     </item>
     
     <item>
       <title>Coloque o contador oficial para o lançamento do 12.04 em seu site</title>
-      <link>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</link>
       <pubDate>Thu, 29 Mar 2012 13:41:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</guid>
       <description>Está ansioso para o lançamento da 12.04? Acompanhe quanto tempo falta pra o lançamento adicionando um contador no seu site. Um concurso foi realizado para escolher o contador oficial para a próxima versão e os ganhadores foram estes que você está vendo abaixo:
  Para usar eles insira os códigos respectivos abaixo(na ordem de exibição acima). Primeiro &amp;lt;a href=&#34;http://www.ubuntu.com/&#34;&amp;gt; &amp;lt;img src=&#34;http://www.ubuntu.com/countdown/banner1.png&#34; border=&#34;0&#34; width=&#34;180&#34; height=&#34;150&#34; alt=&#34;The next version of Ubuntu is coming soon&#34;</description>
     </item>
     
     <item>
       <title>Gnome clássico no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/gnome-classico-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</link>
       <pubDate>Mon, 26 Mar 2012 01:00:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gnome-classico-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</guid>
       <description>Esta semana não teremos o review semanal, mas na próxima semana voltamos e com novo nome para o programa. Para não passar em branco veja um vídeo rápido mostrando a nova interface do gnome-session-fallback que estará diponível para instalação no Ubuntu 12.04
 &amp;nbsp;</description>
     </item>
     
     <item>
       <title>Ubuntu 12.04 não ultrapassará o limite de um CD</title>
-      <link>http://ubuntero.com.br/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</link>
       <pubDate>Fri, 09 Mar 2012 11:49:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-12-04-nao-ultrapassara-o-limite-de-um-cd/</guid>
       <description>Já falamos sobre este assunto no Opencast #5 e uma boa discussão foi gerada sobre o Ubuntu utilizar mais espaço do que era possível gravar em um simples CD. No próprio episódio os representantes da Canonical não afirmaram que isto estava definido, era apenas uma possibilidade.
 Agora parece que a coisa se definiu e não precisaremos nos preocupar com isto para esta versão pelo menos. Segundo Stéphane Graber a imagem do Ubuntu 12.</description>
     </item>
     
     <item>
       <title>Mudança na lens de arquivos no 12.04</title>
-      <link>http://ubuntero.com.br/mudanca-na-len-de-arquivos-no-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudanca-na-len-de-arquivos-no-12-04/</link>
       <pubDate>Tue, 06 Mar 2012 16:52:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudanca-na-len-de-arquivos-no-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudanca-na-len-de-arquivos-no-12-04/</guid>
       <description>Quem já usou o Unity sabe que ele tem uma grande ferramenta na lens Arquivos. Esta lens facilita a abertura de arquivos da mesma maneira que a lens de aplicativos ajuda a encontrar aplicações, no entanto esta lens, até a versão 11.10, trabalho apenas com os arquivos que já foram abertos pelo usuário.
 Para a versão 12.04 esta dinâmica está sendo alterada e os arquivos a serem pesquisados e mostrados serão relativos a todos os arquivos do sistema, independentemente de já terem sido abertos ou não pelo usuário.</description>
     </item>
     
     <item>
       <title>Review semanal 08</title>
-      <link>http://ubuntero.com.br/review-semanal-08/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-08/</link>
       <pubDate>Mon, 05 Mar 2012 11:19:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-08/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-08/</guid>
       <description>Depois de uma semana sem Review, explico os motivos no próprio vídeo desta semana, voltamos e desta vez mostramos o Ubuntu 12.04 Beta 1.
 Como podem ver no vídeo, fui entrevistado para o Podcast Castalio, então quem tiver alguma curiosidade sobre minha pessoa, o Site e o Opencast, dá uma passada no Castalio Podcast e confira.</description>
     </item>
     
     <item>
       <title>Mudanças na resolução DNS no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudancas-na-resolucao-dns-no-ubuntu-12-04/</link>
       <pubDate>Mon, 27 Feb 2012 17:36:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudancas-na-resolucao-dns-no-ubuntu-12-04/</guid>
       <description>Se você pretende migrar pra o Ubuntu 12.04 e costuma fazer configurações manuais diretamente no arquivo resolv.conf esta notícia é para você.
 As mudanças são resultado da implementação do foundations-p-dns-resolving e as duas maiores mudanças são:
 Mudança no gerenciamento do resolvconf O resolvconf é um conjunto de scripts que gerenciam a resolução DNS. A diferença mais notável será que toda a configuração feita diretamente no arquivo resolv.conf será perdida sempre que os scripts do resolvconf seja invocado.</description>
@@ -167,30 +167,30 @@ Mudança no gerenciamento do resolvconf O resolvconf é um conjunto de scripts q
     
     <item>
       <title>Review semanal 06</title>
-      <link>http://ubuntero.com.br/review-semanal-06/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</link>
       <pubDate>Sun, 05 Feb 2012 20:44:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-06/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</guid>
       <description>Após novos problemas na gravação dos vídeos do desktop que necessitam conversão para que a edição seja possível, via twitter consegui a solução(vai ter postagem especial para isto) e voltamos a ter os reviews com as gravações do desktop.
 Neste episódio temos uma overdose de Ubuntu. Começamos falando do Ubuntu 10.10 que vem instalado no Dell Vostro 3450, passamos ao Ubuntu 11.10 instalado no mesmo computador e no final mostramos um pouco do Ubuntu 12.</description>
     </item>
     
     <item>
       <title>Resumo semanal 02</title>
-      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
       <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
       <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
 Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
     </item>
     
     <item>
       <title>Ubuntu 12.04 já tem nome “Precise Pangolin”</title>
-      <link>http://ubuntero.com.br/ubuntu-12-04-ja-tem-nome-precise-pangolin/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-12-04-ja-tem-nome-precise-pangolin/</link>
       <pubDate>Thu, 06 Oct 2011 14:46:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-12-04-ja-tem-nome-precise-pangolin/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-12-04-ja-tem-nome-precise-pangolin/</guid>
       <description>Mark Shuttleworth anunciou ontem(05/10/2011) o nome da próxima versão LTS do Ubuntu. A versão 12.04, por ser uma LTS, deve ser resistente e durável, por isso o nome escolhido foi &amp;#8220;Precise Pangolin&amp;#8221;.
 O Pangolin é esse animal que está na foto no início do artigo e que tem uma carapaça bem resistente.
 Confesso que estava esperando algo como &amp;#8220;Perfect Penguim&amp;#8221;, mas as explicações do Mark Shuttleworth foram bem convincentes para a escolha do nome.</description>

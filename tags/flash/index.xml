@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flash on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/flash/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/flash/</link>
     <description>Recent content in Flash on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 14 Jan 2013 19:38:23 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/flash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Problema com flash no Steam 64 bits</title>
-      <link>http://ubuntero.com.br/problema-com-flash-no-steam-64-bits/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/problema-com-flash-no-steam-64-bits/</link>
       <pubDate>Mon, 14 Jan 2013 19:38:23 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/problema-com-flash-no-steam-64-bits/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/problema-com-flash-no-steam-64-bits/</guid>
       <description>Se você, com muitos Ubunteros, está usando o Steam Beta e seu Ubuntu é 64 bits, já deve ter notado que os vídeos em flash não são mostrados. O problema é simples de ser resolvido e é causado pelo Steam não pegar o flash instalado no sistema, ele usa um que deveria estar na pasta de configuração do próprio Steam, mas não está.
 Para contornar este pequeno empecilho siga estes passos:</description>
     </item>
     
     <item>
       <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
-      <link>http://ubuntero.com.br/opencast-episodio-9/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
       <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-9/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
       <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
 Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
     </item>
     
     <item>
       <title>Flash no Epiphany 3.2</title>
-      <link>http://ubuntero.com.br/flash-no-epiphany-3-2/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</link>
       <pubDate>Tue, 24 Jan 2012 10:19:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/flash-no-epiphany-3-2/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</guid>
       <description>Olá a todos. Meu notebook &amp;#8220;morreu&amp;#8221; há cerca de 3 meses atrás, e o desktop aqui de casa só passou a ser meu depois que minha mãe comprou um netbook para ela, e bem, o desktop não é lá grandes coisas, tem um Intel Celeron e 2 GB de RAM então com o uso prolongado dos navegadores ele acaba perdendo muito desempenho e para não ter que ficar fechando o tempo todo as janelas dos mesmos, o jeito foi pesquisar por uma alternativa.</description>
     </item>
     
     <item>
       <title>Nada importante</title>
-      <link>http://ubuntero.com.br/nada-importante/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/nada-importante/</link>
       <pubDate>Tue, 04 Jul 2006 11:00:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/nada-importante/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/nada-importante/</guid>
       <description>Nenhuma novidade para postara hoje, então vou falar de coisas inúteis.
 Primeiro: pesso desculpa para quem tem paciência para acessar este blog. A navegação está muito lenta. Pode ficar tranquilo que o problema não é com a sua conexão, muito menos com a do servidor. O grande problema é que o servidor não é uma brastemp. Este servidor é um computador que não teria nenhuma função no mundo além de ocupar espaço.</description>
     </item>

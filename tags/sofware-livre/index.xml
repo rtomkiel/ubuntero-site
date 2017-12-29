@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sofware Livre on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/sofware-livre/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/sofware-livre/</link>
     <description>Recent content in Sofware Livre on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 29 Jun 2006 16:26:55 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/sofware-livre/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sofware-livre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Caixa preta</title>
-      <link>http://ubuntero.com.br/caixa-preta/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/caixa-preta/</link>
       <pubDate>Thu, 29 Jun 2006 16:26:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/caixa-preta/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/caixa-preta/</guid>
       <description>Sei que prometi que este post seria sobre minhas impressões sobre o Ubuntu 6.06(Dapper Drake). Infelizmente para uns, felizmente para outros, não podemos mandar no que pensamos. Vamos logo ao texto.
 Duas caixas estão sendo oferecidas no mercado(você precisa ter uma delas). Qual você escolheria?
  Uma é preta, como as caixas pretas de aviões. Totalmente blindada e protegida, essa caixa só deve ser aberta pelos proprietários do avião ou por autoridades devidamente munidas de autorizações judiciais.</description>

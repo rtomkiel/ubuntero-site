@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Central De Programas on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/central-de-programas/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/central-de-programas/</link>
     <description>Recent content in Central De Programas on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 14 Jun 2013 14:59:14 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/central-de-programas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/central-de-programas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Saiba se um programa está disponível no Ubuntu, sem ter o Ubuntu</title>
-      <link>http://ubuntero.com.br/saiba-se-um-programa-esta-disponivel-no-ubuntu-sem-ter-o-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/saiba-se-um-programa-esta-disponivel-no-ubuntu-sem-ter-o-ubuntu/</link>
       <pubDate>Fri, 14 Jun 2013 14:59:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/saiba-se-um-programa-esta-disponivel-no-ubuntu-sem-ter-o-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/saiba-se-um-programa-esta-disponivel-no-ubuntu-sem-ter-o-ubuntu/</guid>
       <description>Quantas vezes já pintou aquela dúvida se um programa estava disponível ou não no Ubuntu e você não tinha um Ubuntu disponível para verificar? Agora vocês sabem que isso é possível tendo apenas um navegador de internet disponível.
 Acesse o site apps.ubuntu.com e se delicie procurando por aplicativos.
  O mais interessante é que se você estiver usando o Ubuntu nesta pesquisa, você pode instalar o programa via protocolo apt disponível por padrão em qualquer instalação mais moderna do Ubuntu, basta clicar no ícone &amp;#8220;available on the Software Centre&amp;#8221;.</description>
@@ -24,10 +24,10 @@ Acesse o site apps.ubuntu.com e se delicie procurando por aplicativos.
     
     <item>
       <title>Resolvendo problema de repositórios que impede a abertura da Central de Programas</title>
-      <link>http://ubuntero.com.br/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</link>
       <pubDate>Fri, 03 May 2013 13:37:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</guid>
       <description>Já estou vendo que vai ter gente comentando que o Ubuntu só tem problema, mas isto não é verdade, apenas quando fico sabendo de um que tem solução eu divulgo a solução.
 Se ao tentar abrir a Central de programas do Ubuntu você está recebendo um erro parecido com este:
 &amp;quot;Erro: Abrindo o cache (E: Encountered a section with no package: header, E: problem with Mergelist /var/lib/apt/lists/br.archive.ubuntu.com_ubuntu_dists_raring_universe_i18n_Translation-pt, E:The package listsor status file could not be parsed or opened.</description>
@@ -35,10 +35,10 @@ Se ao tentar abrir a Central de programas do Ubuntu você está recebendo um err
     
     <item>
       <title>Revista Espírito Livre na Central de programas do Ubuntu</title>
-      <link>http://ubuntero.com.br/revista-espirito-livre-na-central-de-programas-do-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/revista-espirito-livre-na-central-de-programas-do-ubuntu/</link>
       <pubDate>Thu, 12 Jul 2012 11:00:56 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/revista-espirito-livre-na-central-de-programas-do-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/revista-espirito-livre-na-central-de-programas-do-ubuntu/</guid>
       <description>As primeiras edições da Revista Espírito Livre já estão na Central de programas do Ubuntu, em breve as demais edições também estarão disponíveis.
  Para quem gosta de acompanhar publicações com conteúdos de qualidade sobre Tecnologia e Software Livre, a Revista Espírito Livre é leitura obrigatória.
 A revista é uma publicação digital, distribuída de forma gratuita via internet em formato PDF, destinada aos usuários envolvidos com tecnologia, software livre, cultura digital e outros assuntos relacionados a liberdade e compartilhamento do conhecimento.</description>
@@ -46,20 +46,20 @@ A revista é uma publicação digital, distribuída de forma gratuita via intern
     
     <item>
       <title>Central de programas do Ubuntu Online</title>
-      <link>http://ubuntero.com.br/central-de-programas-do-ubuntu-online/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/central-de-programas-do-ubuntu-online/</link>
       <pubDate>Tue, 20 Dec 2011 13:24:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/central-de-programas-do-ubuntu-online/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/central-de-programas-do-ubuntu-online/</guid>
       <description>Se algum dia você não tiver um computador com Ubuntu instalado e alguém lhe perguntar se existe algum programa específico o que você faz? Agora você pode acessar a Central de programas do Ubuntu Online.
 A proposta da Central de Programas Online é permitir que programas sejam pesquisados e que informações dos programas possam ser consultadas de qualquer lugar em qualquer computador independentemente do sistema operacional. Se você estiver usando Ubuntu ao acessar a página, você poderá instalar os programas pelo botão que aparecerá ao visualizar os detalhes da aplicação.</description>
     </item>
     
     <item>
       <title>Ubuntu 11.10 sem Synaptic</title>
-      <link>http://ubuntero.com.br/ubuntu-11-10-sem-synaptic/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-10-sem-synaptic/</link>
       <pubDate>Fri, 24 Jun 2011 13:22:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-10-sem-synaptic/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-10-sem-synaptic/</guid>
       <description>Se você é da antiga deve gostar de usar o Synaptic e não a Central de Programas do Ubuntu. Para você tenho uma má notícia, o Ubuntu 11.10 não trará o Synaptic em sua instalação padrão.
 No lugar teremos apenas a Central de Programas do Ubuntu, que deve ser redesenhada e as funções do Synaptic, que ainda não estão presentes na Central de Programas, devem ser implementadas para.
 Se mesmo assim você não se acostumar a usar a Central de Programas, não fique triste, o Synaptic continuará disponível nos repositórios e poderá ser instalada via &amp;#8220;apt-get install synaptic&amp;#8221; ou pela próprioa Central de Programas do Ubuntu.</description>
@@ -67,10 +67,10 @@ Se mesmo assim você não se acostumar a usar a Central de Programas, não fique
     
     <item>
       <title>Ubuntu 11.04 alpha 2 com atualizações até 15/02/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
       <pubDate>Wed, 16 Feb 2011 23:35:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
       <description>Este vídeo mostra algumas mudanças já realizadas na próxima versão do Ubuntu que ainda está em fase alpha.
 Desde o último vídeo temos poucas mudanças como o menu do Unity, menu de aplicações, repaginada no Ubuntu One, Firefox 4 beta 11 e o menu de arquivos.
 Alguns aplicativos como a Central de Programas do Ubuntu e Gwibber ainda não estão rodando.

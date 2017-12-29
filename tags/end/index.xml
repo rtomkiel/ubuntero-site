@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>End on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/end/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/end/</link>
     <description>Recent content in End on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 07 Nov 2014 01:08:58 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/end/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/end/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fim do Opencast</title>
-      <link>http://ubuntero.com.br/fim-do-opencast/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/fim-do-opencast/</link>
       <pubDate>Fri, 07 Nov 2014 01:08:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/fim-do-opencast/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/fim-do-opencast/</guid>
       <description>Calma, este é o fim do Opencast no site Ubuntero. Como já avisamos tantas outras vezes, o Opencast será publicado única e exclusivamente no site Tecnologia Aberta.
 Corre para lá que tem episódio novo.</description>
     </item>

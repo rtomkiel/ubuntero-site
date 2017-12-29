@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firefox on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/firefox/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/firefox/</link>
     <description>Recent content in Firefox on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 29 May 2014 02:30:45 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #34 – FISL 15 E DRM</title>
-      <link>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
       <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
       <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
     </item>
     
     <item>
       <title>Opencast #33 – Firefox 29 e Ubuntu 14.04</title>
-      <link>http://ubuntero.com.br/opencast-33-firefox-29-e-ubuntu-14-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</link>
       <pubDate>Wed, 14 May 2014 23:43:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
       <description>Voltamos, sei que já está cansativa esta história, mas o que importa é que estamos de volta e com ânimo renovado. Neste episódio falamos um pouco sobre algumas notícias que julgamos importantes e também respondemos a algumas perguntas dos ouvintes que estavam assistindo a gravação ao vivo. Os participantes deste episódio foram Ivan, Diego, Rudinei(com o som muito melhor) e Og Maciel.
 Links do episódio  Lançado o Ubuntu 14.</description>
     </item>
     
     <item>
       <title>Lançado Firefox 29</title>
-      <link>http://ubuntero.com.br/lancado-firefox-29/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-firefox-29/</link>
       <pubDate>Tue, 29 Apr 2014 17:36:11 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-firefox-29/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-firefox-29/</guid>
       <description>Se você está usando o Ubuntu 14.04, já pode atualizar o seu sistema para ter o novo Firefox 29. Nesta versão temos enfim a nova interface totalmente redesenhada e minimalista, lembrando bastante o Google Chrome.
 Para abrir o atualizador, pressione e solte a tecla Super(tecla Windows) e digite &amp;#8220;atualizador&amp;#8221; sem as aspas. Aparecerá o atualizador de programas. Abra ele e instale as atualizações disponíveis.
 Uma das principais mudanças está na facilitação da utilização do Firefox Sync que agora exige apenas uma conta do Firefox e senha, nada mais de códigos e chaves.</description>
@@ -43,28 +43,28 @@ Uma das principais mudanças está na facilitação da utilização do Firefox S
     
     <item>
       <title>Opencast #29 – SteamOS e a pérola da TechNet</title>
-      <link>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</link>
       <pubDate>Thu, 10 Oct 2013 02:59:41 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</guid>
       <description>Neste episódio do Opencast, Ivan, Aprígio Simões, Diego e Rudinei comentam alguns dos principais acontecimentos que viraram notícia no mundo do software e hardware livre. Nossa conversa começa com a pérola da Technet &amp;#8220;provando&amp;#8221; que o Windows é melhor que o Software Livre, passamos pelas novidades da Valve com o SteamOS e seus hardwares, liberação de especificação de placas de vídeo, Xmir, Raspberry Pi e o investimento da IBM no Linux.</description>
     </item>
     
     <item>
       <title>Firefox continuará sendo o navegador padrão no Ubuntu 13.10</title>
-      <link>http://ubuntero.com.br/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</link>
       <pubDate>Wed, 14 Aug 2013 14:58:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</guid>
       <description>Ouviram minhas preces e o navegador padrão do Ubuntu 13.10 continuará sendo o Firefox. Sei que o o Chromium e principalmente o Chrome tem vários fãs, mas muitos destes fãs não sabem que os processos do Chrome e Chromium se dividem em vários outros e simplesmente devoram a memória do computador. Não estou com ele instalado agora para provar, mas em medições anteriores o Chome estava usando nada menos que 3 vezes mais memória que o Firefox com as mesmas abas abertas.</description>
     </item>
     
     <item>
       <title>Firefox 18 é lançado com poucas novidades</title>
-      <link>http://ubuntero.com.br/firefox-18-e-lancado-com-poucs-novidades/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-18-e-lancado-com-poucs-novidades/</link>
       <pubDate>Sat, 12 Jan 2013 21:10:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-18-e-lancado-com-poucs-novidades/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-18-e-lancado-com-poucs-novidades/</guid>
       <description>O Mozilla Firefox 18 veio sem grandes novidades visuais, somente correções de segurança e melhorias em performance no suporte ao JavaScript. O melhor desempenho do JavaScript ocorreu devido a troca da engine compiladora, utilizando agora a IonMonkey.
 Usuários do Mac que possuem tela de Retina em seus equipamentos notaram grande melhoria no visual, agora o Firefox passa a suportar completamente a nova tecnologia da Apple.
 Outra novidade que ainda não está pronta mas já foi colocada em testes é o suporte a WebRTC &amp;#8211; Web Real-Time Communication.</description>
@@ -72,10 +72,10 @@ Outra novidade que ainda não está pronta mas já foi colocada em testes é o s
     
     <item>
       <title>Visualizando arquivos .pdf no Mozilla Firefox</title>
-      <link>http://ubuntero.com.br/visualizando-arquivos-pdf-no-mozilla-firefox/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/visualizando-arquivos-pdf-no-mozilla-firefox/</link>
       <pubDate>Mon, 01 Oct 2012 11:00:56 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/visualizando-arquivos-pdf-no-mozilla-firefox/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/visualizando-arquivos-pdf-no-mozilla-firefox/</guid>
       <description>No Ubuntero on Air 1 comentamos sobre a possibilidade de visualizar/abrir arquivos .pdf dentro do navegador Mozilla Firefox, uma funcionalidade que já existe no Google Chrome e que também será nativa nas próximas versões do Firefox.
 Para quem quiser habilitar a opção de abrir arquivos .pdf no Firefox, siga as instruções a seguir:
 1) Abra o Firefox e na barra de url digite: about:config e depois aperte ENTER.(clique para ampliar)</description>
@@ -83,39 +83,39 @@ Para quem quiser habilitar a opção de abrir arquivos .pdf no Firefox, siga as 
     
     <item>
       <title>Opencast #8</title>
-      <link>http://ubuntero.com.br/opencast-8/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-8/</link>
       <pubDate>Sat, 24 Mar 2012 18:57:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-8/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-8/</guid>
       <description>Depois de muitas tentativas e parecer que o mundo estava conspirando contra a gravação do episódio #8 do Opencast, finalmente conseguimos finalizar a gravação e enfim fazer a publicação.
 Neste episódio apenas eu(Ivan) e Diego nos juntamos novamente e conversamos um pouco sobre o que aconteceu no mundo do software livre. Neste episódio você não ouvirá música de fundo durante o episódio, apenas na abertura. Isto é para que vocês possam votar melhor na enquete que está rolando no Facebook.</description>
     </item>
     
     <item>
       <title>Firefox com suporte extendido</title>
-      <link>http://ubuntero.com.br/firefox-com-suporte-extendido/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-com-suporte-extendido/</link>
       <pubDate>Fri, 20 Jan 2012 10:00:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-com-suporte-extendido/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-com-suporte-extendido/</guid>
       <description>A história começou com o Google fazendo o favor de jogar fora o padrão de versionamento e a concorrência teve que correr atrás dos clientes, não corporativo, e fã boys que acharam a brincadeira linda. Mudando de versão a cada mudança de lugar de um botão, as empresas não conseguiram seguir a velocidade para homologar sites e sistemas web para as novas versões dos navegadores, muito menos arrumar algum tempo para migrar centenas de computadores para uma nova versão de navegador.</description>
     </item>
     
     <item>
       <title>Resumo semanal 02</title>
-      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
       <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
       <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
 Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
     </item>
     
     <item>
       <title>Firefox 8 via PPA (apenas Ubuntu 10.04 e 10.10)</title>
-      <link>http://ubuntero.com.br/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
       <pubDate>Wed, 09 Nov 2011 16:44:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
       <description>Seguindo a onda dos PPA e o lançamento do Firefox 8 seguem os passos para adicionar o PPA do Firefox para instalarmos a última versão nas versões 10.04 e 10.10.
 Abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:
 sudo apt-add-repository ppa:mozillateam/firefox-stable Pressione Enter quando for pedido e aguarde o terminal ser liberado. Após o terminal ser liberado digite os seguintes comandos:
@@ -124,20 +124,20 @@ sudo apt-get update sudo apt-get dist-upgrade Pronto, agora você terá sempre a
     
     <item>
       <title>Mostrar barra de downloads no ícone do firefox no Ubuntu 11.04</title>
-      <link>http://ubuntero.com.br/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</link>
       <pubDate>Thu, 05 May 2011 14:27:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</guid>
       <description>Os dias vão passando e algumas coisas vão surgindo para facilitar ainda mais a vida de quem utiliza o Ubuntu 11.04. Os desenvolvedores estão aprendendo como podem usar melhor a interface a seu favor ao invés de simplesmente reclamar que as coisas mudaram e que terão que aprender coisas novas.
 A dica de hoje é de um plugin do firefox para mostrar a barra de progresso downloads do firefox diretamente no ícone do lançador na barra de lançadores no lado esquerdo.</description>
     </item>
     
     <item>
       <title>Firefox 4.0</title>
-      <link>http://ubuntero.com.br/firefox-4-0/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
       <pubDate>Tue, 22 Mar 2011 20:15:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-4-0/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
       <description>Como todos já sabem, foi lançado o Firefox 4.0 e muitos usuários já estão baixando e usando. Em 12 horas o número de downloads ultrapassou o número alcançado pelo Internet Explorer 9 em 24 horas.
 Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga os passos abaixo:
  Abra o terminal em Aplicativos &amp;gt;&amp;gt; Acessórios &amp;gt;&amp;gt; Terminal e digite os seguintes comandos:  sudo add-apt-repository ppa:mozillateam/firefox-stable sudo apt-get update &amp;&amp; sudo apt-get upgrade Pronto, é só abrir o Firefox que ele lhe fará algumas poucas perguntas e poderá utilizar o Firefox no seu Ubuntu 10.</description>
@@ -145,10 +145,10 @@ Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga 
     
     <item>
       <title>Ubuntu 11.04 alpha 2 com atualizações até 15/02/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
       <pubDate>Wed, 16 Feb 2011 23:35:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
       <description>Este vídeo mostra algumas mudanças já realizadas na próxima versão do Ubuntu que ainda está em fase alpha.
 Desde o último vídeo temos poucas mudanças como o menu do Unity, menu de aplicações, repaginada no Ubuntu One, Firefox 4 beta 11 e o menu de arquivos.
 Alguns aplicativos como a Central de Programas do Ubuntu e Gwibber ainda não estão rodando.
@@ -157,10 +157,10 @@ Alguns aplicativos como a Central de Programas do Ubuntu e Gwibber ainda não es
     
     <item>
       <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
       <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
       <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
 O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
  Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>

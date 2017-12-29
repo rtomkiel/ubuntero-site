@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medibuntu on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/medibuntu/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/medibuntu/</link>
     <description>Recent content in Medibuntu on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 29 Jun 2013 13:39:05 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/medibuntu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/medibuntu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Repositório Medibuntu precisa de mantenedores</title>
-      <link>http://ubuntero.com.br/repositorio-medibuntu-precisa-de-mantenedores/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/repositorio-medibuntu-precisa-de-mantenedores/</link>
       <pubDate>Sat, 29 Jun 2013 13:39:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/repositorio-medibuntu-precisa-de-mantenedores/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/repositorio-medibuntu-precisa-de-mantenedores/</guid>
       <description>Se você usa o repositório Medibuntu para ter as últimas versões de codecs e alguns programas multimídia, deve ter notado que o repositório anda sem atualizações. O motivo é falta de tempo e interesse de seu mantenedor.
 Gauvain Pocentek postou no launchpad um pedido de ajuda para pessoas com gás e interesse em manter o projeto. Por algum tempo o repositório será mantido online, porém, sem atualização, a não ser que alguém queira fazer o trabalho de manter os pacotes atualizados.</description>
     </item>
     
     <item>
       <title>DVD’s protegidos</title>
-      <link>http://ubuntero.com.br/dvd-s-protegidos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</link>
       <pubDate>Sat, 10 Mar 2012 12:45:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dvd-s-protegidos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</guid>
       <description>A ideia de fazer este artigo veio do pedido de ajuda de um Ubuntero que entrou em contato comigo por e-mail para tentar resolver o problema com alguns DVD&amp;#8217;s protegidos. Sim isto mostra muito bem porque estas proteções não são nada boas.
 Sem enrolação, vamos ao que é necessário para que todos possam assistir aos seus DVD&amp;#8217;s originais que custaram caro.
 Abra o terminal, pressione Ctrl+Alt+t, e digite ou cole estes comandos(os comandos são bem grandes, por isso recomendo que copie e cole):</description>

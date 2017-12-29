@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Winusb on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/winusb/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/winusb/</link>
     <description>Recent content in Winusb on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 23 Apr 2013 11:00:54 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/winusb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/winusb/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crie um pendrive bootável com o sistema operacional Windows</title>
-      <link>http://ubuntero.com.br/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</link>
       <pubDate>Tue, 23 Apr 2013 11:00:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</guid>
       <description>Eu sei que muitos podem estar estranhando o título deste artigo, mas nada foi digitado errado. No mundo do software livre tem espaço para todos, até para técnicos que precisam instalar outros sistemas operacionais que não são software livre. Estes profissionais, muitas vezes, instalam software pirata, mas deixaremos isso para a consciência de cada um, nesse artigo vamos levar em conta que a cópia do sistema operacional é legal.
 Utilizar CD/DVD já está fora de moda, é muito mais fácil ter um pendrive por perto na hora do aperto e você pode precisar instalar aquele outro sistema operacional em computadores que não tem drive de CD/DVD e seguindo a regra, com software livre pode-se fazer tudo, até gerar um pendrive com um sistema operacional que não é software livre.</description>
     </item>

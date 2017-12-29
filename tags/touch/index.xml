@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Touch on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/touch/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/touch/</link>
     <description>Recent content in Touch on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 11 Aug 2015 12:43:57 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/touch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/touch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smartphone com Ubuntu já pode ser comprado por brasileiros</title>
-      <link>http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</link>
       <pubDate>Tue, 11 Aug 2015 12:43:57 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</guid>
       <description>Uma notícia que quase não dá para acreditar (calma que tem pegadinha). A BQ, empresa espanhola que vem apostando no ainda desconhecido da grande massa, Ubuntu para smartphones, agora está vendendo seus telefones para qualquer parte do planeta em sua loja pela internet.
 Os modelos que a BQ está vendendo são o Aquarios E4.5 que custa €169.90 e o Aquarios E5 que custa €199.90. A diferença dos dois aparelhos está no tamanho da tela que no Aquarios E4.</description>
     </item>
     
     <item>
       <title>Opencast #38 – Rede Espírito Livre</title>
-      <link>http://ubuntero.com.br/opencast-38-rede-espirito-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
       <pubDate>Wed, 06 Aug 2014 01:43:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-38-rede-espirito-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
       <description>Capa do episódio desenvolvida por Eduardo Barbosa @_edmb Está no ar mais um episódio do Opencast e neste episódio temos a participação mais do que especial do João Fernando da Rede Espírito Livre. O episódio está muito bacana, conversamos sobre todos os projetos da Rede Espírito Livre como a revista, eventos e os vídeos, passando por uma aula sobre fontes e uma boa discussão sobre a realização de eventos.</description>
     </item>
     
     <item>
       <title>Meizu responde algumas perguntas sobre o Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</link>
       <pubDate>Wed, 02 Jul 2014 16:24:38 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</guid>
       <description>A notícia não é tão nova, mas é importante. Durante a Asia Expo a Meizu mostrou o Ubuntu Touch rodando em seu aparelho MX3, um smartphone de respeito com tela de 5.1 polegadas, processador de 8 núcleos, câmera de 8 mega pixels, 2 GB de memória e processador gráfico de 3 núcleos.
 As repostas dadas pela empresa não são as mais animadoras. A primeira pergunta foi &amp;#8220;Por que o sistema está levando tanto tempo para ser finalizado?</description>
     </item>
     
     <item>
       <title>Dez mil usuários de Ubuntu Phone</title>
-      <link>http://ubuntero.com.br/dez-mil-usuarios-de-ubuntu-phone/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dez-mil-usuarios-de-ubuntu-phone/</link>
       <pubDate>Fri, 13 Jun 2014 17:51:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dez-mil-usuarios-de-ubuntu-phone/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dez-mil-usuarios-de-ubuntu-phone/</guid>
       <description>Ótima notícia, mesmo sendo estranha para alguns. O Ubuntu Phone atingiu o número de 10.000 usuários ativos.
 Mesmo estando ainda em desenvolvimento, o Ubuntu Touch já é totalmente usável. Todas as funções básicas para um aparelho estão disponíveis como efetuar e receber ligações e SMS e o número de aplicativos aumenta a cada dia(sei que ainda é pouco se compararmos com seus futuros concorrentes).
 Como se chegou a este número, já que não existe um aparelho sendo vendido com o sistema?</description>
@@ -53,109 +53,109 @@ Como se chegou a este número, já que não existe um aparelho sendo vendido com
     
     <item>
       <title>Emulador x86 para Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/emulador-x86-para-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/emulador-x86-para-ubuntu-touch/</link>
       <pubDate>Mon, 12 May 2014 19:53:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/emulador-x86-para-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/emulador-x86-para-ubuntu-touch/</guid>
       <description>Eis que hoje recebo uma ótima notícia via lista de discussão do time do ubuntu-phone. Foi lançado o emulador x86 do Ubuntu Touch.
 Infelizmente, nem todos os softwares estão disponíveis na imagem x86, mas dá para ter uma boa ideia de como o sistema funciona. Agora voltamos a ter uma boa chance de mostrar o andamento do desenvolvimento do Ubuntu Touch, mesmo que não seja em um aparelho real.</description>
     </item>
     
     <item>
       <title>Novo concurso de aplicativos para o Ubuntu</title>
-      <link>http://ubuntero.com.br/novo-concurso-de-aplicativos-para-o-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/novo-concurso-de-aplicativos-para-o-ubuntu/</link>
       <pubDate>Wed, 26 Feb 2014 16:47:20 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/novo-concurso-de-aplicativos-para-o-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/novo-concurso-de-aplicativos-para-o-ubuntu/</guid>
       <description>Começou o terceiro concurso de aplicativos para o Ubuntu. O concurso durará 6 semanas, começando no dia 26 de fevereiro de 2014 e terminando no dia 9 de abril de 2014. Os participantes devem publicar seus aplicativos utilizando a SDK do Ubuntu. Desta vez, todo tipo de aplicação pode participar, seja ela um port, ou uma aplicação nova e original.
 As categorias nas quais as aplicações podem participar são:</description>
     </item>
     
     <item>
       <title>Ubuntu mobile maps</title>
-      <link>http://ubuntero.com.br/ubuntu-mobile-maps/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-maps/</link>
       <pubDate>Mon, 24 Feb 2014 18:02:10 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-mobile-maps/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-maps/</guid>
       <description>Está difícil manter uma publicação atualizada sobre o Ubuntu Touch, até a pouco eu dizia que o GPS não funcionava, mas na verdade ele funciona, só faltavam aplicações, isso mesmo, faltava.
 A Mapbox mostrou hoje, dia 24, na WMC uma aplicação com integração direta com HTML5 no Ubuntu Touch através da biblioteca mapbox.js. A biblioteca permite que outros desenvolvedores desenvolvam soluções utilizando mapas customizados utilizando câmera e o acelerômetro.</description>
     </item>
     
     <item>
       <title>Videocast #52 – Ubuntu Touch em Dual Boot com Android</title>
-      <link>http://ubuntero.com.br/videocast-52-ubuntu-touch-em-dual-boot-com-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</link>
       <pubDate>Mon, 24 Feb 2014 16:56:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-52-ubuntu-touch-em-dual-boot-com-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</guid>
       <description>Antes de qualquer coisa, este Videocast está longo mesmo. Neste episódio mostro o Ubuntu Touch em Dual Boot com o Android. É o vídeo mais detalhado do Ubuntu Touch que eu já fiz, incluindo informações no post de como instalar o Dual Boot e como importar contatos no Ubuntu Touch. Não voltarei a fazer vídeos do Ubuntu Touch rodando no Galaxy Nexus porque ele não é mais suportado oficialmente, o que prejudica bastante qualquer coisa que possa ser dita.</description>
     </item>
     
     <item>
       <title>Canonical anuncia dois parceiros para o Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</link>
       <pubDate>Wed, 19 Feb 2014 23:57:40 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</guid>
       <description>Finalmente temos nomes(passei bem longe de acertar) de duas empresas que venderão smartphones com Ubuntu Touch instalado de fábrica, são elas a espanhola Bq e a chinesa Meizu.
 Segundo o anúncio feito pelo próprio Mark Shuttleworth durante um hangout, as duas empresas estão dispostas a vender aparelhos com Ubuntu Touch por todo o planeta, mas claro que a Bq começará pela Europa e a Meizu pela China. A China alias, é o maior mercado do Ubuntu no momento, nada mais justo do que começar a vender celulares por aquelas bandas.</description>
     </item>
     
     <item>
       <title>É hora de fazer o Ubuntu Touch falar sua língua</title>
-      <link>http://ubuntero.com.br/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</link>
       <pubDate>Tue, 14 Jan 2014 16:30:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</guid>
       <description>Confesso que estou um pouco desanimado depois da notícia que apenas Nexus 4 e Nexus 7 (razor) terão suporte oficial do Ubuntu Touch, mas agora não é hora de chorar sobre o leite derramado, é hora de trabalhar e auxiliar na tradução do Ubuntu Touch para o nosso idioma.
 Eu sei que muitos devem estar pensando, traduzir para que? Nem vão lançar um smartphone com Ubuntu tão logo por aqui.</description>
     </item>
     
     <item>
       <title>Apenas Nexus 4 e Nexus 7 (razor) terão suporte oficial do Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/apenas-nexus-4-e-nexus-7-razor-terao-suporte-oficial-do-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/apenas-nexus-4-e-nexus-7-razor-terao-suporte-oficial-do-ubuntu-touch/</link>
       <pubDate>Mon, 13 Jan 2014 15:02:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/apenas-nexus-4-e-nexus-7-razor-terao-suporte-oficial-do-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/apenas-nexus-4-e-nexus-7-razor-terao-suporte-oficial-do-ubuntu-touch/</guid>
       <description>Uma péssima notícia foi divulgada hoje por e-mail. Proprietários do Galaxy Nexus(eu) e tablets Nexus que não sejam o último modelo de Nexus 7 polegadas, não terão mais suporte oficial a imagens do Ubuntu Touch. Além disso, também foi anunciado que não teremos uma imagem para o Nexus 5, pelo menos em um curto espaço de tempo, talvez tenhamos alguma coisa depois do lançamento do Ubuntu 14.04.
 Além desta má notícia, tivemos também a notícia de que os engenheiros da Canonical estão investindo bastante tempo para transformar o emulador do Ubuntu Touch na melhor plataforma de desenvolvimento.</description>
     </item>
     
     <item>
       <title>Ubuntu Touch tem seu primeiro fabricante</title>
-      <link>http://ubuntero.com.br/ubuntu-touch-tem-seu-primeiro-fabricante/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tem-seu-primeiro-fabricante/</link>
       <pubDate>Wed, 11 Dec 2013 10:50:07 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-touch-tem-seu-primeiro-fabricante/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tem-seu-primeiro-fabricante/</guid>
       <description>A Canonical anunciou que já tem seu primeiro parceiro para desenvolver um Smartphone que sairá de fábrica com o Ubuntu Touch instalado. Ainda não foi revelado o nome deste parceiro, mas Mark já adiantou que o smartphone estará na linha dos Top de mercado, o que pode nos dar as esperanças de que a especificação do Ubuntu Edge sejam alcançadas, talvez até o projeto seja implementado.
 Outra boa notícia é que as negociações levam a crer que o smartphone será vendido em todos os mercados, incluindo os emergentes.</description>
     </item>
     
     <item>
       <title>Está disponível o Ubuntu 13.10</title>
-      <link>http://ubuntero.com.br/esta-disponivel-o-ubuntu-13-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/esta-disponivel-o-ubuntu-13-10/</link>
       <pubDate>Fri, 18 Oct 2013 00:38:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/esta-disponivel-o-ubuntu-13-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/esta-disponivel-o-ubuntu-13-10/</guid>
       <description>Hoje é um dia muito especial, não porque foi lançado o Ubuntu 13.10 (Saucy Salamander), mas sim por que junto foi lançada a primeira versão estável do Ubuntu Touch.
 Vamos começar pelo Ubuntu 13.10. Esta nova versão não traz grandes mudanças e a principal novidade é a Smart Scopes que dá mais inteligência para o Dash, incluindo reconhecimento de pequenos erros de digitação e a adição de pesquisa em vários serviços online.</description>
     </item>
     
     <item>
       <title>Videocast #45 – Latinoware e Ubuntu Touch com Mir</title>
-      <link>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
       <pubDate>Mon, 14 Oct 2013 11:00:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
       <description>Hoje não temos grandes novidades em relação ao último videocast onde mostramos o estado atual, para aquela data, do Ubuntu Touch. Alguns dias depois de publicar o vídeo, o Mir passou a ser o servidor gráfico padrão do Ubuntu Touch e a experiência do sistema mudou bastante, o que me motivou a mostrar novamente como o sistema está.
 Neste vídeo também explico antecipadamente que o opencast e o próximo videocast podem atrasar ou até mesmo nem sair nas datas previstas devido a eu estar na Latinoware que fica a quase 8 horas de carro de onde eu moro.</description>
     </item>
     
     <item>
       <title>Mir é o servidor gráfico padrão do Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/mir-e-o-servidor-grafico-padrao-do-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mir-e-o-servidor-grafico-padrao-do-ubuntu-touch/</link>
       <pubDate>Thu, 10 Oct 2013 18:11:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mir-e-o-servidor-grafico-padrao-do-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mir-e-o-servidor-grafico-padrao-do-ubuntu-touch/</guid>
       <description>Em contrapartida ao anúncio de que o XMir não estaria por padrão no Ubuntu 13.10, Jono Bacon anunciou que o Mir já é o servidor gráfico padrão do Ubuntu Touch a partir da imagem 90.
 Segundo o próprio relato do Jono Bacon, tudo está funcionando com bastante fluidez em seu Nexus 4, com alguns bugs que já eram esperados e não são muito grandes.
 Agora o time de desenvolvimento está trabalhando para aparar as arestas e deixar tudo pronto para o lançamento do Ubuntu Touch juntamente com o Ubuntu 13.</description>
@@ -163,30 +163,30 @@ Agora o time de desenvolvimento está trabalhando para aparar as arestas e deixa
     
     <item>
       <title>Videocast #44 – Ubuntu Touch funcional</title>
-      <link>http://ubuntero.com.br/videocast-44-ubuntu-touch-funcional/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-44-ubuntu-touch-funcional/</link>
       <pubDate>Mon, 07 Oct 2013 13:51:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-44-ubuntu-touch-funcional/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-44-ubuntu-touch-funcional/</guid>
       <description>Demoramos mas voltamos com o Videocast. Neste episódio mostro o estado atual do Ubuntu Touch rodando em um Galaxy Nexus, não confundam com o Nexus 4. O sistema está muito melhor do que em nosso último vídeo.
 Agora temos um aplicativo de configuração, o lançador tem as funções presentes na versão desktop e já é possível instalar e remover aplicativos sem a necessidade de fazer conexões adb ou ssh.</description>
     </item>
     
     <item>
       <title>Vencedores do concurso para desenvolvedores</title>
-      <link>http://ubuntero.com.br/vencedores-do-concurso-para-desenvolvedores/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/vencedores-do-concurso-para-desenvolvedores/</link>
       <pubDate>Fri, 04 Oct 2013 12:22:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/vencedores-do-concurso-para-desenvolvedores/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/vencedores-do-concurso-para-desenvolvedores/</guid>
       <description>Lembam do concurso para desenvolvedores lançado pela Canonical no início de agosto? Já temos os vencedores.
 Teve de tudo na submissão de aplicativos, de jogos a softwares de produtividade. Alguns aplicativos foram ports de outras plataformas, mas a grande maioria foram aplicativos novos desenvolvidos especificamente para o Ubuntu Touch. Todos os aplicativos estão disponíveis para download e instalação na nova loja para dispositivos móveis, Click, e podem ser testados por quem tem um dispositivo Nexus com o Ubuntu Touch instalado.</description>
     </item>
     
     <item>
       <title>Ubuntu Touch terá apresentação de boas vindas</title>
-      <link>http://ubuntero.com.br/ubuntu-touch-tera-apresentacao-de-boas-vindas/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tera-apresentacao-de-boas-vindas/</link>
       <pubDate>Thu, 29 Aug 2013 13:56:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-touch-tera-apresentacao-de-boas-vindas/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tera-apresentacao-de-boas-vindas/</guid>
       <description>Algo essencial para quem está conhecendo um novo sistema operacional de um Celular, já que o manual não é lido, é uma boa apresentação de boas vindas na primeira vez que o sistema é iniciado.
 Até então o Ubuntu Touch não tinha isto, mas existiam discussões. Agora esta importante funcionalidade está disponível e pode ser visto neste vídeo do Alam Pope.
  Assistir no Youtube </description>
@@ -194,50 +194,50 @@ Até então o Ubuntu Touch não tinha isto, mas existiam discussões. Agora esta
     
     <item>
       <title>Tela de bloqueio ao estilo Ubuntu Touch no seu Android</title>
-      <link>http://ubuntero.com.br/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</link>
       <pubDate>Tue, 13 Aug 2013 12:24:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</guid>
       <description>Se não tem coragem para instalar o Ubuntu Touch no seu Galaxy Nexus ou Nexus 4, ou ainda se não tem um aparelho compatível com o Ubuntu Touch, você pode ter uma tela de bloqueio parecida com a dele.
 Está disponível na Play Store do seu Android um aplicativo gratuito que transforma sua tela de bloqueio em algo parecido com a tela de bloqueio do Ubuntu Touch. Não existem grandes funcionalidades e quem já usou o Ubuntu Touch vai perceber que é diferente, embora muito parecido.</description>
     </item>
     
     <item>
       <title>Redução no valor do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/reducao-no-valor-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</link>
       <pubDate>Thu, 08 Aug 2013 14:55:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/reducao-no-valor-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</guid>
       <description>Falta pouco tempo para ser finalizada a campanha de arrecadação de fundos para a fabricação do Ubuntu Edge e a Canonical reduziu o valor do smartphone/computador de bolso. Agora também só temos um único valor para a compra de um aparelho único que é de $ 695 + $ 30 no nosso caso para custos com envio.
 Eu estava fazendo uma força para arrumar dinheiro para fazer a compra do meu, mas já estava difícil.</description>
     </item>
     
     <item>
       <title>Concurso para desenvolvedores</title>
-      <link>http://ubuntero.com.br/concurso-para-desenvolvedores/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/concurso-para-desenvolvedores/</link>
       <pubDate>Wed, 07 Aug 2013 17:34:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/concurso-para-desenvolvedores/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/concurso-para-desenvolvedores/</guid>
       <description>O que acha de ganhar um LG Nexus 4? Se você é desenvolvedor e está pensando em portar sua aplicação para o Ubuntu Touch, esta é a sua chance. Foi lançado o segundo &amp;#8220;Ubuntu App ShowDown&amp;#8221; onde desenvolvedores podem participar portando seus aplicativos já existentes ou desenvolvendo novos aplicativos para a plataforma do Ubuntu.
 As linguagens de programação suportadas para o concurso são C++, QT, JavaScript, QML e HTML5 e é recomendado o uso da ferramenta Ubuntu SDK.</description>
     </item>
     
     <item>
       <title>Ideias para aumentar a arrecadação do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</link>
       <pubDate>Mon, 05 Aug 2013 17:03:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</guid>
       <description>Como todos já devem saber, está difícil de alcançar a meta dos 32 milhões de dólares para que seja possível a fabricação do Ubuntu Edge. Depois de bater recordes nos dois primeiros dias, as doações ficaram menores, não chegaram a parar, mas não conseguiram manter a velocidade necessária para se manter na linha mínima para alcançar o objetivo até a data limite, dia 21 de agosto.
 Para tentar virar este jogo, Michael Hall está fazendo um pedido para todos que tenham alguma ideia de como alavancar as doações, que o faça em uma thread no reddit.</description>
     </item>
     
     <item>
       <title>Videocast #39 – Ubuntu Edge e Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/videocast-39-ubuntu-edge-e-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-39-ubuntu-edge-e-ubuntu-touch/</link>
       <pubDate>Thu, 01 Aug 2013 11:05:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-39-ubuntu-edge-e-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-39-ubuntu-edge-e-ubuntu-touch/</guid>
       <description>Sim, bastante atrasado. Neste episódio do Videocast falo um pouco sobre o Ubuntu Edge, nossa lojinha e mostro a evolução do Ubuntu Touch rodando no Galaxy Nexus.
  Assistir no Youtube Primeiro vídeo mostrando o Ubuntu Touch rodando no Galaxy Nexus.
 Para comprar os produtos da nossa lojinha, acesse o endereço vitrinepix.com/ubuntero.
@@ -246,10 +246,10 @@ Para colaborar com o projeto Ubuntu Edge, acesse o endereço http://igg.me/at/ub
     
     <item>
       <title>Novo “prêmio” para pequenas doações para o Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</link>
       <pubDate>Wed, 31 Jul 2013 14:11:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/novo-premio-para-pequenas-doacoes-para-o-ubuntu-edge/</guid>
       <description>Se você, como eu, não tem dinheiro para comprar o seu Ubuntu Edge, fique tranquilo que a Canonical está pensando em nós e aos poucos vai disponibilizando &amp;#8220;prêmios&amp;#8221; menores.
 O prêmio da vez é uma camiseta exclusiva com a marca do Ubuntu Edge. Para ter o direito a camiseta você deve doar o valor de US$ 50.00.
  Não deixe para amanhã e faça sua doação por este link.</description>
@@ -257,30 +257,30 @@ O prêmio da vez é uma camiseta exclusiva com a marca do Ubuntu Edge. Para ter 
     
     <item>
       <title>Protótipo da carcaça do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/prototipo-da-carcaca-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/prototipo-da-carcaca-do-ubuntu-edge/</link>
       <pubDate>Wed, 24 Jul 2013 14:10:29 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/prototipo-da-carcaca-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/prototipo-da-carcaca-do-ubuntu-edge/</guid>
       <description>Jono Bacon fez um vídeo onde mostra o protótipo da carcaça do Ubuntu Edge, celular que deverá ser o primeiro a rodar Ubuntu Touch. No vídeo Jono dá detalhes de como o aparelho será por fora e compara o tamanho com o Nexus 4, Galaxy Nexus e Iphone.
  Assistir no Youtube Se você ainda não garantiu o seu Ubuntu Edge, veja como colaborar para o projeto realmente acontecer aí do lado.</description>
     </item>
     
     <item>
       <title>Mistério revelado, Canonical irá lançar seu smartphone</title>
-      <link>http://ubuntero.com.br/misterio-revelado-canonical-ira-lancar-seu-smartphone/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/misterio-revelado-canonical-ira-lancar-seu-smartphone/</link>
       <pubDate>Mon, 22 Jul 2013 16:46:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/misterio-revelado-canonical-ira-lancar-seu-smartphone/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/misterio-revelado-canonical-ira-lancar-seu-smartphone/</guid>
       <description>Depois dos anúncios e imagens vazadas, está confirmado o Ubuntu Edge, smartphone da Canonical que rodará Ubuntu.
 Para lançar o smartphone, a Canonical está fazendo uma campanha para arrecadar 32 milhões de dólares. Quem doar 20 dólares terá seu nome na página de patrocinadores do projeto. Quem doar 600 dólares, receberá um aparelho e terá o nome na página de patrocinadores (apenas nas primeiras 24 horas). Quem doar 830 dólares após as 24 horas, também receberá um aparelho e terá seu nome na página de patrocinadores.</description>
     </item>
     
     <item>
       <title>Será este o primeiro dispositivo com Ubuntu Touch?</title>
-      <link>http://ubuntero.com.br/sera-este-o-primeiro-dispositivo-com-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/sera-este-o-primeiro-dispositivo-com-ubuntu-touch/</link>
       <pubDate>Sat, 20 Jul 2013 23:44:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/sera-este-o-primeiro-dispositivo-com-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/sera-este-o-primeiro-dispositivo-com-ubuntu-touch/</guid>
       <description>Após o site do Ubuntu apresentar novamente um contador para algo que nós só saberíamos o que é após 4 dias. Vazaram algumas imagens que estariam nos servidores do Ubuntu e seriam relativas a um smartphone. As imagens foram postadas no Google+. Veja imagens.
     
 O nome do dispositivo seria Ubuntu Edge, que até já tem o seu domínio registrado, ubuntuedge.com.
@@ -289,38 +289,38 @@ O contador já foi retirado do site do Ubuntu e agora não sabemos mais se algo 
     
     <item>
       <title>Inatividade justificável</title>
-      <link>http://ubuntero.com.br/inatividade-justificavel/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</link>
       <pubDate>Mon, 10 Jun 2013 22:33:41 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/inatividade-justificavel/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</guid>
       <description>Nesta última semana não consegui postar muita coisa, mas a explicação é simples e o motivo é bem justificável. Apresentei uma palestra sobre o Ubuntu e Ubuntu Touch na semana acadêmica do Curso de Ciência da Computação na URI &amp;#8211; Campus de Erechim no dia 5&amp;frasl;6 e no dia 8&amp;frasl;6 ministrei um mini-curso sobre Ubuntu para finalizar a mesma semana acadêmica. Estas duas tarefas, juntamente com a edição do Opencast sobre a Red Hat me tomaram bastante tempo.</description>
     </item>
     
     <item>
       <title>XVII Semana Acadêmica do Curso de Ciência da Computação</title>
-      <link>http://ubuntero.com.br/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</link>
       <pubDate>Thu, 16 May 2013 17:04:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</guid>
       <description>Este não é um evento gratuito como a maioria que divulgo aqui, bem pelo contrário, tem um preço até que bem salgado para os padrões de software livre, a inscrição custa $ 80,00 para alunos e R$ 100,00 para público em geral e nem é específico de software livre. O motivo de ele estar sendo divulgado aqui é que eu serei um dos palestrantes e mostrarei o Ubuntu e o Ubuntu Touch em um dos dias e também ministrarei um mini-curso de Linux básico no sábado.</description>
     </item>
     
     <item>
       <title>Lista de mudanças das imagens diárias do Ubuntu Touch</title>
-      <link>http://ubuntero.com.br/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</link>
       <pubDate>Thu, 21 Mar 2013 18:32:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</guid>
       <description>Depois de anunciar atualização diária da imagem do Ubuntu Touch, uma coisa ficou faltando, o que havia mudado de um dia para o outro? Muitos perguntavam isso, eu incluso, afinal, como iria eu atualizar o celular e testar o que havia de novo se eu não fazia ideia do que tinha sido mudado?
 O problema está solucionado, agora o changelog (lista de mudanças) pode ser acessado no endereço http://cdimage.ubuntu.com/ubuntu-touch-preview/daily-preinstalled/current/quantal-preinstalled.changelog</description>
     </item>
     
     <item>
       <title>Ubuntu Mobile App Store</title>
-      <link>http://ubuntero.com.br/ubuntu-mobile-app-store/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-app-store/</link>
       <pubDate>Mon, 18 Mar 2013 12:06:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-mobile-app-store/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-app-store/</guid>
       <description>Calma, não é oficial, é apenas uma proposta da comunidade. Veja como poderá ser a loja de aplicativos do Ubuntu Touch, caso a proposta, seja aceita.
     
  Assistir no Youtube O que acharam? Deixe seu comentário.
@@ -329,10 +329,10 @@ _Fonte: elbuntu projects_</description>
     
     <item>
       <title>Ubuntu em telefones, tablets, TV’s e qualquer lugar</title>
-      <link>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-em-telefones-tablets-tvs/</link>
       <pubDate>Tue, 01 Nov 2011 10:48:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-em-telefones-tablets-tvs/</guid>
       <description>Em seu blog, Mark Shuttleworth, fundador da Canonical que por sua vez é a empresa por trás do Ubuntu, fala sobre o futuro do Ubuntu e promete que o nosso pinguim estará disponível em todo tipo de dispositivo até 2014.
 Além disso, já nos premia com a data da próxima versão LTS após a 12.04. No artigo ele já confirma que a versão 12.04 será LTS.
 Como já havia falado em um artigo no lançamento do Ubuntu 11.</description>

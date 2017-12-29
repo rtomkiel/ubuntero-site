@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Free Software on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/free-software/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/free-software/</link>
     <description>Recent content in Free Software on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 25 Mar 2013 11:00:25 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #30 – Trisquel 6.0</title>
-      <link>http://ubuntero.com.br/videocast-30-trisquel-6-0/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-30-trisquel-6-0/</link>
       <pubDate>Mon, 25 Mar 2013 11:00:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-30-trisquel-6-0/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-30-trisquel-6-0/</guid>
       <description>Continuando nossa peregrinação por várias distribuições Linux, hoje mostro um pouco do Trisquel 6.0, uma distribuição considerada realmente Open Source. Esta distribuição é baseada no Ubuntu 12.04 e tem como interface gráfica principal o Gnome Classic, e não utiliza os mesmos repositórios do Ubuntu.
 Divirtam-se com mais uma alternativa do mundo do software livre.
  Assistir no Youtube </description>

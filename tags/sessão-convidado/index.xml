@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sessão Convidado on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/sess%C3%A3o-convidado/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/sess%C3%A3o-convidado/</link>
     <description>Recent content in Sessão Convidado on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 04 Jul 2012 11:00:48 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/sess%C3%A3o-convidado/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sess%C3%A3o-convidado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desabilitar sessão convidado</title>
-      <link>http://ubuntero.com.br/desabilitar-sessao-convidado/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/desabilitar-sessao-convidado/</link>
       <pubDate>Wed, 04 Jul 2012 11:00:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/desabilitar-sessao-convidado/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/desabilitar-sessao-convidado/</guid>
       <description>Já se perguntou para que serve a &amp;#8220;Sessão convidado&amp;#8221;? Esta sessão é muito útil quando várias pessoas precisam usar o computador temporariamente e você não quer que suas configurações sejam alteradas ou até arrumar um problema devido a acesso a sites indevidos. A sessão convidado tem o desktop completo, mas ao efetuar logoff, todas as informações são apagadas para o próximo login na sessão convidado.
 Se o computador é utilizado apenas por você, esta funcionalidade deixa de ser interessante e você pode desabilitá-la da seguinte maneira.</description>
     </item>

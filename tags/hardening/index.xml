@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardening on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/hardening/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/hardening/</link>
     <description>Recent content in Hardening on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 12 Mar 2014 23:32:06 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/hardening/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hardening/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #32 – Hardening</title>
-      <link>http://ubuntero.com.br/opencast-32-hardenig/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
       <pubDate>Wed, 12 Mar 2014 23:32:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-32-hardenig/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
       <description>Voltamos com o Opencast depois de uma boa parada para espairecer. Neste episódio Ivan, Aprígio Simões, Diego e Og Maciel falam sobre o processo de &amp;#8220;endurecimento&amp;#8221; de um sistema. Na verdade o episódio é quase um monólogo do Aprígio que foi quem sugeriu a pauta e também foi o especialista &amp;#8220;convidado&amp;#8221;.
 Excepcionalmente, mas pode se tornar o padrão, não teremos a versão em vídeo no youtube. O motivo é bem simples, é muito trabalho e isto acabaria prejudicando a periodicidade do Videocast e provavelmente a do Opencast também (mais do que já é prejudicada).</description>
     </item>

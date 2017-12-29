@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dv5 on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/dv5/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/dv5/</link>
     <description>Recent content in Dv5 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 23 Mar 2012 17:48:18 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/dv5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dv5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tela escura no HP Pavilion dv5</title>
-      <link>http://ubuntero.com.br/tela-escura-no-hp-pavilion-dv5/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tela-escura-no-hp-pavilion-dv5/</link>
       <pubDate>Fri, 23 Mar 2012 17:48:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tela-escura-no-hp-pavilion-dv5/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tela-escura-no-hp-pavilion-dv5/</guid>
       <description>Tenho um HP Pavilion dv5 e quando instalei o Ubuntu tive alguns problemas. Com o touchpad (já publicado a solução nesse site) e com a placa de vídeo, onde a tela fica preta ao ligar o notebook e quando uso um projetor de vídeo a resolução não é maior que 1024.
 Com o tempo vou descobrindo cada solução. O que descobri agora foi a restauração do brilho da tela ao inicializar o sistema.</description>
     </item>
     
     <item>
       <title>Touchpad HP Pavilion dv5</title>
-      <link>http://ubuntero.com.br/touchpad-hp-pavilion-dv5/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/touchpad-hp-pavilion-dv5/</link>
       <pubDate>Mon, 19 Dec 2011 22:25:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/touchpad-hp-pavilion-dv5/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/touchpad-hp-pavilion-dv5/</guid>
       <description>Artigo enviado por Jean Quenehen(@Jean_7)
 Muitos usuários que migram do SO azul para o Ubuntu acabam encontrando algumas dificuldades devido aos seus hardwares. Foi o meu caso. Tenho um HP Pavilion dv5 e ao instalar o Ubuntu constatei que o touchpad não funcionava corretamente, sem botão direito e problemas ao clicar e arrastar.
 Como todo novato, recorri ao google e fóruns de linux em busca da solução para o problema. Especificamente sobre esse problema (touchpad no HP) eu não encontrei muita coisa e as poucas informações e sugestões de solução não funcionavam.</description>

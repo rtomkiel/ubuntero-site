@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolling Release on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/rolling-release/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/rolling-release/</link>
     <description>Recent content in Rolling Release on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Jan 2013 10:14:09 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/rolling-release/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/rolling-release/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu se tornará “rolling release” ?</title>
-      <link>http://ubuntero.com.br/ubuntu-se-tornara-rolling-release/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-se-tornara-rolling-release/</link>
       <pubDate>Wed, 23 Jan 2013 10:14:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-se-tornara-rolling-release/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-se-tornara-rolling-release/</guid>
       <description>A resposta a esta pergunta é sim ao que tudo indica, mas fiquem calmos, as versões LTS continuam existindo.
 Em um hangout que você pode assistir no final do post, a gerente do time do kernel da Canonical, Leann Ogasawara, disse que a proposta foi lançada e a ideia é lançar as novidades quando elas aparecem e não apenas a cada 6 meses. Isto não significa que as versões LTS vão deixar de existir, muito pelo contrário.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conversão on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/convers%C3%A3o/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/convers%C3%A3o/</link>
     <description>Recent content in Conversão on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 07 Feb 2012 11:07:49 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/convers%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/convers%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arista Transcoder</title>
-      <link>http://ubuntero.com.br/arista-transcoder/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/arista-transcoder/</link>
       <pubDate>Tue, 07 Feb 2012 11:07:49 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/arista-transcoder/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/arista-transcoder/</guid>
       <description>Quem acompanha o review semanal sabe que enfrentei problemas com os vídeos gerados pelo gtk-recordmydesktop. O problema não interferia se eu simplesmente assistisse o vídeo, mas ao editar ou tentar converter para um formato melhor para a edição.
 Usando O Kdenlive ou o Openshot o resultado era o mesmo e até postei um vídeo mostrando o problema que acontecia, veja abaixo:
 Tentei vários programas para converter os arquivos gerados e até tentei usar outros programas para gravar a tela, incluindo alguns via linha de comando, mas o resultado nunca agradava.</description>

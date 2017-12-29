@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equinox on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/equinox/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/equinox/</link>
     <description>Recent content in Equinox on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 16 Apr 2011 14:52:54 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/equinox/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/equinox/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>8º Tema – Temas Equinox</title>
-      <link>http://ubuntero.com.br/8%C2%BA-tema-temas-equinox/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/8%C2%BA-tema-temas-equinox/</link>
       <pubDate>Sat, 16 Apr 2011 14:52:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/8%C2%BA-tema-temas-equinox/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/8%C2%BA-tema-temas-equinox/</guid>
       <description>Chegamos então ao oitavo post da série de temas do Ubuntero, e hoje vos apresento alguns temas Equinox, São temas realmente belos, que vão encantar os olhos de todos, mas bem, como são muitos temas, vou mostrar um por um.
 Tema Para a instalação do tema, há a necessidade da obtenção de um único ficheiro, bem pequeno que carrega todos os temas Equinox originais, e para obtê-lo, clique aqui. Após feito o download do pacote de temas, que se encontram em tar.</description>
     </item>

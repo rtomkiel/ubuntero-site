@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gutsy on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gutsy/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gutsy/</link>
     <description>Recent content in Gutsy on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 12 Mar 2008 17:11:08 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gutsy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gutsy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CD’s Ubuntu Server</title>
-      <link>http://ubuntero.com.br/cds-ubuntu-server/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/cds-ubuntu-server/</link>
       <pubDate>Wed, 12 Mar 2008 17:11:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/cds-ubuntu-server/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/cds-ubuntu-server/</guid>
       <description>Algo muito estranho aconteceu hoje. Cheguei no trabalho e me entregaram um pacote da Canonical contendo 10 CD&amp;#8217;s do Ubuntu Server 7.10. Os CD&amp;#8217;s foram enviados para o endereço da empresa onde trabalho e no meu nome, até o telefone da empresa eles informaram corretamente. O que há de estranho nisso? Eu jamais pedi estes CD&amp;#8217;s e muito menos informei o endereço da empresa onde trabalho, muito menos o telefone.</description>
     </item>
     
     <item>
       <title>Canon PIXMA iP1800 no Ubuntu</title>
-      <link>http://ubuntero.com.br/canon-pixma-ip1800-no-ubuntu-gutsy/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/canon-pixma-ip1800-no-ubuntu-gutsy/</link>
       <pubDate>Sat, 05 Jan 2008 20:16:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/canon-pixma-ip1800-no-ubuntu-gutsy/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/canon-pixma-ip1800-no-ubuntu-gutsy/</guid>
       <description>Artigo alterado devido a problemas com o download dos pacotes do site da canon.
 Testado nas versões 7.10, 8.04 e 8.10
 Neste final de semana ganhei uma impressora Canon PIXMA iP 1800 e tive que realizar alguns passos para que tudo funcionasse perfeitamente. Para variar um pouco, entre os drivers disponíveis no CD não estava uma versão para Linux. Tive que procurar um pouco pela internet até encontrar um tutorial que descrevesse os passos de instalação.</description>

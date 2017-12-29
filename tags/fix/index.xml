@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fix on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/fix/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/fix/</link>
     <description>Recent content in Fix on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 03 May 2013 13:37:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/fix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resolvendo problema de repositórios que impede a abertura da Central de Programas</title>
-      <link>http://ubuntero.com.br/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</link>
       <pubDate>Fri, 03 May 2013 13:37:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/</guid>
       <description>Já estou vendo que vai ter gente comentando que o Ubuntu só tem problema, mas isto não é verdade, apenas quando fico sabendo de um que tem solução eu divulgo a solução.
 Se ao tentar abrir a Central de programas do Ubuntu você está recebendo um erro parecido com este:
 &amp;quot;Erro: Abrindo o cache (E: Encountered a section with no package: header, E: problem with Mergelist /var/lib/apt/lists/br.archive.ubuntu.com_ubuntu_dists_raring_universe_i18n_Translation-pt, E:The package listsor status file could not be parsed or opened.</description>

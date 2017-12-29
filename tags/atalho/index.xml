@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atalho on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/atalho/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/atalho/</link>
     <description>Recent content in Atalho on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 28 Jan 2011 16:38:34 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/atalho/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/atalho/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Usando atalhos, economizando tempo.</title>
-      <link>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/usando-atalhos-economizando-tempo/</link>
       <pubDate>Fri, 28 Jan 2011 16:38:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/usando-atalhos-economizando-tempo/</guid>
       <description>Segundo um famoso dicionário eletrônico, atalho significa Caminho fora da estrada principal, pelo qual se encurtam distâncias.
 Bem, como podemos incluir a palavra atalho no nosso meio? Ou seja, como podemos falar de atalho na área da informática?
 Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários de Sistemas Operacionais utilizam atalhos. Seja na forma de ícones na área de trabalho ou simplesmente usando combinações de teclas.</description>

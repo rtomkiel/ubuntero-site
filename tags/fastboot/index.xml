@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fastboot on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/fastboot/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/fastboot/</link>
     <description>Recent content in Fastboot on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 19 Jun 2013 03:01:21 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/fastboot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fastboot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #23 – PRISM, Bug #1, Fastboot e o fim dos Desktops</title>
-      <link>http://ubuntero.com.br/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</link>
       <pubDate>Wed, 19 Jun 2013 03:01:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-23-prism-bug-1-fastboot-e-o-fim-dos-desktops/</guid>
       <description>Mantendo a periodicidade, mais uma vez reunimos parte do time do Opencast para falar sobre os assuntos que envolvem software livre direta ou indiretamente. Neste episódio, Ivan, Aprígio, Julian e Og se reuniram e tiveram um bom bate-papo sobre o significado do encerramento do Bug número 1 no Launchpad, o fim dos desktops, o que significa a redução do número de usuários na Steam e como se chega a esse número, como funciona o fastboot que está ameaçando o reembolso para quem não quer usar soluções Microsoft e o Og nos mostrou que assim como cá, a imprensa americana também mascara e esconde fatos importantes a todos os cidadãos.</description>
     </item>
     

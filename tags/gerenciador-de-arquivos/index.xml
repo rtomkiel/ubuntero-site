@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gerenciador De Arquivos on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gerenciador-de-arquivos/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gerenciador-de-arquivos/</link>
     <description>Recent content in Gerenciador De Arquivos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 25 Aug 2013 13:34:20 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gerenciador-de-arquivos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gerenciador-de-arquivos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #42 – Primeiros passos no Ubuntu – Vídeo 6</title>
-      <link>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-42-primeiros-passos-no-ubuntu-video-6/</link>
       <pubDate>Sun, 25 Aug 2013 13:34:20 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-42-primeiros-passos-no-ubuntu-video-6/</guid>
       <description>Algo que leio bastante por fórums e listas é a dificuldade em se compartilhar pastas na rede utilizando o Ubuntu, o que realmente não consigo entender. Para facilitar a vida de todos, este vídeo mostra a maneira simples de se acessar e fazer compartilhamento. Não é necessário fazer configurações mirabolantes no samba, isso é coisa para compartilhamentos avançados e não para simples compartilhamentos.
  Assistir no Youtube Viu como é fácil e não precisa nem abrir o terminal?</description>
     </item>

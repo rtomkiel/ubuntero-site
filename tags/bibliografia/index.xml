@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibliografia on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/bibliografia/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/bibliografia/</link>
     <description>Recent content in Bibliografia on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 14 May 2013 12:00:09 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/bibliografia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/bibliografia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gestor de referências bibliográficas para Ubuntu</title>
-      <link>http://ubuntero.com.br/gestor-de-referencias-bibliograficas-para-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</link>
       <pubDate>Tue, 14 May 2013 12:00:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gestor-de-referencias-bibliograficas-para-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</guid>
       <description>Artigo enviado por Cailon França de Castro(@cailondecastro)
 Umas das coisas que aprendemos cedo na Universidade é que quando vamos escrever algo devemos ler muita coisa a sobre o que vamos escrever, e não foi diferente quando comecei a escrever meu projeto de TCC alguns semestres atrás, li e citei pouco mais de uma dezena de artigos digitando cada uma das referências a mão. Um colega que já estava concluindo o curso disse que eu poderia ter automatizado o processo usando o Endnote, procurei o programa e para minha insatisfação o programa é pago e não possui versão para Linux.</description>
     </item>

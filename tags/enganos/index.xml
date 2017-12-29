@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enganos on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/enganos/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/enganos/</link>
     <description>Recent content in Enganos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 07 Apr 2014 18:59:08 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/enganos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/enganos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #57 – Pequenos enganos</title>
-      <link>http://ubuntero.com.br/videocast-57-pequenos-enganos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-57-pequenos-enganos/</link>
       <pubDate>Mon, 07 Apr 2014 18:59:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-57-pequenos-enganos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-57-pequenos-enganos/</guid>
       <description>  Aproveitando o último episódio do Opencast, neste episódio do Videocast eu falo um pouco sobre grandes pequenos enganos que todos já cometemos e que alguns de nós ainda continuam cometendo.
  Assistir no Youtube Links  Sudo su, por que não usar? Opencast #32 &amp;#8211; Hardening Loja do Ubuntero  </description>
     </item>

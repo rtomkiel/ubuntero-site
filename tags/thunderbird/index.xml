@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thunderbird on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/thunderbird/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/thunderbird/</link>
     <description>Recent content in Thunderbird on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 09 Jul 2012 18:44:44 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/thunderbird/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/thunderbird/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mozilla para o desenvolvimento do thunderbird</title>
-      <link>http://ubuntero.com.br/mozilla-para-o-desenvolvimento-do-thunderbird/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mozilla-para-o-desenvolvimento-do-thunderbird/</link>
       <pubDate>Mon, 09 Jul 2012 18:44:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mozilla-para-o-desenvolvimento-do-thunderbird/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mozilla-para-o-desenvolvimento-do-thunderbird/</guid>
       <description>A Mozilla anunciou que não desenvolverá novas funcionalidades para o cliente de email thunderbird. A manutenção no código para correções de falhas e melhoria de desempenho continuarão a ser feitas, mas não sabemos por quanto tempo. Os desenvolvedores do projeto serão realocados para outros projetos o mais rápido possível, então ninguém perderá o emprego.
 Você pode estar pensando: &amp;#8220;Quem ainda usa cliente de email?&amp;#8221;
 Pense comigo. Utilizo o computador em vários locais, muitos deles não tem acesso a internet, muitos outros não tem nem sinal de celular.</description>
@@ -24,20 +24,20 @@ Pense comigo. Utilizo o computador em vários locais, muitos deles não tem aces
     
     <item>
       <title>Opencast #8</title>
-      <link>http://ubuntero.com.br/opencast-8/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-8/</link>
       <pubDate>Sat, 24 Mar 2012 18:57:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-8/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-8/</guid>
       <description>Depois de muitas tentativas e parecer que o mundo estava conspirando contra a gravação do episódio #8 do Opencast, finalmente conseguimos finalizar a gravação e enfim fazer a publicação.
 Neste episódio apenas eu(Ivan) e Diego nos juntamos novamente e conversamos um pouco sobre o que aconteceu no mundo do software livre. Neste episódio você não ouvirá música de fundo durante o episódio, apenas na abertura. Isto é para que vocês possam votar melhor na enquete que está rolando no Facebook.</description>
     </item>
     
     <item>
       <title>Thunderbird 5 Beta</title>
-      <link>http://ubuntero.com.br/thunderbird-5-beta/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/thunderbird-5-beta/</link>
       <pubDate>Fri, 24 Jun 2011 12:59:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/thunderbird-5-beta/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/thunderbird-5-beta/</guid>
       <description>Dizem as &amp;#8220;más&amp;#8221; linguas que o Ubuntu 11.10 virá com o Mozilla Thunderbird no lugar do Evolution. Para mim isto será bom, pois sempre instalo o Thunderbird após a instalação do Ubuntu.
 Estou testando o Ubuntu 11.10 alpha 1 e ainda não vi esta alteração, mas isto deve vier com o tempo, afinal, nem o tema estava aplicado até o inicio do feriado.
 Mas se você já usa o Thunderbird e quer ter a versão 5 beta 2(última beta) siga estes simples passos:</description>

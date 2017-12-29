@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Magazine on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/linux-magazine/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/linux-magazine/</link>
     <description>Recent content in Linux Magazine on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 08 Nov 2012 16:00:39 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/linux-magazine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/linux-magazine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux Magazine Community Edition 96</title>
-      <link>http://ubuntero.com.br/linux-magazine-community-edition-96/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/linux-magazine-community-edition-96/</link>
       <pubDate>Thu, 08 Nov 2012 16:00:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/linux-magazine-community-edition-96/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/linux-magazine-community-edition-96/</guid>
       <description>Já está no ar a Linux Magazine 96 Community Edition.
 Confira nesta edição as matérias selecionadas da Linux Magazine de novembro (Big Data) e aprenda a compilar um emulador para o vindouro Firefox OS, e começar a testar seus aplicativos web no novo sistema operacional móvel da Mozilla. Saiba mais sobre os recursos e novidades do Android 4.2 &amp;#8220;Jelly Bean&amp;#8221;, a nova versão do sistema operacional móvel do Google. Aprenda ainda como você pode usar scripts PHP para incrementar sua linha de comando.</description>
     </item>
     
     <item>
       <title>Baixe já sua Linux Magazine 92 Community Edition!</title>
-      <link>http://ubuntero.com.br/baixe-ja-sua-linux-magazine-92-community-edition/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/baixe-ja-sua-linux-magazine-92-community-edition/</link>
       <pubDate>Fri, 13 Jul 2012 02:03:42 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/baixe-ja-sua-linux-magazine-92-community-edition/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/baixe-ja-sua-linux-magazine-92-community-edition/</guid>
       <description>Já está no ar a Linux Magazine 92 Community Edition.
 Confira nesta edição os principais assuntos da Linux Magazine de julho (Virtualização) e aprenda a criar sistemas de arquivos virtuais baseados em uma árvore de diretório e integre-o a outros programas com o cmdfs. Saiba como explorar as falhas de segurança da sua rede usando o MetaSploit, conjunto de ferramentas para testes de invasão e exploração de vulnerabilidade. Na revista é ensinado como você pode criar seu próprio servidor Git, o sistema de controle de versão desenvolvido por Linus Torvalds, e são mostradas duas formas de organizar trabalhos em grupo com a ferramenta.</description>
     </item>
     
     <item>
       <title>Lançada a Linux Magazine Community Edition 75</title>
-      <link>http://ubuntero.com.br/lancada-a-linux-magazine-community-edition-75/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancada-a-linux-magazine-community-edition-75/</link>
       <pubDate>Thu, 10 Feb 2011 10:20:07 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancada-a-linux-magazine-community-edition-75/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancada-a-linux-magazine-community-edition-75/</guid>
       <description>Já está no ar a Linux Magazine 75 Community Edition.  Confira nesta edição os principais assuntos da Linux Magazine de fevereiro (Android) e leia um artigo completíssimo sobre programação Palm para webOS, poderoso sistema móvel que pretende conquistar posições no mercado. Leia ainda um completo tutorial sobre SystemTap.     A Linux Magazine Community Edition surgiu em agosto de 2009. Trata-se de um arquivo em PDF com 30 páginas do conteúdo original da Linux Magazine do mês, disponível para download uma semana antes do lançamento da revista nas bancas – exclusivo para assinantes e cadastrados na newsletter.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imposto on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/imposto/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/imposto/</link>
     <description>Recent content in Imposto on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 08 Aug 2013 14:55:52 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/imposto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/imposto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Redução no valor do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/reducao-no-valor-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</link>
       <pubDate>Thu, 08 Aug 2013 14:55:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/reducao-no-valor-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</guid>
       <description>Falta pouco tempo para ser finalizada a campanha de arrecadação de fundos para a fabricação do Ubuntu Edge e a Canonical reduziu o valor do smartphone/computador de bolso. Agora também só temos um único valor para a compra de um aparelho único que é de $ 695 + $ 30 no nosso caso para custos com envio.
 Eu estava fazendo uma força para arrumar dinheiro para fazer a compra do meu, mas já estava difícil.</description>
     </item>

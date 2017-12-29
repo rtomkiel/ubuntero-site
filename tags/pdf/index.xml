@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pdf on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/pdf/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/pdf/</link>
     <description>Recent content in Pdf on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 10 Oct 2011 13:47:13 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressora PDF</title>
-      <link>http://ubuntero.com.br/impressora-pdf/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/impressora-pdf/</link>
       <pubDate>Mon, 10 Oct 2011 13:47:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/impressora-pdf/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/impressora-pdf/</guid>
       <description>Nos últimos dias tenho visto vários artigos pela internet mostrando como instalar uma impressora PDF no Ubuntu. A maioria deles mostra como instalar mil e um arquivos ou programas ou fazer configurações obscuras no sistema.
 Para sanar de vez com essa dúvida, tenho a dizer que nada disso é necessário. O Ubuntu já tem sua impressora PDF nativa, basta imprimir o arquivo ou página ou seja lá o que quiser transformar em PDF para um arquivo e selecionar entre os formatos PS ou PDF.</description>
     </item>
     
     <item>
       <title>Editar PDF no OpenOffice</title>
-      <link>http://ubuntero.com.br/editar-pdf-no-openoffice/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</link>
       <pubDate>Wed, 05 Jan 2011 15:58:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/editar-pdf-no-openoffice/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</guid>
       <description>Um pedido muito comum entre meus clientes é uma maneira de editar arquivos PDF. É difícil explicar que este tipo de arquivo foi desenvolvido para simples visualização e que não é igual a um arquivo .odt.
 Para agradar a todos, utilizo uma extensão do OpenOffice que permite a edição dos arquivos PDF diretamente pelo OpenOffice Write. Para instalar a extensão PDF Import, siga os passos abaixo:
 Acesse o endereço http://extensions.services.openoffice.org/en/project/pdfimport e desça a página até o local onde estão disponíveis os arquivos e faça o download conforme sua instalação do Ubuntu, 32 ou 64 bits.</description>

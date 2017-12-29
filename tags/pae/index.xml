@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pae on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/pae/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/pae/</link>
     <description>Recent content in Pae on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 13 Jan 2011 11:00:03 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/pae/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/pae/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kernel PAE para mais de 4 GB de memória</title>
-      <link>http://ubuntero.com.br/kernel-pae-para-mais-de-4-gb-de-memoria/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kernel-pae-para-mais-de-4-gb-de-memoria/</link>
       <pubDate>Thu, 13 Jan 2011 11:00:03 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kernel-pae-para-mais-de-4-gb-de-memoria/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kernel-pae-para-mais-de-4-gb-de-memoria/</guid>
       <description>Estou com um notebook novo com 6 GB de RAM e estava em um dilema. Instalar Ubuntu 64 bits e aproveitar toda a memória ou 32 bits para poder utilizar algumas impressoaras Canon que só tem driver para 32 bits?
 A decisão foi pelas impressoras e pelos 6 GB de Ram. Como isto é feito? Utilizando um Kernel PAE(Physical Address Extension). Segundo algumas leituras, a instalação do Ubuntu 32 bits em DVD já identifica a necessidade de instalação do kernel PAE, mas como eu só tinha a imagem de CD, fiz a instalação do sistema normalmente e após fiz a instalação do Kernel PAE como demonstrado agora:</description>
     </item>

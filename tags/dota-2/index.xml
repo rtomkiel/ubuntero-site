@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dota 2 on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/dota-2/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/dota-2/</link>
     <description>Recent content in Dota 2 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 19 Jul 2013 02:32:55 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/dota-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dota-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dota 2 finalmente lançado para Linux</title>
-      <link>http://ubuntero.com.br/dota-2-finalmente-lancado-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dota-2-finalmente-lancado-para-linux/</link>
       <pubDate>Fri, 19 Jul 2013 02:32:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dota-2-finalmente-lancado-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dota-2-finalmente-lancado-para-linux/</guid>
       <description>Agora não é mais só para teste, se ainda não apareceu para você, aguarde mais um pouco que Dota 2 logo irá aparecer e você poderá instalar e começar a jogar. O meu foi liberado agora a noite e estou fazendo o download como vocês podem ver nesta imagem.
  Ainda não testei o jogo, mas logo irei jogar e falo para vocês como está, não vai ter como fazer videocast sobre ele por que meu computador não aguenta gravar a tela e rodar o jogo, infelizmente.</description>
     </item>

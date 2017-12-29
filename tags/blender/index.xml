@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blender on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/blender/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/blender/</link>
     <description>Recent content in Blender on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Sep 2013 01:47:47 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
-      <link>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
       <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
       <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
     </item>
     
     <item>
       <title>Opencast #26 – Arte em 3D com Blender</title>
-      <link>http://ubuntero.com.br/opencast-26-arte-em-3d-com-blender/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-26-arte-em-3d-com-blender/</link>
       <pubDate>Thu, 22 Aug 2013 01:31:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-26-arte-em-3d-com-blender/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-26-arte-em-3d-com-blender/</guid>
       <description>Após mais uma pequena pausa, voltamos com mais um episódio do Opencast e neste episódio eu(Ivan), Aprígio Simões, Diego, Og Maciel e o convidado e especialista em Blender Razgriz falamos sobre esta fantástica ferramenta para criação e animação em 3D chamada Blender.
 Links do episódio  Loja do Ubuntero Blender.org Licença do Blender Blender na wikipedia Renderizador YafaRay Renderizador Cycles Filme totalmente feito em Blender Cria Livre Blender para todos Promoção do DVD do Blender Cogitas 3D Blender Guru El Diablo Criativo Blender Brasil Adventures in Blender Castalio Podcast  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013</title>
-      <link>http://ubuntero.com.br/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
       <pubDate>Wed, 21 Aug 2013 11:29:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
       <description>O grupo Tchelinux, em parceria com a FTEC Caxias do Sul, tem o prazer de convidar a comunidade, independente do nível de conhecimento e experiência com a tecnologia, software livre e áreas afins, para participarem do Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013.
 Inscrições Com o objetivo de estimular a caridade e a boa vontade, o Tchelinux tradicionalmente não cobra um valor monetário para admissão em seus eventos, mas sim pede que cada participante doe 2kg de alimentos não perecíveis (exceto sal), que serão recolhidos no ato do credenciamento e doados a uma instituição local a ser definida.</description>
     </item>
     
     <item>
       <title>Lançado Blender 2.67</title>
-      <link>http://ubuntero.com.br/lancado-blender-2-67/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-blender-2-67/</link>
       <pubDate>Thu, 09 May 2013 13:05:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-blender-2-67/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-blender-2-67/</guid>
       <description>O Blender é um sotware de criação 3D usado para modelagem, animação, pós-produção e o que mais puder ser feito com um objeto 3D. Além de usar seu próprio formato, é compatível com formatos mais &amp;#8220;famosos&amp;#8221; como 3D Studio.
 O Blender está em constante evolução e lança várias atualizações com a inclusão de muitos novos recursos. Nesta versão 2.67 temos estas novas implementações(entre outras):
  Novo motor de renderização de fotos não realistas, permitindo a criação de linhas 2D em cenas 3D Melhorada a precisão e velocidade do Motion Tracker Adicionado plugin para facilitar a impressão 3D Melhorado o suporte a UTF-8 Várias correções de bugs  Para se manter atualizado com a última versão do Blender, abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:</description>
@@ -53,10 +53,10 @@ O Blender está em constante evolução e lança várias atualizações com a in
     
     <item>
       <title>Comerciais utilizando Blender</title>
-      <link>http://ubuntero.com.br/comerciais-utilizando-blender/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/comerciais-utilizando-blender/</link>
       <pubDate>Fri, 29 Jun 2012 12:00:20 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/comerciais-utilizando-blender/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/comerciais-utilizando-blender/</guid>
       <description>Já parou para pensar como são feitas as propagandas que você vê todos os dias na televisão? Muitos enchem a boca para dizer que estes comerciais só são possíveis em plataformas e programas proprietário. Por este motivo eu adoro a ignorância, deem uma olhada no vídeo abaixo onde os comerciais foram totalmente feitos no blender, sim, ferramenta de código aberto.
 E antes que eu esqueça, a empresa que desenvolveu estes comerciais é brasileira.</description>
     </item>

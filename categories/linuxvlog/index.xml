@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linuxvlog on Ubuntero</title>
-    <link>http://ubuntero.com.br/categories/linuxvlog/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/categories/linuxvlog/</link>
     <description>Recent content in Linuxvlog on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 06 Dec 2013 16:14:08 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/categories/linuxvlog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/categories/linuxvlog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kdenlive: Movimento de imagens com efeito sonoro</title>
-      <link>http://ubuntero.com.br/kdenlive-movimento-de-imagens-com-efeito-sonoro/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kdenlive-movimento-de-imagens-com-efeito-sonoro/</link>
       <pubDate>Fri, 06 Dec 2013 16:14:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kdenlive-movimento-de-imagens-com-efeito-sonoro/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kdenlive-movimento-de-imagens-com-efeito-sonoro/</guid>
       <description>Este é o segundo vídeo da série de tutorias de edição de vídeo no Linux desenvolvida pelo canal LinuxVlog e divulgada aqui no Ubuntero. Neste vídeo você verá como dar movimento a imagens estáticas e como são adicionados efeitos sonoros.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>elementary OS: Nome da próxima versão, sincronização com Google Agenda e notificações</title>
-      <link>http://ubuntero.com.br/elementary-os-nome-da-proxima-versao-sincronizacao-com-google-agenda-e-notificacoes/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/elementary-os-nome-da-proxima-versao-sincronizacao-com-google-agenda-e-notificacoes/</link>
       <pubDate>Thu, 19 Sep 2013 12:18:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/elementary-os-nome-da-proxima-versao-sincronizacao-com-google-agenda-e-notificacoes/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/elementary-os-nome-da-proxima-versao-sincronizacao-com-google-agenda-e-notificacoes/</guid>
       <description>Nova série sobre o elementary, hoje apresentando o nome da próxima versão do sistema, central de apps própria, sincronização do calendário com o Google Agenda, e um centro de notificações muito interessante.
  Assistir no Youtube Este vídeo é uma parceria entre o site Ubuntero e o LinuxVlog.</description>
     </item>
     
     <item>
       <title>Ubuntu 13.10: Wallpapers, Firefox, correções gráficas e apps do Touch</title>
-      <link>http://ubuntero.com.br/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</link>
       <pubDate>Tue, 03 Sep 2013 11:22:11 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</guid>
       <description>Veja em vídeo, os wallpapers da nova versão do Ubuntu, correções na aparência de aplicativos GNOME 3, aplicativos do Ubuntu Touch rodado no Desktop, e o Firefox como navegador padrão do Ubuntu.
  Assistir no Youtube Este vídeo é uma parceria entre o site Ubuntero e o LinuxVlog.</description>
     </item>
     
     <item>
       <title>Kdenlive: Efeito simples com movimento e opacidade</title>
-      <link>http://ubuntero.com.br/kdenlive-efeito-simples-com-movimento-e-opacidade/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kdenlive-efeito-simples-com-movimento-e-opacidade/</link>
       <pubDate>Fri, 09 Aug 2013 12:28:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kdenlive-efeito-simples-com-movimento-e-opacidade/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kdenlive-efeito-simples-com-movimento-e-opacidade/</guid>
       <description>Começamos uma nova parceria e agora os vídeos do canal do youtube LinuxVlog também serão exibidos aqui no Ubuntero.
 O tão esperado tutorial de Kdenlive chegou, bem enxuto, mas quem assistir já vai conseguir fazer muita coisa legal. Como ficou bem curto e simples, decidi fazer mais nas próximas semanas, num formato mais screencast mesmo, só para mostrar os efeitos que faço nos vídeos.
  Assistir no Youtube </description>

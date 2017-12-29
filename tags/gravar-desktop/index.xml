@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravar Desktop on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gravar-desktop/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gravar-desktop/</link>
     <description>Recent content in Gravar Desktop on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 22 Feb 2012 15:57:36 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gravar-desktop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gravar-desktop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kazam Screencaster 1.0 lançada</title>
-      <link>http://ubuntero.com.br/kazam-screencaster-1-0-lancada/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kazam-screencaster-1-0-lancada/</link>
       <pubDate>Wed, 22 Feb 2012 15:57:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kazam-screencaster-1-0-lancada/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kazam-screencaster-1-0-lancada/</guid>
       <description>Olá a todos. Quando eu ainda tinha tempo de procurar por temas para postar aqui no site, eu gravei alguns vídeos para a demonstração do mesmo, e utilizava o Kazam. Quando passei para o Ubuntu 11.04 não pude utilizá-lo, por que o seu desenvolvimento não estava indo muito bem e não havia suporte algum. Hoje pela manhã navegando na internet vi que havia sido lançada uma nova versão do programa após muito tempo.</description>
     </item>
     
     <item>
       <title>Gravando vídeos do seu desktop no Ubuntu</title>
-      <link>http://ubuntero.com.br/gravando-videos-do-seu-desktop-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gravando-videos-do-seu-desktop-no-ubuntu/</link>
       <pubDate>Sat, 02 Apr 2011 14:10:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gravando-videos-do-seu-desktop-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gravando-videos-do-seu-desktop-no-ubuntu/</guid>
       <description>Como sabemos, o Ubuntu tem uma nova versão lançada a cada seis meses. Há um calendário de lançamento da próxima (e revolucionária) versão que publiquei aqui. Com isso, muitos usuários acabam gravando o seu desktop contendo tutoriais e vídeos que ajudam toda a comunidade.
 Há vários programas para gravar vídeos do seu desktop para Ubuntu. Hoje abordarei um deles, o Recordmydesktop.
 Para instalar, abra um terminal e digite:

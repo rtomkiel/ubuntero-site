@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fdroid on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/fdroid/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/fdroid/</link>
     <description>Recent content in Fdroid on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 11 Sep 2012 00:37:19 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/fdroid/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fdroid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #17 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-17-noticias/</link>
       <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-17-noticias/</guid>
       <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
 Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
     </item>

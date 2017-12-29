@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Banco Do Brasil on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/banco-do-brasil/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/banco-do-brasil/</link>
     <description>Recent content in Banco Do Brasil on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Apr 2012 13:49:30 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/banco-do-brasil/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/banco-do-brasil/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VídeoCast 12</title>
-      <link>http://ubuntero.com.br/videocast-12/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-12/</link>
       <pubDate>Sun, 08 Apr 2012 13:49:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-12/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-12/</guid>
       <description>Neste episódio não temos review, graças ao novo nome consegui me livrar deste fardo. Como o site teve um artigo que gerou uma boa repercussão e algumas pessoas não entenderam direito o objetivo do artigo, aqui tento explicar melhor o meu dia de produção no Gnome-Shell. Também tento explicar melhor sobre os artigos de resposta dos bancos com relação aos seus Home e Office Bankings.</description>
     </item>
     

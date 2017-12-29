@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leonardo on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/leonardo/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/leonardo/</link>
     <description>Recent content in Leonardo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 10 Mar 2014 17:12:39 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/leonardo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/leonardo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #54 – Arduino Leonardo</title>
-      <link>http://ubuntero.com.br/videocast-54-arduino-leonardo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-54-arduino-leonardo/</link>
       <pubDate>Mon, 10 Mar 2014 17:12:39 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-54-arduino-leonardo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-54-arduino-leonardo/</guid>
       <description>Nesta semana estou propondo o início de uma séria sobre a programação para Arduino. Comprei uma placa compatível com o Arduino Leonardo, mas até agora não dei nenhum fim para ela, já tem 3 ou 4 meses, até por não ter nenhuma ideia de uma aplicação para a placa. Me acompanhe nesta série e vamos aprender juntos as possibilidades deste hardware livre. Estou aceitando dicas de o que fazer com a placa, até mesmo comprar novos componentes para desenvolver algo útil.</description>
     </item>
     

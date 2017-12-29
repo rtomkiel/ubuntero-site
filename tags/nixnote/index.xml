@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nixnote on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/nixnote/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/nixnote/</link>
     <description>Recent content in Nixnote on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 11 Oct 2011 17:34:10 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/nixnote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/nixnote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nevernote agora se chama Nixnote</title>
-      <link>http://ubuntero.com.br/nevernote-agora-se-chama-nixnote/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</link>
       <pubDate>Tue, 11 Oct 2011 17:34:10 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/nevernote-agora-se-chama-nixnote/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</guid>
       <description>A poucos dias postei como fazer a instalação do Nevernote no Ubuntu. Depois disto descobri uma maneira mais fácil de instalar, utilizando um ppa, e que o projeto mudou de nome e agora se chama Nixnote.
 Para adicionar o repositório veja os passos no artigo anterior apenas trocando o endereço por:
 ppa:vincent-c/nevernote Aguarde atualizar os repositórios e procure por Nixnote e clique no botão instalar.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atualizar on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/atualizar/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/atualizar/</link>
     <description>Recent content in Atualizar on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 19 Oct 2012 19:37:17 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/atualizar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/atualizar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como atualizar o Ubuntu 12.04 para 12.10</title>
-      <link>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-12-10/</link>
       <pubDate>Fri, 19 Oct 2012 19:37:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-12-10/</guid>
       <description>Se a última versão do Ubuntu que você instalou era uma LTS, por exemplo a 12.04, a atualização para a 12.10 não deve ter aparecido no gerenciador de atualizações, mesmo que utilize o comando &amp;#8220;update-manager -d&amp;#8221;. Isto acontece porque as versões LTS são configuradas para só serem atualizadas para outras versões LTS, o que só vai acontecer em 2014(se o mundo não acabar).
 Para resolver este &amp;#8220;problema&amp;#8221;, abra a central de programas do ubuntu.</description>
     </item>

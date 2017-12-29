@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browser on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/browser/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/browser/</link>
     <description>Recent content in Browser on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 12 Jan 2013 21:10:18 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firefox 18 é lançado com poucas novidades</title>
-      <link>http://ubuntero.com.br/firefox-18-e-lancado-com-poucs-novidades/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-18-e-lancado-com-poucs-novidades/</link>
       <pubDate>Sat, 12 Jan 2013 21:10:18 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-18-e-lancado-com-poucs-novidades/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-18-e-lancado-com-poucs-novidades/</guid>
       <description>O Mozilla Firefox 18 veio sem grandes novidades visuais, somente correções de segurança e melhorias em performance no suporte ao JavaScript. O melhor desempenho do JavaScript ocorreu devido a troca da engine compiladora, utilizando agora a IonMonkey.
 Usuários do Mac que possuem tela de Retina em seus equipamentos notaram grande melhoria no visual, agora o Firefox passa a suportar completamente a nova tecnologia da Apple.
 Outra novidade que ainda não está pronta mas já foi colocada em testes é o suporte a WebRTC &amp;#8211; Web Real-Time Communication.</description>
@@ -24,10 +24,10 @@ Outra novidade que ainda não está pronta mas já foi colocada em testes é o s
     
     <item>
       <title>Firefox 8 via PPA (apenas Ubuntu 10.04 e 10.10)</title>
-      <link>http://ubuntero.com.br/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
       <pubDate>Wed, 09 Nov 2011 16:44:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
       <description>Seguindo a onda dos PPA e o lançamento do Firefox 8 seguem os passos para adicionar o PPA do Firefox para instalarmos a última versão nas versões 10.04 e 10.10.
 Abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:
 sudo apt-add-repository ppa:mozillateam/firefox-stable Pressione Enter quando for pedido e aguarde o terminal ser liberado. Após o terminal ser liberado digite os seguintes comandos:

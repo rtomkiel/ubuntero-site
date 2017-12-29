@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tahr on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/tahr/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/tahr/</link>
     <description>Recent content in Tahr on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 22 Oct 2013 13:03:32 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/tahr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/tahr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trusty Tahr será o nome do Ubuntu 14.04 e seu calendário está definido</title>
-      <link>http://ubuntero.com.br/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
       <pubDate>Tue, 22 Oct 2013 13:03:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
       <description>Mark Shuttlerworth, ao falar sobre o lançamento do Ubuntu 13.10, anunciou o nome do Ubuntu 14.04, Trusty Tahr. O bichinho da foto aí de cima é uma espécie de cabra selvagem que representa resistência e coragem. Estes adjetivos me levam a crer que a próxima versão terá a estabilidade que é esperada de uma versão LTS, mas também terá a coragem da implantação do novo servidor gráfico Mir, mesmo sem os exaustivos testes que teríamos se o mesmo estivesse já disponível por padrão na versão 13.</description>
     </item>
     

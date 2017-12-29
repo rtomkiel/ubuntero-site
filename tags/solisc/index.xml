@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solisc on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/solisc/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/solisc/</link>
     <description>Recent content in Solisc on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 08 Nov 2012 10:30:21 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/solisc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/solisc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>São José SC Sedia o VII Congresso Catarinense de Software Livre</title>
-      <link>http://ubuntero.com.br/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</link>
       <pubDate>Thu, 08 Nov 2012 10:30:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</guid>
       <description>No próximo dia 30 de Novembro, profissionais de TI, estudantes e empresas interessadas em migrar para Software Livre (programas gratuitos e de código aberto), estão convidados para o lançamento do VII Solisc, Congresso Catarinense de Software Livre.
 O evento contará com as seguintes trilhas:
  Desenvolvimento; Infraestrutura; Desktops/Distros; Software Livre em Geral.  O evento é coordenado pela Associação Software Livre de Santa Catarina, com o apoio da Serpro e da Universidade Estácio de Sá, que sediará o evento.</description>

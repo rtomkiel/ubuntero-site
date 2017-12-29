@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asus on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/asus/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/asus/</link>
     <description>Recent content in Asus on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 29 Jun 2012 17:00:26 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/asus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/asus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eeepc com Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/eeepc-com-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/eeepc-com-ubuntu-12-04/</link>
       <pubDate>Fri, 29 Jun 2012 17:00:26 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/eeepc-com-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/eeepc-com-ubuntu-12-04/</guid>
       <description>Lá fora, a Asus lançou mais um computador com Ubuntu pré-instalado. Este seria mais um lançamento se não fosse pela versão do Ubuntu. Poucos fabricantes lançam computadores com Linux em versões atuais e a Asus conseguiu se antenar quanto a isso.
    O Asus Eee PC 1225C é um bom notebook com processador Intel Atom Cedar Trail, FullHD através do conector HDMI, USB 3.0, tela de 11.6 polegadas, 2 GB de memória, HD de 320 ou 500 GB, webcam de 0.</description>
     </item>
     
     <item>
       <title>Asus vendendo netbooks com Ubuntu</title>
-      <link>http://ubuntero.com.br/asus-vendendo-netbooks-com-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</link>
       <pubDate>Thu, 02 Jun 2011 17:17:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/asus-vendendo-netbooks-com-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</guid>
       <description>A Canonical anunciou que a Asus irá oferecer, ainda este mês, uma linha completa de netbooks com Ubuntu 10.10 pré instalado.
 Depois de um super aquecimento do mercado de netbooks equipados com Linux, vieram novas levas de netbooks rodando o sistema operacional Windows 7 e até mesmo com o Windows XP. Ao que indica este cenário volta a ser favorável ao Linux e o que indica isto é o lançamento de uma linha completa de netbooks pela Asus.</description>
     </item>

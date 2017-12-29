@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntugames on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntugames/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntugames/</link>
     <description>Recent content in Ubuntugames on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 25 Jul 2011 11:00:43 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntugames/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntugames/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #4 – Jogos e Ubuntugames</title>
-      <link>http://ubuntero.com.br/opencast-4-jogos-e-ubuntugames/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-4-jogos-e-ubuntugames/</link>
       <pubDate>Mon, 25 Jul 2011 11:00:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-4-jogos-e-ubuntugames/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-4-jogos-e-ubuntugames/</guid>
       <description>Demorou um bom bocado mas enfim está no ar o episódio número 4 do Opencast. Infelizmente ainda não posso voltar ao prometido e não teremos episódios a cada 15 dias, mas em breve isto voltará ao normal.
 Neste episódio conversamos com o Carlos Donizete do site Ubuntu Games sobre o site e sobre jogos no Linux. A gravação foi bem complicada, pois estava caindo um temporal na cidade onde o Carlos morava e a conexão dele caiu algumas vezes fazendo que o assunto se perdesse por vários momentos.</description>
     </item>
     
     <item>
       <title>Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</title>
-      <link>http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/impressoeshardware-ubuntu-linux-606-dapper-drake/</link>
       <pubDate>Mon, 03 Jul 2006 11:00:03 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/impressoeshardware-ubuntu-linux-606-dapper-drake/</guid>
       <description>Neste aspecto o Ubuntu me fez um usuário muito feliz no primeiro momento. A algumas versões anteriores venho tentando fazer minha placa de vídeo ATI Radeon 9600 Pro funcionar. Até esta nova versão só tinha conseguido fazer o backup do xorg.conf e restaurar após não ter sucesso.
 Nesta nova versão resolvi instalar os drivers novamente, mesmo achando que não ia dar certo e eu teria que voltar ao rotineiro backup do xorg.</description>
     </item>

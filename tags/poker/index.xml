@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poker on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/poker/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/poker/</link>
     <description>Recent content in Poker on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 11 Jun 2013 15:00:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/poker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/poker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jogue pôquer online com Ubuntu</title>
-      <link>http://ubuntero.com.br/jogue-poquer-online-com-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/jogue-poquer-online-com-ubuntu/</link>
       <pubDate>Tue, 11 Jun 2013 15:00:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/jogue-poquer-online-com-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/jogue-poquer-online-com-ubuntu/</guid>
       <description>Infelizmente uns dos problemas que se pode encontrar com o sistema operacional Ubuntu é a sua incompatibilidade com os portais ou sistemas de jogos online. Mas como este sistema é opensource, hoje oferece muitas soluções para superar este tipo de problema. Com relação aos jogos de pôquer online existem duas opções para poder jogar:
  Jogar em site compatível com o sistema sem precisar fazer download. Baixar o &amp;#8220;Wine&amp;#8221; para Ubuntu.</description>
     </item>
     
     <item>
       <title>PokerTH</title>
-      <link>http://ubuntero.com.br/pokerth/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/pokerth/</link>
       <pubDate>Tue, 15 Feb 2011 17:59:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/pokerth/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/pokerth/</guid>
       <description>Gosta de jogar poker? E poker online?
 O jogo de poker é naturalmente viciante, mas não muito saudável para o bolso quando se joga dinheiro de verdade. Como solução para alimentar o vício sem perder dinheiro temos os jogos de poker online.
 Temos este tipo de jogo disponível para todos os sistemas operacionais, mas alguns carregam programas indesejáveis junto, acredito que não preciso citar nomes. Para nosso Ubuntu não temos esta preocupação, afinal nosso jogo de poker tem o código aberto, o que dificulta códigos maliciosos.</description>

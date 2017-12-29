@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valve on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/valve/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/valve/</link>
     <description>Recent content in Valve on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 22 Jan 2013 11:23:25 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/valve/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/valve/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Valve recomenda Linux para usuários Windows</title>
-      <link>http://ubuntero.com.br/valve-recomenda-linux-para-usuarios-windows/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/valve-recomenda-linux-para-usuarios-windows/</link>
       <pubDate>Tue, 22 Jan 2013 11:23:25 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/valve-recomenda-linux-para-usuarios-windows/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/valve-recomenda-linux-para-usuarios-windows/</guid>
       <description>O primeiro passo já havia sido dado pela Valve ao lançar o Steam para Linux, mas agora a coisa ficou realmente séria. Usuários do sistema operacional Windows da Microsoft recebem a recomendação de fazer a mudança de sistema operacional ao entrar na página de download do cliente da empresa.
 Para usuários Linux, ao entrar na página de downloads do Steam, um Tux já era mostrado para que fosse feito o download da versão beta.</description>
     </item>
     
     <item>
       <title>Quer testar o steam para Linux?</title>
-      <link>http://ubuntero.com.br/quer-testar-o-steam-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-steam-para-linux/</link>
       <pubDate>Sat, 27 Oct 2012 12:07:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/quer-testar-o-steam-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-steam-para-linux/</guid>
       <description>Lembram que postamos aqui que enviando um email para a valve você poderia ser um dos escolhidos para testar o steam para Linux? Pois é, parece que aqueles emails serão ignorados, mas temos outra chance.
 A Valve lançou uma pesquisa para levantar informações de software e hardware dos possíveis testadores. Se você quiser concorrer a vaga de testador terá que responder a pesquisa que se encontra no link http://www.valvesoftware.com/linuxsurvey.php. É necessário ter uma conta no steam para responder a pesquisa, coisa que achei no mínimo absurda, já que é necessário baixar o steam para criar uma conta e o cliente ainda não existe para Linux.</description>
     </item>
     
     <item>
       <title>Ubuntero On Air #2 – Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/ubuntero-on-air-2-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</link>
       <pubDate>Fri, 19 Oct 2012 11:45:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntero-on-air-2-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</guid>
       <description>No segundo episódio do Ubuntero On Air falamos um pouco sobre o lançamento do Ubuntu 12.10 e batemos um papo com quem estava assistindo ao vivo. O assunto da steam também veio a tona e uma notícia sobre o Ubuntu 13.04 também foi discutida.
 Ficou no ar a ideia de tornar o Ubuntero On Air em um quadro fixo no site, com intervalo de tempo regular. Esperamos seus comentários para definir como faremos isto.</description>
     </item>
     
     <item>
       <title>Quer testar o beta do Steam para Linux?</title>
-      <link>http://ubuntero.com.br/quer-testar-o-beta-do-steam-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-beta-do-steam-para-linux/</link>
       <pubDate>Sat, 08 Sep 2012 14:11:07 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/quer-testar-o-beta-do-steam-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/quer-testar-o-beta-do-steam-para-linux/</guid>
       <description>A Valve está procurando interessados em ser beta tester do steam para Linux. Se você está interessado em ser um, basta mandar um email para valvelinuxteam@valvesoftware.com demonstrando o seu interesse e você poderá ser um dos felizardos a usar o steam para Linux antes de todo mundo.
 Não perca tempo e mande o seu email, e se for um dos felizardos nos diga como está o desenvolvimento.</description>
     </item>
     
     <item>
       <title>Steam no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/steam-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/steam-no-ubuntu-12-04/</link>
       <pubDate>Tue, 17 Jul 2012 12:04:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/steam-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/steam-no-ubuntu-12-04/</guid>
       <description>Não é mais novidade para ninguém que a Valve irá trazer sua loja de jogos para o Linux, no entanto, na da era oficial até ontem quando a empresa divulgou um post em seu blog.
 Na postagem é falado que os servidores da empresa já utilizam Ubuntu 64 bits a algum tempo. Em 2011 a empresa deu um passo maior e criou esforços para lançar uma versão oficial do seu cliente para o pinguim e o primeiro jogo onde trabalhariam no port seria o Left 4 Dead.</description>
     </item>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>

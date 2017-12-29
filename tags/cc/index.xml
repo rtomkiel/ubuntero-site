@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cc on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/cc/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/cc/</link>
     <description>Recent content in Cc on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 26 Feb 2011 17:41:53 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/cc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/cc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast, episódio zero</title>
-      <link>http://ubuntero.com.br/opencast-episodio-zero/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-zero/</link>
       <pubDate>Sat, 26 Feb 2011 17:41:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-episodio-zero/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-zero/</guid>
       <description>Depois de muito tempo discutindo com os amigos aqui está nosso primeiro podcast, o Opencast.
 O Opencast terá como tema principal o Software Livre. O objetivo do Opencast será de trazer informações sobre o mundo do software livre, sendo boas ou más notícias, sempre faremos nossos comentários pessoais e técnicos sobre os assuntos.
 Ao contrário do que fazemos no grupo Caudilho Livre, aqui comentaremos as intervenções políticas que envolvam software livre tanto no Brasil quanto no mundo.</description>

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/server/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/server/</link>
     <description>Recent content in Server on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 22 Oct 2013 15:20:44 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/server/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/server/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu continua crescendo nos servidores</title>
-      <link>http://ubuntero.com.br/ubuntu-continua-crescendo-nos-servidores/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</link>
       <pubDate>Tue, 22 Oct 2013 15:20:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-continua-crescendo-nos-servidores/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</guid>
       <description>O Debian continua no topo, mas o Ubuntu está chegando lá com um crescimento muito alto e constante.
 Como já era de se esperar, o Debian continua dominando o mercado de servidores com 32,5% das instalações, seguida pelo Ubuntu e CentOS com 26% e pela Red Hat com 9%. Juntos, Debian e Ubuntu somam incríveis 58,5% do mercado de servidores, bem acima da soma da Red Hat, Fedora e CentOS que é de 38% aproximadamente.</description>
     </item>
     
     <item>
       <title>HP irá certificar Ubuntu 12.04 para a linha de servidores Proliant</title>
-      <link>http://ubuntero.com.br/hp-ira-certificar-ubuntu-12-04-para-a-linha-de-servidores-proliant/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/hp-ira-certificar-ubuntu-12-04-para-a-linha-de-servidores-proliant/</link>
       <pubDate>Mon, 23 Apr 2012 19:15:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/hp-ira-certificar-ubuntu-12-04-para-a-linha-de-servidores-proliant/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/hp-ira-certificar-ubuntu-12-04-para-a-linha-de-servidores-proliant/</guid>
       <description>Mark Shutttleworth anunciou na conferência Openstack que a HP irá certificar o Ubuntu 12.04 LTS para a sua linha de servidores Proliant. A decisão da HP foi uma resposta a crescente demanda de seus clientes que estão utilizando Ubuntu em seus parques de servidores.
 A Canonical já se orgulhava de ter grandes soluções de cloud computing rodando com o sistema operacional Ubuntu, agora tem mais um motivo para continuar seu ótimo trabalho.</description>
     </item>
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     
     <item>
       <title>CD’s Ubuntu Server</title>
-      <link>http://ubuntero.com.br/cds-ubuntu-server/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/cds-ubuntu-server/</link>
       <pubDate>Wed, 12 Mar 2008 17:11:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/cds-ubuntu-server/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/cds-ubuntu-server/</guid>
       <description>Algo muito estranho aconteceu hoje. Cheguei no trabalho e me entregaram um pacote da Canonical contendo 10 CD&amp;#8217;s do Ubuntu Server 7.10. Os CD&amp;#8217;s foram enviados para o endereço da empresa onde trabalho e no meu nome, até o telefone da empresa eles informaram corretamente. O que há de estranho nisso? Eu jamais pedi estes CD&amp;#8217;s e muito menos informei o endereço da empresa onde trabalho, muito menos o telefone.</description>
     </item>
     

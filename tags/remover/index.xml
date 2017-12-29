@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remover on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/remover/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/remover/</link>
     <description>Recent content in Remover on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 13 Sep 2010 15:00:28 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/remover/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/remover/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Remover kernel antigo</title>
-      <link>http://ubuntero.com.br/remover-kernel-antigo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/remover-kernel-antigo/</link>
       <pubDate>Mon, 13 Sep 2010 15:00:28 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/remover-kernel-antigo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/remover-kernel-antigo/</guid>
       <description>Com o tempo e atualizações do Ubuntu, várias entradas de kernel são enfileiradas no Grub. Para quem utiliza apenas o Ubuntu como sistema operacional isto não é problema, já para quem tem outro(s) sistema(s) o número de entradas pode ser incômodo, além de usar espaço em disco sem necessidade.
 O comando abaixo remove todas as entradas, menos a última, de uma só vez. O comando deve ser utilizado apenas depois de já ter testado todo o seu hardware e programas para ter certeza de que nada parou de funcionar após uma atualização.</description>
     </item>

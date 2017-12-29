@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suite De Escritorio on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/suite-de-escritorio/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/suite-de-escritorio/</link>
     <description>Recent content in Suite De Escritorio on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 09 Nov 2011 13:14:41 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/suite-de-escritorio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/suite-de-escritorio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atualizando o Libreoffice via PPA</title>
-      <link>http://ubuntero.com.br/atualizando-o-libreoffice-via-ppa/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/atualizando-o-libreoffice-via-ppa/</link>
       <pubDate>Wed, 09 Nov 2011 13:14:41 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/atualizando-o-libreoffice-via-ppa/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/atualizando-o-libreoffice-via-ppa/</guid>
       <description>O Ubuntu costuma ter versões novas dos programas, mas algumas atualizações podem demorar um pouco para entrar na distribuição e outras podem não entrar. No caso do LibreOffice temos um PPA que nos ajuda a manter a suíte de escritório sempre atualizada.
 Para adicionar o PPA abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:
 sudo apt-add-repository ppa:libreoffice/ppa Pressione Enter quando for pedido e digite os seguintes comandos após terminar de adicionar o PPA:</description>

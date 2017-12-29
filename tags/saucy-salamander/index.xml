@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saucy Salamander on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/saucy-salamander/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/saucy-salamander/</link>
     <description>Recent content in Saucy Salamander on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 26 Jun 2014 12:52:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/saucy-salamander/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/saucy-salamander/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu 13.10 (Saucy Salamander) chega ao fim de sua vida</title>
-      <link>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-chega-ao-fim-de-sua-vida/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-saucy-salamander-chega-ao-fim-de-sua-vida/</link>
       <pubDate>Thu, 26 Jun 2014 12:52:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-chega-ao-fim-de-sua-vida/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-saucy-salamander-chega-ao-fim-de-sua-vida/</guid>
       <description>Ainda temos um tempinho, mas é bom já avisar para que você tenha tempo de fazer seu backup e agendar a atualização. No dia 17 de julho, a versão 13.10 do Ubuntu encerrará suas atualizações. Isto significa que os usuários não terão mais atualizações, nem de segurança, nem comuns a partir deste dia.
 A única recomendação que temos para quem ainda utiliza o Ubuntu 13.10 é atualizar o mais breve possível.</description>
     </item>
     
     <item>
       <title>Ubuntu 13.10 (Saucy Salamander) Alpha 1 está disponível</title>
-      <link>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</link>
       <pubDate>Sat, 29 Jun 2013 18:02:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</guid>
       <description>Seguindo o calendário de lançamento do Ubuntu 13.10 (Saucy Salamander), o primeiro Alpha foi disponibilizado para testes no dia 27 de junho de 2013.
 O Alpha 1 inclui uma série de atualizações de software que estarão na próxima versão do Ubuntu. Este é um conjunto inicial de imagens para testes, não recomendado para uso em produção, use somente para testes pois é possível encontrar vários bugs nesse primeiro lançamento.</description>
     </item>
     
     <item>
       <title>Calendário de lançamento do Ubuntu 13.10</title>
-      <link>http://ubuntero.com.br/calendario-de-lancamento-do-ubuntu-13-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/calendario-de-lancamento-do-ubuntu-13-10/</link>
       <pubDate>Fri, 03 May 2013 16:51:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/calendario-de-lancamento-do-ubuntu-13-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/calendario-de-lancamento-do-ubuntu-13-10/</guid>
       <description>Como de costume, nem Esfriou o lançamento do Ubuntu 13.04 (Raring Ringtail) e já temos disponível o calendário de lançamento do Ubuntu 13.10 (Saucy Salamander). Veja abaixo as datas, lembrando que a primeira coluna é a semana, a segunda é a data e a terceira o título do evento.
 Os freezes (congelamentos) ocorrem normalmente por volta de 21:00 UTC da data da tabela.
   Week   Date (Thursday)   13.</description>

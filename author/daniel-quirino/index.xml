@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Quirino on Ubuntero</title>
-    <link>http://ubuntero.com.br/author/daniel-quirino/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/author/daniel-quirino/</link>
     <description>Recent content in Daniel Quirino on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 13 Mar 2013 13:32:24 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/author/daniel-quirino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/author/daniel-quirino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FF-Multi Converter – Uma boa dica para converter arquivos</title>
-      <link>http://ubuntero.com.br/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</link>
       <pubDate>Wed, 13 Mar 2013 13:32:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</guid>
       <description>Olá pessoal, hoje trago uma dica legal para converter arquivos, o FF-Multi Converter.
 Ele possui uma interface bem simples e consegue converter arquivos de áudio, vídeo, imagens e documentos, o que o torna bem completo para a maioria das utilizações.
 Confira os formatos suportados:
@@ -26,10 +26,10 @@ Confira os formatos suportados:
     
     <item>
       <title>Hardwareinfo – Checando as informações de hardware</title>
-      <link>http://ubuntero.com.br/hardwareinfo-checando-as-informacoes-de-hardware/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/hardwareinfo-checando-as-informacoes-de-hardware/</link>
       <pubDate>Tue, 15 Jan 2013 16:00:17 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/hardwareinfo-checando-as-informacoes-de-hardware/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/hardwareinfo-checando-as-informacoes-de-hardware/</guid>
       <description>Hardwareinfo é mais um utilitário (bem completo) que mostra informações detalhadas sobre o sistema. Ele retorna informações sobre a placa mãe, processador, memória RAM, GPU, HDD, dispositivos USB, sensores e muitos outros tipos de hardware.
 
 Apesar de visualmente simples, ele é capaz de retornar informações completas não só do hardware, mas de software, como versão do Kernel, tipo de Distribuição, uso de CPU e memória RAM, informação de Usuários, BIOS, Logs, dentre outros detalhes.</description>
@@ -37,20 +37,20 @@ Apesar de visualmente simples, ele é capaz de retornar informações completas 
     
     <item>
       <title>Comprimindo imagens com o Trimage</title>
-      <link>http://ubuntero.com.br/comprimindo-imagens-com-o-trimage/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/comprimindo-imagens-com-o-trimage/</link>
       <pubDate>Tue, 15 Jan 2013 10:00:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/comprimindo-imagens-com-o-trimage/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/comprimindo-imagens-com-o-trimage/</guid>
       <description>Precisando diminuir o tamanho em disco de arquivos de imagem mas sem diminuir a qualidade ou resolução? Use o Trimage para comprimir seus arquivos.
 O Trimage é um software multi-plataforma e linha de comando que utiliza-se dos mais altos níveis de compressão disponíveis para diminuir o tamanho de arquivos de imagens sem perda de qualidade (via OptiPNG, Pngcrush, advpng e jpegoptim dependendo do arquivo &amp;#8211; no momento só são suportados PNG e JPEG.</description>
     </item>
     
     <item>
       <title>Psensor – Uma forma fácil de verificar a temperatura do processador</title>
-      <link>http://ubuntero.com.br/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</link>
       <pubDate>Mon, 14 Jan 2013 10:30:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</guid>
       <description>Olá pessoal!
 Dessa vez venho trazer uma dica interessante e bastante simples para quem precisa saber a temperatura do processador. O aplicativo Psensor.
 Se você assim como eu, sofre com o notebook esquentando, seja no colo, seja na mesa, seja em qualquer lugar que for e se preocupa com a temperatura de sua máquina, o Psensor poderá ser uma ajuda e tanto para evitar que seu PC saia fritando coisas por aí.</description>
@@ -58,10 +58,10 @@ Se você assim como eu, sofre com o notebook esquentando, seja no colo, seja na 
     
     <item>
       <title>Montando Partições Automaticamente no Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/montando-particoes-automaticamente-no-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/montando-particoes-automaticamente-no-ubuntu-12-10/</link>
       <pubDate>Sun, 06 Jan 2013 19:00:28 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/montando-particoes-automaticamente-no-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/montando-particoes-automaticamente-no-ubuntu-12-10/</guid>
       <description>Olá Ubunteros!
 Aqui vai uma dica para quem usa o Ubuntu em dual boot com o Windows ou possui HD&amp;#8217;s ou partições em NTFS.
 Quem usa o Ubuntu sabe que o formato padrão dos arquivos de sistemas não é o famoso NTFS usado pela Microsoft no Windows (entre os mais comuns no Linux estão os Ext2, Ext3, Ext4, JFS e btrfs), e que, por padrão, partições que possuem o NTFS como formato padrão de arquivos de sistema não são montadas automaticamente na inicialização do Ubuntu, o que às vezes pode se tornar um problema ou simplesmente se tornar algo incômodo (no meu caso, minhas bibliotecas de músicas, fotos e documentos ficam numa partição NTFS comum ao Windows e ao Ubuntu, e que eventualmente, quando não montada, fazia o Clementine não encontrar minhas músicas assim que fosse inciado, dentre outras coisas mais, que por vezes incomodaram minha paciência).</description>

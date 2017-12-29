@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notebook on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/notebook/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/notebook/</link>
     <description>Recent content in Notebook on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Dec 2013 21:03:06 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/notebook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #50 – Dell Inspiron 14, um notebook para jogos?</title>
-      <link>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
       <pubDate>Tue, 24 Dec 2013 21:03:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
       <description>Este é o último episódio deste ano e enfim caiu em minhas mãos um notebook que é bom para jogos no Linux. O notebook é o Dell Inspiron 14 que vem equipado com uma placa de vídeo Nvidia GT625M, processador Intel Core i5-3337U, 6GB de memória e HD de 1 TB.
 Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
  Assistir no Youtube Antes de ver como habilitar a placa de vídeo Nvidia, passa no site da Dell e compra o computador por nosso link, assim ajuda o site e fica com uma super máquina para jogar.</description>
@@ -24,20 +24,20 @@ Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
     
     <item>
       <title>Eeepc com Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/eeepc-com-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/eeepc-com-ubuntu-12-04/</link>
       <pubDate>Fri, 29 Jun 2012 17:00:26 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/eeepc-com-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/eeepc-com-ubuntu-12-04/</guid>
       <description>Lá fora, a Asus lançou mais um computador com Ubuntu pré-instalado. Este seria mais um lançamento se não fosse pela versão do Ubuntu. Poucos fabricantes lançam computadores com Linux em versões atuais e a Asus conseguiu se antenar quanto a isso.
    O Asus Eee PC 1225C é um bom notebook com processador Intel Atom Cedar Trail, FullHD através do conector HDMI, USB 3.0, tela de 11.6 polegadas, 2 GB de memória, HD de 320 ou 500 GB, webcam de 0.</description>
     </item>
     
     <item>
       <title>Touchpad HP Pavilion dv5</title>
-      <link>http://ubuntero.com.br/touchpad-hp-pavilion-dv5/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/touchpad-hp-pavilion-dv5/</link>
       <pubDate>Mon, 19 Dec 2011 22:25:55 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/touchpad-hp-pavilion-dv5/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/touchpad-hp-pavilion-dv5/</guid>
       <description>Artigo enviado por Jean Quenehen(@Jean_7)
 Muitos usuários que migram do SO azul para o Ubuntu acabam encontrando algumas dificuldades devido aos seus hardwares. Foi o meu caso. Tenho um HP Pavilion dv5 e ao instalar o Ubuntu constatei que o touchpad não funcionava corretamente, sem botão direito e problemas ao clicar e arrastar.
 Como todo novato, recorri ao google e fóruns de linux em busca da solução para o problema. Especificamente sobre esse problema (touchpad no HP) eu não encontrei muita coisa e as poucas informações e sugestões de solução não funcionavam.</description>
@@ -45,10 +45,10 @@ Como todo novato, recorri ao google e fóruns de linux em busca da solução par
     
     <item>
       <title>Adicionar repositórios estando atras de um firewall</title>
-      <link>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</link>
       <pubDate>Thu, 20 Jan 2011 11:05:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
       <description>Artigo retirado e traduzido do site OMGUbuntu, tradução livre.
 Tendo problemas com o Ubuntu na Universidade? MadnessRed tem a solução.
 Um grande número de empresas e universidades bloqueiam todas as portas desconhecidas. Isto inclui as portas usadas para adicionar repositórios.
@@ -57,10 +57,10 @@ Este problema pode ser manobrado utilizando a porta 80 para adquirir a chave, Ma
     
     <item>
       <title>Dell lança Notebook com Ubuntu no Brasil</title>
-      <link>http://ubuntero.com.br/dell-lanca-notebook-com-ubuntu-no-brasil/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</link>
       <pubDate>Fri, 10 Dec 2010 15:37:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dell-lanca-notebook-com-ubuntu-no-brasil/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</guid>
       <description>Quer comprar um bom notebook já com Ubuntu instalado sem precisar apelar para sites estrangeiros? Navegando pelo site da Dell você pode encontrar o modelo Inspiron 14 N4020.
 Abaixo seguem os detalhes deste modelo:
 Chipset
@@ -70,20 +70,20 @@ Chipset
     
     <item>
       <title>Ubuntu 11.04 Alpha 1</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-1/</link>
       <pubDate>Mon, 06 Dec 2010 03:31:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-1/</guid>
       <description>Este artigo foi escrito diretamente da primeira versão Alpha do Ubuntu 11.04. Para melhor testar a próxima versão do sistema não fiz uma instalação em uma máquina virtual. Estou utilizando o mesmo notebook onde instalei a primeira versão do Ubuntu.
 Como em todas as versões do Ubuntu, me surpreendo com a melhora de desempenho que faz com que computadores mais modestos continuem a ser utilizados. Claro que não posso fazer coisas extremamente pesadas como edição de vídeo ou modelagem 3D, mas isto eu nunca consegui fazer neste computador, mas as tarefas normais, até algum desenvolvimento, continuo a fazer como se estivesse utilizando o mesmo sistema de alguns anos atras, e ainda de quebra com todas as inovações das novas versões do sistema operacional.</description>
     </item>
     
     <item>
       <title>Disco cheio sem motivo aparente</title>
-      <link>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</link>
       <pubDate>Sat, 27 Nov 2010 22:19:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</guid>
       <description>Hoje a tarde liguei meu computador e recebi a mensagem de que minha partição home estava totalmente cheia. Achei muito estranho porque até o último desligamento eu tinha mais de 100 GB livre.
 Investigando o problema encontrei um arquivo de log(.xsession-errors) ocupando todo o espaço livre do disco. Analisando o conteúdo do arquivo pude ver a seguinte mensagem sendo repetida inúmeras vezes:
 (nautilus:1882): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL&#39; failed</description>

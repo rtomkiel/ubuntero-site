@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lixeira on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/lixeira/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/lixeira/</link>
     <description>Recent content in Lixeira on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:20:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/lixeira/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/lixeira/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resolvendo problemas ao enviar arquivos para a lixeira</title>
-      <link>http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/</link>
       <pubDate>Sat, 10 Oct 2015 13:20:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/</guid>
       <description>Dando uma olhada no canal do IRC do Ubuntu, sim, este canal continua muito vivo hoje em dia, topei com um problema de um usuário( Jairo Augusto dos Santos) que não conseguia enviar arquivos para a lixeira. Ele tinha duas opções, apagar o arquivo sem chances de reparar depois, ou não apagava o arquivo.
 Primeiro notamos que a pasta da lixeira estava com o dono setado de maneira errada, estava com o root como dono e grupo.</description>
     </item>

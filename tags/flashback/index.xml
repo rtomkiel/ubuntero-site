@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flashback on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/flashback/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/flashback/</link>
     <description>Recent content in Flashback on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 02 May 2014 16:51:26 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/flashback/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/flashback/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gnome flashback no Ubuntu 14.04</title>
-      <link>http://ubuntero.com.br/gnome-flashback-no-ubuntu-14-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gnome-flashback-no-ubuntu-14-04/</link>
       <pubDate>Fri, 02 May 2014 16:51:26 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gnome-flashback-no-ubuntu-14-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gnome-flashback-no-ubuntu-14-04/</guid>
       <description>Sempre é bom relembrar os momentos já vividos e ver por tudo que nós passamos. Lembrar as dificuldades e como fizemos para passar por cima delas, mas será que é bom voltar no tempo para viver novamente naquele mesmo mundo?
 Esta é a proposta do Gnome flashback disponível no Ubuntu 14.04. Utilizei a interface durante meio dia e foi bom lembrar dos antigos tempos e principalmente ver que o Unity e o Gnome Shell são extremamente superiores.</description>
     </item>

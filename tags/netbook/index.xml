@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netbook on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/netbook/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/netbook/</link>
     <description>Recent content in Netbook on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 02 Jun 2011 17:17:05 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/netbook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/netbook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asus vendendo netbooks com Ubuntu</title>
-      <link>http://ubuntero.com.br/asus-vendendo-netbooks-com-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</link>
       <pubDate>Thu, 02 Jun 2011 17:17:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/asus-vendendo-netbooks-com-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</guid>
       <description>A Canonical anunciou que a Asus irá oferecer, ainda este mês, uma linha completa de netbooks com Ubuntu 10.10 pré instalado.
 Depois de um super aquecimento do mercado de netbooks equipados com Linux, vieram novas levas de netbooks rodando o sistema operacional Windows 7 e até mesmo com o Windows XP. Ao que indica este cenário volta a ser favorável ao Linux e o que indica isto é o lançamento de uma linha completa de netbooks pela Asus.</description>
     </item>
     
     <item>
       <title>Dell lança Notebook com Ubuntu no Brasil</title>
-      <link>http://ubuntero.com.br/dell-lanca-notebook-com-ubuntu-no-brasil/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</link>
       <pubDate>Fri, 10 Dec 2010 15:37:09 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dell-lanca-notebook-com-ubuntu-no-brasil/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</guid>
       <description>Quer comprar um bom notebook já com Ubuntu instalado sem precisar apelar para sites estrangeiros? Navegando pelo site da Dell você pode encontrar o modelo Inspiron 14 N4020.
 Abaixo seguem os detalhes deste modelo:
 Chipset
@@ -36,20 +36,20 @@ Chipset
     
     <item>
       <title>Ubuntu 11.04 Alpha 1</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-1/</link>
       <pubDate>Mon, 06 Dec 2010 03:31:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-alpha-1/</guid>
       <description>Este artigo foi escrito diretamente da primeira versão Alpha do Ubuntu 11.04. Para melhor testar a próxima versão do sistema não fiz uma instalação em uma máquina virtual. Estou utilizando o mesmo notebook onde instalei a primeira versão do Ubuntu.
 Como em todas as versões do Ubuntu, me surpreendo com a melhora de desempenho que faz com que computadores mais modestos continuem a ser utilizados. Claro que não posso fazer coisas extremamente pesadas como edição de vídeo ou modelagem 3D, mas isto eu nunca consegui fazer neste computador, mas as tarefas normais, até algum desenvolvimento, continuo a fazer como se estivesse utilizando o mesmo sistema de alguns anos atras, e ainda de quebra com todas as inovações das novas versões do sistema operacional.</description>
     </item>
     
     <item>
       <title>Disco cheio sem motivo aparente</title>
-      <link>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</link>
       <pubDate>Sat, 27 Nov 2010 22:19:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</guid>
       <description>Hoje a tarde liguei meu computador e recebi a mensagem de que minha partição home estava totalmente cheia. Achei muito estranho porque até o último desligamento eu tinha mais de 100 GB livre.
 Investigando o problema encontrei um arquivo de log(.xsession-errors) ocupando todo o espaço livre do disco. Analisando o conteúdo do arquivo pude ver a seguinte mensagem sendo repetida inúmeras vezes:
 (nautilus:1882): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL&#39; failed</description>

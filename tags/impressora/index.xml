@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressora on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/impressora/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/impressora/</link>
     <description>Recent content in Impressora on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 10 Oct 2011 13:47:13 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/impressora/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/impressora/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressora PDF</title>
-      <link>http://ubuntero.com.br/impressora-pdf/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/impressora-pdf/</link>
       <pubDate>Mon, 10 Oct 2011 13:47:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/impressora-pdf/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/impressora-pdf/</guid>
       <description>Nos últimos dias tenho visto vários artigos pela internet mostrando como instalar uma impressora PDF no Ubuntu. A maioria deles mostra como instalar mil e um arquivos ou programas ou fazer configurações obscuras no sistema.
 Para sanar de vez com essa dúvida, tenho a dizer que nada disso é necessário. O Ubuntu já tem sua impressora PDF nativa, basta imprimir o arquivo ou página ou seja lá o que quiser transformar em PDF para um arquivo e selecionar entre os formatos PS ou PDF.</description>
     </item>
     
     <item>
       <title>Canon PIXMA iP1800 no Ubuntu</title>
-      <link>http://ubuntero.com.br/canon-pixma-ip1800-no-ubuntu-gutsy/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/canon-pixma-ip1800-no-ubuntu-gutsy/</link>
       <pubDate>Sat, 05 Jan 2008 20:16:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/canon-pixma-ip1800-no-ubuntu-gutsy/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/canon-pixma-ip1800-no-ubuntu-gutsy/</guid>
       <description>Artigo alterado devido a problemas com o download dos pacotes do site da canon.
 Testado nas versões 7.10, 8.04 e 8.10
 Neste final de semana ganhei uma impressora Canon PIXMA iP 1800 e tive que realizar alguns passos para que tudo funcionasse perfeitamente. Para variar um pouco, entre os drivers disponíveis no CD não estava uma versão para Linux. Tive que procurar um pouco pela internet até encontrar um tutorial que descrevesse os passos de instalação.</description>

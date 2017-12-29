@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webapp on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/webapp/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/webapp/</link>
     <description>Recent content in Webapp on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 14 Oct 2012 05:17:51 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #19</title>
-      <link>http://ubuntero.com.br/videocast-19/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-19/</link>
       <pubDate>Sun, 14 Oct 2012 05:17:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-19/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-19/</guid>
       <description>Aproveito este Videocast para esclarecer alguns pontos sobre o Opencast, agradecer aos votos para o prêmio TopBlog Brasil 2012 e comentar sobre a crítica que fiz sobre as webapps do Ubuntu 12.10.</description>
     </item>
     
     <item>
       <title>Webapps no Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/webapps-no-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/webapps-no-ubuntu-12-10/</link>
       <pubDate>Tue, 02 Oct 2012 20:38:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/webapps-no-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/webapps-no-ubuntu-12-10/</guid>
       <description>&amp;nbsp;
 Depois de usar por um longo tempo as tais webapps eu finalmente me sinto tranquilo para falar o que achei desta &amp;#8220;grande&amp;#8221; novidade do Ubuntu 12.10.
 A conclusão pode se resumir a duas palavras: Sem sentido.

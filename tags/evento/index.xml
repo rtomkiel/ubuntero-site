@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evento on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/evento/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/evento/</link>
     <description>Recent content in Evento on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 20 Oct 2014 15:23:43 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/evento/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/evento/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu Day Hortolândia 2014</title>
-      <link>http://ubuntero.com.br/ubuntu-day-hortolandia-2014/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-day-hortolandia-2014/</link>
       <pubDate>Mon, 20 Oct 2014 15:23:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-day-hortolandia-2014/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-day-hortolandia-2014/</guid>
       <description>Dia 29 de novembro acontecerá em Hortolândia o Ubuntu Day Hortolândia 2014, realizado pela comunidade oficial Ubuntu no Estado de São Paulo (LoCo Team Ubuntu São Paulo). O evento tem como objetivo a troca de informações e partilha de conhecimento de forma livre e aberta a todos.
 A primeira edição do evento foi no ano de 2013 na sede social do Sport Club Corinthias, na cidade de São Paulo, o Ubuntu Day marcou a reestruturação da comunidade Ubuntu com as demais comunidades de Software Livre e Open Source.</description>
     </item>
     
     <item>
       <title>Appmaker party</title>
-      <link>http://ubuntero.com.br/appmaker-party/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/appmaker-party/</link>
       <pubDate>Mon, 17 Feb 2014 20:18:01 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/appmaker-party/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/appmaker-party/</guid>
       <description>O evento acontece em Porto Alegre no dia 01/03/2014 e nele você irá aprender sobre o Appmaker, uma nova ferramenta da Mozilla que permite que você arraste e solte componentes para facilmente criar aplicativos legais e úteis para você, seus amigos, seu negócio, sua sala de aula e sua comunidade. O objetivo do evento é mostrar como usar o Appmaker para ensinar a web e como melhorá-lo hackeando componentes existentes.</description>
     </item>
     
     <item>
       <title>Tchelinux Porto Alegre 2013</title>
-      <link>http://ubuntero.com.br/tchelinux-porto-alegre-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tchelinux-porto-alegre-2013/</link>
       <pubDate>Thu, 03 Oct 2013 11:38:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tchelinux-porto-alegre-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tchelinux-porto-alegre-2013/</guid>
       <description>O Tchelinux é um grupo de usuários de Software Livre que através de uma lista de discussão trocam informações e conhecimentos sobre o universo Livre, e de vez em quando ultrapassando a barreira da internet e criando eventos que permitem além do aumento do conhecimento também um aumento do networking.
 Assim o grupo em conjunto com a Universidade FTEC está organizando o evento que ocorrerá em Porto Alegre no final deste ano, 30&amp;frasl;11.</description>
     </item>
     
     <item>
       <title>Tchelinux Sant’ana do Livramento 2013</title>
-      <link>http://ubuntero.com.br/tchelinux-santana-do-livramento-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tchelinux-santana-do-livramento-2013/</link>
       <pubDate>Wed, 02 Oct 2013 14:06:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tchelinux-santana-do-livramento-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tchelinux-santana-do-livramento-2013/</guid>
       <description>Neste final de semana, dia 05/10, acontece o segundo Fórum Tchelinux de Software Livre em Sant&amp;#8217;ana do Livramento.
 O TcheLinux é um grupo de voluntários que desde 2006 trabalha na divulgação do Software Livre no estado do Rio Grande do Sul, através de palestras e workshops gratuitos para estudantes e demais interessados. O grupo pretende atingir todos os profissionais, estudantes e interessados em Software Livre do estado, criando um fórum comum a todos e permitindo a organização e mobilização do grupo no sentido de alcançar seus interesses de divulgação das tecnologias livres.</description>
     </item>
     
     <item>
       <title>Richard Stallman em Passo Fundo</title>
-      <link>http://ubuntero.com.br/richard-stallman-em-passo-fundo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/richard-stallman-em-passo-fundo/</link>
       <pubDate>Fri, 17 May 2013 11:52:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/richard-stallman-em-passo-fundo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/richard-stallman-em-passo-fundo/</guid>
       <description>Os eventos de software livre no norte gaúcho estão a toda, nunca pensei que isso viesse a acontecer e estou bem contente com o que está por vir. No dia 01/07, às 18:30, Richard Stallman estará na UPF &amp;#8211; Universidade de Passo Fundo.
 Se você gosta de software livre e não sabem quem é Richard Stallman, é melhor baixar a cabeça e reconhecer que é um &amp;#8220;poser&amp;#8221;, mas eu vou ajudar vocês e explicar quem é este cara.</description>
     </item>
     
     <item>
       <title>XVII Semana Acadêmica do Curso de Ciência da Computação</title>
-      <link>http://ubuntero.com.br/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</link>
       <pubDate>Thu, 16 May 2013 17:04:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</guid>
       <description>Este não é um evento gratuito como a maioria que divulgo aqui, bem pelo contrário, tem um preço até que bem salgado para os padrões de software livre, a inscrição custa $ 80,00 para alunos e R$ 100,00 para público em geral e nem é específico de software livre. O motivo de ele estar sendo divulgado aqui é que eu serei um dos palestrantes e mostrarei o Ubuntu e o Ubuntu Touch em um dos dias e também ministrarei um mini-curso de Linux básico no sábado.</description>
     </item>
     
     <item>
       <title>Festival Nacional de Cultura Livre (Fenalivre)</title>
-      <link>http://ubuntero.com.br/festival-nacional-de-cultura-livre-fenalivre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/festival-nacional-de-cultura-livre-fenalivre/</link>
       <pubDate>Thu, 09 May 2013 11:53:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/festival-nacional-de-cultura-livre-fenalivre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/festival-nacional-de-cultura-livre-fenalivre/</guid>
       <description>O Festival Nacional de Cultura Livre (Fenalivre) é um evento organizado por um grupo de voluntários e entusiastas do software livre para divulgar e compartilhar a cultura livre em todas as áreas do conhecimento.
 O evento acontece semestralmente, na cidade de Passo Fundo, e conta com palestrantes e profissionais da área de TI que ministram oficinas voluntariamente para compartilhar seu conhecimento.
 Para que o evento sempre mantenha sua ideologia original, foram criados cinco princípios que norteiam a organização do evento.</description>
@@ -82,20 +82,20 @@ Para que o evento sempre mantenha sua ideologia original, foram criados cinco pr
     
     <item>
       <title>Encontro TecLand</title>
-      <link>http://ubuntero.com.br/encontro-tecland/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/encontro-tecland/</link>
       <pubDate>Tue, 07 May 2013 16:30:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/encontro-tecland/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/encontro-tecland/</guid>
       <description>O Encontro TecLand é um evento beneficente e sem fins lucrativos concebido em 2008, cujo objetivo é compartilhar conhecimento de qualidade e alto nível e proporcionar um ambiente para networking entre palestrantes e participantes, bem como ajudar uma entidade assistencial com os alimentos não perecíveis arrecadados nas inscrições. Suas primeiras edições ocorreram somente em 2012, com a formação do TecLand Group.
 Atualmente em sua terceira edição, que irá ocorrer dia 25 de maio de 2013, em Erechim/RS, muitas apresentações de alto nível de Software Livre e Segurança da Informação serão ministradas, e o bônus será uma palestra internacional, apresentada por Gabriel Negreira Barbosa, que entrará online ao vivo, diretamente de Guadalajara, no México, visando se aprofundar em um assunto muito interessante e pouco discutido em conferências de infosec, chamada: “Técnicas de Anti-Engenharia Reversa Utilizadas por Malwares”.</description>
     </item>
     
     <item>
       <title>ExpoLivre 2013: 1ª Exposição Brasileira de Software Livre</title>
-      <link>http://ubuntero.com.br/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</link>
       <pubDate>Thu, 04 Apr 2013 13:02:48 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</guid>
       <description>É com grande prazer que o time do blog Ubuntu-BR-SC convida a todos para a primeira edição da ExpoLivre, a primeira exposição brasileira de software livre.
 O evento irá ocorrer nos dias 26 e 27 de julho e terá como palco a Universidade Federal de Santa Catarina em Joinville, a cidade mais populosa de Santa Catarina, com cerca de 526 mil habitantes.
 Mais informações podem ser vistas no site do evento em www.</description>
@@ -103,10 +103,10 @@ Mais informações podem ser vistas no site do evento em www.</description>
     
     <item>
       <title>São José SC Sedia o VII Congresso Catarinense de Software Livre</title>
-      <link>http://ubuntero.com.br/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</link>
       <pubDate>Thu, 08 Nov 2012 10:30:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/sao-jose-sc-sedia-o-vii-congresso-catarinense-de-software-livre/</guid>
       <description>No próximo dia 30 de Novembro, profissionais de TI, estudantes e empresas interessadas em migrar para Software Livre (programas gratuitos e de código aberto), estão convidados para o lançamento do VII Solisc, Congresso Catarinense de Software Livre.
 O evento contará com as seguintes trilhas:
  Desenvolvimento; Infraestrutura; Desktops/Distros; Software Livre em Geral.  O evento é coordenado pela Associação Software Livre de Santa Catarina, com o apoio da Serpro e da Universidade Estácio de Sá, que sediará o evento.</description>
@@ -114,38 +114,38 @@ O evento contará com as seguintes trilhas:
     
     <item>
       <title>Dia da Liberdade de Software 2012 – Novo Hamburgo</title>
-      <link>http://ubuntero.com.br/dia-da-liberdade-de-software-2012-novo-hamburgo/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dia-da-liberdade-de-software-2012-novo-hamburgo/</link>
       <pubDate>Wed, 27 Jun 2012 13:54:23 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dia-da-liberdade-de-software-2012-novo-hamburgo/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dia-da-liberdade-de-software-2012-novo-hamburgo/</guid>
       <description>O Dia da Liberdade de Software 2012 é um evento global sobre Software Livre, cujo objetivo é comemorar e informar ao público sobre os benefícios de usar Software Livre.
 O grupo de usuários SoftwareLivreVS, com o apoio da Feevale, realizará a edição local do evento em Novo Hamburgo / RS, no Campus II da Feevale, no Salão de Exposições do Prédio Arenito, das 13h às 17h, no dia 15 de setembro de 2012.</description>
     </item>
     
     <item>
       <title>I BootCamp OeSC-Livre em São Miguel do Oeste – Chamada de trabalhos</title>
-      <link>http://ubuntero.com.br/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</link>
       <pubDate>Tue, 17 Apr 2012 00:18:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/i-bootcamp-oesc-livre-em-sao-miguel-do-oeste-chamada-de-trabalhos/</guid>
       <description>O Grupo OeSC-Livre, em parceria com o SENAC em São Miguel do Oeste, convida a todos os interessados da região Oeste de Santa Catarina a submeterem palestras e/ou oficinas sobre os assuntos relacionados abaixo, para apresentação no I BootCamp OeSC-Livre São Miguel do Oeste. O evento se realizará no Auditório do Senac São Miguel do Oeste no sábado, dia 5 de Maio de 2012.  Prazo final: 21/04/2012  Assuntos de interesse:    Firewall;     Python;     RubyOnRails ou outro framework, talvez para python;     PostgreSQL;     CakePHP ou outro framework para php;     Aplicações gráficas com GTK ou Qt;     ShellScript ou SysAdmin;     FreeBSD ou *BSD;     Git;     Escovação de bits generalizada.</description>
     </item>
     
     <item>
       <title>Está no ar a edição n.35 da Revista Espírito Livre!</title>
-      <link>http://ubuntero.com.br/esta-no-ar-a-edicao-n-35-da-revista-espirito-livre/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/esta-no-ar-a-edicao-n-35-da-revista-espirito-livre/</link>
       <pubDate>Sat, 31 Mar 2012 20:22:23 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/esta-no-ar-a-edicao-n-35-da-revista-espirito-livre/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/esta-no-ar-a-edicao-n-35-da-revista-espirito-livre/</guid>
       <description>Revista Espírito Livre &amp;#8211; Ed. #035 &amp;#8211; Fevereiro 2012  &amp;lt;a title=&#34;Baixado 628 vezes&#34; href=&#34;http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=35&#34;Revista Espírito Livre - Ed. n #035 - Fevereiro 2012&amp;lt;br / &amp;lt;img class=&#34;aligncenter&#34; src=&#34;http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/img/download.gif&#34; alt=&#34;Revista Espírito Livre - Ed. n #035 - Fevereiro 2012&#34; /&amp;lt;/a Organizar um evento não é tarefa fácil. Quem já organizou eventos, mesmo pequenos e de expressão local, sabe que não é uma tarefa simples. Organizar o I Fórum da Revista Espírito Livre foi muito gratificante, entretanto extremamente trabalhoso.</description>
     </item>
     
     <item>
       <title>TecLand Chapecó-SC</title>
-      <link>http://ubuntero.com.br/tecland-chapeco-sc/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tecland-chapeco-sc/</link>
       <pubDate>Wed, 14 Dec 2011 15:17:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tecland-chapeco-sc/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tecland-chapeco-sc/</guid>
       <description>É com prazer que venho anunciar a abertura das inscrições e passar as considerações gerais e informações importantes referentes ao Encontro.
 Informações básicas:
  Evento: I Encontro TecLand**** ****Data: 14/01/2012;**** ****Local: Auditório Principal da UCEFF Faculdades, em Chapecó/SC. Para saber a localização da UCEFF, clique aqui;**** ****Horário: 08:00h &amp;#8211; 17:20h;**** ****Ingresso: 2kg de alimentos não perecíveis;**** ****Entidade que será beneficiada com os alimentos: Verde Vida (vamos entregar os alimentos após o evento);**** ****Patrocínio dos crachás e brindes: INET-TI, de Chapecó/SC;**** ****Vagas: 130 pessoas;**** ****Link para inscrição: www.</description>
@@ -153,10 +153,10 @@ Informações básicas:
     
     <item>
       <title>Ubuntu-BR e Ubuntu-BR-SC marcarão presença no Seminário de Ciência e Tecnologia da UDESC</title>
-      <link>http://ubuntero.com.br/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</link>
       <pubDate>Sat, 12 Nov 2011 10:00:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</guid>
       <description>Os times nacional e catarinense do Ubuntu estarão marcando presença no Seminário de Ciência e Tecnologia da Universidade do Estado de Santa Catarina, em São Bento do Sul – SC. Realizado pelo Centro de Educação do Planalto Norte, o evento acontecerá de 21 a 24 de novembro, e contará com uma palestra dos times apresentando a versão 11.10 do Ubuntu, bem como as novidades da próxima versão do sistema, 12.04.</description>
     </item>
     

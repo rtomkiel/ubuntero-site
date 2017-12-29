@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapecó on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/chapec%C3%B3/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/chapec%C3%B3/</link>
     <description>Recent content in Chapecó on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 30 Apr 2013 12:25:05 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/chapec%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/chapec%C3%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Flisol Chapecó 2013</title>
-      <link>http://ubuntero.com.br/flisol-chapeco-2013/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</link>
       <pubDate>Tue, 30 Apr 2013 12:25:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/flisol-chapeco-2013/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</guid>
       <description>No dia 27 de abril aconteceu o Flisol 2013 por toda a América Latina e o local mais próximo da minha humilde residência foi Chapecó &amp;#8211; SC, mas este não foi o único motivo pelo qual estive no evento.
 Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela vakinha que ainda está em andamento.</description>
     </item>

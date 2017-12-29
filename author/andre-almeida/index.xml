@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andre Almeida on Ubuntero</title>
-    <link>http://ubuntero.com.br/author/andre-almeida/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/author/andre-almeida/</link>
     <description>Recent content in Andre Almeida on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 02 May 2011 21:06:28 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/author/andre-almeida/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/author/andre-almeida/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Criando um Ícone Personalizado no Lançador do Unity</title>
-      <link>http://ubuntero.com.br/criando-um-icone-personalizado-no-lancador-do-unity/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/criando-um-icone-personalizado-no-lancador-do-unity/</link>
       <pubDate>Mon, 02 May 2011 21:06:28 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/criando-um-icone-personalizado-no-lancador-do-unity/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/criando-um-icone-personalizado-no-lancador-do-unity/</guid>
       <description>Por um motivo de incopatibilidade da nova posição do Menu das Aplicações (Applications Menus) eu precisei desativar a nova posição para a aplicação Workbench.
 Desativando o Menu de Aplicações Global para uma aplicaçao Para desativar o menu para uma aplicação basta iniciar aplicação com o comando abaixo (exemplo para o Editor de Textos Gedit)
  UBUNTU_MENUPROXY= gedit
@@ -26,10 +26,10 @@ Desativando o Menu de Aplicações Global para todas as aplicações Se você de
     
     <item>
       <title>Ubuntu é mais social</title>
-      <link>http://ubuntero.com.br/ubuntu-e-mais-social/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</link>
       <pubDate>Sat, 19 Feb 2011 19:50:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-e-mais-social/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</guid>
       <description>Mais do que nunca estamos conectados, a internet vive a febre da rede social e o Ubuntu está preparado para tudo isso.
 Hoje é comum encontrarmos em vários computadores ferramentas para Twitter e Faceebook e também sempre um messenger para conectar no MSN, o protocolo mais utilizado no Brasil.
 Twitter e Facebook

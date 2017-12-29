@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vídeo on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/v%C3%ADdeo/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/v%C3%ADdeo/</link>
     <description>Recent content in Vídeo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 31 May 2015 13:33:44 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/v%C3%ADdeo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/v%C3%ADdeo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vídeos H.265 no Ubuntu</title>
-      <link>http://ubuntero.com.br/videos-h-265-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videos-h-265-no-ubuntu/</link>
       <pubDate>Sun, 31 May 2015 13:33:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videos-h-265-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videos-h-265-no-ubuntu/</guid>
       <description>Olá pessoal, estavam com saudades? Aos poucos a vida se arruma, eu tomo vergonha na cara e voltamos as atividades normais.
 Como o tempo é sempre curto, nunca consigo acompanhar minhas séries favoritas nos horários em que são exibidas na televisão e como não sou nenhum magnata para pagar televisão a cabo e netflix, acabo que tenho que encontrar alternativas para assistir ao conteúdo que gosto. Em uma destas alternativas acabei esbarrando em alguns episódios codificados em H.</description>
     </item>
     
     <item>
       <title>Promoção de abertura do canal Tecnologia Aberta TV</title>
-      <link>http://ubuntero.com.br/promocao-de-abertura-do-canal-tecnologia-aberta-tv/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/promocao-de-abertura-do-canal-tecnologia-aberta-tv/</link>
       <pubDate>Tue, 21 Oct 2014 11:22:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/promocao-de-abertura-do-canal-tecnologia-aberta-tv/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/promocao-de-abertura-do-canal-tecnologia-aberta-tv/</guid>
       <description>Olá pessoal!
 Depois de uma grande pausa para reorganizar a agenda e conciliar os &amp;#8220;dois empregos&amp;#8221;, o site está de volta. Esta semana começamos as gravações do Opencast e do antigo Videocast que agora se chamará Tecnologia Aberta TV e logicamente estará em canal próprio.
 Para começarmos bem nossos vídeos, precisamos de uma abertura e é aí que vocês entram. As regras da promoção são simples e seguem abaixo:
@@ -35,20 +35,20 @@ Para começarmos bem nossos vídeos, precisamos de uma abertura e é aí que voc
     
     <item>
       <title>Editor de vídeos Kdenlive</title>
-      <link>http://ubuntero.com.br/editor-de-videos-kdenlive/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/editor-de-videos-kdenlive/</link>
       <pubDate>Wed, 15 May 2013 16:50:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/editor-de-videos-kdenlive/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/editor-de-videos-kdenlive/</guid>
       <description>Eu sei que muitos não gostam de misturar bibliotecas GTK com QT e não instalam programas que exijam a instalação de tais bibliotecas em seus sistemas. Eu sempre fui assim até que conheci o Kdenlive para editar vídeos. As outras opções disponíveis são muito difíceis para o uso amador ou são muito fracas em funcionalidade.
 Para instalar o Kdenlive em seu basta abrir a central de programas do ubuntu, procurar por kdenlive e clicar em instalar, o restante o sistema faz para você.</description>
     </item>
     
     <item>
       <title>FF-Multi Converter – Uma boa dica para converter arquivos</title>
-      <link>http://ubuntero.com.br/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</link>
       <pubDate>Wed, 13 Mar 2013 13:32:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</guid>
       <description>Olá pessoal, hoje trago uma dica legal para converter arquivos, o FF-Multi Converter.
 Ele possui uma interface bem simples e consegue converter arquivos de áudio, vídeo, imagens e documentos, o que o torna bem completo para a maioria das utilizações.
 Confira os formatos suportados:
@@ -58,10 +58,10 @@ Confira os formatos suportados:
     
     <item>
       <title>Torchlight</title>
-      <link>http://ubuntero.com.br/torchlight/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/torchlight/</link>
       <pubDate>Sun, 18 Nov 2012 11:29:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/torchlight/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/torchlight/</guid>
       <description>Antes de minha internet deixar de existir definitivamente até a mudança de apartamento, consegui fazer mais um vídeo com um jogo da série Humble Bundle.
 O jogo que mostro neste longo vídeo é o meu favorito do último Humble Bundle, Torchlight. Passei várias horas jogando este jogo e ainda não consegui enjoar, é uma ótima opção de divertimento.
  Assistir no Youtube </description>
@@ -69,49 +69,49 @@ O jogo que mostro neste longo vídeo é o meu favorito do último Humble Bundle,
     
     <item>
       <title>Vídeocast #22 – Xubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-22-xubuntu-12-10/</link>
       <pubDate>Sat, 10 Nov 2012 22:12:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-22-xubuntu-12-10/</guid>
       <description>Mais um review muito esperado segundo os comentários nas redes sociais durante a semana. Desta vez falo um pouco sobre o Xubuntu 12.10.
 A grande promessa do sistema é ser mais leve que os &amp;#8220;concorrentes&amp;#8221; e o sistema cumpre com o prometido, ele realmente é mais leve e em geral bem responsivo. Não testei em computadores mais antigos, o teste foi feito no mesmo computador que os últimos reviews, um Intel Core i3 com 4 GB de memória e VGA Intel.</description>
     </item>
     
     <item>
       <title>Videocast #21 – Kubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-21-kubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</link>
       <pubDate>Tue, 06 Nov 2012 01:10:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-21-kubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</guid>
       <description>Demorou e foi difícil fazer esta gravação do desktop do Kubuntu. Nenhum gravador de tela está funcionando perfeitamente nos 12.10. Somando a vez que tudo deu certo, foram 5 vezes que gravei este episódio. Talvez por isso eu tenha focado mais nos problemas do que nas coisas boas do Kubuntu. Aproveitei o episódio para corrigir uma gafe sobre a não existência de um programa ao estilo central de programas no Ubuntu Gnome Remix 12.</description>
     </item>
     
     <item>
       <title>Rochard</title>
-      <link>http://ubuntero.com.br/rochard/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/rochard/</link>
       <pubDate>Wed, 24 Oct 2012 10:00:07 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/rochard/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/rochard/</guid>
       <description>Rochard é o quinto jogo da série Humble Bundle. Este jogo me fez lembrar dos antigos &amp;#8220;The Dig&amp;#8221; e &amp;#8220;Full Throtlle&amp;#8221;, não pela jogabilidade, mas pela história e pelos puzzles. É uma ótima dica para quem quer passar algumas horas pensando e se divertindo.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Gratuitous Space Battles</title>
-      <link>http://ubuntero.com.br/gratuitous-space-battles/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gratuitous-space-battles/</link>
       <pubDate>Fri, 05 Oct 2012 11:00:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gratuitous-space-battles/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gratuitous-space-battles/</guid>
       <description>Terceiro vídeo da série Humble Bundle. O jogo Gratuitous Space Battles é um jogo de estratégia onde você posiciona sua frota para combater a frota inimiga. Você pode alterar suas naves com os equipamentos que vai desbloqueando a cada vitória.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>VideoCast #15 – Bastion</title>
-      <link>http://ubuntero.com.br/videocast-15-bastion/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-15-bastion/</link>
       <pubDate>Thu, 05 Jul 2012 11:10:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-15-bastion/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-15-bastion/</guid>
       <description>Depois de bastante tempo voltamos com o VideoCast e voltamos com os jogos.
 Neste episódio mostramos o jogo Bastion que estava disponível no último Humble Bundle.
 Talvez o som da minha voz esteja um pouco baixo em relação ao áudio do jogo, mas isto iremos corrigir para os próximos episódios.
@@ -120,10 +120,10 @@ Talvez o som da minha voz esteja um pouco baixo em relação ao áudio do jogo, 
     
     <item>
       <title>Review semanal 07 – Arch Linux e Ubuntu Business</title>
-      <link>http://ubuntero.com.br/review-semanal-07-arch-linux-e-ubuntu-business/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-07-arch-linux-e-ubuntu-business/</link>
       <pubDate>Mon, 13 Feb 2012 10:43:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-07-arch-linux-e-ubuntu-business/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-07-arch-linux-e-ubuntu-business/</guid>
       <description>Problemas de energia marcaram meu final de semana e atrasaram a edição do review e a gravação do Opencast que vai atrasa em mais uma semana.
 No review desta semana mostro a difícil tarefa de instalar a distribuição Arch Linux e um pouco do recém lançado Ubuntu Business Desktop Remix.
  Assistir no Youtube Links do episódio  Arch Linux Ubuntu Business Desktop Remix  Instalação do Arch Linux</description>
@@ -131,10 +131,10 @@ No review desta semana mostro a difícil tarefa de instalar a distribuição Arc
     
     <item>
       <title>Arista Transcoder</title>
-      <link>http://ubuntero.com.br/arista-transcoder/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/arista-transcoder/</link>
       <pubDate>Tue, 07 Feb 2012 11:07:49 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/arista-transcoder/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/arista-transcoder/</guid>
       <description>Quem acompanha o review semanal sabe que enfrentei problemas com os vídeos gerados pelo gtk-recordmydesktop. O problema não interferia se eu simplesmente assistisse o vídeo, mas ao editar ou tentar converter para um formato melhor para a edição.
 Usando O Kdenlive ou o Openshot o resultado era o mesmo e até postei um vídeo mostrando o problema que acontecia, veja abaixo:
 Tentei vários programas para converter os arquivos gerados e até tentei usar outros programas para gravar a tela, incluindo alguns via linha de comando, mas o resultado nunca agradava.</description>
@@ -142,40 +142,40 @@ Tentei vários programas para converter os arquivos gerados e até tentei usar o
     
     <item>
       <title>Vídeo como papel de parede</title>
-      <link>http://ubuntero.com.br/video-como-papel-de-parede/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/video-como-papel-de-parede/</link>
       <pubDate>Tue, 03 Jan 2012 12:09:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/video-como-papel-de-parede/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/video-como-papel-de-parede/</guid>
       <description>Não sou o maior defensor dos efeitos que não acrescentam funcionalidade real ao sistema, mas algumas vezes eles também me conquistam, nem que seja por alguns poucos minutos. A opção de usar um vídeo como papel de parede foi um destes efeitos que me conquistaram.
 A dica original está no site nOObs on Ubuntu e o que fiz foi apenas traduzir os scripts que estão nos links abaixo para 32 e 64 bits respectivamente.</description>
     </item>
     
     <item>
       <title>Cinelerra, edição profissional de vídeo no Linux</title>
-      <link>http://ubuntero.com.br/cinelerra-edicao-profissional-de-video-no-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/cinelerra-edicao-profissional-de-video-no-linux/</link>
       <pubDate>Thu, 24 Nov 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/cinelerra-edicao-profissional-de-video-no-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/cinelerra-edicao-profissional-de-video-no-linux/</guid>
       <description>Não sou nenhum profissional de edição de vídeo, mas sempre que eu ouço alguém falar de edição profissional de vídeos no Linux o programa mencionado é o Cinelerra. Algumas pessoas me perguntaram como instalar o Cinelerra no Ubuntu, já que o mesmo não está presente no repositório oficial do Ubuntu. Veja como fazer isto nos passos a seguir:
 Abra o terminal, pressionando a tecla Ctrl+Alt+t e digite os seguintes comandos:</description>
     </item>
     
     <item>
       <title>3º Tema – Glory</title>
-      <link>http://ubuntero.com.br/3%C2%BA-tema-glory/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</link>
       <pubDate>Sat, 12 Mar 2011 21:57:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/3%C2%BA-tema-glory/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</guid>
       <description>Olá, venho até aqui hoje para demonstrar um dos mais belos temas já visto por mim até hoje. O tema é encantador, com predominância do cinza, mas com ícones mais coloridos para dar um certo contraste, fiquem com o vídeo abaixo e depois dele, colocarei o tutorial de instalação.
 ; &amp;nbsp; Bem, agora vamos enfim obter os arquivos necessários para montar o nosso tema Glory, para obter os Controladores e as Margens de Janelas baixe o seguinte arquivo em seu computador.</description>
     </item>
     
     <item>
       <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
-      <link>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
       <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
       <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
 O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
  Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>
@@ -183,20 +183,20 @@ O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, L
     
     <item>
       <title>Problemas com gravação de vídeo com o Cheese</title>
-      <link>http://ubuntero.com.br/problemas-com-gravacao-de-video-com-o-cheese/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/problemas-com-gravacao-de-video-com-o-cheese/</link>
       <pubDate>Wed, 19 Jan 2011 10:00:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/problemas-com-gravacao-de-video-com-o-cheese/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/problemas-com-gravacao-de-video-com-o-cheese/</guid>
       <description>Infelizmente este artigo não irá resolver o problema de quem está sem conseguir gravar vídeos utilizando o programa Cheese. Este artigo tem como intuito divulgar um bug reportado por mim no launchpad e que fala exatamente deste problema de não se conseguir gravar vídeos utilizando o programa.
 Para tirar fotos ou visualizar a imagem sem gravar tudo funciona perfeitamente, mas quando o assunto é gravar a imagem da webcam a conversa muda e o vídeo trava, fazendo com que o programa tenha que ser fechado, muitas vezes com o comando xkill.</description>
     </item>
     
     <item>
       <title>Skype 2.0</title>
-      <link>http://ubuntero.com.br/skype-20/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/skype-20/</link>
       <pubDate>Fri, 14 Mar 2008 13:43:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/skype-20/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/skype-20/</guid>
       <description>Demora mas o desenvolvimento do Skype para Linux anda. Saiu a versão 2.0 do Skype com algumas melhorias, muitas correções de bugs e adição da funcionalidade de vídeo conferência.
 Segundo o changelog desta versão as novidades são:
  Vídeo Opção para auto atendimento de chamadas Login por linha de comando Mostrar quando alguém está falando durante uma chamada Shift+Enter ativa ação contrária a padrão(se a ação padrão é iniciar uma chamada então irá abrir tela de conversa por mensagens) Adicionado custo da chamada por minuto Novas opções de privacidade Ícone indicando que um contato está conectado por um dispositivo móvel Funcionalidades menores e muitas correções de erros  A tradução para português do Brasil está muito ruim, parece que foi feita usando alguma ferramenta de tradução automática.</description>

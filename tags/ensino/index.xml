@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ensino on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ensino/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ensino/</link>
     <description>Recent content in Ensino on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 25 Jun 2011 22:29:52 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ensino/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tangram no Ubuntu</title>
-      <link>http://ubuntero.com.br/tangram-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tangram-no-ubuntu/</link>
       <pubDate>Sat, 25 Jun 2011 22:29:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tangram-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tangram-no-ubuntu/</guid>
       <description>Até que enfim encontrei nos repositórios do Ubuntu o jogo Tangram. Em janeiro desse ano, publiquei um post sobre uma animação feita com o tangram e disponibilizei o jogo para download apenas para o sistema operacional Windows. Mas afinal, o que é o Tangram? O Tangram é um jogo de enigma chinês onde o jogador tem que organizar um conjunto de peças para combinar uma dada forma. Todas as peças precisam ser usadas e não podem ser colocadas umas sobre as outras.</description>
     </item>
     

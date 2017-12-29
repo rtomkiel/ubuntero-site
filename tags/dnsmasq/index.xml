@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dnsmasq on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/dnsmasq/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/dnsmasq/</link>
     <description>Recent content in Dnsmasq on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 27 Feb 2012 17:36:06 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/dnsmasq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dnsmasq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mudanças na resolução DNS no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudancas-na-resolucao-dns-no-ubuntu-12-04/</link>
       <pubDate>Mon, 27 Feb 2012 17:36:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudancas-na-resolucao-dns-no-ubuntu-12-04/</guid>
       <description>Se você pretende migrar pra o Ubuntu 12.04 e costuma fazer configurações manuais diretamente no arquivo resolv.conf esta notícia é para você.
 As mudanças são resultado da implementação do foundations-p-dns-resolving e as duas maiores mudanças são:
 Mudança no gerenciamento do resolvconf O resolvconf é um conjunto de scripts que gerenciam a resolução DNS. A diferença mais notável será que toda a configuração feita diretamente no arquivo resolv.conf será perdida sempre que os scripts do resolvconf seja invocado.</description>

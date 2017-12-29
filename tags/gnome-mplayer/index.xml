@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnome Mplayer on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/gnome-mplayer/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/gnome-mplayer/</link>
     <description>Recent content in Gnome Mplayer on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 31 Mar 2008 00:49:20 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/gnome-mplayer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gnome-mplayer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gnome-mplayer</title>
-      <link>http://ubuntero.com.br/gnome-mplayer/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/gnome-mplayer/</link>
       <pubDate>Mon, 31 Mar 2008 00:49:20 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/gnome-mplayer/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/gnome-mplayer/</guid>
       <description>Neste final de semana estava tentando assistir alguns vídeos no formato rmvb e instintivamente instalei o programa RealPlayer. Os vídeos estavam sendo abertos normalmente e o som estava perfeito porém os vídeos estava travando, engasgando, em intervalos de poucos segundos.
 Procurando pela internet achei várias possíveis soluções, entre elas estavam a instalação do pacote w32codecs e a instalação do programa gnome-mplayer, não do gmplayer.
 Só a instalação do pacote w32codecs não foi o suficiente, os vídeos continuavam sendo exibidos com as irritantes travadas.</description>

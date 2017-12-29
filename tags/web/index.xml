@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/web/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/web/</link>
     <description>Recent content in Web on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 10 Oct 2011 22:47:21 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     

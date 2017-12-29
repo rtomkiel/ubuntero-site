@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anderson Henrique on Ubuntero</title>
-    <link>http://ubuntero.com.br/author/anderson-henrique/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/author/anderson-henrique/</link>
     <description>Recent content in Anderson Henrique on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 18 Aug 2012 22:40:16 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/author/anderson-henrique/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/author/anderson-henrique/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Parcellite – O melhor clipboard manager</title>
-      <link>http://ubuntero.com.br/parcellite-o-melhor-clipboard-manager/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/parcellite-o-melhor-clipboard-manager/</link>
       <pubDate>Sat, 18 Aug 2012 22:40:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/parcellite-o-melhor-clipboard-manager/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/parcellite-o-melhor-clipboard-manager/</guid>
       <description>Vou dar uma dica rápida agora que poderá agilizar a vida de muita gente. Para quem não sabe, um clipboard manager faz a gerência de tudo o que você copia e cola no seu computador. Isso serve para poder agilizar a vida de quem copia e cola a mesmo informação várias vezes. Para instalá-lo, pode ir na própria Central de Programas do Ubuntu, ou então digitar:
 sudo apt-get install parcellite A instalação é muito rápida.</description>
     </item>
     
     <item>
       <title>Kazam Screencaster 1.0 lançada</title>
-      <link>http://ubuntero.com.br/kazam-screencaster-1-0-lancada/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kazam-screencaster-1-0-lancada/</link>
       <pubDate>Wed, 22 Feb 2012 15:57:36 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kazam-screencaster-1-0-lancada/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kazam-screencaster-1-0-lancada/</guid>
       <description>Olá a todos. Quando eu ainda tinha tempo de procurar por temas para postar aqui no site, eu gravei alguns vídeos para a demonstração do mesmo, e utilizava o Kazam. Quando passei para o Ubuntu 11.04 não pude utilizá-lo, por que o seu desenvolvimento não estava indo muito bem e não havia suporte algum. Hoje pela manhã navegando na internet vi que havia sido lançada uma nova versão do programa após muito tempo.</description>
     </item>
     
     <item>
       <title>Flash no Epiphany 3.2</title>
-      <link>http://ubuntero.com.br/flash-no-epiphany-3-2/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</link>
       <pubDate>Tue, 24 Jan 2012 10:19:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/flash-no-epiphany-3-2/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</guid>
       <description>Olá a todos. Meu notebook &amp;#8220;morreu&amp;#8221; há cerca de 3 meses atrás, e o desktop aqui de casa só passou a ser meu depois que minha mãe comprou um netbook para ela, e bem, o desktop não é lá grandes coisas, tem um Intel Celeron e 2 GB de RAM então com o uso prolongado dos navegadores ele acaba perdendo muito desempenho e para não ter que ficar fechando o tempo todo as janelas dos mesmos, o jeito foi pesquisar por uma alternativa.</description>
     </item>
     
     <item>
       <title>12° Tema – Old Ambiance</title>
-      <link>http://ubuntero.com.br/12-tema-old-ambiance/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/12-tema-old-ambiance/</link>
       <pubDate>Tue, 08 Nov 2011 18:25:12 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/12-tema-old-ambiance/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/12-tema-old-ambiance/</guid>
       <description>Olá a todos. Após um longo tempo sem postar os temas por falta de notebook e desktop com Ubuntu, tentarei trazer a série de volta a todo vapor toda segunda ou terça. O tema de hoje é para Gnome Shell, então fica óbvio que precisa de aceleração gráfica.
 Antes de começar Para poder fazer as seguintes modificações de temas, precisará, instalar o Gnome Tweak Tool, e uma extensão para poder alterar os temas do Gnome Shell.</description>
     </item>
     
     <item>
       <title>Battle for Wesnoth – Um jogo incrível para Linux</title>
-      <link>http://ubuntero.com.br/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
       <pubDate>Sat, 22 Oct 2011 14:08:08 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
       <description>Olá a todos queridos visitantes do Ubuntero, acho que muitos já devem conhecer esse jogo, e também muitos devem desconhecê-lo. Estava procurando um jogo de qualidade na Central de Programas do Ubuntu, que rodasse em meu notebook com uma placa SiS. Sem querer achei Battle For Wesnoth e mesmo com seus gráficos simples, garante horas e horas de diversão, eu mesmo passei mais de 6 horas jogando.
 Basicamente é um jogo de estratégia muito bem elaborado, pois precisa tomar cuidado com vários detalhes, como por exemplo, o terreno em que coloca o seu personagem, pois no terreno errado, e contra o inimigo errado, será muito fácil ser derrotado.</description>
     </item>
     
     <item>
       <title>Aplicativo do Google&#43; para Unity</title>
-      <link>http://ubuntero.com.br/aplicativo-do-google-para-unity/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/aplicativo-do-google-para-unity/</link>
       <pubDate>Sat, 09 Jul 2011 12:19:47 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/aplicativo-do-google-para-unity/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/aplicativo-do-google-para-unity/</guid>
       <description>Buenas, Ubunteros. A dica agora é breve, mas bastante útil se você já estiver usando a nova rede social da gigante Google, o Google+ ou Google Plus. Vi lá no OMG! Ubuntu, que traduziu do italiano para o inglês. Mas, deixando o papo de lado, vamos lá.
 Vá no terminal, e lá digite o seguinte:
   __wget http://dl.dropbox.com/u/3000127/google%2B.desktop wget http://dl.dropbox.com/u/3000127/google%2B1.png mv google+.desktop ~/.local/share/applications/ sudo mv google+1.png /usr/share/pixmaps/   Pronto.</description>
@@ -72,28 +72,28 @@ Vá no terminal, e lá digite o seguinte:
     
     <item>
       <title>Chromium Browser – e Google Chrome – dando suporte ao Unity</title>
-      <link>http://ubuntero.com.br/chromium-browser-e-google-chrome-dando-suporte-ao-unity/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/chromium-browser-e-google-chrome-dando-suporte-ao-unity/</link>
       <pubDate>Mon, 20 Jun 2011 18:47:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/chromium-browser-e-google-chrome-dando-suporte-ao-unity/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/chromium-browser-e-google-chrome-dando-suporte-ao-unity/</guid>
       <description>Primeiro dia de férias e resolvi re-fazer esse post, depois de ter visto algo semelhante no site do André Gondim. A partir da versão 13 do Chromium Browser, e a versão 12 do Google Chrome, começou um ciclo de suporte ao Unity. Por enquanto no Chrome, somente há o suporte ao Global Menu do Unity. Já no Chromium, há o suporte ao Global Menu e também à barra do Unity, mostrando o progresso e a quantidade de downloads, sendo esse segundo recurso do Chromium nativo dele.</description>
     </item>
     
     <item>
       <title>Kernel 2.6.39-0 no Ubuntu 11.04</title>
-      <link>http://ubuntero.com.br/kernel-2-6-39-0-no-ubuntu-11-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/kernel-2-6-39-0-no-ubuntu-11-04/</link>
       <pubDate>Mon, 20 Jun 2011 01:08:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/kernel-2-6-39-0-no-ubuntu-11-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/kernel-2-6-39-0-no-ubuntu-11-04/</guid>
       <description>Desde o primeiro instante de que eu instalei o Ubuntu 11.04 no meu notebook, na versão alfa 3, percebi uma certa lerdeza, mas não era por causa da sua versão, que ainda era de desenvolvimento, e sim pela versão do Kernel que veio junto, e então acabava ficando lento na minha SiS. Fiz um pequeno teste no 11.10, e devo dizer que com a nova versão do kernel ficou muito mais veloz.</description>
     </item>
     
     <item>
       <title>11º Tema – Dark Squares</title>
-      <link>http://ubuntero.com.br/11%C2%BA-tema-dark-squares/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/11%C2%BA-tema-dark-squares/</link>
       <pubDate>Sun, 12 Jun 2011 17:05:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/11%C2%BA-tema-dark-squares/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/11%C2%BA-tema-dark-squares/</guid>
       <description>Neste final de semana trago um tema para o Unity. Chama-se Dark Squares, e foi criado por Senoculus. É um belo tema, com tons escuros, que vai agradar a todos. O tema pode ser tanto usado com o Unity, como no Gnome clássico.
 O download tem pouco mais de 100k, mas antes de ser obtido, vamos ao wallpaper.
 &amp;nbsp;
@@ -102,29 +102,29 @@ O download tem pouco mais de 100k, mas antes de ser obtido, vamos ao wallpaper.
     
     <item>
       <title>10º Tema – Eriteide</title>
-      <link>http://ubuntero.com.br/10%C2%BA-tema-eriteide/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/10%C2%BA-tema-eriteide/</link>
       <pubDate>Sat, 14 May 2011 19:51:30 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/10%C2%BA-tema-eriteide/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/10%C2%BA-tema-eriteide/</guid>
       <description>Final de semana&amp;#8230; E como dito, estou aqui para trazer um novo tema. Ainda não vou trazer um tema para Unity, pois como já dito, há um bug que não permite a aplicação do tema, o que complica tudo&amp;#8230; Mas creio que em breve devo começar a trabalhar e talvez consiga comprar um notebook novo, dessa vez, um notebook potente com uma placa bacana de preferência da Intel. Já devem ter percebido pelo que falei que o tema é para o Gnome 2, para os que permanecem no mesmo.</description>
     </item>
     
     <item>
       <title>Cubo de comandos Linux, versão Ubuntero</title>
-      <link>http://ubuntero.com.br/cubo-de-comandos-linux-versao-ubuntero/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/cubo-de-comandos-linux-versao-ubuntero/</link>
       <pubDate>Sat, 14 May 2011 13:26:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/cubo-de-comandos-linux-versao-ubuntero/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/cubo-de-comandos-linux-versao-ubuntero/</guid>
       <description>Ontem, nas minhas andanças pela blogosfera brasileira, vi no Ubuntu Dicas, um cubo de comandos do nosso querido Linux, que um usuário da lista de discussão do Inkscape postou e o Tittao resolveu customizar com as cores e logo do seu blog&amp;#8230; e resolvi fazer isso com as cores e o logo daqui do Ubuntero, vejam como ficou .
 Aos que quiserem obter o cubo, clique nesse link para obter a imagem em .</description>
     </item>
     
     <item>
       <title>9º Tema – Macbuntu</title>
-      <link>http://ubuntero.com.br/9%C2%BA-tema-macbuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/9%C2%BA-tema-macbuntu/</link>
       <pubDate>Sun, 01 May 2011 22:43:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/9%C2%BA-tema-macbuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/9%C2%BA-tema-macbuntu/</guid>
       <description>Aviso 1: Os temas sairão de agora em diante alternadamente, ou seja, uma semana com tema, outra semana sem tema.
 Aviso 2: Os temas não sairão somente no sábado, será no final de semana, no sábado ou no domingo.
 Aviso 3: Eu queria postar temas para o Unity, mas o Unity 2D não permite a aplicação completa dos temas que eu tento aplicar, fica faltando o painel superior, mas eu tenho a opção de utilizar o Unity no meu desktop pois tenho lá placa gráfica suportada pelo Ubuntu, uma Nvidia Geforce 9400GT, mas a internet não tá ajudando o download dos drivers, então assim que puder, trarei um tema para o Unity.</description>
@@ -132,50 +132,50 @@ Aviso 3: Eu queria postar temas para o Unity, mas o Unity 2D não permite a apli
     
     <item>
       <title>Resolução correta no Ubuntu 11.04 em placas SiS 671/672/771, e solução de possível desempenho ruim</title>
-      <link>http://ubuntero.com.br/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
       <pubDate>Sun, 01 May 2011 00:14:15 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
       <description>Notícia muito boa aos proprietários de placas SiS que assim como eu, ficaram sem o Unity 3D, mas que não perdem a esperança de um dia conseguir poder utilizar o Compiz em nossos computadores ou notebooks.
 Mas antes da solução final, uma pequena história. Na manhã do dia 28 &amp;#8211; quinta-feira &amp;#8211; amanheci com um ar de animação, o novo Ubuntu estava por vir, melhor do que nunca &amp;#8211; sim, sou do time que apoia o Unity.</description>
     </item>
     
     <item>
       <title>8º Tema – Temas Equinox</title>
-      <link>http://ubuntero.com.br/8%C2%BA-tema-temas-equinox/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/8%C2%BA-tema-temas-equinox/</link>
       <pubDate>Sat, 16 Apr 2011 14:52:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/8%C2%BA-tema-temas-equinox/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/8%C2%BA-tema-temas-equinox/</guid>
       <description>Chegamos então ao oitavo post da série de temas do Ubuntero, e hoje vos apresento alguns temas Equinox, São temas realmente belos, que vão encantar os olhos de todos, mas bem, como são muitos temas, vou mostrar um por um.
 Tema Para a instalação do tema, há a necessidade da obtenção de um único ficheiro, bem pequeno que carrega todos os temas Equinox originais, e para obtê-lo, clique aqui. Após feito o download do pacote de temas, que se encontram em tar.</description>
     </item>
     
     <item>
       <title>7º Tema – Absolute</title>
-      <link>http://ubuntero.com.br/7%C2%BA-tema-absolute/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/7%C2%BA-tema-absolute/</link>
       <pubDate>Sat, 09 Apr 2011 13:08:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/7%C2%BA-tema-absolute/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/7%C2%BA-tema-absolute/</guid>
       <description>Olá a todos! Seguindo a nossa série de temas, hoje apresento-lhes um tema realmente encantador, de nome Absolute. Como os ícones e o tema vêm num único pacote, hoje vai ser algo bem curto o post. Vamos ao download do tema.
 Para que obtenhamos tanto o tema quanto os ícones, clique nesse link. O download é bastante pequeno, e ao final do mesmo extraia o arquivo. Para fazer o tema funcionar corretamente, mova o pacote de nome &amp;#8220;absoulute-equinox&amp;#8221; para a pasta .</description>
     </item>
     
     <item>
       <title>Post 4 em 1</title>
-      <link>http://ubuntero.com.br/post-4-em-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/post-4-em-1/</link>
       <pubDate>Tue, 05 Apr 2011 16:18:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/post-4-em-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/post-4-em-1/</guid>
       <description>É isso mesmo que está escrito no título, hoje o post é 4 em 1. Ao invés de postar várias dicas ao longo dos dias, resolvi fazer esse &amp;#8220;pacote&amp;#8221;. São duas dicas com relação ao VLC e outra será a apresentação, para os que não conhecem, do Kazam.
 Assistindo DVD com menu no VLC A situação foi a seguinte, há alguns meses atrás, comprei o DVD de UP &amp;#8211; Altas Aventuras (filme bacana, quem não assistiu assista) e hoje resolvi assistir novamente pois estava com insônia.</description>
     </item>
     
     <item>
       <title>6º Tema – A New Start</title>
-      <link>http://ubuntero.com.br/6%C2%BA-tema-a-new-start/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/6%C2%BA-tema-a-new-start/</link>
       <pubDate>Sat, 02 Apr 2011 14:02:24 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/6%C2%BA-tema-a-new-start/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/6%C2%BA-tema-a-new-start/</guid>
       <description>&amp;nbsp;
 Olá Hoje o tema está realmente espetacular. Primeiramente necessitamos obter o ficheiro com todos os conteúdos.
 Tema O tema que iremos utilizar ser obtido desta hiperligação. Assim que feito o download, extraia o arquivo em .zip e lá dentro copie a pasta GTK&amp;amp;Metacity para as Preferências de Aparência (Sistema → Preferências → Aparência) tendo assim o tema instalado.
@@ -184,56 +184,56 @@ Tema O tema que iremos utilizar ser obtido desta hiperligação. Assim que feito
     
     <item>
       <title>5º Tema – Elementary</title>
-      <link>http://ubuntero.com.br/5%C2%BA-tema-elementary/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/5%C2%BA-tema-elementary/</link>
       <pubDate>Sat, 26 Mar 2011 21:16:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/5%C2%BA-tema-elementary/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/5%C2%BA-tema-elementary/</guid>
       <description>Essa semana não tive tempo algum para planejar um tema bem elaborado, mas não foi algo necessariamente ruim, já que o post de hoje, é destinado completamente à instalação do Elementary, que é, sem sombra de dúvidas um dos temas mais usados como base para outros, se esse não for o mais. Mas convenhamos, se já o instalou, sabe bem do que falo, é simplesmente incrível. Com seus tons cinzas, e alguns pontos mais escuros, fazem do mesmo, uma das melhores alternativas para temas.</description>
     </item>
     
     <item>
       <title>4º Tema – Vancouver 2010 1º aniversário</title>
-      <link>http://ubuntero.com.br/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</link>
       <pubDate>Sat, 19 Mar 2011 21:11:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</guid>
       <description>Olá, é com muito gosto que vos apresento hoje o quarto tema da série aqui no Ubuntero. O tema de hoje foi criado por um brasileiro, &amp;#8211; que está de parabéns &amp;#8211; o Gustavo Reis. O tema é relativamente &amp;#8220;simples&amp;#8221;, mas foi essa &amp;#8220;simplicidade&amp;#8221; que me levou à adicioná-lo à série de temas. Hoje não terá nenhum vídeo, estou com problemas na rede, mas o processo de instalação é relativamente simples.</description>
     </item>
     
     <item>
       <title>3º Tema – Glory</title>
-      <link>http://ubuntero.com.br/3%C2%BA-tema-glory/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</link>
       <pubDate>Sat, 12 Mar 2011 21:57:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/3%C2%BA-tema-glory/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</guid>
       <description>Olá, venho até aqui hoje para demonstrar um dos mais belos temas já visto por mim até hoje. O tema é encantador, com predominância do cinza, mas com ícones mais coloridos para dar um certo contraste, fiquem com o vídeo abaixo e depois dele, colocarei o tutorial de instalação.
 ; &amp;nbsp; Bem, agora vamos enfim obter os arquivos necessários para montar o nosso tema Glory, para obter os Controladores e as Margens de Janelas baixe o seguinte arquivo em seu computador.</description>
     </item>
     
     <item>
       <title>2º Tema – Black Colors</title>
-      <link>http://ubuntero.com.br/2%C2%BA-tema-black-colors/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/2%C2%BA-tema-black-colors/</link>
       <pubDate>Sat, 05 Mar 2011 12:05:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/2%C2%BA-tema-black-colors/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/2%C2%BA-tema-black-colors/</guid>
       <description>Olá a todos os visitantes do Ubuntu, como dito no último post, aqui estou no sábado para trazer mais um belo tema para vocês. Seguindo o esquema do último tema, trago esse com cores escuras, mas num tom mais leve. O Black Colors foi ainda mais difícil de fazer do que o Life in BlackStyle. Então vamos começar a instalá-lo. Antes de tê-lo em vosso computador, recomendo a instalação do tema Elementary para os que ainda não o possuem; para isso vá em um terminal e digite.</description>
     </item>
     
     <item>
       <title>Chromium, o Google Chrome “para Linux”</title>
-      <link>http://ubuntero.com.br/chromium-o-google-chrome-para-linux/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</link>
       <pubDate>Wed, 02 Mar 2011 11:00:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/chromium-o-google-chrome-para-linux/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</guid>
       <description>Desde sua primeira versão, o Google Chrome se tornou amado por muitos. Dentre esses fatores estão seu visual mais do que limpo e sua incrível velocidade. Mesmo que nas primeiras versões sua velocidade não fosse tão boa quanto nas versões atuais, não dá pra contestar a qualidade do navegador da Google nas suas versões mais atuais. Até a versão quatro do navegador, se não me engano (minha memória é péssima), nós usuários Linux em geral, não tínhamos acesso a versão oficial do Google Chrome.</description>
     </item>
     
     <item>
       <title>1º tema – Life in BlackStyle</title>
-      <link>http://ubuntero.com.br/1%C2%BA-tema-life-in-blackstyle/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/1%C2%BA-tema-life-in-blackstyle/</link>
       <pubDate>Sun, 27 Feb 2011 02:26:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/1%C2%BA-tema-life-in-blackstyle/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/1%C2%BA-tema-life-in-blackstyle/</guid>
       <description>É com muito orgulho que vos falo que hoje inicio um projeto de temas aqui no Ubuntero. A ideia original eu vi no
 UbuntuEd que é um outro excelente site sobre o Ubuntu. É o seguinte, nos meus passeios pela internet, conheci esse site, e por lá vi uma série de temas a cada dia múltiplo de 10.
 Tomando como base essa ideia, resolvi montar uma série de temas, e no caso aqui do Ubuntero, todo sábado procurarei trazer um novo conjunto de temas.</description>
@@ -241,10 +241,10 @@ Tomando como base essa ideia, resolvi montar uma série de temas, e no caso aqui
     
     <item>
       <title>Unity 2D em placa sem aceleração 3D</title>
-      <link>http://ubuntero.com.br/unity-2d-em-placa-sem-aceleracao-3d/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/unity-2d-em-placa-sem-aceleracao-3d/</link>
       <pubDate>Sun, 13 Feb 2011 13:43:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/unity-2d-em-placa-sem-aceleracao-3d/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/unity-2d-em-placa-sem-aceleracao-3d/</guid>
       <description>Primeiramente olá a todos, eu me chamo Anderson Henrique e esse é o meu primeiro post aqui no Ubuntero. Essa é uma dica que a meu ver pode ser bastante útil a vários donos de notebook com placas problemáticas, por exemplo SiS (como é o meu caso) ou VIA, onde o desempenho é demasiado baixo ou nulo.
 É algo muito simples de se fazer, então se você está com vontade de testar a nova interface, mas não tem um hardware bom, então isso vai te ajudar.</description>
     </item>

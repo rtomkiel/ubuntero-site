@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu Tweak on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntu-tweak/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-tweak/</link>
     <description>Recent content in Ubuntu Tweak on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 04 Nov 2012 10:42:13 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntu-tweak/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-tweak/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lançado Ubuntu Tweak 0.8.2</title>
-      <link>http://ubuntero.com.br/lancado-ubuntu-tweak-0-8-2/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/lancado-ubuntu-tweak-0-8-2/</link>
       <pubDate>Sun, 04 Nov 2012 10:42:13 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/lancado-ubuntu-tweak-0-8-2/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-ubuntu-tweak-0-8-2/</guid>
       <description>Depois de anunciar o fim do projeto, e voltar atras, foi lançado o Ubuntu Tweak 0.8.2. Para quem não conhece, este programa facilita, ou permite, que várias mudanças sejam feitas no Ubuntu e no Unity. Entre as mudanças podemos destacar algumas mudanças de comportamento do lançador e alterações de temas. A principal mudança desta nova versão é a compatibilidade com o Ubuntu 12.10.
 Para se manter atualizado coma última versão do Ubuntu Tweak, adicione o PPA do projeto pressionando Ctrl+Alt+t e digitando os seguintes comandos.</description>
     </item>

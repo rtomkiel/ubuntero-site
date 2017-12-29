@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tecland on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/tecland/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/tecland/</link>
     <description>Recent content in Tecland on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 07 May 2013 16:30:16 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/tecland/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/tecland/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encontro TecLand</title>
-      <link>http://ubuntero.com.br/encontro-tecland/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/encontro-tecland/</link>
       <pubDate>Tue, 07 May 2013 16:30:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/encontro-tecland/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/encontro-tecland/</guid>
       <description>O Encontro TecLand é um evento beneficente e sem fins lucrativos concebido em 2008, cujo objetivo é compartilhar conhecimento de qualidade e alto nível e proporcionar um ambiente para networking entre palestrantes e participantes, bem como ajudar uma entidade assistencial com os alimentos não perecíveis arrecadados nas inscrições. Suas primeiras edições ocorreram somente em 2012, com a formação do TecLand Group.
 Atualmente em sua terceira edição, que irá ocorrer dia 25 de maio de 2013, em Erechim/RS, muitas apresentações de alto nível de Software Livre e Segurança da Informação serão ministradas, e o bônus será uma palestra internacional, apresentada por Gabriel Negreira Barbosa, que entrará online ao vivo, diretamente de Guadalajara, no México, visando se aprofundar em um assunto muito interessante e pouco discutido em conferências de infosec, chamada: “Técnicas de Anti-Engenharia Reversa Utilizadas por Malwares”.</description>
     </item>
     
     <item>
       <title>Review semanal 04</title>
-      <link>http://ubuntero.com.br/review-semanal-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-04/</link>
       <pubDate>Tue, 24 Jan 2012 10:57:29 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-04/</guid>
       <description>Links do episódio:
   TecLand Google AdSense Opencast episódio 5 – Ubuntu 11.04, 11.10 e o que esperar do 12.04 Escreva esta frase no seu twitter: &amp;#8220;@DellnoBrasil queremos computadores Core i5 e Core i7 com Ubuntu #computadorescomubuntu&amp;#8221;  Minecraft Minecraft é um jogo de aventura, construção e sobrevivência onde os jogadores são livres para fazerem o que bem intender. Os jogos sempre começam em mundos enormes gerados aleatoriamente por milhões de cubos e totalmente destrutíveis onde o jogador pode construir prédios, minerar, cortar árvores e criar objetos necessários para a sobrevivência.</description>
     </item>
     
     <item>
       <title>TecLand Chapecó-SC</title>
-      <link>http://ubuntero.com.br/tecland-chapeco-sc/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/tecland-chapeco-sc/</link>
       <pubDate>Wed, 14 Dec 2011 15:17:53 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/tecland-chapeco-sc/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/tecland-chapeco-sc/</guid>
       <description>É com prazer que venho anunciar a abertura das inscrições e passar as considerações gerais e informações importantes referentes ao Encontro.
 Informações básicas:
  Evento: I Encontro TecLand**** ****Data: 14/01/2012;**** ****Local: Auditório Principal da UCEFF Faculdades, em Chapecó/SC. Para saber a localização da UCEFF, clique aqui;**** ****Horário: 08:00h &amp;#8211; 17:20h;**** ****Ingresso: 2kg de alimentos não perecíveis;**** ****Entidade que será beneficiada com os alimentos: Verde Vida (vamos entregar os alimentos após o evento);**** ****Patrocínio dos crachás e brindes: INET-TI, de Chapecó/SC;**** ****Vagas: 130 pessoas;**** ****Link para inscrição: www.</description>

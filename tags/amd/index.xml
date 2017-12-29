@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amd on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/amd/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/amd/</link>
     <description>Recent content in Amd on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Jul 2012 22:36:43 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/amd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/amd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>
     
     <item>
       <title>Nvidia perde venda de 10 milhões de GPU’s</title>
-      <link>http://ubuntero.com.br/nvidia-perde-venda-de-10-milhoes-de-gpus/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/nvidia-perde-venda-de-10-milhoes-de-gpus/</link>
       <pubDate>Fri, 29 Jun 2012 19:19:14 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/nvidia-perde-venda-de-10-milhoes-de-gpus/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/nvidia-perde-venda-de-10-milhoes-de-gpus/</guid>
       <description>A resposta de Linus Torvalds sobre os drivers da NVIDIA para Linux fez bastante estrago. A empresa perdeu uma venda de 10 milhões de GPU&amp;#8217;s para o governo Chinês que tomou conhecimento da declaração de Linux. A empresa espera perder algo em entre $ 200 e $ 500 milhões por causa deste suporte ruim.
 O governo Chinês até se ofereceu para dar uma olhada no código fonte dos drivers da NVIDIA para tentar ajudar em algo, mas a empresa se negou a abrir sua propriedade intelectual e um acordo passou a não ser possível.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tradução on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/tradu%C3%A7%C3%A3o/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/tradu%C3%A7%C3%A3o/</link>
     <description>Recent content in Tradução on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 14 Jan 2014 16:30:37 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/tradu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/tradu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>É hora de fazer o Ubuntu Touch falar sua língua</title>
-      <link>http://ubuntero.com.br/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</link>
       <pubDate>Tue, 14 Jan 2014 16:30:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/e-hora-de-fazer-o-ubuntu-touch-falar-sua-lingua/</guid>
       <description>Confesso que estou um pouco desanimado depois da notícia que apenas Nexus 4 e Nexus 7 (razor) terão suporte oficial do Ubuntu Touch, mas agora não é hora de chorar sobre o leite derramado, é hora de trabalhar e auxiliar na tradução do Ubuntu Touch para o nosso idioma.
 Eu sei que muitos devem estar pensando, traduzir para que? Nem vão lançar um smartphone com Ubuntu tão logo por aqui.</description>
     </item>

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/review/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/review/</link>
     <description>Recent content in Review on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 05 Mar 2014 13:23:59 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #53 – Dell Vostro 5470</title>
-      <link>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</link>
       <pubDate>Wed, 05 Mar 2014 13:23:59 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</guid>
       <description>O carnaval atrapalhou a postagem do Videocast, pequenos problemas com DNS e com a conexão lá no meio do mato onde eu estava. No episódio de hoje mostro o Dell Vostro 5479. Ele não é um Ultrabook, mas pode brigar com eles se você não se importar com a qualidade do som. O notebook é muito leve e rápido. Como bônus, consegui ele na versão com e sem Touch Screen e mostro os dois com Ubuntu, mesmo eles não vindo com Linux de fábrica.</description>
     </item>
     
     <item>
       <title>Videocast #47 – Debian</title>
-      <link>http://ubuntero.com.br/videocast-47-debian/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-47-debian/</link>
       <pubDate>Mon, 04 Nov 2013 11:28:00 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-47-debian/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-47-debian/</guid>
       <description>Como prometido lá no Opencast #28, passei uma semana utilizando o Debian 7.2 e aqui falo um pouco sobre minha experiência. Quero lembrar que o que for dito neste vídeo é baseado na minha experiência e minhas opiniões podem ser diferentes das suas, o que não quer dizer que apenas eu ou você estamos certos, na verdade nós dois estaremos certos.
 Resumindo o que verão no vídeo, o instalador do Debian, mesmo gráfico, não é o mais amigável que eu já vi, mas é melhor que o do Fedora e pior que do Ubuntu.</description>
     </item>
     
     <item>
       <title>Videocast #41 – Elementary OS</title>
-      <link>http://ubuntero.com.br/videocast-41-elementary-os/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-41-elementary-os/</link>
       <pubDate>Sat, 17 Aug 2013 14:52:51 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-41-elementary-os/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-41-elementary-os/</guid>
       <description>Neste episódio falo um pouco sobre minha experiência utilizando o sistema Elementary OS, baseado no Ubuntu 12.04. Como já havia dito nas redes sociais, este promete ser o episódio onde farei mais inimigos, pois a experiência com o sistema foi &amp;#8230; assista o vídeo para saber como foi.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Videocast #38 – Fedora 19</title>
-      <link>http://ubuntero.com.br/videocast-38-fedora-19/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</link>
       <pubDate>Mon, 22 Jul 2013 11:39:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-38-fedora-19/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</guid>
       <description>Voltando a nossa programação normal, mais um episódio do videocast está no ar. Para alegria de muitos, testei o Fedora 19, claro que algumas comparações com o Ubuntu são feitas, isto é inevitável.
 No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o que agradou e desagradou no vídeo abaixo.
  Assistir no Youtube </description>
@@ -53,30 +53,30 @@ No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o
     
     <item>
       <title>Videocast #29 – Ubuntu 13.04 Beta 1</title>
-      <link>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</link>
       <pubDate>Mon, 18 Mar 2013 11:00:37 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</guid>
       <description>É com um papelão do OpenSuse que começamos este VideoCast. Esta semana iria falar e mostrar um pouco do OpenSuse, mas ele resolveu que não queria funcionar comigo e me deixou na mão. Por isso este VideoCast dá uma rápida olhada em algumas novidades do Ubuntu 13.04 Beta 1 (na verdade único beta).
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Videocast #28 – Novo site e Elementary OS Luna</title>
-      <link>http://ubuntero.com.br/videocast-28-novo-site-e-elementary-os-luna/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-28-novo-site-e-elementary-os-luna/</link>
       <pubDate>Mon, 11 Mar 2013 00:28:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-28-novo-site-e-elementary-os-luna/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-28-novo-site-e-elementary-os-luna/</guid>
       <description>Site novo e novo dia para os vídeos. Agora o VideoCast vai ao ar nas segundas (eventualmente ainda vai sair no domingo), para dar tempo de aproveitar o final de semana e não atropelar tudo para largar o vídeo no Youtube. Neste vídeo tentei usar um teleprompter via software e vocês vão notar que não ficou bom, não vou mais usar esse negócio.
 Vejam no vídeo como ficou o novo layout do site e conheçam o Elementary OS Luna, ainda em beta.</description>
     </item>
     
     <item>
       <title>Videocast #25 – Lubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-25-lubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-25-lubuntu-12-10/</link>
       <pubDate>Sun, 06 Jan 2013 20:51:50 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-25-lubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-25-lubuntu-12-10/</guid>
       <description>Ainda estou sem internet, mas novamente consegui ajuda para postar mais um vídeo.
 Aí está o review do Lubuntu 12.10 com minhas considerações, apenas opiniões sobre o que o sistema oferece ou deixa de oferecer.
 Aproveitando o lançamento do Ubuntu for phones, estamos realizando uma vakinha para comprar o aparelho usado para fazer uma demonstração do sistema. Veja este artigo que fala como vai funcionar.
@@ -85,10 +85,10 @@ Aproveitando o lançamento do Ubuntu for phones, estamos realizando uma vakinha 
     
     <item>
       <title>Videocast #23 – Ubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-23-ubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-23-ubuntu-12-10/</link>
       <pubDate>Fri, 16 Nov 2012 23:36:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-23-ubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-23-ubuntu-12-10/</guid>
       <description>Eu avisei que não teríamos vídeos nos próximos 15 dias, mas consegui uma brecha e gravei um vídeo, até porque agora o tempo é indeterminado como explico neste episódio.
 Ainda não falarei do Lubuntu, mas o próximo episódio será sobre ele, com toda a certeza. Neste episódio falo um pouco sobre as qualidades e defeitos do Ubuntu 12.10, com a interface Unity.
  Assistir no Youtube Links  Problemas com vídeos MP4 no totem Webapps no Ubuntu 12.</description>
@@ -96,38 +96,38 @@ Ainda não falarei do Lubuntu, mas o próximo episódio será sobre ele, com tod
     
     <item>
       <title>Vídeocast #22 – Xubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-22-xubuntu-12-10/</link>
       <pubDate>Sat, 10 Nov 2012 22:12:43 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-22-xubuntu-12-10/</guid>
       <description>Mais um review muito esperado segundo os comentários nas redes sociais durante a semana. Desta vez falo um pouco sobre o Xubuntu 12.10.
 A grande promessa do sistema é ser mais leve que os &amp;#8220;concorrentes&amp;#8221; e o sistema cumpre com o prometido, ele realmente é mais leve e em geral bem responsivo. Não testei em computadores mais antigos, o teste foi feito no mesmo computador que os últimos reviews, um Intel Core i3 com 4 GB de memória e VGA Intel.</description>
     </item>
     
     <item>
       <title>Videocast #21 – Kubuntu 12.10</title>
-      <link>http://ubuntero.com.br/videocast-21-kubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</link>
       <pubDate>Tue, 06 Nov 2012 01:10:46 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-21-kubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</guid>
       <description>Demorou e foi difícil fazer esta gravação do desktop do Kubuntu. Nenhum gravador de tela está funcionando perfeitamente nos 12.10. Somando a vez que tudo deu certo, foram 5 vezes que gravei este episódio. Talvez por isso eu tenha focado mais nos problemas do que nas coisas boas do Kubuntu. Aproveitei o episódio para corrigir uma gafe sobre a não existência de um programa ao estilo central de programas no Ubuntu Gnome Remix 12.</description>
     </item>
     
     <item>
       <title>Videocast 20 – Ubuntu Gnome Remix 12.10</title>
-      <link>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</link>
       <pubDate>Mon, 29 Oct 2012 12:43:35 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</guid>
       <description>Passada uma semana de uso com o Ubuntu Gnome Remix 12.10, aqui está o vídeo que mostra as minhas impressões sobre o sistema. Em resumo posso dizer que a equipe que fez o trabalho estava com muita preguiça de adicionar o mínimo de qualidade ao sistema. Por padrão o sistema não tem nenhum programa gerenciador de pacotes instalado e precisei instalar muito software básico para poder trabalhar, nem falo dos programas específicos, estes todos sabemos que temos que instalar.</description>
     </item>
     
     <item>
       <title>Review semanal 07 – Arch Linux e Ubuntu Business</title>
-      <link>http://ubuntero.com.br/review-semanal-07-arch-linux-e-ubuntu-business/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-07-arch-linux-e-ubuntu-business/</link>
       <pubDate>Mon, 13 Feb 2012 10:43:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-07-arch-linux-e-ubuntu-business/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-07-arch-linux-e-ubuntu-business/</guid>
       <description>Problemas de energia marcaram meu final de semana e atrasaram a edição do review e a gravação do Opencast que vai atrasa em mais uma semana.
 No review desta semana mostro a difícil tarefa de instalar a distribuição Arch Linux e um pouco do recém lançado Ubuntu Business Desktop Remix.
  Assistir no Youtube Links do episódio  Arch Linux Ubuntu Business Desktop Remix  Instalação do Arch Linux</description>
@@ -135,10 +135,10 @@ No review desta semana mostro a difícil tarefa de instalar a distribuição Arc
     
     <item>
       <title>Review semanal 06</title>
-      <link>http://ubuntero.com.br/review-semanal-06/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</link>
       <pubDate>Sun, 05 Feb 2012 20:44:06 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/review-semanal-06/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</guid>
       <description>Após novos problemas na gravação dos vídeos do desktop que necessitam conversão para que a edição seja possível, via twitter consegui a solução(vai ter postagem especial para isto) e voltamos a ter os reviews com as gravações do desktop.
 Neste episódio temos uma overdose de Ubuntu. Começamos falando do Ubuntu 10.10 que vem instalado no Dell Vostro 3450, passamos ao Ubuntu 11.10 instalado no mesmo computador e no final mostramos um pouco do Ubuntu 12.</description>
     </item>

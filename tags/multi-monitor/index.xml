@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi Monitor on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/multi-monitor/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/multi-monitor/</link>
     <description>Recent content in Multi Monitor on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 07 Nov 2012 12:00:05 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/multi-monitor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/multi-monitor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dois monitores no Xubuntu 12.10</title>
-      <link>http://ubuntero.com.br/dois-monitores-no-xubuntu-12-10/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/dois-monitores-no-xubuntu-12-10/</link>
       <pubDate>Wed, 07 Nov 2012 12:00:05 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/dois-monitores-no-xubuntu-12-10/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/dois-monitores-no-xubuntu-12-10/</guid>
       <description>Como todos sabem, pelo menos quem acompanha o Videocast, estou testando vários sabores do Ubuntu, passando uma semana em cada uma. Isto está gerando algum material com as dificuldades e facilidades que cada interface oferece.
 Uma das coisas que estou testando em todos é a utilização de dois monitores e no Xubuntu, por enquanto, temos o pior gerenciamento desta funcionalidade.
 A tela de configuração de monitores não oferece as configurações necessárias para trabalhar com os dois monitores com tela extendida, ele simplesmente espelha as duas telas e para conseguir extender os monitores eu tive que apelar para configurações que mostro aqui.</description>
@@ -24,20 +24,20 @@ A tela de configuração de monitores não oferece as configurações necessári
     
     <item>
       <title>Multi-monitores no Ubuntu 12.04</title>
-      <link>http://ubuntero.com.br/multimonitores-no-ubuntu-12-04/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/multimonitores-no-ubuntu-12-04/</link>
       <pubDate>Fri, 06 Apr 2012 22:00:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/multimonitores-no-ubuntu-12-04/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/multimonitores-no-ubuntu-12-04/</guid>
       <description>Como prometido, um vídeo falando um pouco mais sobre multi-monitores no Ubuntu 12.04.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Melhorando a experiência com multi-monitores no Ubuntu</title>
-      <link>http://ubuntero.com.br/melhorando-a-experiencia-com-multi-monitores-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/melhorando-a-experiencia-com-multi-monitores-no-ubuntu/</link>
       <pubDate>Wed, 21 Dec 2011 11:57:03 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/melhorando-a-experiencia-com-multi-monitores-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/melhorando-a-experiencia-com-multi-monitores-no-ubuntu/</guid>
       <description>Muitos usuários que utilizam-se de mais de um monitor ficaram sem o suporte adequado com o lançamento do Ubuntu 11.04 com Unity. Pensando nisto a Canonical vem trabalhando para melhorar o suporte a multi-monitor.
 Durante o último UDS, ocorrido em novembro, a Canonical pode coletar informações utilizando um protótipo de como devem funcionar os desktops com múltiplos monitores e projetar como deve ser o comportamento para os próximos ciclos de desenvolvimento.</description>
     </item>

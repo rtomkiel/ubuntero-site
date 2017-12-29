@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu Br Sc on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/ubuntu-br-sc/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-br-sc/</link>
     <description>Recent content in Ubuntu Br Sc on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Jan 2013 10:48:22 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/ubuntu-br-sc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-br-sc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu-BR-SC lança servidor de jogos</title>
-      <link>http://ubuntero.com.br/ubuntu-br-sc-lanca-servidor-de-jogos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-sc-lanca-servidor-de-jogos/</link>
       <pubDate>Wed, 23 Jan 2013 10:48:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-br-sc-lanca-servidor-de-jogos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-sc-lanca-servidor-de-jogos/</guid>
       <description>Anunciado no dia 16 de janeiro em um keynote de lançamento da nova versão do blog Ubuntu-BR-SC, o servidor de jogos do blog Ubuntu-BR-SC foi ao ar ontem a noite.
 O servidor recebeu o nome Romero, em homenagem a George Romero, diretor do clássico Night of the Living Dead de 1968. O primeiro jogo disponível é Killing Floor, um survivor horror cooperativo que provavelmente inspirou a Valve a criar Left 4 Dead.</description>
     </item>
     
     <item>
       <title>Pesquisa oficial para usuários Ubuntu</title>
-      <link>http://ubuntero.com.br/pesquisa-oficial-para-usuarios-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/pesquisa-oficial-para-usuarios-ubuntu/</link>
       <pubDate>Sat, 10 Mar 2012 13:50:31 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/pesquisa-oficial-para-usuarios-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/pesquisa-oficial-para-usuarios-ubuntu/</guid>
       <description>Esta postagem foi &amp;#8220;chupada&amp;#8221; do site Ubuntu-BR-SC apenas com o intuito de divulgar a pesquisa, sei que não se sentirão ofendidos por reproduzir a postagem.
 &amp;#8220;A Canonical está promovendo um questionário para ajudar na construção da imagem de como as pessoas realmente descobrem, usam e compartilham o Ubuntu. A pesquisa não leva mais do que 5 minutos e está disponível em três idiomas.
 Inglês: http://www.surveymonkey.com/s/UbuntuSurvey2012
@@ -36,10 +36,10 @@ Português do Brasil: http://www.</description>
     
     <item>
       <title>Ubuntu-BR e Ubuntu-BR-SC marcarão presença no Seminário de Ciência e Tecnologia da UDESC</title>
-      <link>http://ubuntero.com.br/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</link>
       <pubDate>Sat, 12 Nov 2011 10:00:19 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</guid>
       <description>Os times nacional e catarinense do Ubuntu estarão marcando presença no Seminário de Ciência e Tecnologia da Universidade do Estado de Santa Catarina, em São Bento do Sul – SC. Realizado pelo Centro de Educação do Planalto Norte, o evento acontecerá de 21 a 24 de novembro, e contará com uma palestra dos times apresentando a versão 11.10 do Ubuntu, bem como as novidades da próxima versão do sistema, 12.04.</description>
     </item>
     

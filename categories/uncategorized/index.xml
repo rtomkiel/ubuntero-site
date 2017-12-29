@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Ubuntero</title>
-    <link>http://ubuntero.com.br/categories/uncategorized/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 11 Oct 2007 18:16:45 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Máquinas virtuais</title>
-      <link>http://ubuntero.com.br/maquinas-virtuais/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/maquinas-virtuais/</link>
       <pubDate>Thu, 11 Oct 2007 18:16:45 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/maquinas-virtuais/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/maquinas-virtuais/</guid>
       <description>Enquanto esperamos a chegada do novo Ubuntu, versão 7.10, para dar continuidade aos artigos sobre migração, vou falar um pouco sobre máquinas virtuais e sobre o programa utilizado para executar e retirar as telas mostradas nos artigos.
 Começando pelo básico, o que é uma máquina virtual? Segundo a definição da wikipedia.org, &amp;#8220;Uma máquina virtual (Virtual Machine – VM) pode ser definida como “uma duplicata eficiente e isolada de uma máquina real”.</description>
     </item>

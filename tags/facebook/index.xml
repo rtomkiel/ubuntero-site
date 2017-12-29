@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facebook on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/facebook/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/facebook/</link>
     <description>Recent content in Facebook on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 09 Jul 2014 04:14:57 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
-      <link>http://ubuntero.com.br/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
       <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
       <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
 Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>
@@ -24,20 +24,20 @@ Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois 
     
     <item>
       <title>Resumo semanal 02</title>
-      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
       <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
       <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
 Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
     </item>
     
     <item>
       <title>Resumo semanal 01</title>
-      <link>http://ubuntero.com.br/resumo-semanal-01/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</link>
       <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/resumo-semanal-01/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</guid>
       <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
 Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
 A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>
@@ -45,20 +45,20 @@ A sessão ainda não tem nome e então está lançada aí chamada para sugestõe
     
     <item>
       <title>Mudança de data do Tchelinux em Erechim, mudança do logotipo no planeta-ubuntu-br e Opencast</title>
-      <link>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
       <pubDate>Fri, 11 Mar 2011 11:47:32 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
       <description>Queremos dar algumas pequenas mas importantes informações sobre o site e sobre o Seminário Tchelinux em Erechim.
 Vamos começar pela notícia mais importante. A data de realização do Seminário Tchelinux em Erechim precisou sofrer alteração devido ao calendário de eventos da cidade que estará cheio de alternativas no dia 30 de abril. A nova data será no dia 14 de maio, o que acarreta em mais tempo para organizarmos o evento e mais tempo para que todos submetam suas palestras no formulário que já disponibilizamos em outro post.</description>
     </item>
     
     <item>
       <title>Ubuntu é mais social</title>
-      <link>http://ubuntero.com.br/ubuntu-e-mais-social/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</link>
       <pubDate>Sat, 19 Feb 2011 19:50:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-e-mais-social/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</guid>
       <description>Mais do que nunca estamos conectados, a internet vive a febre da rede social e o Ubuntu está preparado para tudo isso.
 Hoje é comum encontrarmos em vários computadores ferramentas para Twitter e Faceebook e também sempre um messenger para conectar no MSN, o protocolo mais utilizado no Brasil.
 Twitter e Facebook

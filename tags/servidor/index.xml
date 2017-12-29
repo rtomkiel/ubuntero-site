@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Servidor on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/servidor/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/servidor/</link>
     <description>Recent content in Servidor on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Jan 2013 10:48:22 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/servidor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/servidor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu-BR-SC lança servidor de jogos</title>
-      <link>http://ubuntero.com.br/ubuntu-br-sc-lanca-servidor-de-jogos/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-sc-lanca-servidor-de-jogos/</link>
       <pubDate>Wed, 23 Jan 2013 10:48:22 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-br-sc-lanca-servidor-de-jogos/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-sc-lanca-servidor-de-jogos/</guid>
       <description>Anunciado no dia 16 de janeiro em um keynote de lançamento da nova versão do blog Ubuntu-BR-SC, o servidor de jogos do blog Ubuntu-BR-SC foi ao ar ontem a noite.
 O servidor recebeu o nome Romero, em homenagem a George Romero, diretor do clássico Night of the Living Dead de 1968. O primeiro jogo disponível é Killing Floor, um survivor horror cooperativo que provavelmente inspirou a Valve a criar Left 4 Dead.</description>
     </item>
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     
     <item>
       <title>Publicando código-fonte em um servidor pastebin com o WebBoard</title>
-      <link>http://ubuntero.com.br/publicando-codigo-fonte-em-um-servidor-pastebin-com-o-webboard/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/publicando-codigo-fonte-em-um-servidor-pastebin-com-o-webboard/</link>
       <pubDate>Tue, 02 Aug 2011 11:14:38 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/publicando-codigo-fonte-em-um-servidor-pastebin-com-o-webboard/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/publicando-codigo-fonte-em-um-servidor-pastebin-com-o-webboard/</guid>
       <description>WebBoard é um utilitário para a publicação rápida de notas de texto e código-fonte em um servidor pastebin para depuração colaborativa. Pode funcionar como um aplicativo independente ou como um applet para o painel do GNOME. O programa é muito fácil de usar. Digamos que queira compartilhar com um amigo, um código-fonte de um programa através de um mensageiro instantâneo ou em um local qualquer na internet. Bom, fica um tanto desconfortável ter que enviar centenas de linhas de código.</description>
     </item>
     
     <item>
       <title>Instalando o CMS Joomla no Ubuntu</title>
-      <link>http://ubuntero.com.br/instalando-o-cms-joomla-no-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</link>
       <pubDate>Wed, 26 Jan 2011 10:15:52 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/instalando-o-cms-joomla-no-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</guid>
       <description>Para iniciar, gostaria de responder a uma simples e importante dúvida que insiste em aparecer quando ouvimos o termo CMS. Afinal, o que é um CMS? Ele significa Content Management System, ou Sistema Gerenciador de Conteúdo. Mais especificamente, ele serve pra ajudar você a criar um website. Simples não? Tudo se torna ainda mais simples, quando o CMS é o Joomla. O sistema Joomla é um dos mais completos, por possuir muitos recursos.</description>
     </item>
     
     <item>
       <title>Adicionar repositórios estando atras de um firewall</title>
-      <link>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</link>
       <pubDate>Thu, 20 Jan 2011 11:05:27 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
       <description>Artigo retirado e traduzido do site OMGUbuntu, tradução livre.
 Tendo problemas com o Ubuntu na Universidade? MadnessRed tem a solução.
 Um grande número de empresas e universidades bloqueiam todas as portas desconhecidas. Isto inclui as portas usadas para adicionar repositórios.
@@ -62,10 +62,10 @@ Este problema pode ser manobrado utilizando a porta 80 para adquirir a chave, Ma
     
     <item>
       <title>Autenticação Squid com base em Tabelas MySql</title>
-      <link>http://ubuntero.com.br/autenticacao-squid-com-base-em-tabelas-mysql/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</link>
       <pubDate>Fri, 28 Mar 2008 00:16:23 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
       <description>&lt;p&gt;Um assunto muito recorrente, para quem trabalha com administração de proxy&amp;#8217;s, é a necessidade de se fazer autenticação dos usuários com base em uma determinada lista de acesso. Geralmente, é questão apenas de fazer a configuração correta do Squid, definir alguns arquivos texto com as informações e pronto. Porém, no caso de empresas grandes, é desejável que esta informação seja reutilizada a partir de alguma já existente, geralmente em forma de dados em tabelas de um banco de dados qualquer.&lt;/p&gt;
 
 &lt;p&gt;Utilizo em algumas empresas um script bem simples, que eu mesmo desenvolvi, para esta tarefa. Qual não foi minha surpresa, ao saber que fazer isto é uma dúvida bastante buscada na Internet por outras pessoas e, quase sempre, não resolvida. A maioria utiliza alguns projetos complicados, outros já recomendam partir para alguma solução mais rebuscada (e, talvez, até mais correta) como LDAP e outros.&lt;/p&gt;
@@ -95,10 +95,10 @@ Este problema pode ser manobrado utilizando a porta 80 para adquirir a chave, Ma
     
     <item>
       <title>Nada importante</title>
-      <link>http://ubuntero.com.br/nada-importante/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/nada-importante/</link>
       <pubDate>Tue, 04 Jul 2006 11:00:16 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/nada-importante/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/nada-importante/</guid>
       <description>Nenhuma novidade para postara hoje, então vou falar de coisas inúteis.
 Primeiro: pesso desculpa para quem tem paciência para acessar este blog. A navegação está muito lenta. Pode ficar tranquilo que o problema não é com a sua conexão, muito menos com a do servidor. O grande problema é que o servidor não é uma brastemp. Este servidor é um computador que não teria nenhuma função no mundo além de ocupar espaço.</description>
     </item>

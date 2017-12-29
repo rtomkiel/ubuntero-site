@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eets on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/eets/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/eets/</link>
     <description>Recent content in Eets on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 09 Nov 2013 13:37:10 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/eets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/eets/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vencedor da promoção RocketBirds</title>
-      <link>http://ubuntero.com.br/vencedor-da-promocao-rocketbirds/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/vencedor-da-promocao-rocketbirds/</link>
       <pubDate>Sat, 09 Nov 2013 13:37:10 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/vencedor-da-promocao-rocketbirds/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/vencedor-da-promocao-rocketbirds/</guid>
       <description>E o grande vencedor da semana foi:JACIMAR FONSECA
 Entraremos em contato por e-mail entregando a chave do jogo, confira a lista de participantes em ordem de sorteio.
  Obrigado a todos que participaram, e ja temos um novo game para quem quiser participar e concorrer ao jogo eets Munchies. Clique aqui.</description>

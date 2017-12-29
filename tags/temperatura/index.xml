@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Temperatura on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/temperatura/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/temperatura/</link>
     <description>Recent content in Temperatura on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 14 Jan 2013 10:30:58 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/temperatura/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/temperatura/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Psensor – Uma forma fácil de verificar a temperatura do processador</title>
-      <link>http://ubuntero.com.br/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</link>
       <pubDate>Mon, 14 Jan 2013 10:30:58 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/psensor-uma-forma-facil-de-verificar-a-temperatura-do-processador/</guid>
       <description>Olá pessoal!
 Dessa vez venho trazer uma dica interessante e bastante simples para quem precisa saber a temperatura do processador. O aplicativo Psensor.
 Se você assim como eu, sofre com o notebook esquentando, seja no colo, seja na mesa, seja em qualquer lugar que for e se preocupa com a temperatura de sua máquina, o Psensor poderá ser uma ajuda e tanto para evitar que seu PC saia fritando coisas por aí.</description>

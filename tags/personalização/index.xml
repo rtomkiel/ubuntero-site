@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personalização on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/personaliza%C3%A7%C3%A3o/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/personaliza%C3%A7%C3%A3o/</link>
     <description>Recent content in Personalização on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 12 Dec 2012 10:10:21 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/personaliza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/personaliza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ocultar Acesso remoto na tela de login do Ubuntu</title>
-      <link>http://ubuntero.com.br/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</link>
       <pubDate>Wed, 12 Dec 2012 10:10:21 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</guid>
       <description>A versão 12.10 do Ubuntu veio com uma nova funcionalidade chamada &amp;#8220;Acesso remoto&amp;#8221; na tela de &amp;#8220;boas-vindas&amp;#8221; (tela de login), conforme pode ser vista na imagem abaixo:clique para ampliar
 Através dessa opção é possível acessar um servidor remoto sem a necessidade de logar primeiro na máquina.
 O &amp;#8220;Acesso remoto&amp;#8221; na tela de login está habilitado por padrão no Ubuntu 12.10, e como a grande maioria dos usuários não utiliza essa funcionalidade, existe a possibilidade de ocultar essa opção na tela de login.</description>
@@ -24,10 +24,10 @@ O &amp;#8220;Acesso remoto&amp;#8221; na tela de login está habilitado por padr
     
     <item>
       <title>4º Tema – Vancouver 2010 1º aniversário</title>
-      <link>http://ubuntero.com.br/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</link>
       <pubDate>Sat, 19 Mar 2011 21:11:34 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/</guid>
       <description>Olá, é com muito gosto que vos apresento hoje o quarto tema da série aqui no Ubuntero. O tema de hoje foi criado por um brasileiro, &amp;#8211; que está de parabéns &amp;#8211; o Gustavo Reis. O tema é relativamente &amp;#8220;simples&amp;#8221;, mas foi essa &amp;#8220;simplicidade&amp;#8221; que me levou à adicioná-lo à série de temas. Hoje não terá nenhum vídeo, estou com problemas na rede, mas o processo de instalação é relativamente simples.</description>
     </item>
     

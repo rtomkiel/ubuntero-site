@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>16.04 on Ubuntero</title>
-    <link>http://ubuntero.com.br/tags/16.04/</link>
+    <link>http://rtomkiel.github.io/ubuntero-site/tags/16.04/</link>
     <description>Recent content in 16.04 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 23 Oct 2014 20:18:04 +0000</lastBuildDate>
     
-	<atom:link href="http://ubuntero.com.br/tags/16.04/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/16.04/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #39 – Netflix e Android Pirulito</title>
-      <link>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
       <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
       <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
 Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
 Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
@@ -24,10 +24,10 @@ Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouc
     
     <item>
       <title>Mir como padrão no desktop só para 2016</title>
-      <link>http://ubuntero.com.br/mir-como-padrao-no-desktop-so-para-2016/</link>
+      <link>http://rtomkiel.github.io/ubuntero-site/mir-como-padrao-no-desktop-so-para-2016/</link>
       <pubDate>Fri, 14 Mar 2014 11:35:54 +0000</pubDate>
       
-      <guid>http://ubuntero.com.br/mir-como-padrao-no-desktop-so-para-2016/</guid>
+      <guid>http://rtomkiel.github.io/ubuntero-site/mir-como-padrao-no-desktop-so-para-2016/</guid>
       <description>Se você estava esperando que o Mir viesse como padrão após a versão 14.04 LTS, pode sentar e esperar até a LTS seguinte, a 16.04. Embora o Mir já possa ser testado no destktop de maneira simples para quem está testando a 14.04 e Unity 8, os planos para o servidor gráfico estar como padrão no Ubuntu tem uma boa estrada para percorrer.
 Segundo Mark Shuttleworth durante a vUDS, é necessário muito trabalho para melhorar a compatibilidade com mais hardware e muitas melhorias no desempenho.</description>
     </item>
