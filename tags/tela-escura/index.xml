@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tela Escura on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/tela-escura/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/tela-escura/</link>
     <description>Recent content in Tela Escura on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 23 Mar 2012 17:48:18 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/tela-escura/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/tela-escura/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tela escura no HP Pavilion dv5</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/tela-escura-no-hp-pavilion-dv5/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/tela-escura-no-hp-pavilion-dv5/</link>
       <pubDate>Fri, 23 Mar 2012 17:48:18 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/tela-escura-no-hp-pavilion-dv5/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/tela-escura-no-hp-pavilion-dv5/</guid>
       <description>Tenho um HP Pavilion dv5 e quando instalei o Ubuntu tive alguns problemas. Com o touchpad (já publicado a solução nesse site) e com a placa de vídeo, onde a tela fica preta ao ligar o notebook e quando uso um projetor de vídeo a resolução não é maior que 1024.
 Com o tempo vou descobrindo cada solução. O que descobri agora foi a restauração do brilho da tela ao inicializar o sistema.</description>
     </item>

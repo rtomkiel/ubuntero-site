@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>China on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/china/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/china/</link>
     <description>Recent content in China on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 29 May 2014 02:30:45 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/china/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/china/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #34 – FISL 15 E DRM</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
       <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
       <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
     </item>
     
     <item>
       <title>Dell aumenta pontos de venda na China</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</link>
       <pubDate>Fri, 06 Sep 2013 13:15:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</guid>
       <description>Se tem um lugar no mundo onde computadores com Linux são vendidos de balde, esse lugar é a China. A Dell sabe disso e já vem investindo em lojas físicas a algum tempo. Agora o número de lojas mais que dobrou e alcançou o número de 1000.
 Você até deve estar se perguntando porque esta política não é adotada no Brasil, ou melhor, porque não é adotada mundialmente? A resposta vem com outra pergunta.</description>
     </item>

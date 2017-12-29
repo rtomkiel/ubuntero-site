@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edge on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/edge/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/edge/</link>
     <description>Recent content in Edge on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Sep 2013 01:47:47 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/edge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/edge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
       <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
       <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
     </item>
     
     <item>
       <title>Redução no valor do Ubuntu Edge</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</link>
       <pubDate>Thu, 08 Aug 2013 14:55:52 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/reducao-no-valor-do-ubuntu-edge/</guid>
       <description>Falta pouco tempo para ser finalizada a campanha de arrecadação de fundos para a fabricação do Ubuntu Edge e a Canonical reduziu o valor do smartphone/computador de bolso. Agora também só temos um único valor para a compra de um aparelho único que é de $ 695 + $ 30 no nosso caso para custos com envio.
 Eu estava fazendo uma força para arrumar dinheiro para fazer a compra do meu, mas já estava difícil.</description>
     </item>
     
     <item>
       <title>Ideias para aumentar a arrecadação do Ubuntu Edge</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</link>
       <pubDate>Mon, 05 Aug 2013 17:03:22 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ideias-para-aumentar-a-arrecadacao-do-ubuntu-edge/</guid>
       <description>Como todos já devem saber, está difícil de alcançar a meta dos 32 milhões de dólares para que seja possível a fabricação do Ubuntu Edge. Depois de bater recordes nos dois primeiros dias, as doações ficaram menores, não chegaram a parar, mas não conseguiram manter a velocidade necessária para se manter na linha mínima para alcançar o objetivo até a data limite, dia 21 de agosto.
 Para tentar virar este jogo, Michael Hall está fazendo um pedido para todos que tenham alguma ideia de como alavancar as doações, que o faça em uma thread no reddit.</description>
     </item>
     
     <item>
       <title>Videocast #39 – Ubuntu Edge e Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-39-ubuntu-edge-e-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-39-ubuntu-edge-e-ubuntu-touch/</link>
       <pubDate>Thu, 01 Aug 2013 11:05:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-39-ubuntu-edge-e-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-39-ubuntu-edge-e-ubuntu-touch/</guid>
       <description>Sim, bastante atrasado. Neste episódio do Videocast falo um pouco sobre o Ubuntu Edge, nossa lojinha e mostro a evolução do Ubuntu Touch rodando no Galaxy Nexus.
  Assistir no Youtube Primeiro vídeo mostrando o Ubuntu Touch rodando no Galaxy Nexus.
 Para comprar os produtos da nossa lojinha, acesse o endereço vitrinepix.com/ubuntero.
@@ -54,10 +54,10 @@ Para colaborar com o projeto Ubuntu Edge, acesse o endereço http://igg.me/at/ub
     
     <item>
       <title>Ubuntu Edge Indicator</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-edge-indicator/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-edge-indicator/</link>
       <pubDate>Wed, 24 Jul 2013 20:43:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-edge-indicator/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-edge-indicator/</guid>
       <description>Quer acompanhar a quantas andam as doações para o Ubuntu Edge sem ficar entrando no site de tempos em tempos? Instale o Ubuntu Edge Indicator e seja feliz.
 sudo add-apt-repository ppa:cwayne18/ubuntu-edge-indicator sudo apt-get update sudo apt-get install ubuntu-edge-indicator Execute pelo terminal o ubuntu-edge-indicator ou pressione Alt+F2 e digite ubuntu-edge-indicator. O indicador irá aparecer próximo ao relógio.
 Sei que a dica não é nada de mais, mas para quem doou e está torcendo para chegar ao objetivo, fica sempre aos olhos.</description>
@@ -65,20 +65,20 @@ Sei que a dica não é nada de mais, mas para quem doou e está torcendo para ch
     
     <item>
       <title>Protótipo da carcaça do Ubuntu Edge</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/prototipo-da-carcaca-do-ubuntu-edge/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/prototipo-da-carcaca-do-ubuntu-edge/</link>
       <pubDate>Wed, 24 Jul 2013 14:10:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/prototipo-da-carcaca-do-ubuntu-edge/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/prototipo-da-carcaca-do-ubuntu-edge/</guid>
       <description>Jono Bacon fez um vídeo onde mostra o protótipo da carcaça do Ubuntu Edge, celular que deverá ser o primeiro a rodar Ubuntu Touch. No vídeo Jono dá detalhes de como o aparelho será por fora e compara o tamanho com o Nexus 4, Galaxy Nexus e Iphone.
  Assistir no Youtube Se você ainda não garantiu o seu Ubuntu Edge, veja como colaborar para o projeto realmente acontecer aí do lado.</description>
     </item>
     
     <item>
       <title>Mistério revelado, Canonical irá lançar seu smartphone</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/misterio-revelado-canonical-ira-lancar-seu-smartphone/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/misterio-revelado-canonical-ira-lancar-seu-smartphone/</link>
       <pubDate>Mon, 22 Jul 2013 16:46:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/misterio-revelado-canonical-ira-lancar-seu-smartphone/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/misterio-revelado-canonical-ira-lancar-seu-smartphone/</guid>
       <description>Depois dos anúncios e imagens vazadas, está confirmado o Ubuntu Edge, smartphone da Canonical que rodará Ubuntu.
 Para lançar o smartphone, a Canonical está fazendo uma campanha para arrecadar 32 milhões de dólares. Quem doar 20 dólares terá seu nome na página de patrocinadores do projeto. Quem doar 600 dólares, receberá um aparelho e terá o nome na página de patrocinadores (apenas nas primeiras 24 horas). Quem doar 830 dólares após as 24 horas, também receberá um aparelho e terá seu nome na página de patrocinadores.</description>
     </item>

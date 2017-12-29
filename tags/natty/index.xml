@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natty on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/natty/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/natty/</link>
     <description>Recent content in Natty on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 11 May 2011 11:42:16 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/natty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/natty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O que faltou no Ubuntu 11.04?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/o-que-faltou-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/o-que-faltou-no-ubuntu-11-04/</link>
       <pubDate>Wed, 11 May 2011 11:42:16 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/o-que-faltou-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/o-que-faltou-no-ubuntu-11-04/</guid>
       <description>Depois de ser &amp;#8220;acusado&amp;#8221; de defender muito a canonical pelo meu amigo Andre Almeida parei para refletir sobre alguns problemas da nova versão do Ubuntu e aqui relatarei elas.
 A interface do Unity me agradou muito e aumentou minha produtividade, mas não tem como esconder que algumas coisas faltaram e, principalmente, coisas boas foram retiradas.
 A primeira coisa que me fez falta e continua fazendo já que mesmo habilitando não tem o mesmo funcionamento da versão anterior é o Zoom do desktop.</description>
@@ -24,10 +24,10 @@ A primeira coisa que me fez falta e continua fazendo já que mesmo habilitando n
     
     <item>
       <title>Leitora Teo by Xiring – BANRISUL – no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</link>
       <pubDate>Sat, 07 May 2011 13:15:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</guid>
       <description>Em um post anterior eu havia compartilhado o tutorial de instalação da leitora de cartão Teo by Xiring para o Ubuntu 10.04 LTS.
 Observei que o procedimento não funciona no Ubuntu 11.04 Natty 🙁
 Mas aqui está a solução. Segue o tutorial 🙂
@@ -38,29 +38,29 @@ sudo apt-get install libccid pcscd pcsc-tools Após isso, insira o &amp;#8220;pc
     
     <item>
       <title>Mostrar barra de downloads no ícone do firefox no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</link>
       <pubDate>Thu, 05 May 2011 14:27:47 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/mostrar-barra-de-downloads-no-icone-do-firefox-no-ubuntu-11-04/</guid>
       <description>Os dias vão passando e algumas coisas vão surgindo para facilitar ainda mais a vida de quem utiliza o Ubuntu 11.04. Os desenvolvedores estão aprendendo como podem usar melhor a interface a seu favor ao invés de simplesmente reclamar que as coisas mudaram e que terão que aprender coisas novas.
 A dica de hoje é de um plugin do firefox para mostrar a barra de progresso downloads do firefox diretamente no ícone do lançador na barra de lançadores no lado esquerdo.</description>
     </item>
     
     <item>
       <title>Entendendo a interface Unity</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/entendendo-a-interface-unity/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/entendendo-a-interface-unity/</link>
       <pubDate>Wed, 04 May 2011 00:42:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/entendendo-a-interface-unity/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/entendendo-a-interface-unity/</guid>
       <description>Instalou ou atualizou o Ubuntu e está meio perdido na nova interface? Não se preocupe, isto é normal quando temos uma mudança tão radical como tivemos nesta versão. A boa notícia é que com um pouco de boa vontade você consegue se adaptar e até ser mais produtivo utilizando a nova interface. Ela tem alguns problemas ainda, isto não pode nem deve ser escondido, mas tenho certeza de que tudo será corrigido tão logo for possível.</description>
     </item>
     
     <item>
       <title>Indicador de Uso de CPU, Memória e Rede no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</link>
       <pubDate>Tue, 03 May 2011 14:17:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/indicador-de-uso-de-cpu-memoria-e-rede-no-ubuntu-11-04/</guid>
       <description>OBS: O PROGRAMA PODE CAUSAR VAZAMENTO DE MEMÓRIA OCASIONANDO UM USO DE MEMÓRIA EXORBITANTE PELO COMPIZ.
 Uma das coisas que me desagradou no Ubuntu 11.04 foi exatamente não ter um applet para visualizar em tempo real o que estava acontecendo com meu processador, memória e rede. Hoje, foi divulgada uma solução que mostra apenas os gráficos, sem tooltip com velocidades e porcentagens, que descrevo abaixo:
  Por enquanto não existe um PPA para a instalação dos pacotes mas basta fazer o download do arquivo conforme a sua plataforma:</description>
@@ -68,20 +68,20 @@ Uma das coisas que me desagradou no Ubuntu 11.04 foi exatamente não ter um appl
     
     <item>
       <title>Resolução correta no Ubuntu 11.04 em placas SiS 671/672/771, e solução de possível desempenho ruim</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
       <pubDate>Sun, 01 May 2011 00:14:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
       <description>Notícia muito boa aos proprietários de placas SiS que assim como eu, ficaram sem o Unity 3D, mas que não perdem a esperança de um dia conseguir poder utilizar o Compiz em nossos computadores ou notebooks.
 Mas antes da solução final, uma pequena história. Na manhã do dia 28 &amp;#8211; quinta-feira &amp;#8211; amanheci com um ar de animação, o novo Ubuntu estava por vir, melhor do que nunca &amp;#8211; sim, sou do time que apoia o Unity.</description>
     </item>
     
     <item>
       <title>Lançado o Ubuntu 11.04 Natty Narwhal</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-11-04-natty-narwhal/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-11-04-natty-narwhal/</link>
       <pubDate>Thu, 28 Apr 2011 11:37:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-11-04-natty-narwhal/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-11-04-natty-narwhal/</guid>
       <description>Está no ar o Ubuntu 11.04 Natty Narwhal.
 Como previsto no calendário, a versão 11.04 foi lançada hoje com muitas mudanças se compararmos com a versão anterior. A principal mudança, que chegou a causar alguma polêmica, é a mudança do shell padrão que agora deixa de ser o gnome-panel para ser o Unity.
 O motivo da polêmica foi uma entrevista onde Mark diz que o Unity ainda não está do jeito que ele queria, mas que na versão 11.</description>
@@ -89,10 +89,10 @@ O motivo da polêmica foi uma entrevista onde Mark diz que o Unity ainda não es
     
     <item>
       <title>Versões LTS, continuar ou não?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/versoes-lts-continuar-ou-nao/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/versoes-lts-continuar-ou-nao/</link>
       <pubDate>Sun, 24 Apr 2011 17:30:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/versoes-lts-continuar-ou-nao/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/versoes-lts-continuar-ou-nao/</guid>
       <description>Dia 28 de Abril chegando, lançamento de mais uma nova versão do nosso querido Ubuntu.
 Muitos usuários e entusiastas assim como eu não aguentaram esperar e já instalaram a versão Beta, alguns já usam desde a versão Alpha.
 Mas muitos também perguntam: E a versão LTS? Continuo nela ou não?
@@ -102,10 +102,10 @@ Para quem quer ter todos os softwars atualizados e as últimas novidades dispon�
     
     <item>
       <title>O que esperar do Ubuntu 11.04?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</link>
       <pubDate>Wed, 06 Apr 2011 14:10:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</guid>
       <description>Estamos nos aproximando do lançamento do Ubuntu 11.04 e já podemos tirar algumas conclusões sobre esta nova versão. Você pode ver alguns vídeos no canal do Ubuntero no youtube.
 A coisa mais importante que devemos citar é que a mudança é grande e necessária para que o Ubuntu passe a ter sua própria identidade sem ser uma cópia de sistema operacional X ou Y.
 Falando agora especificamente de algumas mudanças quero falar sobre a necessidade de mais cliques para chegar até onde se quer.</description>
@@ -113,10 +113,10 @@ Falando agora especificamente de algumas mudanças quero falar sobre a necessida
     
     <item>
       <title>Ubuntu 11.04 com atualizações até o dia 26/03/2011</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</link>
       <pubDate>Sun, 27 Mar 2011 11:00:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-com-atualizacoes-ate-o-dia-26032011/</guid>
       <description>Novo vídeo demonstrativo do Ubuntu 11.04 alpha 3 com atualizações até o dia 26/03/2011. Algumas mudanças de tema e algumas funcionalidades são demosntradas do vídeo. Assista e tire suas conclusões sobre a nova versão do Ubuntu que será lançada no dia 28/04/2011.</description>
     </item>
     

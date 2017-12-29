@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mint on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/mint/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/mint/</link>
     <description>Recent content in Mint on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 20 Feb 2014 00:12:55 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/mint/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/mint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu exige licença para o Linux Mint e outras distribuições derivadas</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</link>
       <pubDate>Thu, 20 Feb 2014 00:12:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</guid>
       <description>Não é novidade que o Ubuntu pede que uma licença seja assinada pelas distribuições derivadas dele, mas também não é novidade que ninguém dá atenção para esta licença, até porque ela não faz sentido. A vítima da vez foi o Linux Mint que utiliza os repositórios do Ubuntu além de seus próprios repositórios. A Canonical vem há cerca de um ano pedindo que o Linux Mint assine uma licença para utilizar seus repositórios.</description>
     </item>
     
     <item>
       <title>Separando o Joio do Trigo</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/separando-o-joio-do-trigo/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/separando-o-joio-do-trigo/</link>
       <pubDate>Tue, 07 Jan 2014 12:22:26 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/separando-o-joio-do-trigo/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/separando-o-joio-do-trigo/</guid>
       <description>Ultimamente temos enfrentado uma grande campanha, não declarada, de ódio contra a Canonical e o Ubuntu, não que algumas decisões não sejam dignas disso, mas precisamos separar o joio do trigo quando algumas notícias são divulgadas.
 Nos últimos meses de 2013 tivemos duas notícias que geraram ódio em relação a Canonical e ao Ubuntu. Na primeira, foi atribuída a Canonical uma declaração que dizia que o Linux Mint era inseguro, logo depois foi visto que não passava de uma opinião pessoal de um funcionário da Canonical que em momento algum disse estar se pronunciando em nome da empresa.</description>
     </item>
     
     <item>
       <title>Linux Mint 12</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/linux-mint-12/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/linux-mint-12/</link>
       <pubDate>Wed, 07 Dec 2011 01:29:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/linux-mint-12/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/linux-mint-12/</guid>
       <description>Para poder falar um pouco sobre o Linux Mint, baixei a última versão e utilizei por algumas horas. O resultado mostro no vídeo.
 Farei mais teste para ver se minha opinião muda com um uso mais estendido.</description>
     </item>
     
     <item>
       <title>Linux Mint mais usado que o Ubuntu! Será?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/linux-mint-mais-usado-que-o-ubuntu-sera/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/linux-mint-mais-usado-que-o-ubuntu-sera/</link>
       <pubDate>Thu, 10 Nov 2011 16:47:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/linux-mint-mais-usado-que-o-ubuntu-sera/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/linux-mint-mais-usado-que-o-ubuntu-sera/</guid>
       <description>Desde ontem tenho lido mais e mais matérias sobre este assunto. Todos citam uma ou duas fontes que afirmam que o Linux Mint ultrapassou o Ubuntu em número de usuários depois de 6 anos de liderança do Ubuntu. Como não sou do tipo que simplesmente acredita no que lê e sempre vou atras de mais detalhes antes de escrever ou confirmar alguma coisa, lá fui eu entender o funcionamento do site Distrowatch, site responsável pela estatística tão divulgada nestes dois dias.</description>
     </item>
     

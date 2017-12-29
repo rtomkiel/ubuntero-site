@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Onda on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/onda/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/onda/</link>
     <description>Recent content in Onda on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 29 Jun 2011 12:14:19 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/onda/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/onda/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Modem ONDA MSA190UP no Ubuntu Natty 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/modem-onda-msa190up-no-ubuntu-natty-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/modem-onda-msa190up-no-ubuntu-natty-11-04/</link>
       <pubDate>Wed, 29 Jun 2011 12:14:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/modem-onda-msa190up-no-ubuntu-natty-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/modem-onda-msa190up-no-ubuntu-natty-11-04/</guid>
       <description>Eventualmente me aparecem com estes modems 3G ching-ling que nossas operadoras adoram vender. Este ditod modems sempre dão algum trabalho para quem usa Linux, e o problema é a fabricação porca que inventaram para eles. Geralmente eles são ao mesmo tempo Pendrives e Modems, sendo que a identificação do hardware é a mesma para os dois dispositivos que estão em um só. Nem preciso dizer que isso é uma grande gambiarra e que só podia gerar problemas.</description>
     </item>
     

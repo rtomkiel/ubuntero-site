@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imagem Iso on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/imagem-iso/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/imagem-iso/</link>
     <description>Recent content in Imagem Iso on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 22 Apr 2013 03:12:03 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/imagem-iso/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/imagem-iso/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #32 – Primeiros passos no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-32-primeiros-passos-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-32-primeiros-passos-no-ubuntu/</link>
       <pubDate>Mon, 22 Apr 2013 03:12:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-32-primeiros-passos-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-32-primeiros-passos-no-ubuntu/</guid>
       <description>De volta aos nossos vídeos quase semanais, hoje voltamos as origens do site e começaremos a ensinar todos os passos para começar no mundo do Ubuntu Linux.
 Neste primeiro vídeo mostramos como é fácil obter o Ubuntu e gravar em um CD/DVD ou pendrive. Nos próximos vídeos mostraremos o processo de instalação e utilização do sistema.
  Assistir no Youtube </description>

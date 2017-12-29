@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Renato on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/author/renato/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/author/renato/</link>
     <description>Recent content in Renato on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 06 Oct 2011 14:12:37 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/author/renato/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/author/renato/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como remover os ícones de notificação no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-remover-os-icones-de-notificacao-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-remover-os-icones-de-notificacao-no-ubuntu-11-04/</link>
       <pubDate>Thu, 06 Oct 2011 14:12:37 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-remover-os-icones-de-notificacao-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-remover-os-icones-de-notificacao-no-ubuntu-11-04/</guid>
       <description>Para alguns estes dois ícones da imagem são muito úteis, para outros nem tanto e estão ali só para ocupar espaço. Se você está na lista de pessoas que gostaria de remover um dos ícones ou até mesmo os dois, siga estes simples passos:
 Abra o terminal pressionando a tecla Super(logotipo do windows), digite &amp;#8220;terminal&amp;#8221; e pressione Enter.
 Para remover apenas o primeiro ícone digite o comando:
@@ -25,10 +25,10 @@ sudo apt-get remove indicator-message   Para remover apenas o segundo ícone, di
     
     <item>
       <title>Q4Wine</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/q4wine/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/q4wine/</link>
       <pubDate>Thu, 01 Sep 2011 12:05:47 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/q4wine/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/q4wine/</guid>
       <description>Em tempos de Unity, tornou-se diferente a forma de organizar os atalhos no Ubuntu. E o que eu menos quero no meu desktop é enchê-lo de atalhos! Como posso então centralizar TODOS os softwares da MS que eu utilizo no Linux em um só local? A melhor alternativa que eu encontrei é o Q4Wine.
 Para instalar abra um terminal e digite:
 sudo apt-get install q4wine Depois de instalá-lo você pode arrastar para a barra do Unity e a partir dali centralizar todos os atalhos.</description>
@@ -36,10 +36,10 @@ sudo apt-get install q4wine Depois de instalá-lo você pode arrastar para a bar
     
     <item>
       <title>Google Chrome supera o Firefox no Reino Unido</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-chrome-supera-o-firefox-no-reino-unido/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-chrome-supera-o-firefox-no-reino-unido/</link>
       <pubDate>Tue, 02 Aug 2011 12:12:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-chrome-supera-o-firefox-no-reino-unido/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-chrome-supera-o-firefox-no-reino-unido/</guid>
       <description>Conforme este link do Terra Tecnologia publicado hoje, o Google Chrome superou o Firefox no Reino Unido, ficando apenas atrás do Internet Explorer. Analisando o porquê da evolução do browser e os motivos que o estão levando à esta ascensão, cheguei à algumas respostas:
 -Ele está ligado à gigante GOOGLE. É o maior buscador do mundo e a cada dia inova seus serviços e até o seu visual;
 -O Chrome é multi-plataforma.</description>
@@ -47,39 +47,39 @@ sudo apt-get install q4wine Depois de instalá-lo você pode arrastar para a bar
     
     <item>
       <title>ZSNES – Super Nintendo no Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/zsnes-super-nintendo-no-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/zsnes-super-nintendo-no-linux/</link>
       <pubDate>Sat, 23 Jul 2011 12:03:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/zsnes-super-nintendo-no-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/zsnes-super-nintendo-no-linux/</guid>
       <description>Está com saudade dos jogos do Super Nintendo? Street Fighter, Mario, Rock`n`Roll Racing? E quer jogar no Ubuntu? OK! Aqui vai a dica.   Aqui eu já havia dado um passo-a-passo mostrando detalhadamente como rodar o Counter Strike, poderoso e famoso jogo de tiro &amp;#8211; o qual, aliás, curto muito.   &amp;lt;p&amp;gt; Vamos ao passo-a-passo. Ubuntu Natty. Pressione a tecla super (ou &amp;amp;#8220;Windows&amp;amp;#8221;) do seu micro e na caixa de pesquisa procure por &amp;amp;#8220;programas&amp;amp;#8221;.</description>
     </item>
     
     <item>
       <title>Falha no Startup Manager no Ubuntu – e a solução: GRUB Customizer</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</link>
       <pubDate>Fri, 15 Jul 2011 20:46:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</guid>
       <description>Os que fizeram a última atualização do Kernell do Ubuntu 11.04 ontem (14 de julho) e utilizavam o &amp;#8220;startupmanager&amp;#8221; para configurar o GRUB notaram que o mesmo não funciona mais neste Kernell.
 Ou seja, ao inicializar um computador com dual-boot (no meu caso, Windows + Ubuntu) o sistema livre ficou novamente como padrão para inicialização e o startupmanager não consegue mais reconfigurar. Resumindo: o startupmanager NÃO funciona nesta versão do Ubuntu, com o Kernell atualizado.</description>
     </item>
     
     <item>
       <title>Como configurar o Ubuntu 11.04 com placa SIS671</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</link>
       <pubDate>Thu, 07 Jul 2011 12:03:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</guid>
       <description>Anteriormente comentei sobre como configurar o Ubuntu 10.04 para trabalhar com a placa SIS 671. Já que entramos na &amp;#8220;era Unity&amp;#8221; (nova interface que aparentemente será o padrão nas novas versões), vou expor sobre como configurar o driver da Sis671 no Ubuntu 11.04 🙂   1)Baixe o driver aqui. 
 2)Descompacte (por exemplo, na pasta Downloads).  3)Vamos copiar alguns arquivos para os seus locais corretos para que tudo funcione ok.</description>
     </item>
     
     <item>
       <title>Leitora Teo by Xiring – BANRISUL – no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</link>
       <pubDate>Sat, 07 May 2011 13:15:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</guid>
       <description>Em um post anterior eu havia compartilhado o tutorial de instalação da leitora de cartão Teo by Xiring para o Ubuntu 10.04 LTS.
 Observei que o procedimento não funciona no Ubuntu 11.04 Natty 🙁
 Mas aqui está a solução. Segue o tutorial 🙂
@@ -90,20 +90,20 @@ sudo apt-get install libccid pcscd pcsc-tools Após isso, insira o &amp;#8220;pc
     
     <item>
       <title>Firefox 4 Launch Party Porto Alegre</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-4-launch-party-porto-alegre/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-4-launch-party-porto-alegre/</link>
       <pubDate>Fri, 22 Apr 2011 12:57:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-4-launch-party-porto-alegre/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-4-launch-party-porto-alegre/</guid>
       <description>Na lista do Tchelinux foi divulgado pela Andrea Balle (Colaboradora da Mozilla Brasil) o Launch Party do Firefox 4 em Porto Alegre. Segue abaixo o cartaz (parece ser um evento interessante!).  Fiquem todos com Deus,
 Meu Twitter é @renatobluesboy; blog http://freelinux-br.blogspot.com</description>
     </item>
     
     <item>
       <title>Celebrando o aniversário dos 20 anos do Linux!</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/celebrando-o-aniversario-dos-20-anos-do-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/celebrando-o-aniversario-dos-20-anos-do-linux/</link>
       <pubDate>Fri, 15 Apr 2011 13:31:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/celebrando-o-aniversario-dos-20-anos-do-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/celebrando-o-aniversario-dos-20-anos-do-linux/</guid>
       <description>Segue um vídeo bem interessante sobre os 20 anos do Linux, vale a pena conferir.
 Meu blog: http://freelinux-br.blogspot.com
 Meu Twitter: @renatobluesboy</description>
@@ -111,10 +111,10 @@ Meu Twitter: @renatobluesboy</description>
     
     <item>
       <title>Gravando vídeos do seu desktop no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gravando-videos-do-seu-desktop-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gravando-videos-do-seu-desktop-no-ubuntu/</link>
       <pubDate>Sat, 02 Apr 2011 14:10:16 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gravando-videos-do-seu-desktop-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gravando-videos-do-seu-desktop-no-ubuntu/</guid>
       <description>Como sabemos, o Ubuntu tem uma nova versão lançada a cada seis meses. Há um calendário de lançamento da próxima (e revolucionária) versão que publiquei aqui. Com isso, muitos usuários acabam gravando o seu desktop contendo tutoriais e vídeos que ajudam toda a comunidade.
 Há vários programas para gravar vídeos do seu desktop para Ubuntu. Hoje abordarei um deles, o Recordmydesktop.
 Para instalar, abra um terminal e digite:
@@ -123,20 +123,20 @@ sudo apt-get install gtk-recordmydesktop Pronto!</description>
     
     <item>
       <title>Compartilhando arquivos entre Linux e Windows usando o SAMBA</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/compartilhando-arquivos-entre-linux-e-windows-usando-o-samba/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/compartilhando-arquivos-entre-linux-e-windows-usando-o-samba/</link>
       <pubDate>Sat, 26 Mar 2011 11:00:38 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/compartilhando-arquivos-entre-linux-e-windows-usando-o-samba/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/compartilhando-arquivos-entre-linux-e-windows-usando-o-samba/</guid>
       <description>Muitas vezes precisamos compartilhar arquivos em uma rede onde o servidor (ou mesmo uma estação) é Linux e o &amp;#8220;cliente&amp;#8221; é Windows. Fiquei pensando se havia uma maneira fácil, com modo gráfico, para fazê-lo. E tem. Mas primeiro vamos utilizar o Terminal para fazer uma instalação e, depois, uma configuração.  1)Abra um terminal e digite:
 sudo apt-get install system-config-samba Isso irá instalar a interface gráfica do samba no seu Ubuntu.</description>
     </item>
     
     <item>
       <title>Flisol!</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/flisol/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/flisol/</link>
       <pubDate>Fri, 18 Mar 2011 11:00:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/flisol/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/flisol/</guid>
       <description>Muitas pessoas estão contribuindo para a realização desta edição do FLISOL em Porto Alegre. Sempre há espaço para interessados em se juntar a este grupo.
 A edição deste ano, conta com a colaboração direta destas pessoas: Alexandre Rigotti, Camila Ayres, Felipe Groos, Felipe Santos, Gabriel Engel, Leandro Nunes, Luiz Guaraldo, Luiz Rauber, Miguel Grazziotin, Moisés Lima e Rodrigo Warzak.
 Responsável: Leandro Nunes

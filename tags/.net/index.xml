@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.Net on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/.net/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/.net/</link>
     <description>Recent content in .Net on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 07 Jul 2006 03:34:19 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beagle Search</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/beagle-search/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/beagle-search/</link>
       <pubDate>Fri, 07 Jul 2006 03:34:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/beagle-search/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/beagle-search/</guid>
       <description>Não quero deixar o blog parado mas como isso é inevitável neste final de semana vou &amp;#8220;plagiar&amp;#8221; um post do meu amigo Andre.
 Hoje vou falar sobre o Beagle, aplicativo que permite fazer buscas em seu computador sem a necessidade de varrer todo o HD toda vez que se quer procurar alguma coisa.
 A idéia do Beagle é a mesma do Google Desktop. O Beagle indexa os arquivos, emails, histórico do navegador e tudo que você tem no computador que pode ser identificado por alguma palavra.</description>

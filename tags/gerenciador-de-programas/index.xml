@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gerenciador De Programas on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/gerenciador-de-programas/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/gerenciador-de-programas/</link>
     <description>Recent content in Gerenciador De Programas on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 27 Apr 2011 12:29:28 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gerenciador-de-programas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/gerenciador-de-programas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lojas de aplicativos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lojas-de-aplicativos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lojas-de-aplicativos/</link>
       <pubDate>Wed, 27 Apr 2011 12:29:28 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lojas-de-aplicativos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lojas-de-aplicativos/</guid>
       <description>Quantas vezes você já ouviu ou leu sobre as &amp;#8220;inovadoras&amp;#8221; lojas de aplicativos? Apple tem a sua, android também e a até a Microsoft tem a sua. A única explicação do porque estas lojas de aplicativos serem famosas é o simples fato de elas venderem aplicativos exclusivos para seus dispositivos.
 Você deve estar se perguntando qual a relação destas lojas com o software livre e o Ubuntu? A resposta é tão simples que pode até parecer forçação de barra, mas o Linux basicamente criou a ideia de lojas de aplicativos, mas nunca vendeu os aplicativos lá disponíveis.</description>
     </item>

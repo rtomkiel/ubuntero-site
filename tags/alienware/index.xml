@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alienware on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/alienware/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/alienware/</link>
     <description>Recent content in Alienware on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 06 Apr 2013 13:33:05 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/alienware/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/alienware/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dell lança computador gamer Alienware X51 com Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</link>
       <pubDate>Sat, 06 Apr 2013 13:33:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</guid>
       <description>A Dell lançou lá fora uma super máquina para os gamers. Aproveitando o sucesso da entrada da Valve no mundo Linux com o lançamento do Steam para Ubuntu, a Dell lançou uma super máquina com processadores da linha Core i, memória começando em 6 GB e placa de vídeo NVIDIA GeForce GTX 645. Veja as configurações disponíveis:
  Alienware X51 ($599)  Intel Core i3-3220 3.3GHz Dual Core Sistema Operacional Ubuntu 6GB DDR3 at 1600MHz (2 DIMMS) NVIDIA GeForce GTX 645 1GB GDDR5 Slot Load Dual Layer DVD Burner Dell Wireless 1506 (802.</description>
     </item>

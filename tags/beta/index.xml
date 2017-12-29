@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beta on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/beta/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/beta/</link>
     <description>Recent content in Beta on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 30 Sep 2013 12:01:17 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/beta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beta final do Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/beta-final-do-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/beta-final-do-ubuntu-13-10/</link>
       <pubDate>Mon, 30 Sep 2013 12:01:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/beta-final-do-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/beta-final-do-ubuntu-13-10/</guid>
       <description>Foi lançada a Beta final do Ubuntu 13.10 para todos que querem experimentar esta nova versão do Ubuntu que promete trazer muitas novidades, principalmente técnicas. Juntamente com as tradicionais versões para desktop e servidor, pela primeira vez foi incluída a imagem do Ubuntu Touch juntamente com a Beta.
 Lembrem-se que versões beta são apenas para quem quer testar o sistema e sabe o que fazer se o sistema parar de funcionar.</description>
     </item>
     
     <item>
       <title>Versões Beta dos sabores do Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</link>
       <pubDate>Fri, 06 Sep 2013 11:28:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</guid>
       <description>Estão disponíveis as imagens dos &amp;#8220;sabores&amp;#8221; do Ubuntu na versão 13.10 Beta 1. Estas versões são recomendadas apenas para usuários mais avançados, pois são destinadas a testes e problemas podem e devem aparecer.
 Se mesmo sabendo destes possíveis problemas você ainda quiser baixar para instalar e testar no seu computador, seguem os links para baixar as imagens.
  Xubuntu 13.10 Beta 1 Kubuntu 13.10 Beta 1 Lubuntu 13.10 Beta 1 Ubuntu GNOME 13.</description>
@@ -34,10 +34,10 @@ Se mesmo sabendo destes possíveis problemas você ainda quiser baixar para inst
     
     <item>
       <title>Ubuntero On Air 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
       <pubDate>Fri, 28 Sep 2012 11:51:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
       <description>No dia 27 fizemos nosso piloto do quadro Ubuntero On Air. Este primeiro episódio serviu mais para conhecermos a ferramenta e testar se algumas configurações da ferramenta estavam funcionando.
 Os assuntos que abordamos foram:
  Propagandas da Amazon no Ubuntu 12.10 Mudança de ideia da Intel sobre o suporte ao Linux nos chips da linha Clover Trail para tablets Grub 2 voltando ao Ubuntu 12.10 Adoção de software livre pelo governo francês Modelo de software livre brasileiro em destaque na campus party do Equador Ubuntu 12.</description>
@@ -45,10 +45,10 @@ Os assuntos que abordamos foram:
     
     <item>
       <title>Disponível LibreOffice 3.6 Beta 3</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-3-6-beta-3/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-3-6-beta-3/</link>
       <pubDate>Mon, 09 Jul 2012 20:24:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-3-6-beta-3/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-3-6-beta-3/</guid>
       <description>Está disponível para download a Beta 3 do LibreOffice 3.6 no site do projeto.
 Você pode baixar uma versão de pré-lançamento para avaliação, testes de qualidade, etc&amp;#8230; Não recomendamos utilizar os pré-lançamentos do LibreOffice para trabalhos críticos. Para mais informações sobre o controle de qualidade, visite a página de controle de qualidade. Veja também as notas da versão.
 Se estiver interessado em versões binárias mais arrojadas em desenvolvimento, verifique os builds diários &amp;#8211; estes são ainda mais sujeitos a falhas e inadequados para trabalhos críticos,.</description>
@@ -56,10 +56,10 @@ Se estiver interessado em versões binárias mais arrojadas em desenvolvimento, 
     
     <item>
       <title>Skype 1.3 Beta</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/skype-13-beta/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/skype-13-beta/</link>
       <pubDate>Sun, 02 Jul 2006 03:52:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/skype-13-beta/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/skype-13-beta/</guid>
       <description>Foi lançado no dia 28 de junho, uma versão beta do mensageiro instantâneo que também permite fazer ligações para telefones convencionais, Skype.
 Até o momento testei muito pouco esta nova versão. A principal mudança, e que acho que muitos vão gostar, é que agora o Skype dá a opção de se utilizar OSS ou ALSA como sistema de som.
 Se tinha uma coisa que eu odiava no Skype para linux era exatamente este negócio de usar apenas OSS.</description>

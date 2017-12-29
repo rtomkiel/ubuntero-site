@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fail on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/fail/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/fail/</link>
     <description>Recent content in Fail on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 03 Dec 2013 16:38:21 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/fail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #49 – Erros ao divulgar Software Livre</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</link>
       <pubDate>Tue, 03 Dec 2013 16:38:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</guid>
       <description>Era para sair na segunda, mas saiu na terça. Neste episódio comento um pouco sobre alguns erros muito comuns a quem está começando a divulgar software livre.
  Assistir no Youtube Deixe nos comentários erros que eu não citei neste vídeo.</description>
     </item>

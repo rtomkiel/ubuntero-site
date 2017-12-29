@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compiz on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/compiz/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/compiz/</link>
     <description>Recent content in Compiz on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 27 Oct 2011 19:04:14 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/compiz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/compiz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Launcher na parte de Baixo da tela</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/launcher-na-parte-de-baixo-da-tela/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/launcher-na-parte-de-baixo-da-tela/</link>
       <pubDate>Thu, 27 Oct 2011 19:04:14 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/launcher-na-parte-de-baixo-da-tela/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/launcher-na-parte-de-baixo-da-tela/</guid>
       <description>Esta dica é para muitos que simplesmente não conseguiram, ou não quiseram, se acostumar com a mudança do local onde os programas abertos aparecem.
 Esta dica é apenas para quem utiliza o Unity 3D e Ubuntu 32 bits, não tem pacote para 64 bits, pois utiliza um plugin do Compiz para fazer a mágica!
 Para começar, faça o download do arquivo. Aqui ou aqui.
@@ -25,10 +25,10 @@ Extraia o diretório presente no arquivo baixado para o seu home.</description>
     
     <item>
       <title>Aumentar o número de áreas de trabalho no Unity</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/aumentar-o-numero-de-areas-de-trabalho-no-unity/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/aumentar-o-numero-de-areas-de-trabalho-no-unity/</link>
       <pubDate>Fri, 05 Aug 2011 11:32:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/aumentar-o-numero-de-areas-de-trabalho-no-unity/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/aumentar-o-numero-de-areas-de-trabalho-no-unity/</guid>
       <description>Muita gente reclama da falta de opções de personalização do Unity e uma das personalizações é o número de áreas de trabalho que no Unity temos habilitados apenas 4.
 Para resolver este problema é muito simples. Instale o aplicativo CCSM via Central de programas do Ubuntu.
  Abra o programa pressionando e soltando a tecla &amp;#8220;Super&amp;#8221;, também conhecida como tecla &amp;#8220;Windows&amp;#8221;, e digite ccsm. Apenas um programa aparecerá e deverá ser aberto.</description>
@@ -36,10 +36,10 @@ Para resolver este problema é muito simples. Instale o aplicativo CCSM via Cent
     
     <item>
       <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
       <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
       <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
 O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
  Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>

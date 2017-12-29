@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flory on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/flory/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/flory/</link>
     <description>Recent content in Flory on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 12 Mar 2011 21:57:31 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/flory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/flory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3º Tema – Glory</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</link>
       <pubDate>Sat, 12 Mar 2011 21:57:31 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/3%C2%BA-tema-glory/</guid>
       <description>Olá, venho até aqui hoje para demonstrar um dos mais belos temas já visto por mim até hoje. O tema é encantador, com predominância do cinza, mas com ícones mais coloridos para dar um certo contraste, fiquem com o vídeo abaixo e depois dele, colocarei o tutorial de instalação.
 ; &amp;nbsp; Bem, agora vamos enfim obter os arquivos necessários para montar o nosso tema Glory, para obter os Controladores e as Margens de Janelas baixe o seguinte arquivo em seu computador.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/4/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/4/</link>
     <description>Recent content in 4 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 22 Mar 2011 20:15:45 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firefox 4.0</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
       <pubDate>Tue, 22 Mar 2011 20:15:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
       <description>Como todos já sabem, foi lançado o Firefox 4.0 e muitos usuários já estão baixando e usando. Em 12 horas o número de downloads ultrapassou o número alcançado pelo Internet Explorer 9 em 24 horas.
 Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga os passos abaixo:
  Abra o terminal em Aplicativos &amp;gt;&amp;gt; Acessórios &amp;gt;&amp;gt; Terminal e digite os seguintes comandos:  sudo add-apt-repository ppa:mozillateam/firefox-stable sudo apt-get update &amp;&amp; sudo apt-get upgrade Pronto, é só abrir o Firefox que ele lhe fará algumas poucas perguntas e poderá utilizar o Firefox no seu Ubuntu 10.</description>
@@ -24,10 +24,10 @@ Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga 
     
     <item>
       <title>Firefox 4.0</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
       <pubDate>Tue, 22 Mar 2011 20:15:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
       <description>Como todos já sabem, foi lançado o Firefox 4.0 e muitos usuários já estão baixando e usando. Em 12 horas o número de downloads ultrapassou o número alcançado pelo Internet Explorer 9 em 24 horas.
 Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga os passos abaixo:
  Abra o terminal em Aplicativos &amp;gt;&amp;gt; Acessórios &amp;gt;&amp;gt; Terminal e digite os seguintes comandos:  sudo add-apt-repository ppa:mozillateam/firefox-stable sudo apt-get update &amp;&amp; sudo apt-get upgrade Pronto, é só abrir o Firefox que ele lhe fará algumas poucas perguntas e poderá utilizar o Firefox no seu Ubuntu 10.</description>

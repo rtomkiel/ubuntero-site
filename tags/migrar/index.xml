@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migrar on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/migrar/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/migrar/</link>
     <description>Recent content in Migrar on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 31 Jan 2011 11:10:59 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/migrar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/migrar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu, migrar ou não? Eis a questão.</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-migrar-ou-nao-eis-a-questao/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-migrar-ou-nao-eis-a-questao/</link>
       <pubDate>Mon, 31 Jan 2011 11:10:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-migrar-ou-nao-eis-a-questao/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-migrar-ou-nao-eis-a-questao/</guid>
       <description>Olá pessoal!
 Doravante vocês terão a visão de um, diríamos, &amp;#8220;usuário comum&amp;#8221; em computadores pessoais, precisamente no Ubuntu Linux. Sim, este que vos escreve não entende de programação, tampouco linhas de comando, mas vai dar sua contribuição para o Ubuntero (Viva a democracia!), mostrando as vantagens de migrar para software livre.
 Deixo claro que são apenas feedbacks com intuito de compartilhar experiências de utilizar um sistema robusto, confiável e o melhor de tudo, gratuito.</description>

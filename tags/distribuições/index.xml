@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distribuições on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/distribui%C3%A7%C3%B5es/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/distribui%C3%A7%C3%B5es/</link>
     <description>Recent content in Distribuições on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 27 Aug 2012 04:02:03 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/distribui%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/distribui%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #16 – Distribuições Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
       <pubDate>Mon, 27 Aug 2012 04:02:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
       <description>Neste episódio, eu (Ivan), Diego, Rudinei e Og Maciel falamos um pouco sobre o mundo de distribuições Linux existentes no mundo. Escolhemos algumas distribuições para falar um pouco mais como Ubuntu, incluindo uma polêmica, Red Hat, Slackware também entraram na discussão. Conversamos também um pouco sobre ser ou não ser bom ter este número gigantesco de distribuições.
 Não deixe de votar no Ubuntero para o Prêmio TopBlog Brasil 2012.</description>
     </item>

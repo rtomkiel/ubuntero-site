@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suse on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/suse/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/suse/</link>
     <description>Recent content in Suse on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 23 Oct 2014 20:18:04 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/suse/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/suse/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #39 – Netflix e Android Pirulito</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
       <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
       <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
 Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
 Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
@@ -24,19 +24,19 @@ Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouc
     
     <item>
       <title>Opencast #20 – Servidores Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
       <pubDate>Fri, 05 Apr 2013 02:50:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
       <description>Está atrasado mas o importante é que está no ar mais um episódio do Opencast. Não liguem para a minha voz(Ivan), eu estava no auge da gripe no dia da gravação. Neste episódio recebemos a visita do Tiago do site ubuntu-br-sc e do Aprígio Simões. Vocês vão notar a ausência do Rudinei, que foi atingido por uma falha massiva da OI devido ao rompimento de fibra ótica em três pontos do sul do país.</description>
     </item>
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     

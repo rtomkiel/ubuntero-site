@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/windows/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/windows/</link>
     <description>Recent content in Windows on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 19 Nov 2013 10:32:51 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>UbuntuOne pede que reconecte sua conta</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</link>
       <pubDate>Tue, 19 Nov 2013 10:32:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</guid>
       <description>Se você não prestou atenção nos e-mails enviados pelo Ubuntu, não viu que os servidores do UbuntuOne passaram por manutenção e é necessário que seja feito um procedimento simples. Remover a conta e adicionar novamente. Caso não faça isto, seus arquivos podem não ser sincronizados até lá.
 A mensagem que o Ubuntu enviou para os usuários do UbuntuOne é a seguinte:
 Hi, We are continually enhancing the security of all the Ubuntu One services (login, payments, file syncing, etc).</description>
@@ -24,39 +24,39 @@ Hi, We are continually enhancing the security of all the Ubuntu One services (lo
     
     <item>
       <title>Por que supercomputadores rodam Linux, Unix e BSD?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</link>
       <pubDate>Tue, 07 May 2013 13:30:40 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</guid>
       <description>A última estatística é de novembro de 2012, mas ela não tem se alterado muitos pontos nos últimos 10 anos. Somando os supercomputadores que rodam Linux, Unix e BSD, temos a impressionante marca de 98%, os outros 2% ficam divididos entre sistemas Windows e outras coisas indefinidas. Se você já sabia desta informação, já parou para pensar porque isto acontece? Se você está sabendo disto agora, pare para pensar porque sistemas não Windows são tão usados.</description>
     </item>
     
     <item>
       <title>Crie um pendrive bootável com o sistema operacional Windows</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</link>
       <pubDate>Tue, 23 Apr 2013 11:00:54 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/</guid>
       <description>Eu sei que muitos podem estar estranhando o título deste artigo, mas nada foi digitado errado. No mundo do software livre tem espaço para todos, até para técnicos que precisam instalar outros sistemas operacionais que não são software livre. Estes profissionais, muitas vezes, instalam software pirata, mas deixaremos isso para a consciência de cada um, nesse artigo vamos levar em conta que a cópia do sistema operacional é legal.
 Utilizar CD/DVD já está fora de moda, é muito mais fácil ter um pendrive por perto na hora do aperto e você pode precisar instalar aquele outro sistema operacional em computadores que não tem drive de CD/DVD e seguindo a regra, com software livre pode-se fazer tudo, até gerar um pendrive com um sistema operacional que não é software livre.</description>
     </item>
     
     <item>
       <title>Qual será a comissão do Estado do Rio de Janeiro?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/qual-sera-a-comissao-do-estado-do-rio-de-janeiro/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/qual-sera-a-comissao-do-estado-do-rio-de-janeiro/</link>
       <pubDate>Mon, 07 Jan 2013 15:30:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/qual-sera-a-comissao-do-estado-do-rio-de-janeiro/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/qual-sera-a-comissao-do-estado-do-rio-de-janeiro/</guid>
       <description>Fico triste quando vejo este tipo de coisa, mas infelizmente ainda é uma realidade. Veja o relato da Eliane Domingos no Google+.
  &amp;#8220;Vejam vocês, em pleno 2013, continuo me aborrecendo. Olha que tem gente que me chama de radical por conta de minha defesa no uso de tecnologias abertas. Fui contatada para fornecer uma proposta de serviços e o contratante me diz que sou obrigada a ter cadastro no SIGA, até aí tudo bem.</description>
     </item>
     
     <item>
       <title>Montando Partições Automaticamente no Ubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/montando-particoes-automaticamente-no-ubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/montando-particoes-automaticamente-no-ubuntu-12-10/</link>
       <pubDate>Sun, 06 Jan 2013 19:00:28 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/montando-particoes-automaticamente-no-ubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/montando-particoes-automaticamente-no-ubuntu-12-10/</guid>
       <description>Olá Ubunteros!
 Aqui vai uma dica para quem usa o Ubuntu em dual boot com o Windows ou possui HD&amp;#8217;s ou partições em NTFS.
 Quem usa o Ubuntu sabe que o formato padrão dos arquivos de sistemas não é o famoso NTFS usado pela Microsoft no Windows (entre os mais comuns no Linux estão os Ext2, Ext3, Ext4, JFS e btrfs), e que, por padrão, partições que possuem o NTFS como formato padrão de arquivos de sistema não são montadas automaticamente na inicialização do Ubuntu, o que às vezes pode se tornar um problema ou simplesmente se tornar algo incômodo (no meu caso, minhas bibliotecas de músicas, fotos e documentos ficam numa partição NTFS comum ao Windows e ao Ubuntu, e que eventualmente, quando não montada, fazia o Clementine não encontrar minhas músicas assim que fosse inciado, dentre outras coisas mais, que por vezes incomodaram minha paciência).</description>
@@ -64,40 +64,40 @@ Quem usa o Ubuntu sabe que o formato padrão dos arquivos de sistemas não é o 
     
     <item>
       <title>Acessar arquivos do Ubuntu no Windows</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/acessar-arquivos-do-ubuntu-no-windows/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/acessar-arquivos-do-ubuntu-no-windows/</link>
       <pubDate>Wed, 15 Feb 2012 13:04:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/acessar-arquivos-do-ubuntu-no-windows/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/acessar-arquivos-do-ubuntu-no-windows/</guid>
       <description>Muitos usuários ainda usam o formato de instalação Dual Boot e é frequente a necessidade de acessar arquivos que estão na partição do Ubuntu quando se está utilizando o Windows.
 Uma solução adotada por muitos é ter uma partição NTFS para fazer esta troca de arquivos. Esta solução funciona parcialmente porque nem sempre os arquivos que queremos estão na partição de troca e é necessário fazer um reboot para entrar no Ubuntu para copiar os arquivos para um local que o Windows possa acessar.</description>
     </item>
     
     <item>
       <title>Linux vs Windows – Jogos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</link>
       <pubDate>Mon, 25 Apr 2011 12:52:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</guid>
       <description>Ao contrário do que alguns falaram nos comentários do artigo anterior, a licença do Windows 7 que comprei não serve apenas para que eu possa falar mal do sistema, não sou louco para fazer isto.
 Como no primeiro artigo, onde falei da instalação dos dois sistemas, o Windows 7 perdeu de lavada para o Ubuntu 11.04, neste artigo irei falar de um campo onde o Windows ganha de lavada do Ubuntu e outros Linux.</description>
     </item>
     
     <item>
       <title>Linux ou Windows? A velha questão</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/linux-ou-windows-a-velha-questao/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/linux-ou-windows-a-velha-questao/</link>
       <pubDate>Wed, 20 Apr 2011 11:00:31 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/linux-ou-windows-a-velha-questao/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/linux-ou-windows-a-velha-questao/</guid>
       <description>Quatrocentos reais mais pobre, mas algumas certezas na cabeça. Durante o último final de semana fiz a aquisição de uma licença do Windows 7 para poder instalar sem problemas e poder ter uma boa ideia de a quantas anda o desenvolvimento da Microsoft.
 Foi dolorido, mas necessário, gastar quatrocentos reais para poder fazer uma simples comparação entre dois sistemas operacionais. Como todos sabem, não temos patrocínios e nem mesmo os programas de afiliados nos dão retorno suficiente para investir no conteúdo e hospedagem do site.</description>
     </item>
     
     <item>
       <title>Internet Explorer no Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</link>
       <pubDate>Wed, 05 Jul 2006 11:00:42 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</guid>
       <description>Acredito que muitos já tenham tentado instalar algum programa para Windows em seus computadores com o auxílio do Wine. Muitos dos programas mais simples funcionam sem nenhum problema, no entantanto, alguns pedem que outros recursos sejam instalandos anteriormente. A lista de recursos vai desde fontes utilizadas pelo windows, passando por dll&amp;#8217;s de systema ou de terceiros, até alguns programas como o famoso, e cheio de falhas, Internet Explorer.
 Instalar e já sair usando o Internet Explorer no linux não é tão simples como parece.</description>
     </item>

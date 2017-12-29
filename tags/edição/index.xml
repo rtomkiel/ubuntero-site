@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edição on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o/</link>
     <description>Recent content in Edição on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 15 May 2013 16:50:13 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Editor de vídeos Kdenlive</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/editor-de-videos-kdenlive/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/editor-de-videos-kdenlive/</link>
       <pubDate>Wed, 15 May 2013 16:50:13 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/editor-de-videos-kdenlive/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/editor-de-videos-kdenlive/</guid>
       <description>Eu sei que muitos não gostam de misturar bibliotecas GTK com QT e não instalam programas que exijam a instalação de tais bibliotecas em seus sistemas. Eu sempre fui assim até que conheci o Kdenlive para editar vídeos. As outras opções disponíveis são muito difíceis para o uso amador ou são muito fracas em funcionalidade.
 Para instalar o Kdenlive em seu basta abrir a central de programas do ubuntu, procurar por kdenlive e clicar em instalar, o restante o sistema faz para você.</description>
     </item>

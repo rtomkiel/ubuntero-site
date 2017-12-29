@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chromium on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/chromium/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/chromium/</link>
     <description>Recent content in Chromium on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 06 Aug 2014 01:43:05 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #38 – Rede Espírito Livre</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
       <pubDate>Wed, 06 Aug 2014 01:43:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
       <description>Capa do episódio desenvolvida por Eduardo Barbosa @_edmb Está no ar mais um episódio do Opencast e neste episódio temos a participação mais do que especial do João Fernando da Rede Espírito Livre. O episódio está muito bacana, conversamos sobre todos os projetos da Rede Espírito Livre como a revista, eventos e os vídeos, passando por uma aula sobre fontes e uma boa discussão sobre a realização de eventos.</description>
     </item>
     
     <item>
       <title>Firefox continuará sendo o navegador padrão no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</link>
       <pubDate>Wed, 14 Aug 2013 14:58:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</guid>
       <description>Ouviram minhas preces e o navegador padrão do Ubuntu 13.10 continuará sendo o Firefox. Sei que o o Chromium e principalmente o Chrome tem vários fãs, mas muitos destes fãs não sabem que os processos do Chrome e Chromium se dividem em vários outros e simplesmente devoram a memória do computador. Não estou com ele instalado agora para provar, mas em medições anteriores o Chome estava usando nada menos que 3 vezes mais memória que o Firefox com as mesmas abas abertas.</description>
     </item>
     
     <item>
       <title>Chromium, o Google Chrome “para Linux”</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</link>
       <pubDate>Wed, 02 Mar 2011 11:00:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/chromium-o-google-chrome-para-linux/</guid>
       <description>Desde sua primeira versão, o Google Chrome se tornou amado por muitos. Dentre esses fatores estão seu visual mais do que limpo e sua incrível velocidade. Mesmo que nas primeiras versões sua velocidade não fosse tão boa quanto nas versões atuais, não dá pra contestar a qualidade do navegador da Google nas suas versões mais atuais. Até a versão quatro do navegador, se não me engano (minha memória é péssima), nós usuários Linux em geral, não tínhamos acesso a versão oficial do Google Chrome.</description>
     </item>
     

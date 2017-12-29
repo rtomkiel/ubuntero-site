@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ffmpeg on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ffmpeg/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ffmpeg/</link>
     <description>Recent content in Ffmpeg on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 24 Oct 2011 13:15:44 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Melhorar qualidade de som de vídeos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/melhorar-qualidade-de-som-de-videos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/melhorar-qualidade-de-som-de-videos/</link>
       <pubDate>Mon, 24 Oct 2011 13:15:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/melhorar-qualidade-de-som-de-videos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/melhorar-qualidade-de-som-de-videos/</guid>
       <description>Editando o último vídeo feito para o Ubuntero, tive a necessidade de melhorar a qualidade do som no vídeo final. O que acontece é que as placas de som da maioria dos computadores é analógica e isso por si só já é o suficiente para sempre ter algum ruído no sinal, independente da qualidade da placa ou do microfone usado para a gravação.
 Durante a gravação isto pode ser amenizado utilizando microfones de melhor qualidade e regulando de maneira adequada o volume.</description>
     </item>

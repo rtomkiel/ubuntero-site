@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keyring on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/keyring/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/keyring/</link>
     <description>Recent content in Keyring on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 18 Nov 2013 17:50:23 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/keyring/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/keyring/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resolvendo problema ao abrir o cliente de twitter Polly</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
       <pubDate>Mon, 18 Nov 2013 17:50:23 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
       <description>Após uma atualização do cliente de Twitter Polly, não consegui mais abrir o programa. Fui notar isso só alguns dias após fazer a atualização devido ao feriadão onde não tinha internet disponível para acessar o programa.
 O erro que estava sendo mostrado é o seguinte:
 Polly 0.93.11 (pre-alpha 3.11) Copyright (C) 2011 Marcelo Hashimoto cache path: /home/ivan/.cache/polly config path: /home/ivan/.config/polly data home: /home/ivan/.local/share/polly Traceback (most recent call last): File &#34;/usr/bin/polly&#34;, line 241, in &amp;lt;module&amp;gt; from polly import setting, gui File &#34;</description>

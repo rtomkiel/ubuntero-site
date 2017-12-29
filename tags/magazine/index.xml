@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magazine on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/magazine/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/magazine/</link>
     <description>Recent content in Magazine on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 29 Oct 2013 10:00:58 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/magazine/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/magazine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Disponível LibreOffice Magazine #7</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-7/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-7/</link>
       <pubDate>Tue, 29 Oct 2013 10:00:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-7/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/disponivel-libreoffice-magazine-7/</guid>
       <description>O mês de outubro é uma festa para a TDF e para todos que apostaram no projeto LibreOffice. Foi em outubro de 2010 que algumas pessoas resolveram mudar o rumo das coisas, que na época estavam paradas e sob as ordens de uma grande empresa, levando o projeto para um grupo que abraçou a causa e revolveu seguir sob a tutela de uma fundação. O grupo recebeu o apoio de pessoas de todo o mundo e deu nisso: 3 anos de LibreOffice.</description>
     </item>
     
     <item>
       <title>Lançada a Edição 2 da revista LibreOffice Magazine Brasil</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</link>
       <pubDate>Wed, 19 Dec 2012 16:17:49 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</guid>
       <description>Nessa edição, há um tutorial bastante completo sobre fotos panorâmicas. E sobre a inteligência do seu negócio ou melhor, Inteligência Empresarial podemos dar uma dica apresentando o Pentaho, que promete ser assunto nas próximas edições.
 Sobre o ponto de vista de governos apresentamos dois casos. O primeiro, é um caso de sucesso da cidade de Guarulhos em São Paulo. A administração da cidade desenvolveu uma distribuição baseada no Debian/Ubuntu, chamada Guarux, para sanar suas necessidades de utilização de Software Livre em seus órgãos administrativos, como também no trabalho de Inclusão digital, ponto forte da cidade.</description>
     </item>

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu Day on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-day/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ubuntu-day/</link>
     <description>Recent content in Ubuntu Day on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 20 Oct 2014 15:23:43 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-day/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ubuntu-day/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu Day Hortolândia 2014</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-day-hortolandia-2014/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-day-hortolandia-2014/</link>
       <pubDate>Mon, 20 Oct 2014 15:23:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-day-hortolandia-2014/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-day-hortolandia-2014/</guid>
       <description>Dia 29 de novembro acontecerá em Hortolândia o Ubuntu Day Hortolândia 2014, realizado pela comunidade oficial Ubuntu no Estado de São Paulo (LoCo Team Ubuntu São Paulo). O evento tem como objetivo a troca de informações e partilha de conhecimento de forma livre e aberta a todos.
 A primeira edição do evento foi no ano de 2013 na sede social do Sport Club Corinthias, na cidade de São Paulo, o Ubuntu Day marcou a reestruturação da comunidade Ubuntu com as demais comunidades de Software Livre e Open Source.</description>
     </item>
     
     <item>
       <title>Opencast #20 – Servidores Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
       <pubDate>Fri, 05 Apr 2013 02:50:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
       <description>Está atrasado mas o importante é que está no ar mais um episódio do Opencast. Não liguem para a minha voz(Ivan), eu estava no auge da gripe no dia da gravação. Neste episódio recebemos a visita do Tiago do site ubuntu-br-sc e do Aprígio Simões. Vocês vão notar a ausência do Rudinei, que foi atingido por uma falha massiva da OI devido ao rompimento de fibra ótica em três pontos do sul do país.</description>
     </item>
     
     <item>
       <title>Ubuntu Day</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-day/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-day/</link>
       <pubDate>Mon, 01 Apr 2013 12:51:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-day/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-day/</guid>
       <description>O Ubuntu Day é um evento oficial da Comunidade Ubuntu Brasil, que nasceu na ideia se criar um ambiente de troca de informações e experiências entre as diversas áreas da Tecnologia da Informação que desenvolvem, colaboram, difundem, treinam e utilizam o Ubuntu como ambiente operacional, apresentando assim ao usuário final a gama de possibilidades de uso do ecossistema Ubuntu.
 Neste ano de 2013 nós teremos nossa primeira edição do Ubuntu Day São Paulo no dia 22 de junho, das 09 às 17 horas, no Clube Social do Sport Club Corinthians Paulista.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sistema De Arquivos on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/sistema-de-arquivos/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/sistema-de-arquivos/</link>
     <description>Recent content in Sistema De Arquivos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 26 Nov 2011 12:23:52 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sistema-de-arquivos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/sistema-de-arquivos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Estrutura de diretórios Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/estrutura-de-diretorios-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/estrutura-de-diretorios-linux/</link>
       <pubDate>Sat, 26 Nov 2011 12:23:52 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/estrutura-de-diretorios-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/estrutura-de-diretorios-linux/</guid>
       <description>Você já se perguntou por que alguns programas estão localizados em /bin, ou /sbin, ou /usr/bin, ou /usr/sbin?
 Por exemplo, os comandos que estão localizados em /usr/bin. Por que não /bin ou /sbin ou /usr/sbin? Qual é a diferença entre todos esses diretórios?
 Neste artigo, vamos rever as estruturas do sistema de arquivos Linux e compreender o significado de cada um dos diretórios de alto nível.

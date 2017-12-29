@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/google/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/google/</link>
     <description>Recent content in Google on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 09 Jul 2014 04:14:57 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/google/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
       <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
       <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
 Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>
@@ -24,40 +24,40 @@ Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois 
     
     <item>
       <title>Google volta a aprontar</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</link>
       <pubDate>Mon, 27 Jan 2014 13:12:33 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</guid>
       <description>Pois é galera, sei que o post não tem ligação direta com Ubuntu, mas tem com o site.
 Não é segredo que o Google tem algo contra a minha pessoa, e eu também não tenho muitas coisas a favor ao Google. A última que o Google me aprontou é dizer que um hangout tem conteúdo protegido por direitos autorais, mesmo este conteúdo sendo a tela de espera quando a transmissão cai e outra sendo o próprio logo do site Ubuntero.</description>
     </item>
     
     <item>
       <title>Opencast #30 – SteamOS e FixUbuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
       <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
       <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
 Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
     </item>
     
     <item>
       <title>Google e suas brincadeiras de atualizar software</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</link>
       <pubDate>Thu, 07 Nov 2013 10:00:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</guid>
       <description>Não é segredo para ninguém que eu e o Google não nos damos muito bem e que me envergonha quem adora esta empresa. Não estou falando dos casos de &amp;#8220;auxílio&amp;#8221; em &amp;#8220;investigações&amp;#8221; feitas pela NSA, estou falando da péssima qualidade da maioria de seus softwares. Infelizmente, muitos fãs não conseguem ver isto.
 Pela terceira vez o Google nos impediu de gravar um hangout. Novamente após uma atualização de seu software, o próprio hangout.</description>
     </item>
     
     <item>
       <title>Corrigindo problema ao instalar Chrome no Ubuntu 13.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</link>
       <pubDate>Mon, 15 Apr 2013 17:54:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</guid>
       <description>É público que não uso o Google Chrome como navegador, tenho meus motivos, mas hoje resolvi instalar para ver como ele estava e para minha surpresa não consegui instalar de primeira por problema de dependências. Este problema está ocorrendo no Ubuntu 13.04 que ainda está em versão Beta. Uma rápida pesquisa e a solução foi encontrada.
 Se você utiliza o Ubuntu 13.04 de 32 bits, baixe este arquivo:
  libudev0 para 32bit  Se você utiliza o Ubuntu 13.</description>
@@ -65,10 +65,10 @@ Se você utiliza o Ubuntu 13.04 de 32 bits, baixe este arquivo:
     
     <item>
       <title>Versão offline do Google Docs</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</link>
       <pubDate>Wed, 04 Jul 2012 17:00:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</guid>
       <description>Não sou o maior dos fãs do Google e suas ferramentas, mas esta novidade pode até mudar um pouco a minha opinião, menos em relação ao sistema adsense.
 Agora é possível ter a suíte de escritório online Google Docs de maneira offline, e o melhor, no Ubuntu.
 Para isso abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:
@@ -77,39 +77,39 @@ sudo add-apt-repository ppa:tombeckmann/ppa sudo apt-get update &amp;&amp; sudo 
     
     <item>
       <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
       <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
       <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
 Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
     </item>
     
     <item>
       <title>Firefox com suporte extendido</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-com-suporte-extendido/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-com-suporte-extendido/</link>
       <pubDate>Fri, 20 Jan 2012 10:00:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-com-suporte-extendido/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-com-suporte-extendido/</guid>
       <description>A história começou com o Google fazendo o favor de jogar fora o padrão de versionamento e a concorrência teve que correr atrás dos clientes, não corporativo, e fã boys que acharam a brincadeira linda. Mudando de versão a cada mudança de lugar de um botão, as empresas não conseguiram seguir a velocidade para homologar sites e sistemas web para as novas versões dos navegadores, muito menos arrumar algum tempo para migrar centenas de computadores para uma nova versão de navegador.</description>
     </item>
     
     <item>
       <title>Resumo semanal 02</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
       <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
       <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
 Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
     </item>
     
     <item>
       <title>Resumo semanal 01</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</link>
       <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</guid>
       <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
 Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
 A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>
@@ -117,10 +117,10 @@ A sessão ainda não tem nome e então está lançada aí chamada para sugestõe
     
     <item>
       <title>Aplicativo do Google&#43; para Unity</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/aplicativo-do-google-para-unity/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/aplicativo-do-google-para-unity/</link>
       <pubDate>Sat, 09 Jul 2011 12:19:47 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/aplicativo-do-google-para-unity/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/aplicativo-do-google-para-unity/</guid>
       <description>Buenas, Ubunteros. A dica agora é breve, mas bastante útil se você já estiver usando a nova rede social da gigante Google, o Google+ ou Google Plus. Vi lá no OMG! Ubuntu, que traduziu do italiano para o inglês. Mas, deixando o papo de lado, vamos lá.
 Vá no terminal, e lá digite o seguinte:
   __wget http://dl.dropbox.com/u/3000127/google%2B.desktop wget http://dl.dropbox.com/u/3000127/google%2B1.png mv google+.desktop ~/.local/share/applications/ sudo mv google+1.png /usr/share/pixmaps/   Pronto.</description>
@@ -128,10 +128,10 @@ Vá no terminal, e lá digite o seguinte:
     
     <item>
       <title>Nada importante</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/nada-importante/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/nada-importante/</link>
       <pubDate>Tue, 04 Jul 2006 11:00:16 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/nada-importante/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/nada-importante/</guid>
       <description>Nenhuma novidade para postara hoje, então vou falar de coisas inúteis.
 Primeiro: pesso desculpa para quem tem paciência para acessar este blog. A navegação está muito lenta. Pode ficar tranquilo que o problema não é com a sua conexão, muito menos com a do servidor. O grande problema é que o servidor não é uma brastemp. Este servidor é um computador que não teria nenhuma função no mundo além de ocupar espaço.</description>
     </item>

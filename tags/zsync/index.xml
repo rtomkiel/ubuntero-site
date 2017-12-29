@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zsync on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/zsync/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/zsync/</link>
     <description>Recent content in Zsync on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 04 Aug 2012 20:46:34 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/zsync/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/zsync/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atualizando uma imagem .iso do Ubuntu com zsync</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</link>
       <pubDate>Sat, 04 Aug 2012 20:46:34 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</guid>
       <description>Essa dica é para quem costuma baixar com frequência as imagens .iso do Live CD/DVD do Ubuntu e também para economizar no consumo de tráfego de dados de sua internet.
 Usando o zsync é possível fazer uma atualização da imagem .iso que você já baixou, aonde será feita uma comparação entre as imagens e irá baixar somente as diferenças.
 Exemplo: você tem a imagem .iso de uma versão Alpha 2 e quer baixar a Alpha 3, usando o zsync será feita uma leitura da imagem que você possui e comparar com a nova imagem a ser baixada, após irá iniciar o download de somente as diferenças entre os arquivos.</description>

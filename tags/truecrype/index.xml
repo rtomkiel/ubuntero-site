@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Truecrype on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/truecrype/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/truecrype/</link>
     <description>Recent content in Truecrype on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 26 Jun 2014 02:14:55 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/truecrype/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/truecrype/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #36 – Mozilla TV e Patentes da Microsoft no Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
       <pubDate>Thu, 26 Jun 2014 02:14:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
       <description>Até parece mentira, mas estamos conseguindo manter a periodicidade dos episódios. Neste episódio falamos sobre a Mozilla TV, Android, patentes da Microsoft no Android, GTK2 e GTK3 entre outros assuntos.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do Opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.com.br. Por enquanto, os episódios estão sendo publicados em paralelo, mas em breve serão publicados exclusivamente no site tecnologiaaberta.</description>
     </item>

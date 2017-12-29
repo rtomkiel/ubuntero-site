@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Battle for Wesnoth on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/battle-for-wesnoth/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/battle-for-wesnoth/</link>
     <description>Recent content in Battle for Wesnoth on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 22 Oct 2011 14:08:08 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/battle-for-wesnoth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/battle-for-wesnoth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Battle for Wesnoth – Um jogo incrível para Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
       <pubDate>Sat, 22 Oct 2011 14:08:08 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
       <description>Olá a todos queridos visitantes do Ubuntero, acho que muitos já devem conhecer esse jogo, e também muitos devem desconhecê-lo. Estava procurando um jogo de qualidade na Central de Programas do Ubuntu, que rodasse em meu notebook com uma placa SiS. Sem querer achei Battle For Wesnoth e mesmo com seus gráficos simples, garante horas e horas de diversão, eu mesmo passei mais de 6 horas jogando.
 Basicamente é um jogo de estratégia muito bem elaborado, pois precisa tomar cuidado com vários detalhes, como por exemplo, o terreno em que coloca o seu personagem, pois no terreno errado, e contra o inimigo errado, será muito fácil ser derrotado.</description>
     </item>

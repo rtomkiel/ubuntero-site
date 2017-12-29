@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hangout on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/hangout/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/hangout/</link>
     <description>Recent content in Hangout on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 09 Jul 2014 04:14:57 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hangout/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/hangout/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
       <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
       <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
 Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>
@@ -24,20 +24,20 @@ Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois 
     
     <item>
       <title>Google e suas brincadeiras de atualizar software</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</link>
       <pubDate>Thu, 07 Nov 2013 10:00:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</guid>
       <description>Não é segredo para ninguém que eu e o Google não nos damos muito bem e que me envergonha quem adora esta empresa. Não estou falando dos casos de &amp;#8220;auxílio&amp;#8221; em &amp;#8220;investigações&amp;#8221; feitas pela NSA, estou falando da péssima qualidade da maioria de seus softwares. Infelizmente, muitos fãs não conseguem ver isto.
 Pela terceira vez o Google nos impediu de gravar um hangout. Novamente após uma atualização de seu software, o próprio hangout.</description>
     </item>
     
     <item>
       <title>Desativar volume automático do microfone no Hangout</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/desativar-volume-automatico-do-microfone-no-hangout/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/desativar-volume-automatico-do-microfone-no-hangout/</link>
       <pubDate>Sat, 29 Sep 2012 23:41:26 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/desativar-volume-automatico-do-microfone-no-hangout/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/desativar-volume-automatico-do-microfone-no-hangout/</guid>
       <description>Depois de participar, e desistir, de alguns hangout&amp;#8217;s devido a problemas com áudio, finalmente encontrei uma solução.
 O Google Hangout implementa controle automático de volume e não permite que isto seja desabilitado na tela de configuração. O problema é que em locais com muito ruído, como onde eu moro, em algum momento o hangout tenta subir o volume para captar o ruído de fundo e isso causa chiadeira para todos que estão ouvindo.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu for Android on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-android/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-android/</link>
     <description>Recent content in Ubuntu for Android on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 29 Apr 2014 14:15:48 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu for Android não está mais em desenvolvimento</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-nao-esta-mais-em-desenvolvimento/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-nao-esta-mais-em-desenvolvimento/</link>
       <pubDate>Tue, 29 Apr 2014 14:15:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-nao-esta-mais-em-desenvolvimento/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-nao-esta-mais-em-desenvolvimento/</guid>
       <description>Segundo uma entrada no launchpad, o Ubuntu for Android não está mais em desenvolvimento. Não confundam com o Ubuntu Touch que continua em pleno vapor para alcançar a tão sonhada convergência.
 Durante alguns anos o Ubuntu for Android foi a menina dos olhos da Canonical, mesmo aparecendo apenas em vídeos e feiras de software livre. A ideia era ter o melhor do Desktop junto ao melhor dos smartphones em um único aparelho em paralelo.</description>
     </item>

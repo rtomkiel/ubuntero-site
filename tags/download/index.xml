@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Download on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/download/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/download/</link>
     <description>Recent content in Download on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 17 Apr 2014 22:42:42 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/download/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/download/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lançado o Ubuntu 14.04 LTS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-14-04-lts/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-14-04-lts/</link>
       <pubDate>Thu, 17 Apr 2014 22:42:42 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-14-04-lts/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-14-04-lts/</guid>
       <description>O tão aguardado Ubuntu 14.04 LTS, codinome Trusty Tahr (Cabra selvagem Fiel) foi liberado para download hoje 17&amp;frasl;04.
 Se você não acompanhou o desenvolvimento do Ubuntu 14.04 não deverá notar grandes mudanças nessa nova versão. O ciclo atual de desenvolvimento foi focado em melhorias de performance, segurança e confiabilidade, concentrando os trabalhos &amp;#8220;em baixo do capô&amp;#8221; com poucas mudanças no visual.
 Algumas novidades do Ubuntu 14.04 LTS &amp;#8211; Foram removidas as bordas das janelas, que receberam uma suavização com cantos superiores arredondados;</description>
@@ -24,20 +24,20 @@ Algumas novidades do Ubuntu 14.04 LTS &amp;#8211; Foram removidas as bordas das 
     
     <item>
       <title>Lançada a Edição 2 da revista LibreOffice Magazine Brasil</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</link>
       <pubDate>Wed, 19 Dec 2012 16:17:49 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancada-a-edicao-2-da-revista-libreoffice-magazine-brasil/</guid>
       <description>Nessa edição, há um tutorial bastante completo sobre fotos panorâmicas. E sobre a inteligência do seu negócio ou melhor, Inteligência Empresarial podemos dar uma dica apresentando o Pentaho, que promete ser assunto nas próximas edições.
 Sobre o ponto de vista de governos apresentamos dois casos. O primeiro, é um caso de sucesso da cidade de Guarulhos em São Paulo. A administração da cidade desenvolveu uma distribuição baseada no Debian/Ubuntu, chamada Guarux, para sanar suas necessidades de utilização de Software Livre em seus órgãos administrativos, como também no trabalho de Inclusão digital, ponto forte da cidade.</description>
     </item>
     
     <item>
       <title>SoulSeek no Linux? É possível! Conheça o Nicotine&#43;</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</link>
       <pubDate>Thu, 10 Feb 2011 12:18:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</guid>
       <description>Há algum tempo eu buscava alguma alternativa aos downloads convencionais para minhas músicas. Foi aí que eu me lembrei do SoulSeek. Mas peraí, agora eu não usava mais o velho Windows e deveria achar uma solução para baixar músicas na rede do SoulSeek, então comecei minha saga por algum aplicativo alternativo.
 Nicotine Plus (Nicotine+) Eis que surge no meu caminho depois de algumas buscas no Google, o Nicotine+, fork do Nicotine.</description>
     </item>

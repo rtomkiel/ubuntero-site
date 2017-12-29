@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravação on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o/</link>
     <description>Recent content in Gravação on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 03 May 2011 11:00:25 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/grava%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skype Call Recorder no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-11-04/</link>
       <pubDate>Tue, 03 May 2011 11:00:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-11-04/</guid>
       <description>Estava testando a gravação do Skype com o programa Skype Call Recorder mas o programa eventualmente funcionava, para ser bonzinho porque deve ter aberto umas 2 vezes em 20 tentativas.
 Inicialmente pensei que o problema era em alguma configuração do skype ou do skype call recorder mas mesmo apagando os diretorios de configuração o problema persistia. Pensei então que o problema era com a placa de som, que funcionava perfeitamente antes, mas não adiantou tentar mil configurações mirabolantes e o problema persistia.</description>
     </item>
     
     <item>
       <title>Como gravar suas conversas do skype</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-gravar-suas-conversas-do-skype/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-gravar-suas-conversas-do-skype/</link>
       <pubDate>Tue, 18 Jan 2011 12:00:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-gravar-suas-conversas-do-skype/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-gravar-suas-conversas-do-skype/</guid>
       <description>Pensando em algumas novidades para o Ubuntero, fui atras de alguns programas para gravação de conversas pelo skype. A procura não foi difícil, logo na primeira página de busca encontrei o que eu desejava, e o melhor, encontrei um PPA. O programa se chama &amp;#8220;Skype Call Recorder&amp;#8221;.
 Para instalar abra o terminal e digite, ou copie e cole os comandos abaixo:
 sudo add-apt-repository ppa:dajhorn/skype-call-recorder sudo apt-get update sudo apt-get install skype-call-recorder Para utilizar o programa esteja com o Skype aberto e vá no menu Aplicativos -&amp;gt; Internet -&amp;gt; Skype Call Recorder.</description>
@@ -34,10 +34,10 @@ sudo add-apt-repository ppa:dajhorn/skype-call-recorder sudo apt-get update sudo
     
     <item>
       <title>Como gravar uma imagem .iso?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</link>
       <pubDate>Mon, 03 Jan 2011 15:43:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</guid>
       <description>Ao contrário do que algumas pessoas imaginam, um arquivo com a extensão iso não deve ser descompactada como um simples arquivo zip ou rar. Embora os programas de compactação consigam abrir arquivos .iso, estes arquivos não são simples arquivos compactados e não devem ser tratados com tal.
 Um arquivo .iso é uma imagem de CD/DVD e deve ser gravada na mídia adequada com as ferramentas disponibilizadas por um programa de gravação.</description>
     </item>

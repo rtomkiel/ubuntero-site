@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/android/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/android/</link>
     <description>Recent content in Android on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 07 Nov 2015 22:28:51 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/</link>
       <pubDate>Sat, 07 Nov 2015 22:28:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/</guid>
       <description>Como você sabe, os celulares estão cada vez mais presentes no dia a dia das pessoas pelo mundo, sendo cada vez mais utilizados para acessar a Internet e controlar outros tipos de dispositivos. São milhões de pessoas conectadas, em metrôs, automóveis, praças, e etc, utilizando todos os tipos de aplicativos existentes: jogos, redes sociais, delivery, notícias, câmeras e muito mais.
 O crescimento mobile foi tão grande e aconteceu tão rápido, que a demanda por desenvolvedores de aplicativos qualificados é altíssima e a quantidade destes no mercado, ainda é escassa.</description>
     </item>
     
     <item>
       <title>Opencast #39 – Netflix e Android Pirulito</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
       <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
       <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
 Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
 Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
@@ -34,10 +34,10 @@ Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouc
     
     <item>
       <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
       <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
       <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
 Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>
@@ -45,39 +45,39 @@ Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois 
     
     <item>
       <title>Opencast #36 – Mozilla TV e Patentes da Microsoft no Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
       <pubDate>Thu, 26 Jun 2014 02:14:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
       <description>Até parece mentira, mas estamos conseguindo manter a periodicidade dos episódios. Neste episódio falamos sobre a Mozilla TV, Android, patentes da Microsoft no Android, GTK2 e GTK3 entre outros assuntos.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do Opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.com.br. Por enquanto, os episódios estão sendo publicados em paralelo, mas em breve serão publicados exclusivamente no site tecnologiaaberta.</description>
     </item>
     
     <item>
       <title>Videocast #52 – Ubuntu Touch em Dual Boot com Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</link>
       <pubDate>Mon, 24 Feb 2014 16:56:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-52-ubuntu-touch-em-dual-boot-com-android/</guid>
       <description>Antes de qualquer coisa, este Videocast está longo mesmo. Neste episódio mostro o Ubuntu Touch em Dual Boot com o Android. É o vídeo mais detalhado do Ubuntu Touch que eu já fiz, incluindo informações no post de como instalar o Dual Boot e como importar contatos no Ubuntu Touch. Não voltarei a fazer vídeos do Ubuntu Touch rodando no Galaxy Nexus porque ele não é mais suportado oficialmente, o que prejudica bastante qualquer coisa que possa ser dita.</description>
     </item>
     
     <item>
       <title>Opencast #30 – SteamOS e FixUbuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
       <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
       <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
 Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
     </item>
     
     <item>
       <title>UbuntuOne pede que reconecte sua conta</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</link>
       <pubDate>Tue, 19 Nov 2013 10:32:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntuone-pede-que-reconecte-sua-conta/</guid>
       <description>Se você não prestou atenção nos e-mails enviados pelo Ubuntu, não viu que os servidores do UbuntuOne passaram por manutenção e é necessário que seja feito um procedimento simples. Remover a conta e adicionar novamente. Caso não faça isto, seus arquivos podem não ser sincronizados até lá.
 A mensagem que o Ubuntu enviou para os usuários do UbuntuOne é a seguinte:
 Hi, We are continually enhancing the security of all the Ubuntu One services (login, payments, file syncing, etc).</description>
@@ -85,40 +85,40 @@ Hi, We are continually enhancing the security of all the Ubuntu One services (lo
     
     <item>
       <title>Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
       <pubDate>Wed, 21 Aug 2013 11:29:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
       <description>O grupo Tchelinux, em parceria com a FTEC Caxias do Sul, tem o prazer de convidar a comunidade, independente do nível de conhecimento e experiência com a tecnologia, software livre e áreas afins, para participarem do Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013.
 Inscrições Com o objetivo de estimular a caridade e a boa vontade, o Tchelinux tradicionalmente não cobra um valor monetário para admissão em seus eventos, mas sim pede que cada participante doe 2kg de alimentos não perecíveis (exceto sal), que serão recolhidos no ato do credenciamento e doados a uma instituição local a ser definida.</description>
     </item>
     
     <item>
       <title>Tela de bloqueio ao estilo Ubuntu Touch no seu Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</link>
       <pubDate>Tue, 13 Aug 2013 12:24:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/tela-de-bloqueio-ao-estilo-ubuntu-touch-no-seu-android/</guid>
       <description>Se não tem coragem para instalar o Ubuntu Touch no seu Galaxy Nexus ou Nexus 4, ou ainda se não tem um aparelho compatível com o Ubuntu Touch, você pode ter uma tela de bloqueio parecida com a dele.
 Está disponível na Play Store do seu Android um aplicativo gratuito que transforma sua tela de bloqueio em algo parecido com a tela de bloqueio do Ubuntu Touch. Não existem grandes funcionalidades e quem já usou o Ubuntu Touch vai perceber que é diferente, embora muito parecido.</description>
     </item>
     
     <item>
       <title>Opencast #21 – Mandou para o espaço e virou satélite, jogos e DRM</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
       <pubDate>Wed, 22 May 2013 03:07:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
       <description>Por motivos de força maior demos mais uma parada no Opencast, mas estamos de volta mais forte. A partir de agora, nosso casting aumentou e teremos vários participantes em todos os episódios. Nossa ideia é ter representação das mais diversas comunidades e regiões.
 Neste episódio, Ivan, Diego, Og Maciel, Tiago conversamos sobre vários assuntos, entre eles estão Jogos, DRM, Linux na estação espacial, impressoras 3D, LibreOffice no Android e muitas outras coisas.</description>
     </item>
     
     <item>
       <title>Gestor de referências bibliográficas no Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</link>
       <pubDate>Wed, 15 May 2013 13:16:54 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</guid>
       <description>Artigo enviado por Cailon França de Castro(@cailondecastro)
 Complementando o artigo anterior. Para quem usa Android é interessante instalar o Droideley (beta) que permite acessar e compartilhar qualquer artigo de sua biblioteca no Mendeley.
   Depois de instalado é só fazer o login com e-mail e senha que usou em seu cadastro que os dados de sua biblioteca são sincronizados automaticamente.
@@ -127,99 +127,99 @@ Complementando o artigo anterior. Para quem usa Android é interessante instala
     
     <item>
       <title>Gerenciamento direto de Smartphone Android por wi-fi no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gerenciamento-direto-de-smartphone-android-por-wi-fi-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gerenciamento-direto-de-smartphone-android-por-wi-fi-no-ubuntu/</link>
       <pubDate>Mon, 06 May 2013 12:30:23 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gerenciamento-direto-de-smartphone-android-por-wi-fi-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gerenciamento-direto-de-smartphone-android-por-wi-fi-no-ubuntu/</guid>
       <description>Artigo enviado por Cailon França de Castro(@cailondecastro)
 Por vezes temos que transferir um arquivo do smartphone para o computador (ou o inverso) mas nos damos conta de que não estamos com o cabo USB ou nos é desconfortável remover o cartão de memória e adapta-lo ao PC ou notebook. Outra coisa bem desconfortável era a necessidade de estarem conectados notebook e smartphone em uma mesma rede wi-fi por meio de um roteador para transferir arquivos.</description>
     </item>
     
     <item>
       <title>Ubuntu One no Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntuone-no-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntuone-no-android/</link>
       <pubDate>Tue, 26 Feb 2013 12:24:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntuone-no-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntuone-no-android/</guid>
       <description>Uma ótima opção para manter seus arquivos sempre perto de você, sem precisar levar um pendrive ou HD portátil é utilizar o poder da nuvem. Para isso o Ubuntu já oferece há um bom tempo o Ubuntu One.
 O Ubuntu One é um serviço de armazenamento e sincronização de arquivos na nuvem totalmente gratuito. O espaço oferecido de forma gratuita é de 5 GB, podendo ser aumentado com contratação de espaço adicional ou indicando novos usuários.</description>
     </item>
     
     <item>
       <title>Sai Ubuntu for Phones e volta Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</link>
       <pubDate>Sun, 24 Feb 2013 16:26:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</guid>
       <description>Ok, você já viu como instalar o Ubuntu for Phones no Galaxy X, instalou, e viu que está muito cru para usar e quer voltar ao Android, mas não sabe como fazer. Não se preocupe que é fácil e de lambuja vamos voltar ao Android 4.2.2 e não a imagem oficial da Samsung que ainda nos traz o Android 4.1.
 A descrição de como retornar ao Android está na mesma página que ensina a instalar o Ubuntu for Phones, o que está neste artigo é apenas a tradução, claro que já testei e voltei a versão no Galaxy X mostrado no VideoCast 26 &amp;#8211; Galaxy X e Ubuntu for Phones.</description>
     </item>
     
     <item>
       <title>Videocast #26 – Galaxy X e Ubuntu for Phones</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</link>
       <pubDate>Sat, 23 Feb 2013 23:09:01 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</guid>
       <description>Enfim volto ao mundo online plenamente e recomeçamos os trabalhos com um VideoCast mostrando o Ubuntu for Phones rodando no Galaxy X, modelo brasileiro do Galaxy Nexus. Na primeira parte do vídeo mostro o Galaxy rodando o Android atualizado com a rom da Samsung, 4.1. Na Segunda parte mostro o Ubuntu for Phone rodando no mesmo aparelho. Não precisaria, mas prefiro destacar. Esta versão do Ubuntu for Phone não deve ser usada em produção, ela é extremamente limitada e voltada para desenvolvedores de aplicativos.</description>
     </item>
     
     <item>
       <title>Ubuntu começa bem o ano</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntul-comeca-bem-o-ano/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntul-comeca-bem-o-ano/</link>
       <pubDate>Wed, 02 Jan 2013 18:31:09 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntul-comeca-bem-o-ano/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntul-comeca-bem-o-ano/</guid>
       <description>Primeiro dia útil do ano e somos surpreendidos por um contador no site do Ubuntu. Vários blogs levantaram qual seria o grande lançamento que estava por vir.
  Assistir no Youtube Agora sabemos que o grande anúncio é o Ubuntu Phone OS. Assim como já havíamos mostrado no Ubuntu for Android, o Ubuntu Phone precisa de um hardware moderno para rodar totalmente. Um processador ARM A9 e 1 GB de memória são necessários para rodar o sistema de maneira mais básica, mas um processador Quad-Core e 2 GB de memória são necessários para rodar em sua plenitude.</description>
     </item>
     
     <item>
       <title>Ubuntu for Android no FISL 13</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-no-fisl-13/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-no-fisl-13/</link>
       <pubDate>Mon, 30 Jul 2012 20:03:31 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-no-fisl-13/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-for-android-no-fisl-13/</guid>
       <description>Olá Ubunteros, fiquei um tempo sem postar nada no site, o Edigley salvou a semana com um ótimo artigo que consegui publicar entre uma conversa, instalação ou correção de algum problema durante o FISL.
 Em um dos raros momentos que consegui sair do estande do Ubuntu-BR, aproveitei os minutos do almoço, passei pelo estande da Canonical e o Adilson Oliveira gentilmente gravou este vídeo falando e mostrando um pouco do Ubuntu for Android.</description>
     </item>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>
     
     <item>
       <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
       <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
       <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
 Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
     </item>
     
     <item>
       <title>Opencast #8</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-8/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-8/</link>
       <pubDate>Sat, 24 Mar 2012 18:57:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-8/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-8/</guid>
       <description>Depois de muitas tentativas e parecer que o mundo estava conspirando contra a gravação do episódio #8 do Opencast, finalmente conseguimos finalizar a gravação e enfim fazer a publicação.
 Neste episódio apenas eu(Ivan) e Diego nos juntamos novamente e conversamos um pouco sobre o que aconteceu no mundo do software livre. Neste episódio você não ouvirá música de fundo durante o episódio, apenas na abertura. Isto é para que vocês possam votar melhor na enquete que está rolando no Facebook.</description>
     </item>
     
     <item>
       <title>Nevernote agora se chama Nixnote</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</link>
       <pubDate>Tue, 11 Oct 2011 17:34:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</guid>
       <description>A poucos dias postei como fazer a instalação do Nevernote no Ubuntu. Depois disto descobri uma maneira mais fácil de instalar, utilizando um ppa, e que o projeto mudou de nome e agora se chama Nixnote.
 Para adicionar o repositório veja os passos no artigo anterior apenas trocando o endereço por:
 ppa:vincent-c/nevernote Aguarde atualizar os repositórios e procure por Nixnote e clique no botão instalar.
@@ -228,28 +228,28 @@ O funcionamento é o mesmo mostrado no artigo sobre o Nevernote, mas existem nov
     
     <item>
       <title>Nevernote para sincronizar com Evernote do Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</link>
       <pubDate>Thu, 06 Oct 2011 23:21:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</guid>
       <description>Um aplicativo que já não vivo sem no Android é o Evernote. A função do aplicativo é fazer notas com texto, fotos, vídeos, áudio ou qualquer outra coisa que o seu Android consiga armazenar. Como qualquer celular tem a tela pequena, por maior que seja, é muito interessante usar o computador para escrever as notas. Para várias plataformas temos opções como podemos ver nesta página do próprio Evernote, mas falta uma plataforma que foi &amp;#8220;esquecida&amp;#8221;.</description>
     </item>
     
     <item>
       <title>Acessando o Ubuntu remotamente com um smartphone com Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</link>
       <pubDate>Tue, 01 Feb 2011 12:18:01 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/acessando-o-ubuntu-remotamente-utilizando-um-smartphone-com-android/</guid>
       <description>Você já ouviu falar de tecnologias móveis? É claro que sim. Pode-se dizer que hoje praticamente ninguém vive sem um celular, ele já faz parte do nosso cotidiano de tal maneira que nos deixam dependentes. Aliado a função principal do aparelho, que é falar, muitas outras funções foram adicionadas aos pequenos equipamentos a ponto de transforma-los em computadores. Então, surge uma nova linhagem: os smartphones. Eles já conquistaram o mercado e agora os olhos dos programadores estão em sua volta.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rtomkiel.github.io/ubuntero-site/1246/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/1246/</link>
       <pubDate>Thu, 30 Dec 2010 15:36:20 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/1246/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/1246/</guid>
       <description>Natal e Ano Novo. Duas importantes datas em um mês que vem recheado de novidades e esperanças quanto ao novo ano que se aproxima.
 Esta edição da Revista Espírito Livre leva a você leitor, um tema que tira o sono de muita gente: Segurança. Fizemos questão de observar o tema numa ótica bastante abrangente, pois quando se fala em segurança, não se fala apenas em redes ou arquivos, mas também informações, mecanismos, métricas e tantos outros subtemas que o conceito de segurança envolve.</description>
     </item>

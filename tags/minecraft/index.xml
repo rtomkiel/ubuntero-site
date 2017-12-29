@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minecraft on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/minecraft/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/minecraft/</link>
     <description>Recent content in Minecraft on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Jan 2012 10:57:29 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review semanal 04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/review-semanal-04/</link>
       <pubDate>Tue, 24 Jan 2012 10:57:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/review-semanal-04/</guid>
       <description>Links do episódio:
   TecLand Google AdSense Opencast episódio 5 – Ubuntu 11.04, 11.10 e o que esperar do 12.04 Escreva esta frase no seu twitter: &amp;#8220;@DellnoBrasil queremos computadores Core i5 e Core i7 com Ubuntu #computadorescomubuntu&amp;#8221;  Minecraft Minecraft é um jogo de aventura, construção e sobrevivência onde os jogadores são livres para fazerem o que bem intender. Os jogos sempre começam em mundos enormes gerados aleatoriamente por milhões de cubos e totalmente destrutíveis onde o jogador pode construir prédios, minerar, cortar árvores e criar objetos necessários para a sobrevivência.</description>
     </item>

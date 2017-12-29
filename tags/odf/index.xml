@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odf on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/odf/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/odf/</link>
     <description>Recent content in Odf on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 26 Jun 2012 01:11:08 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/odf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/odf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast # 12b – LibreOffice</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-12b-libreoffice/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-12b-libreoffice/</link>
       <pubDate>Tue, 26 Jun 2012 01:11:08 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-12b-libreoffice/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-12b-libreoffice/</guid>
       <description>Esta é a segunda parte do episódio #12 do Opencast sobre o LibreOffice. Caso não tenha ouvido a primeira parte, por favor faça isto acessando o endereço http://www.ubuntero.com.br/2012/06/opencat-12a-libreoffice/.
 Neste episódio voltamos a falar sobre o LibreOffice e focamos na comunidade e na legislação existente nos Estados.
 Infelizmente faltou tempo para fazer o Papo de buteco, mas não abandonamos o quadro, ele volta no próximo episódio.
@@ -25,10 +25,10 @@ Links  LibreOffice Brasil Lista de discussão Documentação Guia do Iniciante C
     
     <item>
       <title>ODF em consulta pública na ABNT</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/odf-em-consulta-publica-na-abnt/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/odf-em-consulta-publica-na-abnt/</link>
       <pubDate>Tue, 04 Mar 2008 19:06:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/odf-em-consulta-publica-na-abnt/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/odf-em-consulta-publica-na-abnt/</guid>
       <description>A ABNT(Assossiação brasileira de normas técnicas) está consultando os brasileiros quanto ao Formato aberto de documento para aplicações de escritório (OpenDocument) v1.0.
 Vamos ajudar a tornar o ODF um padrão no Brasil. Para ajudar acesse o site http://www.abntnet.com.br/consultanacional/ e procure por &amp;#8220;(01) ABNT/CB-21 COMPUTADORES E PROCESSAMENTO DE DADOS&amp;#8221;. Clique no ítem e depois clique na lupa. Na próxima página clique em &amp;#8220;Votar no projeto&amp;#8221;. Você terá que fazer um cadastro simples e rápido e então poderá votar.</description>
     </item>

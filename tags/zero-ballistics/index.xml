@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zero Ballistics on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/zero-ballistics/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/zero-ballistics/</link>
     <description>Recent content in Zero Ballistics on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 13 Nov 2011 23:11:10 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/zero-ballistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/zero-ballistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jogo Zero Ballistics</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</link>
       <pubDate>Sun, 13 Nov 2011 23:11:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</guid>
       <description>Gosta de jogos de tiro em primeira pessoa(FPS)? O jogo que vamos mostrar hoje é um FPS um pouco diferente, ao invés de controlar um personagem humano, neste jogo controlamos um tanque de guerra.
 O jogo Zero Ballistics não tem uma história e então foca totalmente no jogo pela internet ou rede. Algumas funções do jogo ainda não funcionam, mesmo estando na versão 2.0, como a mudança de resolução de tela e o modo FullScreen, mas nada disso estraga a diversão do jogo.</description>
     </item>

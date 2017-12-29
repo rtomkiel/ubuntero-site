@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xmir on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/xmir/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/xmir/</link>
     <description>Recent content in Xmir on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 10 Oct 2013 02:59:41 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/xmir/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/xmir/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #29 – SteamOS e a pérola da TechNet</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</link>
       <pubDate>Thu, 10 Oct 2013 02:59:41 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-29-steamos-e-a-perola-da-technet/</guid>
       <description>Neste episódio do Opencast, Ivan, Aprígio Simões, Diego e Rudinei comentam alguns dos principais acontecimentos que viraram notícia no mundo do software e hardware livre. Nossa conversa começa com a pérola da Technet &amp;#8220;provando&amp;#8221; que o Windows é melhor que o Software Livre, passamos pelas novidades da Valve com o SteamOS e seus hardwares, liberação de especificação de placas de vídeo, Xmir, Raspberry Pi e o investimento da IBM no Linux.</description>
     </item>
     
     <item>
       <title>Xmir não estará mais habilitado por padrão no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/xmir-nao-estara-mais-habilitado-por-padrao-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/xmir-nao-estara-mais-habilitado-por-padrao-no-ubuntu-13-10/</link>
       <pubDate>Wed, 02 Oct 2013 11:38:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/xmir-nao-estara-mais-habilitado-por-padrao-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/xmir-nao-estara-mais-habilitado-por-padrao-no-ubuntu-13-10/</guid>
       <description>&amp;#8220;Os haters pira com esta notícia&amp;#8221;. Não é novidade para ninguém que a Canonical pretendia deixar o Xmir como servidor gráfico padrão no Ubuntu 13.10 para as placas suportadas, diga-se Intel e drivers livres da NVIDIA e ATI, mas devido a dificuldades técnicas, isto não será mais possível.
 Uma das primeiras coisas que me perguntaram pelas redes sociais assim que postei uma imagem da tela de detalhes do Ubuntu, onde mostrava que eu estava rodando o Ubuntu 13.</description>
     </item>
     
     <item>
       <title>Intel retira suporte ao XMIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</link>
       <pubDate>Mon, 09 Sep 2013 14:53:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</guid>
       <description>Uma notícia um pouco preocupante para quem usa o driver através do instalador próprio da Intel em seu computador e pretendia usá-lo no Ubuntu. A Intel anunciou que não dará suporte ao seu driver no servidor gráfico XMIR que será utilizado no Ubuntu nas próximas versões. A empresa está concentrando seus esforços para entregar o melhor driver para o Wayland, outra alternativa para mudança de servidor gráfico que deverá estar presente na maioria das distribuições.</description>
     </item>
     
     <item>
       <title>Xmir no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/xmir-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/xmir-no-ubuntu-13-10/</link>
       <pubDate>Mon, 12 Aug 2013 12:35:18 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/xmir-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/xmir-no-ubuntu-13-10/</guid>
       <description>Como já anunciado nas redes sociais, estou utilizando o Ubuntu 13.10 para testar e relatar bugs. Logicamente, não podia deixar de usar o novo servidor gráfico do Ubuntu e inicialmente o utilizei através de um PPA. Agora que os pacotes estão disponíveis no repositório Universe, removi o PPA e estou usando direto do repositório.
 Durante o último Papo de Buteco me questionaram o que eu estava achando da experiência e eu até disse que não tinha notado nenhuma lentidão visível aos olhos, mas agora que estou usando a versão disponível no repositório Universe, alguma coisa diferente deu para ser notada.</description>
     </item>

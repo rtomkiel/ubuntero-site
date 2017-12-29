@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gravar Conversa on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/gravar-conversa/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/gravar-conversa/</link>
     <description>Recent content in Gravar Conversa on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 03 Jun 2013 16:27:37 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gravar-conversa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/gravar-conversa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skype Call Recorder no Ubuntu 13.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-13-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-13-04/</link>
       <pubDate>Mon, 03 Jun 2013 16:27:37 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-13-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/skype-call-recorder-no-ubuntu-13-04/</guid>
       <description>Se você ainda usa o Skype Call Recorder para gravar as chamadas feitas ou recebidas no Skype, já deve ter percebido que o PPA que passamos aqui em outro artigo não está funcionando.
 O programa continua funcionando, inclusive na versão mais nova do Skype, mas é necessário fazer uma pequena alteração nos repositórios. Se você ainda não adicionou o PPA, adicione com o seguinte comando no terminal:
 sudo apt-add-repository ppa:dajhorn/skype-call-recorder Agora vá nas Configurações do sistema.</description>

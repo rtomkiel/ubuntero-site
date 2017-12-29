@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Narwhall on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/narwhall/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/narwhall/</link>
     <description>Recent content in Narwhall on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 06 Apr 2011 14:10:29 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/narwhall/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/narwhall/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O que esperar do Ubuntu 11.04?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</link>
       <pubDate>Wed, 06 Apr 2011 14:10:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/o-que-esperar-do-ubuntu-11-04/</guid>
       <description>Estamos nos aproximando do lançamento do Ubuntu 11.04 e já podemos tirar algumas conclusões sobre esta nova versão. Você pode ver alguns vídeos no canal do Ubuntero no youtube.
 A coisa mais importante que devemos citar é que a mudança é grande e necessária para que o Ubuntu passe a ter sua própria identidade sem ser uma cópia de sistema operacional X ou Y.
 Falando agora especificamente de algumas mudanças quero falar sobre a necessidade de mais cliques para chegar até onde se quer.</description>

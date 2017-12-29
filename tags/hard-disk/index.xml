@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hard Disk on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/hard-disk/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/hard-disk/</link>
     <description>Recent content in Hard Disk on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 27 Nov 2010 22:19:14 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hard-disk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/hard-disk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Disco cheio sem motivo aparente</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</link>
       <pubDate>Sat, 27 Nov 2010 22:19:14 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/disco-cheio-sem-motivo-aparente/</guid>
       <description>Hoje a tarde liguei meu computador e recebi a mensagem de que minha partição home estava totalmente cheia. Achei muito estranho porque até o último desligamento eu tinha mais de 100 GB livre.
 Investigando o problema encontrei um arquivo de log(.xsession-errors) ocupando todo o espaço livre do disco. Analisando o conteúdo do arquivo pude ver a seguinte mensagem sendo repetida inúmeras vezes:
 (nautilus:1882): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL&#39; failed</description>

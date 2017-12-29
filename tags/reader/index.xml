@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reader on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/reader/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/reader/</link>
     <description>Recent content in Reader on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 14 Mar 2013 01:11:36 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/reader/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/reader/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Com a morte do Google Reader decretada, use o Liferea</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/com-a-morte-do-google-reader-decretada-use-o-liferea/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/com-a-morte-do-google-reader-decretada-use-o-liferea/</link>
       <pubDate>Thu, 14 Mar 2013 01:11:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/com-a-morte-do-google-reader-decretada-use-o-liferea/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/com-a-morte-do-google-reader-decretada-use-o-liferea/</guid>
       <description>Eu sei que muitos amantes do Google estão desesperados porque o Reader será morto, mas espera aí, a empresa demoníaca que não quer saber o que seus usuários querem é a Canonical, ou eu estou enganado? Agora dá para pensar bem não é?
 Tirando este pequeno desabafo, não se desespere, existem alternativas para o reader, inclusive nunca precisei usar ele. Como dica, deixo para vocês o Liferea que está disponível nos repositórios do Ubuntu.</description>
     </item>

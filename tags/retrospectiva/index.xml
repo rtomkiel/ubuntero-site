@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retrospectiva on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/retrospectiva/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/retrospectiva/</link>
     <description>Recent content in Retrospectiva on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 26 Jan 2012 10:00:50 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/retrospectiva/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/retrospectiva/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast episódio 6 – Retrospectiva</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-6-retrospectiva/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-6-retrospectiva/</link>
       <pubDate>Thu, 26 Jan 2012 10:00:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-6-retrospectiva/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-6-retrospectiva/</guid>
       <description>Ao contrário de todos os outros sites do mundo, nossa retrospectiva é feita no início do ano e não no final. Neste episódio eu(Ivan) e Diego conversamos um pouco sobre o que aconteceu no ano de 2011 no mundo do software livre, e alguns assuntos um pouco fora.
 Não temos links nesta postagem, este episódio é apenas um aquecimento para os próximos episódios que teremos este ano, agora com uma equipe fixa para enfim manter a periodicidade de um episódio a cada 15 dias.</description>
     </item>

@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Hat on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/red-hat/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/red-hat/</link>
     <description>Recent content in Red Hat on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 12 Mar 2014 23:32:06 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/red-hat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/red-hat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #32 – Hardening</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
       <pubDate>Wed, 12 Mar 2014 23:32:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
       <description>Voltamos com o Opencast depois de uma boa parada para espairecer. Neste episódio Ivan, Aprígio Simões, Diego e Og Maciel falam sobre o processo de &amp;#8220;endurecimento&amp;#8221; de um sistema. Na verdade o episódio é quase um monólogo do Aprígio que foi quem sugeriu a pauta e também foi o especialista &amp;#8220;convidado&amp;#8221;.
 Excepcionalmente, mas pode se tornar o padrão, não teremos a versão em vídeo no youtube. O motivo é bem simples, é muito trabalho e isto acabaria prejudicando a periodicidade do Videocast e provavelmente a do Opencast também (mais do que já é prejudicada).</description>
     </item>
     
     <item>
       <title>Opencast #24 – Projeto Fedora</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</link>
       <pubDate>Wed, 03 Jul 2013 00:06:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</guid>
       <description>Não foi planejado, afinal não sou usuário do Fedora, mas neste episódio falaremos do Projeto Fedora que teve sua mais nova versão, 19, lançada no dia 2 de julho. No episódio Ivan, Daniel Lara, Fabio Olive e Og Maciel falam um pouco sobre o Projeto Fedora no geral, sem focar em versões mas sim no Projeto como um todo.
 Temos um pouco de ruído no som devido ao Og Maciel ter sido obrigado a gravar o episódio diretamente de um bar.</description>
     </item>
     
     <item>
       <title>Kubuntu não pretende utilizar o MIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
       <pubDate>Thu, 27 Jun 2013 16:00:01 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
       <description>Talvez o que eu vou falar seja besteira, mas esta é uma opinião pessoal sobre os mimimi&amp;#8217;s referentes ao desenvolvimento do MIR e sua adoção.
 Ao contrário do que muitos dizem, o desenvolvimento do MIR está licenciado sobre a GPLv3, o que garante que o projeto é e sempre será open source, algumas pessoas tentam implantar rumores de que esta licença dá liberdade para o fechamento do código em qualquer momento, mas isso não é verdade, a licença mantém as mesmas proteções das versões 1 e 2, apenas adaptada a legislação americana mais atual.</description>
     </item>
     
     <item>
       <title>Inatividade justificável</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</link>
       <pubDate>Mon, 10 Jun 2013 22:33:41 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</guid>
       <description>Nesta última semana não consegui postar muita coisa, mas a explicação é simples e o motivo é bem justificável. Apresentei uma palestra sobre o Ubuntu e Ubuntu Touch na semana acadêmica do Curso de Ciência da Computação na URI &amp;#8211; Campus de Erechim no dia 5&amp;frasl;6 e no dia 8&amp;frasl;6 ministrei um mini-curso sobre Ubuntu para finalizar a mesma semana acadêmica. Estas duas tarefas, juntamente com a edição do Opencast sobre a Red Hat me tomaram bastante tempo.</description>
     </item>
     
     <item>
       <title>Opencast # 22 – Red Hat</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-22-red-hat/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-22-red-hat/</link>
       <pubDate>Wed, 05 Jun 2013 03:01:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-22-red-hat/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-22-red-hat/</guid>
       <description>Mantendo a promessa, aí está mais um episódio do Opencast. Neste episódio juntamos Aprígio Simões, Fabio Olive, Og Maciel e Kurt Kraut para falar sobre a Red Hat. A ideia inicial era falar sobre o projeto Fedora, mas a conversa se desenvolveu tão bem que o tempo foi pouco e deixamos o projeto Fedora para outro episódio para também não atropelarmos os assuntos.
 Links do episódio  Semana Acadêmica do Curso de Ciência da Computação da URI &amp;#8211; Erechim Tosconf Castalio Podcast Top 500 de super-computadores Katello Lançamentos Red Hat Ciclo de vida extendido do RHEL Opensource.</description>
     </item>
     
     <item>
       <title>Opencast #20 – Servidores Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
       <pubDate>Fri, 05 Apr 2013 02:50:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
       <description>Está atrasado mas o importante é que está no ar mais um episódio do Opencast. Não liguem para a minha voz(Ivan), eu estava no auge da gripe no dia da gravação. Neste episódio recebemos a visita do Tiago do site ubuntu-br-sc e do Aprígio Simões. Vocês vão notar a ausência do Rudinei, que foi atingido por uma falha massiva da OI devido ao rompimento de fibra ótica em três pontos do sul do país.</description>
     </item>
     
     <item>
       <title>Opencast #16 – Distribuições Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
       <pubDate>Mon, 27 Aug 2012 04:02:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
       <description>Neste episódio, eu (Ivan), Diego, Rudinei e Og Maciel falamos um pouco sobre o mundo de distribuições Linux existentes no mundo. Escolhemos algumas distribuições para falar um pouco mais como Ubuntu, incluindo uma polêmica, Red Hat, Slackware também entraram na discussão. Conversamos também um pouco sobre ser ou não ser bom ter este número gigantesco de distribuições.
 Não deixe de votar no Ubuntero para o Prêmio TopBlog Brasil 2012.</description>
     </item>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>
     
     <item>
       <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</link>
       <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-9/</guid>
       <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
 Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
     </item>
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     

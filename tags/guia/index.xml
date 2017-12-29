@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guia on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/guia/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/guia/</link>
     <description>Recent content in Guia on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Jul 2012 14:00:44 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/guia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/guia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Guia Oficial do Ubuntu 12.04 LTS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/guia-oficial-do-ubuntu-12-04-lts/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/guia-oficial-do-ubuntu-12-04-lts/</link>
       <pubDate>Thu, 05 Jul 2012 14:00:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/guia-oficial-do-ubuntu-12-04-lts/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/guia-oficial-do-ubuntu-12-04-lts/</guid>
       <description>&amp;#8220;Getting Started with Ubuntu 12.04&amp;#8221; é o manual Oficial do Ubuntu 12.04 LTS destinado para quem está conhecendo o Ubuntu e também para aqueles usuários mais experientes, que desejam conhecer as novidades e aprofundar seus conhecimentos no sistema operacional da Canonical.
 O guia gratuíto é mantido pela equipe do Ubuntu Manual Project e traz 143 páginas com guias ilustrados que abrangem desde como baixar o Ubuntu, instalação, apresentação detalhada do ambiente Unity, além de dicas de segurança e soluções de problemas.</description>
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jogo on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/jogo/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/jogo/</link>
     <description>Recent content in Jogo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 16 Dec 2011 23:28:23 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/jogo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/jogo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Heroes of Newerth</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/heroes-of-newerth/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/heroes-of-newerth/</link>
       <pubDate>Fri, 16 Dec 2011 23:28:23 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/heroes-of-newerth/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/heroes-of-newerth/</guid>
       <description>Último jogo que mostraremos neste ano, Heroes of Newerth é um jogo de estratégia em tempo real onde o foco são as batalhas. Durante o jogo não é necessário produzir unidades, apenas controlar um herói em combates contra outros heróis, sempre em grupo.
 Heroes of Newerth exige um pouco mais da placa gráfica do que os outros jogos que mostramos anteriormente, então você necessita de uma boa placa de vídeo Nvidia ou ATI com suporte a 3D devidamente habilitados.</description>
     </item>
     
     <item>
       <title>Urban Terror</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/urban-terror/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/urban-terror/</link>
       <pubDate>Fri, 02 Dec 2011 11:05:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/urban-terror/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/urban-terror/</guid>
       <description>Este artigo é para os fãs dos FPS tradicionais. O jogo Urban Terror foi feito utilizando o motor do Quake III Arena ioquake3.
 A instalação do jogo pode ser feita de duas maneiras bem simples, se você já adicionou o repositório que disponibilizamos no artigo sobre o jogo Zero Ballistics, basta digitar o comando abaixo:
 sudo apt-get install urbanterror Se não fez isto ainda, sugiro que veja como adicionar o repositório no artigo do Zero Ballistics.</description>
@@ -34,40 +34,40 @@ sudo apt-get install urbanterror Se não fez isto ainda, sugiro que veja como ad
     
     <item>
       <title>Jogo Zero Ballistics</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</link>
       <pubDate>Sun, 13 Nov 2011 23:11:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</guid>
       <description>Gosta de jogos de tiro em primeira pessoa(FPS)? O jogo que vamos mostrar hoje é um FPS um pouco diferente, ao invés de controlar um personagem humano, neste jogo controlamos um tanque de guerra.
 O jogo Zero Ballistics não tem uma história e então foca totalmente no jogo pela internet ou rede. Algumas funções do jogo ainda não funcionam, mesmo estando na versão 2.0, como a mudança de resolução de tela e o modo FullScreen, mas nada disso estraga a diversão do jogo.</description>
     </item>
     
     <item>
       <title>Jogo GrandFantasia no Wine</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/jogo-grandfantasia-no-wine/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/jogo-grandfantasia-no-wine/</link>
       <pubDate>Sun, 06 Nov 2011 15:50:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/jogo-grandfantasia-no-wine/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/jogo-grandfantasia-no-wine/</guid>
       <description>Para quem gosta de jogos, hoje teremos uma ótima dica. Um jogo MMORPG em português e gratuito. O nome deste jogo é Grand Fantasia, mas ele não tem versão para Linux. O que fazemos então? Utilizaremos o programa Wine para instalar e rodar o jogo no Ubuntu.
 A primeira coisa que temos a fazer é adicionar o repositório do wine para instalarmos a última versão. Para isso abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:</description>
     </item>
     
     <item>
       <title>Battle for Wesnoth – Um jogo incrível para Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</link>
       <pubDate>Sat, 22 Oct 2011 14:08:08 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/battle-for-wesnoth-um-jogo-incrivel-para-linux/</guid>
       <description>Olá a todos queridos visitantes do Ubuntero, acho que muitos já devem conhecer esse jogo, e também muitos devem desconhecê-lo. Estava procurando um jogo de qualidade na Central de Programas do Ubuntu, que rodasse em meu notebook com uma placa SiS. Sem querer achei Battle For Wesnoth e mesmo com seus gráficos simples, garante horas e horas de diversão, eu mesmo passei mais de 6 horas jogando.
 Basicamente é um jogo de estratégia muito bem elaborado, pois precisa tomar cuidado com vários detalhes, como por exemplo, o terreno em que coloca o seu personagem, pois no terreno errado, e contra o inimigo errado, será muito fácil ser derrotado.</description>
     </item>
     
     <item>
       <title>Gcompris</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gcompris/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gcompris/</link>
       <pubDate>Wed, 12 Oct 2011 15:58:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gcompris/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gcompris/</guid>
       <description>Para comemorar o dia da criança, mostramos para vocês uma ótima ferramenta para as crianças se divertirem durante o feriado e qualquer outro dia.
 O projeto GCompris é uma ferramenta com vários jogos educacionais para crianças de 2 a 10 anos. Ao contrário de muitas outra ferramentas, o GCompris é totalmente gratuito e tem seu código aberto para que toda a comunidade possa contribuir com novas funcionalidades e correções de bugs.</description>
     </item>

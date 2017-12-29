@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raring Ringtail on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/raring-ringtail/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/raring-ringtail/</link>
     <description>Recent content in Raring Ringtail on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 07 Jan 2014 12:54:37 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/raring-ringtail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/raring-ringtail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fim do suporte ao Ubuntu 13.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/fim-do-suporte-ao-ubuntu-13-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/fim-do-suporte-ao-ubuntu-13-04/</link>
       <pubDate>Tue, 07 Jan 2014 12:54:37 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/fim-do-suporte-ao-ubuntu-13-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/fim-do-suporte-ao-ubuntu-13-04/</guid>
       <description>Usuários teimosos do Ubuntu 13.04, está na hora de programar a atualização do seu Ubuntu para a 13.10. No dia 27 de janeiro termina o tempo de suporte ao Ubuntu 13.04. Isso significa que não haverão mais atualizações e seu sistema poderá ficar vulnerável.
 Para atualizar, basta utilizar o gerenciador de atualizações, que deve aparecer pelo menos uma vez por semana para você, e esperar o download e instalação da nova versão, sem precisar formatar o computador.</description>
     </item>
     
     <item>
       <title>Lançado o Ubuntu 13.04 Raring Ringtail</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-13-04-raring-ringtail/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-13-04-raring-ringtail/</link>
       <pubDate>Thu, 25 Apr 2013 12:18:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-13-04-raring-ringtail/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancado-o-ubuntu-13-04-raring-ringtail/</guid>
       <description>A melhor versão já lançada desde o lançamento do Unity está disponível.
 A principal mudança em relação a versão 12.10 está na performance que foi absurdamente melhorada. O suporte desta versão, por ser uma interim, é de 9 meses, diferente das outras versões interim que tinham suporte por 18 meses.
 Para fazer o download do Ubuntu 13.04 use os links abaixo
@@ -35,10 +35,10 @@ Download direto  Ubuntu Desktop 32 bits Ubuntu Desktop 64 bits Ubuntu Server 32 
     
     <item>
       <title>Corrigindo problema ao instalar Chrome no Ubuntu 13.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</link>
       <pubDate>Mon, 15 Apr 2013 17:54:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</guid>
       <description>É público que não uso o Google Chrome como navegador, tenho meus motivos, mas hoje resolvi instalar para ver como ele estava e para minha surpresa não consegui instalar de primeira por problema de dependências. Este problema está ocorrendo no Ubuntu 13.04 que ainda está em versão Beta. Uma rápida pesquisa e a solução foi encontrada.
 Se você utiliza o Ubuntu 13.04 de 32 bits, baixe este arquivo:
  libudev0 para 32bit  Se você utiliza o Ubuntu 13.</description>
@@ -46,10 +46,10 @@ Se você utiliza o Ubuntu 13.04 de 32 bits, baixe este arquivo:
     
     <item>
       <title>Novo Atualizador de programas no Ubuntu 13.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novo-atualizador-de-programas-no-ubuntu-13-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novo-atualizador-de-programas-no-ubuntu-13-04/</link>
       <pubDate>Fri, 25 Jan 2013 10:40:31 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novo-atualizador-de-programas-no-ubuntu-13-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novo-atualizador-de-programas-no-ubuntu-13-04/</guid>
       <description>Atualização fresquinha de hoje mostra nova interface do Atualizador de programas do Ubuntu 13.04 &amp;#8211; Raring Ringtail. Entre as mudanças o que mais chama a atenção, e eu gostei bastante, é a categorização das atualizações.
 O que dá para ver por enquanto, até que saiam mais atualizações e eu possa analisar melhor, é isto.
 E aí, gostaram desta atualização? Fiquem ligados que logo damos mais detalhes.</description>

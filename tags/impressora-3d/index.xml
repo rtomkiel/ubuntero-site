@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressora 3d on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/impressora-3d/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/impressora-3d/</link>
     <description>Recent content in Impressora 3d on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 22 May 2013 03:07:06 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/impressora-3d/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/impressora-3d/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #21 – Mandou para o espaço e virou satélite, jogos e DRM</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
       <pubDate>Wed, 22 May 2013 03:07:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
       <description>Por motivos de força maior demos mais uma parada no Opencast, mas estamos de volta mais forte. A partir de agora, nosso casting aumentou e teremos vários participantes em todos os episódios. Nossa ideia é ter representação das mais diversas comunidades e regiões.
 Neste episódio, Ivan, Diego, Og Maciel, Tiago conversamos sobre vários assuntos, entre eles estão Jogos, DRM, Linux na estação espacial, impressoras 3D, LibreOffice no Android e muitas outras coisas.</description>
     </item>

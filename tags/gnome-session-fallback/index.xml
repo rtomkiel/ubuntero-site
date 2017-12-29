@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnome Session Fallback on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/gnome-session-fallback/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/gnome-session-fallback/</link>
     <description>Recent content in Gnome Session Fallback on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 26 Mar 2012 01:00:15 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/gnome-session-fallback/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/gnome-session-fallback/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gnome clássico no Ubuntu 12.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</link>
       <pubDate>Mon, 26 Mar 2012 01:00:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gnome-classico-no-ubuntu-12-04/</guid>
       <description>Esta semana não teremos o review semanal, mas na próxima semana voltamos e com novo nome para o programa. Para não passar em branco veja um vídeo rápido mostrando a nova interface do gnome-session-fallback que estará diponível para instalação no Ubuntu 12.04
 &amp;nbsp;</description>
     </item>

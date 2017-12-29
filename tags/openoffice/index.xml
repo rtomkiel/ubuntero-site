@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openoffice on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/openoffice/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/openoffice/</link>
     <description>Recent content in Openoffice on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 24 Jul 2013 16:22:39 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/openoffice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/openoffice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apache OpenOffice 4.0 no Ubuntu 13.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/apache-openoffice-4-0-no-ubuntu-13-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/apache-openoffice-4-0-no-ubuntu-13-04/</link>
       <pubDate>Wed, 24 Jul 2013 16:22:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/apache-openoffice-4-0-no-ubuntu-13-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/apache-openoffice-4-0-no-ubuntu-13-04/</guid>
       <description>O Ubuntu já vem com uma suíte de escritório instalado por padrão e esta suíte é o LibreOffice, no entanto, pode ser que você prefira se manter no já consagrado OpenOffice, que deu origem ao LibreOffice (mais informações no Opencast 12a e Opencast 12b). Veja os passos para a instalação da versão 4.0 do OpenOffice.
 Abra o terminal digitando Ctrl+Alt+t e comece desinstalando todos os pacotes do LibreOffice (se souber como manter os dois, sugira as modificações no tutorial).</description>
     </item>
     
     <item>
       <title>Paginação no LibreOffice</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</link>
       <pubDate>Wed, 19 Oct 2011 10:58:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</guid>
       <description>Tenho ajudado minha esposa nos vários trabalhos que ela tem para entregar na Faculdade e uma coisa bem chata de se fazer no LibreOffice é a simples tarefa de numerar páginas. A maneira que eu utilizava até ontem para esta tarefa é a maneira considerada difícil, mas encontrei uma maneira mais fácil no viva o Linux.
 Como eu fazia Posicionar o cursor na última página da página anterior de onde você quer começar a numerar.</description>
     </item>
     
     <item>
       <title>Editar PDF no OpenOffice</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</link>
       <pubDate>Wed, 05 Jan 2011 15:58:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/editar-pdf-no-openoffice/</guid>
       <description>Um pedido muito comum entre meus clientes é uma maneira de editar arquivos PDF. É difícil explicar que este tipo de arquivo foi desenvolvido para simples visualização e que não é igual a um arquivo .odt.
 Para agradar a todos, utilizo uma extensão do OpenOffice que permite a edição dos arquivos PDF diretamente pelo OpenOffice Write. Para instalar a extensão PDF Import, siga os passos abaixo:
 Acesse o endereço http://extensions.services.openoffice.org/en/project/pdfimport e desça a página até o local onde estão disponíveis os arquivos e faça o download conforme sua instalação do Ubuntu, 32 ou 64 bits.</description>

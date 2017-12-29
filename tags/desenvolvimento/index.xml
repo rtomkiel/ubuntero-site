@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desenvolvimento on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/desenvolvimento/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/desenvolvimento/</link>
     <description>Recent content in Desenvolvimento on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 29 Jun 2012 14:00:59 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/desenvolvimento/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/desenvolvimento/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novo portal para desenvolvedores</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novo-portal-para-desenvolvedores/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novo-portal-para-desenvolvedores/</link>
       <pubDate>Fri, 29 Jun 2012 14:00:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novo-portal-para-desenvolvedores/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novo-portal-para-desenvolvedores/</guid>
       <description>Para os desenvolvedores e interessados em desenvolver aplicativos para o Ubuntu, está disponível o novo portal para desenvolvedores.
  No portal você pode conhecer ferramentas que facilitam e agilizam o desenvolvimento de aplicações, documentação, tutoriais. Também encontrará informações de como publicar sua aplicação e conseguir ajuda da comunidade. Infelizmente o portal está disponível somente em inglês.
 Para acessá-lo entre no endereço developer.ubuntu.com.</description>

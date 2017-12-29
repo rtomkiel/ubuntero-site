@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hospedagem on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/hospedagem/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/hospedagem/</link>
     <description>Recent content in Hospedagem on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 26 Jan 2011 10:15:52 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hospedagem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/hospedagem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Instalando o CMS Joomla no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</link>
       <pubDate>Wed, 26 Jan 2011 10:15:52 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/instalando-o-cms-joomla-no-ubuntu/</guid>
       <description>Para iniciar, gostaria de responder a uma simples e importante dúvida que insiste em aparecer quando ouvimos o termo CMS. Afinal, o que é um CMS? Ele significa Content Management System, ou Sistema Gerenciador de Conteúdo. Mais especificamente, ele serve pra ajudar você a criar um website. Simples não? Tudo se torna ainda mais simples, quando o CMS é o Joomla. O sistema Joomla é um dos mais completos, por possuir muitos recursos.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Docs on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/google-docs/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/google-docs/</link>
     <description>Recent content in Google Docs on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 23 Dec 2013 19:45:02 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Abrindo “Open Document” no Google Drive</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/abrindo-open-document-no-google-drive/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/abrindo-open-document-no-google-drive/</link>
       <pubDate>Mon, 23 Dec 2013 19:45:02 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/abrindo-open-document-no-google-drive/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/abrindo-open-document-no-google-drive/</guid>
       <description>Artigo enviado por Everton Melo
 No Opencast #30 o Og Maciel falou sobre o Google Drive não ler arquivos do Libreoffice. Neste artigo estão os passos para habilitar esta funcionalidade.
 Após logar no Google Drive:
@@ -28,10 +28,10 @@ O mesmo será visualizado e depois é só clicar em &amp;#8220;Conectar&amp;#822
     
     <item>
       <title>Versão offline do Google Docs</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</link>
       <pubDate>Wed, 04 Jul 2012 17:00:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/versao-offline-do-google-docs/</guid>
       <description>Não sou o maior dos fãs do Google e suas ferramentas, mas esta novidade pode até mudar um pouco a minha opinião, menos em relação ao sistema adsense.
 Agora é possível ter a suíte de escritório online Google Docs de maneira offline, e o melhor, no Ubuntu.
 Para isso abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:

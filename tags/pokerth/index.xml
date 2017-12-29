@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pokerth on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/pokerth/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/pokerth/</link>
     <description>Recent content in Pokerth on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Feb 2011 17:59:55 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/pokerth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/pokerth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PokerTH</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/pokerth/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/pokerth/</link>
       <pubDate>Tue, 15 Feb 2011 17:59:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/pokerth/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/pokerth/</guid>
       <description>Gosta de jogar poker? E poker online?
 O jogo de poker é naturalmente viciante, mas não muito saudável para o bolso quando se joga dinheiro de verdade. Como solução para alimentar o vício sem perder dinheiro temos os jogos de poker online.
 Temos este tipo de jogo disponível para todos os sistemas operacionais, mas alguns carregam programas indesejáveis junto, acredito que não preciso citar nomes. Para nosso Ubuntu não temos esta preocupação, afinal nosso jogo de poker tem o código aberto, o que dificulta códigos maliciosos.</description>

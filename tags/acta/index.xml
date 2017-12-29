@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acta on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/acta/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/acta/</link>
     <description>Recent content in Acta on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 08 Jul 2012 22:36:43 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/acta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/acta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>
     
     <item>
       <title>Opencast episódio 7 – Grupos regionais, SOPA, PIPA, ACTA e outras cositas</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</link>
       <pubDate>Sun, 26 Feb 2012 03:38:47 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</guid>
       <description>Voltamos com mais um episódio do Opencast, agora no novo formato prometido e que iremos manter daqui para frente. Como todo brasileiro, atrasei um pouco as coisas devido ao carnaval, não por ser folião, mas por ter me afastado da civilização durante esta festa.
 Neste episódio Eu(Ivan), Diego, Tiago e mais a participação especial do meu cachorro, com um latido, conversamos um pouco sobre as notícias que julgamos mais importante no mundo do Software livre desde o início do ano até agora.</description>
     </item>

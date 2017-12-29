@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Totem on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/totem/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/totem/</link>
     <description>Recent content in Totem on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 02 Jul 2012 14:00:36 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/totem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/totem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Problemas com vídeos MP4 no totem</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/problemas-com-videos-mp4-no-totem/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/problemas-com-videos-mp4-no-totem/</link>
       <pubDate>Mon, 02 Jul 2012 14:00:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/problemas-com-videos-mp4-no-totem/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/problemas-com-videos-mp4-no-totem/</guid>
       <description>Um bug no gstreamer pode estar fazendo com que seus vídeos não toquem no totem, minitube e alguns outros tocadores, o vlc não é afetado por este bug por não usar os codecs do sistema.
  Para resolver este problema renomeio o arquivo libgstvideoparsersbad.so com o seguinte comando(dica válida apenas para o Ubuntu 12.04):
 Para sistemas 32 bits

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imposto De Renda on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/imposto-de-renda/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/imposto-de-renda/</link>
     <description>Recent content in Imposto De Renda on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 07 Mar 2012 11:00:05 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/imposto-de-renda/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/imposto-de-renda/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Declaração do imposto de renda no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/declaracao-do-imposto-de-renda-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/declaracao-do-imposto-de-renda-no-ubuntu/</link>
       <pubDate>Wed, 07 Mar 2012 11:00:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/declaracao-do-imposto-de-renda-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/declaracao-do-imposto-de-renda-no-ubuntu/</guid>
       <description>Estamos naquele período do ano em que o Governo quer saber onde foi que gastamos nosso dinheiro, já não bastasse pegar boa parte dele para não fazer nada. Até o ano passado, usuários Linux tinham que, por muitas vezes, dar algumas voltas até conseguir instalar os dois programas necessários para fazer a declaração e enviar a mesma.
 Este ano o Governo foi mais bonzinho e resolveu disponibilizar pacotes bin, RPM e DEB para facilitar um bom bocado a nossa vida.</description>
     </item>
     
     <item>
       <title>Imposto de Renda 2011</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/imposto-de-renda-2011/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/imposto-de-renda-2011/</link>
       <pubDate>Wed, 02 Mar 2011 00:44:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/imposto-de-renda-2011/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/imposto-de-renda-2011/</guid>
       <description>Para quem tem problemas ao instalar o programa da Receita Federal em arquitetura amd64, aparece a seguinte mensagem no Central de Programas Ubuntu:
 Para solucionar esse problema, abra o terminal
 navegue até a pasta onde esá instalado o IRPF2011v1.0.deb

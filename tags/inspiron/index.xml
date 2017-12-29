@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inspiron on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/inspiron/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/inspiron/</link>
     <description>Recent content in Inspiron on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Dec 2013 21:03:06 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/inspiron/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/inspiron/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #50 – Dell Inspiron 14, um notebook para jogos?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
       <pubDate>Tue, 24 Dec 2013 21:03:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
       <description>Este é o último episódio deste ano e enfim caiu em minhas mãos um notebook que é bom para jogos no Linux. O notebook é o Dell Inspiron 14 que vem equipado com uma placa de vídeo Nvidia GT625M, processador Intel Core i5-3337U, 6GB de memória e HD de 1 TB.
 Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
  Assistir no Youtube Antes de ver como habilitar a placa de vídeo Nvidia, passa no site da Dell e compra o computador por nosso link, assim ajuda o site e fica com uma super máquina para jogar.</description>
@@ -24,20 +24,20 @@ Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
     
     <item>
       <title>Review – Notebook Dell Inspiron 14R com Ubuntu pré-instalado de fábrica</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</link>
       <pubDate>Mon, 30 Sep 2013 13:01:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</guid>
       <description>Artigo enviado por Jonathan
 É chato, iniciar um artigo com alguma desculpa, mas não escrevi o artigo antes por problemas pessoais. Cheguei a gravar todo processo, mas por usar uma webcam o áudio ficou horrível, tentei instalar um editor de vídeo para tentar resolver, o que não ajudou, daí a iniciativa de escrever o texto. Quando estava pesquisando sobre este notebook Inspiron 14R, não encontrei muita informação a não ser a do próprio site da Dell, motivando a escrever o artigo pensando em outros usuários que pretendam adquirir uma dessas máquinas.</description>
     </item>
     
     <item>
       <title>Videocast #33 – Ultrabook Inspiron 14z</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
       <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
       <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
 Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
     </item>

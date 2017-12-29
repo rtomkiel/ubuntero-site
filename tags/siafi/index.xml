@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siafi on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/siafi/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/siafi/</link>
     <description>Recent content in Siafi on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 27 Feb 2011 15:36:03 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/siafi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/siafi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como imprimir no SIAFI, utilizando UBUNTU.</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-imprimir-no-siafi-utilizando-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-imprimir-no-siafi-utilizando-ubuntu/</link>
       <pubDate>Sun, 27 Feb 2011 15:36:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-imprimir-no-siafi-utilizando-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-imprimir-no-siafi-utilizando-ubuntu/</guid>
       <description>O SIAFI é o Sistema Integrado de Administração Financeira do Governo Federal, um sistema onde pode-se acompanhar os gastos públicos, quanto de crédito que tem um órgão por exemplo, quanto que custou tal licitação, o que foi comprado. Esse sistema poderoso no primeiro momento não imprime de forma natural no Ubuntu, abaixo a dica:
 &amp;nbsp;
 Instalar o gtklp

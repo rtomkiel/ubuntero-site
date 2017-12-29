@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dell on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/dell/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/dell/</link>
     <description>Recent content in Dell on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 13 Jun 2014 02:34:53 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/dell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #35 – Fim do Ubuntu One e TrueCrypt</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
       <pubDate>Fri, 13 Jun 2014 02:34:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
       <description>Como avisado, atrasamos em um dia o lançamento deste episódio. Mesmo contra todas as agendas que deram errado, conseguimos gravar um episódio bacaninha para vocês. Neste episódio Ivan e Diego comentam algumas notícias sobre o mundo das tecnologias livres.
 Links do episódio  Provedores deveriam isolar computadores infectados 10 novidades do OS X que já existiam no Ubuntu Smart TV da Samsung com Tizen em breve Vodafone confirma coleta de dados Fim do Ubuntu One TrueCrypt não morreu Modelos hibridos da Dell com Ubuntu Mozila vai oferecer serviço de conferência em áudio e vídeo nativo no navegador Comparativo clang e gcc Porta dos fundos no expresso Sem porta dos fundos no expresso Meizu mostra Ubuntu Touch na Mobile Asia Expo 2014  Twitter: @tecnologiaabert</description>
     </item>
     
     <item>
       <title>Videocast #53 – Dell Vostro 5470</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</link>
       <pubDate>Wed, 05 Mar 2014 13:23:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-53-dell-vostro-5470/</guid>
       <description>O carnaval atrapalhou a postagem do Videocast, pequenos problemas com DNS e com a conexão lá no meio do mato onde eu estava. No episódio de hoje mostro o Dell Vostro 5479. Ele não é um Ultrabook, mas pode brigar com eles se você não se importar com a qualidade do som. O notebook é muito leve e rápido. Como bônus, consegui ele na versão com e sem Touch Screen e mostro os dois com Ubuntu, mesmo eles não vindo com Linux de fábrica.</description>
     </item>
     
     <item>
       <title>Review – Notebook Dell Inspiron 14R com Ubuntu pré-instalado de fábrica</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</link>
       <pubDate>Mon, 30 Sep 2013 13:01:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/review-notebook-dell-inspiron-14r-com-ubuntu-pre-instalado-de-fabrica/</guid>
       <description>Artigo enviado por Jonathan
 É chato, iniciar um artigo com alguma desculpa, mas não escrevi o artigo antes por problemas pessoais. Cheguei a gravar todo processo, mas por usar uma webcam o áudio ficou horrível, tentei instalar um editor de vídeo para tentar resolver, o que não ajudou, daí a iniciativa de escrever o texto. Quando estava pesquisando sobre este notebook Inspiron 14R, não encontrei muita informação a não ser a do próprio site da Dell, motivando a escrever o artigo pensando em outros usuários que pretendam adquirir uma dessas máquinas.</description>
     </item>
     
     <item>
       <title>Dell disponibiliza mais modelos com Ubuntu pré-instalado</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dell-disponibiliza-mais-modelos-com-ubuntu-pre-instalado/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dell-disponibiliza-mais-modelos-com-ubuntu-pre-instalado/</link>
       <pubDate>Mon, 09 Sep 2013 13:53:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dell-disponibiliza-mais-modelos-com-ubuntu-pre-instalado/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dell-disponibiliza-mais-modelos-com-ubuntu-pre-instalado/</guid>
       <description>Parece até resposta ao nosso último post, mas acredito que não temos toda essa importância ainda. Mas o que interessa é que os usuários chatos que vivem pedindo máquinas mais poderosas com Linux pré-instalados estão começando a ganhar a batalha com a Dell.
 A fabricante lançou mais alguns modelos de seus notebooks com Ubuntu pré-instalado. Os novos modelos são os Inspiron 14 e Inspiron 14R que agora se juntam aos modelos da linha Vostro que já eram vendidos com o Ubuntu e até já mostramos o primeiro modelo no Videocast #43.</description>
     </item>
     
     <item>
       <title>Dell aumenta pontos de venda na China</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</link>
       <pubDate>Fri, 06 Sep 2013 13:15:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dell-aumenta-pontos-de-venda-na-china/</guid>
       <description>Se tem um lugar no mundo onde computadores com Linux são vendidos de balde, esse lugar é a China. A Dell sabe disso e já vem investindo em lojas físicas a algum tempo. Agora o número de lojas mais que dobrou e alcançou o número de 1000.
 Você até deve estar se perguntando porque esta política não é adotada no Brasil, ou melhor, porque não é adotada mundialmente? A resposta vem com outra pergunta.</description>
     </item>
     
     <item>
       <title>Videocast #43 – Dell Vostro 3460</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</link>
       <pubDate>Sun, 01 Sep 2013 16:16:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-43-dell-vostro-3460/</guid>
       <description>Neste episódio eu mostro mais um computador Dell rodando Ubuntu, mas desta vez o Ubuntu não vem instalado de fábrica. Mesmo assim quase tudo funciona perfeitamente, para variar o leitor biométrico continua sem funcionar, uma grande falha da Dell ao escolher este modelo de leitor biométrico.
  Assistir no Youtube Gostou do notebook? Compre por este ou este link e ajude o site.
 &amp;nbsp;</description>
@@ -73,60 +73,60 @@ Você até deve estar se perguntando porque esta política não é adotada no Br
     
     <item>
       <title>Videocast #33 – Ultrabook Inspiron 14z</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
       <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
       <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
 Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
     </item>
     
     <item>
       <title>Dell lança computador gamer Alienware X51 com Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</link>
       <pubDate>Sat, 06 Apr 2013 13:33:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dell-lanca-computador-gamer-alienware-x51-com-ubuntu/</guid>
       <description>A Dell lançou lá fora uma super máquina para os gamers. Aproveitando o sucesso da entrada da Valve no mundo Linux com o lançamento do Steam para Ubuntu, a Dell lançou uma super máquina com processadores da linha Core i, memória começando em 6 GB e placa de vídeo NVIDIA GeForce GTX 645. Veja as configurações disponíveis:
  Alienware X51 ($599)  Intel Core i3-3220 3.3GHz Dual Core Sistema Operacional Ubuntu 6GB DDR3 at 1600MHz (2 DIMMS) NVIDIA GeForce GTX 645 1GB GDDR5 Slot Load Dual Layer DVD Burner Dell Wireless 1506 (802.</description>
     </item>
     
     <item>
       <title>Agora a coisa ficou séria</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/agora-a-coisa-ficou-seria/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/agora-a-coisa-ficou-seria/</link>
       <pubDate>Mon, 06 Feb 2012 17:09:08 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/agora-a-coisa-ficou-seria/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/agora-a-coisa-ficou-seria/</guid>
       <description>Como diria o famoso meme, &amp;#8220;agora a coisa ficou séria&amp;#8221;. Não sei se a proposta que fiz de campanha pelo twitter para pedir processadores melhores nos computadores Dell com Ubuntu pre-instalados teve alguma influência nisto, mas o que importa é que temos computadores com processadores Core i5 no site da Dell.
 A dica foi do Angelico nos comentários do review semanal 06. e os modelos seguem abaixo com link para o site:</description>
     </item>
     
     <item>
       <title>Review semanal 06</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/review-semanal-06/</link>
       <pubDate>Sun, 05 Feb 2012 20:44:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-06/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/review-semanal-06/</guid>
       <description>Após novos problemas na gravação dos vídeos do desktop que necessitam conversão para que a edição seja possível, via twitter consegui a solução(vai ter postagem especial para isto) e voltamos a ter os reviews com as gravações do desktop.
 Neste episódio temos uma overdose de Ubuntu. Começamos falando do Ubuntu 10.10 que vem instalado no Dell Vostro 3450, passamos ao Ubuntu 11.10 instalado no mesmo computador e no final mostramos um pouco do Ubuntu 12.</description>
     </item>
     
     <item>
       <title>Review semanal 05</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-05/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/review-semanal-05/</link>
       <pubDate>Tue, 31 Jan 2012 10:00:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-05/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/review-semanal-05/</guid>
       <description>Um tanto quanto atrasado mas o review semanal está no ar. Devido a problemas nos gravadores de telas tentados durante o final de semana no Ubuntu 12.04 Alpha 1, não exibimos o review semanal no domingo como o esperado e ficamos sem uma previsão para postar o episódio.
 O destino foi gente boa conosco e resolveu entregar o notebook Dell Vostro 3450 com Ubuntu pre-instalado no início da semana, permitindo que o review fosse repensado e publicado hoje.</description>
     </item>
     
     <item>
       <title>Mais computadores com Ubuntu disponíveis no mercado brasileiro</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/mais-computadores-com-ubuntu-disponiveis-no-mercado-brasileiro/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/mais-computadores-com-ubuntu-disponiveis-no-mercado-brasileiro/</link>
       <pubDate>Sun, 15 Jan 2012 20:21:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/mais-computadores-com-ubuntu-disponiveis-no-mercado-brasileiro/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/mais-computadores-com-ubuntu-disponiveis-no-mercado-brasileiro/</guid>
       <description>Uma boa notícia postada por Adilson Oliveira é que a Dell está comercializando novos modelos com Ubuntu pré-instalado no Brasil pelo site e acessível a todos.
 Ao contrário do último modelo, desta vez temos computadores com boas configurações, são eles três modelos de notebooks e um desktop.
 
@@ -135,10 +135,10 @@ O desktop Vostro 260 Slim vem com processador Intel Core i3-2120 (3.3GHz, 3Mb Ca
     
     <item>
       <title>Dell lança Notebook com Ubuntu no Brasil</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</link>
       <pubDate>Fri, 10 Dec 2010 15:37:09 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dell-lanca-notebook-com-ubuntu-no-brasil/</guid>
       <description>Quer comprar um bom notebook já com Ubuntu instalado sem precisar apelar para sites estrangeiros? Navegando pelo site da Dell você pode encontrar o modelo Inspiron 14 N4020.
 Abaixo seguem os detalhes deste modelo:
 Chipset

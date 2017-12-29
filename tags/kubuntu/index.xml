@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kubuntu on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/kubuntu/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/kubuntu/</link>
     <description>Recent content in Kubuntu on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 20 Feb 2014 00:12:55 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/kubuntu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/kubuntu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu exige licença para o Linux Mint e outras distribuições derivadas</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</link>
       <pubDate>Thu, 20 Feb 2014 00:12:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</guid>
       <description>Não é novidade que o Ubuntu pede que uma licença seja assinada pelas distribuições derivadas dele, mas também não é novidade que ninguém dá atenção para esta licença, até porque ela não faz sentido. A vítima da vez foi o Linux Mint que utiliza os repositórios do Ubuntu além de seus próprios repositórios. A Canonical vem há cerca de um ano pedindo que o Linux Mint assine uma licença para utilizar seus repositórios.</description>
     </item>
     
     <item>
       <title>Versões Beta dos sabores do Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</link>
       <pubDate>Fri, 06 Sep 2013 11:28:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/versoes-beta-dos-sabores-do-ubuntu-13-10/</guid>
       <description>Estão disponíveis as imagens dos &amp;#8220;sabores&amp;#8221; do Ubuntu na versão 13.10 Beta 1. Estas versões são recomendadas apenas para usuários mais avançados, pois são destinadas a testes e problemas podem e devem aparecer.
 Se mesmo sabendo destes possíveis problemas você ainda quiser baixar para instalar e testar no seu computador, seguem os links para baixar as imagens.
  Xubuntu 13.10 Beta 1 Kubuntu 13.10 Beta 1 Lubuntu 13.10 Beta 1 Ubuntu GNOME 13.</description>
@@ -33,29 +33,29 @@ Se mesmo sabendo destes possíveis problemas você ainda quiser baixar para inst
     
     <item>
       <title>Videocast #21 – Kubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</link>
       <pubDate>Tue, 06 Nov 2012 01:10:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-21-kubuntu-12-10/</guid>
       <description>Demorou e foi difícil fazer esta gravação do desktop do Kubuntu. Nenhum gravador de tela está funcionando perfeitamente nos 12.10. Somando a vez que tudo deu certo, foram 5 vezes que gravei este episódio. Talvez por isso eu tenha focado mais nos problemas do que nas coisas boas do Kubuntu. Aproveitei o episódio para corrigir uma gafe sobre a não existência de um programa ao estilo central de programas no Ubuntu Gnome Remix 12.</description>
     </item>
     
     <item>
       <title>Usando o CrossOver no Kubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</link>
       <pubDate>Thu, 01 Nov 2012 11:24:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</guid>
       <description>Para quem aproveitou e fez o download do CrossOver ontem, totalmente gratuito, mas não sabe como trabalhar com a ferramenta, hoje vou mostrar como trabalhar com ela no Kubuntu, em breve mostrarei como trabalhar no Unity.
 Para começo de conversa, algumas pessoas passaram por dificuldade para instalar o pacote deb em sistemas 64 bits. Vou mostrar aqui como instalar pela linha de comando com apenas três comandos. Abra o terminal pressionando as teclas Alt+F2 e digite o comando &amp;#8220;konsole&amp;#8221; sem as aspas e então pressione Enter.</description>
     </item>
     
     <item>
       <title>Kubuntu á primeira vista</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/kubuntu-a-primeira-vista/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/kubuntu-a-primeira-vista/</link>
       <pubDate>Thu, 27 Oct 2011 10:09:22 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/kubuntu-a-primeira-vista/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/kubuntu-a-primeira-vista/</guid>
       <description>Olá pessoal, tudo bem com vocês?
 Estou estreando aqui no Ubuntero, e o meu objetivo é falar sobre o Kubuntu, que nada mais é que o Ubuntu usando KDE como ambiente gráfico.
 Para começarmos, algumas telas do KDE com efeito Plasmaalguns widgets que já vem no Kubuntu
@@ -66,10 +66,10 @@ Ele vem também com um ótimo motor de sombras, oferecendo a possibilidade de 
     
     <item>
       <title>Post 4 em 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/post-4-em-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/post-4-em-1/</link>
       <pubDate>Tue, 05 Apr 2011 16:18:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/post-4-em-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/post-4-em-1/</guid>
       <description>É isso mesmo que está escrito no título, hoje o post é 4 em 1. Ao invés de postar várias dicas ao longo dos dias, resolvi fazer esse &amp;#8220;pacote&amp;#8221;. São duas dicas com relação ao VLC e outra será a apresentação, para os que não conhecem, do Kazam.
 Assistindo DVD com menu no VLC A situação foi a seguinte, há alguns meses atrás, comprei o DVD de UP &amp;#8211; Altas Aventuras (filme bacana, quem não assistiu assista) e hoje resolvi assistir novamente pois estava com insônia.</description>
     </item>

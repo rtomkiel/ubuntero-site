@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aula De Idiomas on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/aula-de-idiomas/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/aula-de-idiomas/</link>
     <description>Recent content in Aula De Idiomas on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 14 Mar 2011 11:00:15 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/aula-de-idiomas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/aula-de-idiomas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phonemic Chart no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/phonemic-chart-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/phonemic-chart-no-ubuntu/</link>
       <pubDate>Mon, 14 Mar 2011 11:00:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/phonemic-chart-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/phonemic-chart-no-ubuntu/</guid>
       <description>Para quem estuda inglês e sente falta dos símbolos fonéticos, bem como suas pronúncias nas aulas, o Phonemic Chart é uma boa saída. No entanto, o programa está disponível somente para sistemas Windows e Mac. A soluç﻿ão encontrada para instalá-lo no Ubuntu é através do Wine.
 Com o Wine em &amp;#8220;ponto de bala&amp;#8221; no seu micro, baixe o Phonemic Chart clicando aqui. Devidamente baixado, clique com o botão direito do seu mouse no arquivo e dê &amp;#8220;Propriedades&amp;#8221; &amp;#8211; Aba &amp;#8220;Permissões&amp;#8221; &amp;#8211; clique em &amp;#8220;Permitir execução do arquivo como um programa&amp;#8221;.</description>
     </item>

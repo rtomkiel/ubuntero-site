@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meizu on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/meizu/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/meizu/</link>
     <description>Recent content in Meizu on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 02 Jul 2014 16:24:38 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/meizu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/meizu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meizu responde algumas perguntas sobre o Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</link>
       <pubDate>Wed, 02 Jul 2014 16:24:38 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</guid>
       <description>A notícia não é tão nova, mas é importante. Durante a Asia Expo a Meizu mostrou o Ubuntu Touch rodando em seu aparelho MX3, um smartphone de respeito com tela de 5.1 polegadas, processador de 8 núcleos, câmera de 8 mega pixels, 2 GB de memória e processador gráfico de 3 núcleos.
 As repostas dadas pela empresa não são as mais animadoras. A primeira pergunta foi &amp;#8220;Por que o sistema está levando tanto tempo para ser finalizado?</description>
     </item>
     
     <item>
       <title>Opencast #35 – Fim do Ubuntu One e TrueCrypt</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
       <pubDate>Fri, 13 Jun 2014 02:34:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
       <description>Como avisado, atrasamos em um dia o lançamento deste episódio. Mesmo contra todas as agendas que deram errado, conseguimos gravar um episódio bacaninha para vocês. Neste episódio Ivan e Diego comentam algumas notícias sobre o mundo das tecnologias livres.
 Links do episódio  Provedores deveriam isolar computadores infectados 10 novidades do OS X que já existiam no Ubuntu Smart TV da Samsung com Tizen em breve Vodafone confirma coleta de dados Fim do Ubuntu One TrueCrypt não morreu Modelos hibridos da Dell com Ubuntu Mozila vai oferecer serviço de conferência em áudio e vídeo nativo no navegador Comparativo clang e gcc Porta dos fundos no expresso Sem porta dos fundos no expresso Meizu mostra Ubuntu Touch na Mobile Asia Expo 2014  Twitter: @tecnologiaabert</description>
     </item>
     
     <item>
       <title>Novo concurso de aplicativos para o Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novo-concurso-de-aplicativos-para-o-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novo-concurso-de-aplicativos-para-o-ubuntu/</link>
       <pubDate>Wed, 26 Feb 2014 16:47:20 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novo-concurso-de-aplicativos-para-o-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novo-concurso-de-aplicativos-para-o-ubuntu/</guid>
       <description>Começou o terceiro concurso de aplicativos para o Ubuntu. O concurso durará 6 semanas, começando no dia 26 de fevereiro de 2014 e terminando no dia 9 de abril de 2014. Os participantes devem publicar seus aplicativos utilizando a SDK do Ubuntu. Desta vez, todo tipo de aplicação pode participar, seja ela um port, ou uma aplicação nova e original.
 As categorias nas quais as aplicações podem participar são:</description>
     </item>
     
     <item>
       <title>Canonical anuncia dois parceiros para o Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</link>
       <pubDate>Wed, 19 Feb 2014 23:57:40 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</guid>
       <description>Finalmente temos nomes(passei bem longe de acertar) de duas empresas que venderão smartphones com Ubuntu Touch instalado de fábrica, são elas a espanhola Bq e a chinesa Meizu.
 Segundo o anúncio feito pelo próprio Mark Shuttleworth durante um hangout, as duas empresas estão dispostas a vender aparelhos com Ubuntu Touch por todo o planeta, mas claro que a Bq começará pela Europa e a Meizu pela China. A China alias, é o maior mercado do Ubuntu no momento, nada mais justo do que começar a vender celulares por aquelas bandas.</description>
     </item>

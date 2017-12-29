@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Criança on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/crian%C3%A7a/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/crian%C3%A7a/</link>
     <description>Recent content in Criança on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 12 Oct 2011 15:58:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/crian%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/crian%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gcompris</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gcompris/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gcompris/</link>
       <pubDate>Wed, 12 Oct 2011 15:58:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gcompris/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gcompris/</guid>
       <description>Para comemorar o dia da criança, mostramos para vocês uma ótima ferramenta para as crianças se divertirem durante o feriado e qualquer outro dia.
 O projeto GCompris é uma ferramenta com vários jogos educacionais para crianças de 2 a 10 anos. Ao contrário de muitas outra ferramentas, o GCompris é totalmente gratuito e tem seu código aberto para que toda a comunidade possa contribuir com novas funcionalidades e correções de bugs.</description>
     </item>

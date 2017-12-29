@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Espírito on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/esp%C3%ADrito/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/esp%C3%ADrito/</link>
     <description>Recent content in Espírito on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 30 Dec 2010 15:36:20 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/esp%C3%ADrito/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/esp%C3%ADrito/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://rtomkiel.github.io/ubuntero-site/1246/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/1246/</link>
       <pubDate>Thu, 30 Dec 2010 15:36:20 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/1246/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/1246/</guid>
       <description>Natal e Ano Novo. Duas importantes datas em um mês que vem recheado de novidades e esperanças quanto ao novo ano que se aproxima.
 Esta edição da Revista Espírito Livre leva a você leitor, um tema que tira o sono de muita gente: Segurança. Fizemos questão de observar o tema numa ótica bastante abrangente, pois quando se fala em segurança, não se fala apenas em redes ou arquivos, mas também informações, mecanismos, métricas e tantos outros subtemas que o conceito de segurança envolve.</description>
     </item>

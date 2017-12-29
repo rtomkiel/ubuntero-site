@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sopa on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/sopa/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/sopa/</link>
     <description>Recent content in Sopa on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 26 Feb 2012 03:38:47 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sopa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/sopa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast episódio 7 – Grupos regionais, SOPA, PIPA, ACTA e outras cositas</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</link>
       <pubDate>Sun, 26 Feb 2012 03:38:47 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/</guid>
       <description>Voltamos com mais um episódio do Opencast, agora no novo formato prometido e que iremos manter daqui para frente. Como todo brasileiro, atrasei um pouco as coisas devido ao carnaval, não por ser folião, mas por ter me afastado da civilização durante esta festa.
 Neste episódio Eu(Ivan), Diego, Tiago e mais a participação especial do meu cachorro, com um latido, conversamos um pouco sobre as notícias que julgamos mais importante no mundo do Software livre desde o início do ano até agora.</description>
     </item>

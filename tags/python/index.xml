@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/python/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/python/</link>
     <description>Recent content in Python on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 18 Nov 2013 17:50:23 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resolvendo problema ao abrir o cliente de twitter Polly</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
       <pubDate>Mon, 18 Nov 2013 17:50:23 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
       <description>Após uma atualização do cliente de Twitter Polly, não consegui mais abrir o programa. Fui notar isso só alguns dias após fazer a atualização devido ao feriadão onde não tinha internet disponível para acessar o programa.
 O erro que estava sendo mostrado é o seguinte:
 Polly 0.93.11 (pre-alpha 3.11) Copyright (C) 2011 Marcelo Hashimoto cache path: /home/ivan/.cache/polly config path: /home/ivan/.config/polly data home: /home/ivan/.local/share/polly Traceback (most recent call last): File &#34;/usr/bin/polly&#34;, line 241, in &amp;lt;module&amp;gt; from polly import setting, gui File &#34;</description>
@@ -24,10 +24,10 @@ Polly 0.93.11 (pre-alpha 3.11) Copyright (C) 2011 Marcelo Hashimoto cache path: 
     
     <item>
       <title>Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
       <pubDate>Wed, 21 Aug 2013 11:29:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
       <description>O grupo Tchelinux, em parceria com a FTEC Caxias do Sul, tem o prazer de convidar a comunidade, independente do nível de conhecimento e experiência com a tecnologia, software livre e áreas afins, para participarem do Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013.
 Inscrições Com o objetivo de estimular a caridade e a boa vontade, o Tchelinux tradicionalmente não cobra um valor monetário para admissão em seus eventos, mas sim pede que cada participante doe 2kg de alimentos não perecíveis (exceto sal), que serão recolhidos no ato do credenciamento e doados a uma instituição local a ser definida.</description>
     </item>

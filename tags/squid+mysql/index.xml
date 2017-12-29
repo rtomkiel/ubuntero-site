@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Squid&#43;mysql on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/squid&#43;mysql/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/squid&#43;mysql/</link>
     <description>Recent content in Squid&#43;mysql on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 28 Mar 2008 00:16:23 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/squid+mysql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/squid+mysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Autenticação Squid com base em Tabelas MySql</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</link>
       <pubDate>Fri, 28 Mar 2008 00:16:23 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
       <description>&lt;p&gt;Um assunto muito recorrente, para quem trabalha com administração de proxy&amp;#8217;s, é a necessidade de se fazer autenticação dos usuários com base em uma determinada lista de acesso. Geralmente, é questão apenas de fazer a configuração correta do Squid, definir alguns arquivos texto com as informações e pronto. Porém, no caso de empresas grandes, é desejável que esta informação seja reutilizada a partir de alguma já existente, geralmente em forma de dados em tabelas de um banco de dados qualquer.&lt;/p&gt;
 
 &lt;p&gt;Utilizo em algumas empresas um script bem simples, que eu mesmo desenvolvi, para esta tarefa. Qual não foi minha surpresa, ao saber que fazer isto é uma dúvida bastante buscada na Internet por outras pessoas e, quase sempre, não resolvida. A maioria utiliza alguns projetos complicados, outros já recomendam partir para alguma solução mais rebuscada (e, talvez, até mais correta) como LDAP e outros.&lt;/p&gt;

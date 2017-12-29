@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genio on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/genio/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/genio/</link>
     <description>Recent content in Genio on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 06 Oct 2011 00:38:22 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/genio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/genio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Steve Jobs</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/steve-jobs/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/steve-jobs/</link>
       <pubDate>Thu, 06 Oct 2011 00:38:22 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/steve-jobs/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/steve-jobs/</guid>
       <description>O mundo da Tecnologia está em luto, independente de promover o Software Livre ou não. Descanse em paz Steve Jobs.
  &amp;nbsp;</description>
     </item>

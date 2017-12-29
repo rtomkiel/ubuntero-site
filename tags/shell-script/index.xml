@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shell Script on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/shell-script/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/shell-script/</link>
     <description>Recent content in Shell Script on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 21 Aug 2013 11:29:36 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/shell-script/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/shell-script/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
       <pubDate>Wed, 21 Aug 2013 11:29:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
       <description>O grupo Tchelinux, em parceria com a FTEC Caxias do Sul, tem o prazer de convidar a comunidade, independente do nível de conhecimento e experiência com a tecnologia, software livre e áreas afins, para participarem do Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013.
 Inscrições Com o objetivo de estimular a caridade e a boa vontade, o Tchelinux tradicionalmente não cobra um valor monetário para admissão em seus eventos, mas sim pede que cada participante doe 2kg de alimentos não perecíveis (exceto sal), que serão recolhidos no ato do credenciamento e doados a uma instituição local a ser definida.</description>
     </item>
     
     <item>
       <title>Mario Bros em shell script</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/mario-bros-em-shell-script/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/mario-bros-em-shell-script/</link>
       <pubDate>Sun, 21 Apr 2013 14:35:08 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/mario-bros-em-shell-script/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/mario-bros-em-shell-script/</guid>
       <description>Quando o Aprígio diz que &amp;#8220;Linux é o poder&amp;#8220;, não podemos menosprezar suas palavras. Estudantes da FATEC de Carapicuíba desenvolveram o jogo Mario Bros em shell script para um trabalho do 1º semestre, e ainda vejo gente reclamando porque tem que fazer trabalhos muito mais simples em Universidades por este Brasil.
 Veja meu vídeo jogando esta maravilhosa implementação.
  Assistir no Youtube Agora fique com o vídeo original.

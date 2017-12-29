@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trojan on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/trojan/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/trojan/</link>
     <description>Recent content in Trojan on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 18 Aug 2013 13:55:15 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/trojan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/trojan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novidades sobre o trojan para Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-trojan-para-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-trojan-para-linux/</link>
       <pubDate>Sun, 18 Aug 2013 13:55:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-trojan-para-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-trojan-para-linux/</guid>
       <description>Podem ficar mais tranquilos, a história do trojan, que você pode ver neste vídeo, é mais uma história super-valorizada pela mídia. Agora com detalhes sobre o processo de instalação do trojan &amp;#8220;Hand of Thief&amp;#8221; estou bem tranquilo.
 Como ser infectado? Simples, acredite em um email qualquer. Entre no site e faça o download do arquivo que ele pedir para você fazer isso. Instale manualmente o trojan, inclusive usando sua permissão de super-usuário.</description>
     </item>
     
     <item>
       <title>Videocast #40 – Vírus no Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</link>
       <pubDate>Sat, 10 Aug 2013 21:18:13 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</guid>
       <description> Novas notícias de programas maliciosos no Linux foram dadas esta semana. Desta vez não se fala tanto em vírus, mas sim em um trojan que rouba dados bancários. Será que esta ameaça é realmente uma ameaça?
  Assistir no Youtube Links para as notícias {.button}  Trojan ataca utilizadores de Linux roubando-lhes informações bancárias Linux desktop Trojan &amp;#8216;Hand of Thief&amp;#8217; steals in Thieves Reaching for Linux—”Hand of Thief” Trojan Targets Linux  </description>
     </item>

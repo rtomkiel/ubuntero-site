@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rochard on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/rochard/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/rochard/</link>
     <description>Recent content in Rochard on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 24 Oct 2012 10:00:07 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/rochard/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/rochard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rochard</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/rochard/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/rochard/</link>
       <pubDate>Wed, 24 Oct 2012 10:00:07 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/rochard/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/rochard/</guid>
       <description>Rochard é o quinto jogo da série Humble Bundle. Este jogo me fez lembrar dos antigos &amp;#8220;The Dig&amp;#8221; e &amp;#8220;Full Throtlle&amp;#8221;, não pela jogabilidade, mas pela história e pelos puzzles. É uma ótima dica para quem quer passar algumas horas pensando e se divertindo.
  Assistir no Youtube </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardwareinfo on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/hardwareinfo/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/hardwareinfo/</link>
     <description>Recent content in Hardwareinfo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Jan 2013 16:00:17 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hardwareinfo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/hardwareinfo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hardwareinfo – Checando as informações de hardware</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/hardwareinfo-checando-as-informacoes-de-hardware/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/hardwareinfo-checando-as-informacoes-de-hardware/</link>
       <pubDate>Tue, 15 Jan 2013 16:00:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/hardwareinfo-checando-as-informacoes-de-hardware/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/hardwareinfo-checando-as-informacoes-de-hardware/</guid>
       <description>Hardwareinfo é mais um utilitário (bem completo) que mostra informações detalhadas sobre o sistema. Ele retorna informações sobre a placa mãe, processador, memória RAM, GPU, HDD, dispositivos USB, sensores e muitos outros tipos de hardware.
 
 Apesar de visualmente simples, ele é capaz de retornar informações completas não só do hardware, mas de software, como versão do Kernel, tipo de Distribuição, uso de CPU e memória RAM, informação de Usuários, BIOS, Logs, dentre outros detalhes.</description>

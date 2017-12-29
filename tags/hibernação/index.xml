@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hibernação on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/hiberna%C3%A7%C3%A3o/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/hiberna%C3%A7%C3%A3o/</link>
     <description>Recent content in Hibernação on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 23 Apr 2012 19:27:22 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/hiberna%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/hiberna%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Precise pangolin não gosta de hibernar</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</link>
       <pubDate>Mon, 23 Apr 2012 19:27:22 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/precise-pangolin-nao-gosta-de-hibernar/</guid>
       <description>Esta é uma funcionalidade que não costumo usar, para falar a verdade eu só usei uma vez para ver o que acontecia, então não é algo que eu tenha notado, se não fosse o post do Andre Noel e o Cristiano Lazzari me perguntar eu nem saberia que isto não está mais acontecendo no 12.04.
 O problema é simples, a Canonical resolveu tirar a opção de hibernar da próxima versão do Ubuntu simplesmente por não funcionar em grande parte dos computadores existentes no mundo.</description>
     </item>

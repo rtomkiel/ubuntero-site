@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orange Box on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/orange-box/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/orange-box/</link>
     <description>Recent content in Orange Box on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 13 May 2014 16:49:27 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/orange-box/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/orange-box/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Caixa laranja</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/caixa-laranja/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/caixa-laranja/</link>
       <pubDate>Tue, 13 May 2014 16:49:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/caixa-laranja/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/caixa-laranja/</guid>
       <description>Concebido pela Canonical e a customizadora de PC&amp;#8217;s TranquilPC, a Caixa Laranja(Orange Box) é um cluster de 10 computadores concentrados em um case de &amp;#8220;fácil&amp;#8221; transporte.
 Assim como o Android utilizou o G1 para mostrar todo o poder em seu início, a Canonical aposta no Orange Box para alavancar a venda de seus serviços de nuvem.
 O Orange Box é uma ótima plataforma para desenvolvimento e mostra do poder dos serviços como JuJu, MAAS e Landscape.</description>

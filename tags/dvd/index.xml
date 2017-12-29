@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dvd on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/dvd/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/dvd/</link>
     <description>Recent content in Dvd on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 10 Mar 2012 12:45:53 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/dvd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/dvd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DVD’s protegidos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</link>
       <pubDate>Sat, 10 Mar 2012 12:45:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dvd-s-protegidos/</guid>
       <description>A ideia de fazer este artigo veio do pedido de ajuda de um Ubuntero que entrou em contato comigo por e-mail para tentar resolver o problema com alguns DVD&amp;#8217;s protegidos. Sim isto mostra muito bem porque estas proteções não são nada boas.
 Sem enrolação, vamos ao que é necessário para que todos possam assistir aos seus DVD&amp;#8217;s originais que custaram caro.
 Abra o terminal, pressione Ctrl+Alt+t, e digite ou cole estes comandos(os comandos são bem grandes, por isso recomendo que copie e cole):</description>
@@ -24,20 +24,20 @@ Abra o terminal, pressione Ctrl+Alt+t, e digite ou cole estes comandos(os comand
     
     <item>
       <title>Como gravar uma imagem .iso?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</link>
       <pubDate>Mon, 03 Jan 2011 15:43:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</guid>
       <description>Ao contrário do que algumas pessoas imaginam, um arquivo com a extensão iso não deve ser descompactada como um simples arquivo zip ou rar. Embora os programas de compactação consigam abrir arquivos .iso, estes arquivos não são simples arquivos compactados e não devem ser tratados com tal.
 Um arquivo .iso é uma imagem de CD/DVD e deve ser gravada na mídia adequada com as ferramentas disponibilizadas por um programa de gravação.</description>
     </item>
     
     <item>
       <title>DVD riscado e seu drive não consegue mais ler?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</link>
       <pubDate>Mon, 03 Jan 2011 02:37:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</guid>
       <description>Neste final de semana passei por esta situação com um DVD importante para seu proprietário. Os dados no DVD eram muito importante e uma cópia de segurança era extremamente necessária, no entanto a cópia não foi feita a tempo e a mídia já estava totalmente riscada.
 Como solução imediata pensei no comando &amp;#8220;dd&amp;#8221; no terminal, mas para minha surpresa eu conseguia copiar apenas 4.9 MB de dados antes de receber a mensagem de que a mídia estava com defeito.</description>
     </item>

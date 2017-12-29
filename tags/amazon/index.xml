@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amazon on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/amazon/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/amazon/</link>
     <description>Recent content in Amazon on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Dec 2013 00:41:39 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #31 – Sua TV te espiona e não use Linux Mint</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
       <pubDate>Thu, 05 Dec 2013 00:41:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
       <description>Ainda não foi desta vez, mas ainda não desistimos e pelo menos acredito que vamos gravar neste ano o episódio do openSUSE. Neste episódio, Ivan, Aprígio, Og Maciel e Diego se juntaram para falar um pouco sobre algumas notícias que foram divulgadas nos últimos dias e aproveitamos para responder algumas perguntas feitas pelos ouvintes que acompanhavam a gravação ao vivo.
 Links do episódio  Link do raspbery comentado no espaço da comunidade Opencast #12a &amp;#8211; Libreoffice Opencast #12b &amp;#8211; Libreoffice Linux Mint não é seguro para transações bancárias Resposta do Linux Mint Post explicando o que realmente foi dito sobre o Mint FAQ do Kernel do Ubuntu Drones da Amazon Vírus de computador pode se comunicar pelos alto-falantes Ilustrador troca Photoshop por Gimp Sua TV te espiona Sailfish-OS Instalador do Cyanogenmod é retirado da Play Store NSA pediu para que Linus instalasse backdoor no Linux  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Como desabilitar a lente da Amazon no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
       <pubDate>Mon, 21 Oct 2013 16:21:02 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
       <description>Se você não gosta da lente da Amazon e está usando o Ubuntu 13.10, já deve ter percebido que não adianta desinstalar o pacote unity-lens-shopping como era feito na versão 13.04. O procedimento agora é um pouco diferente.
 Para desabilitar a lente abra o Dash e clique na lente Aplicativos.
 
@@ -38,10 +38,10 @@ Clique em Amazon e clique no botão Desabilitar.
     
     <item>
       <title>Ubuntero On Air 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
       <pubDate>Fri, 28 Sep 2012 11:51:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
       <description>No dia 27 fizemos nosso piloto do quadro Ubuntero On Air. Este primeiro episódio serviu mais para conhecermos a ferramenta e testar se algumas configurações da ferramenta estavam funcionando.
 Os assuntos que abordamos foram:
  Propagandas da Amazon no Ubuntu 12.10 Mudança de ideia da Intel sobre o suporte ao Linux nos chips da linha Clover Trail para tablets Grub 2 voltando ao Ubuntu 12.10 Adoção de software livre pelo governo francês Modelo de software livre brasileiro em destaque na campus party do Equador Ubuntu 12.</description>

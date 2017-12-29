@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serpro on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/serpro/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/serpro/</link>
     <description>Recent content in Serpro on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 28 Nov 2011 17:33:33 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/serpro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/serpro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resumo semanal 01</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</link>
       <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-01/</guid>
       <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
 Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
 A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>

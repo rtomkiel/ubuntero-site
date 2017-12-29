@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/update/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/update/</link>
     <description>Recent content in Update on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Apr 2014 13:03:29 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/update/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/update/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como atualizar o Ubuntu 12.04 para o 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
       <pubDate>Wed, 23 Apr 2014 13:03:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
       <description>Se você é usuário do Ubuntu 12.04, deve estar preocupado que a atualização para a versão 14.04 ainda não apareceu no seu gerenciador de atualizações. Pode ficar tranquilo que o seu Ubuntu não está com problema, este é o comportamento esperado para esta versão devido ao suporte até 2017 da versão 12.04. A notificação de atualização deve vir só em meados de julho, quando a versão 14.04.1 será lançada.
 Para atualizar para a versão 14.</description>
     </item>

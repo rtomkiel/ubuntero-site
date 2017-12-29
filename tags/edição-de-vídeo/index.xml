@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edição De Vídeo on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o-de-v%C3%ADdeo/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o-de-v%C3%ADdeo/</link>
     <description>Recent content in Edição De Vídeo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 12 Jul 2013 03:42:19 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o-de-v%C3%ADdeo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/edi%C3%A7%C3%A3o-de-v%C3%ADdeo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aventuras no Kdenlive – 001</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/aventuras-no-kdenlive-001/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/aventuras-no-kdenlive-001/</link>
       <pubDate>Fri, 12 Jul 2013 03:42:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/aventuras-no-kdenlive-001/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/aventuras-no-kdenlive-001/</guid>
       <description>A ideia foi lançada pelo twitter e resolvi encarar mais esta tarefa. Nesta série vou mostrar minhas experiências com a edição de vídeo no Kdenlive, não esperem nada de profissional, apenas um usuário simples descobrindo uma ferramenta.
 Neste primeiro vídeo mostro como fiz a abertura dos vídeos do videocast.
  Assistir no Youtube Para conhecer um pouco mais sobre o Kdenlive, veja este post. </description>
@@ -24,10 +24,10 @@ Neste primeiro vídeo mostro como fiz a abertura dos vídeos do videocast.
     
     <item>
       <title>Cinelerra, edição profissional de vídeo no Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/cinelerra-edicao-profissional-de-video-no-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/cinelerra-edicao-profissional-de-video-no-linux/</link>
       <pubDate>Thu, 24 Nov 2011 10:00:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/cinelerra-edicao-profissional-de-video-no-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/cinelerra-edicao-profissional-de-video-no-linux/</guid>
       <description>Não sou nenhum profissional de edição de vídeo, mas sempre que eu ouço alguém falar de edição profissional de vídeos no Linux o programa mencionado é o Cinelerra. Algumas pessoas me perguntaram como instalar o Cinelerra no Ubuntu, já que o mesmo não está presente no repositório oficial do Ubuntu. Veja como fazer isto nos passos a seguir:
 Abra o terminal, pressionando a tecla Ctrl+Alt+t e digite os seguintes comandos:</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mendeley on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/mendeley/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/mendeley/</link>
     <description>Recent content in Mendeley on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 15 May 2013 13:16:54 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/mendeley/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/mendeley/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gestor de referências bibliográficas no Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</link>
       <pubDate>Wed, 15 May 2013 13:16:54 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-no-android/</guid>
       <description>Artigo enviado por Cailon França de Castro(@cailondecastro)
 Complementando o artigo anterior. Para quem usa Android é interessante instalar o Droideley (beta) que permite acessar e compartilhar qualquer artigo de sua biblioteca no Mendeley.
   Depois de instalado é só fazer o login com e-mail e senha que usou em seu cadastro que os dados de sua biblioteca são sincronizados automaticamente.
@@ -25,10 +25,10 @@ Complementando o artigo anterior. Para quem usa Android é interessante instala
     
     <item>
       <title>Gestor de referências bibliográficas para Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</link>
       <pubDate>Tue, 14 May 2013 12:00:09 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gestor-de-referencias-bibliograficas-para-ubuntu/</guid>
       <description>Artigo enviado por Cailon França de Castro(@cailondecastro)
 Umas das coisas que aprendemos cedo na Universidade é que quando vamos escrever algo devemos ler muita coisa a sobre o que vamos escrever, e não foi diferente quando comecei a escrever meu projeto de TCC alguns semestres atrás, li e citei pouco mais de uma dezena de artigos digitando cada uma das referências a mão. Um colega que já estava concluindo o curso disse que eu poderia ter automatizado o processo usando o Endnote, procurei o programa e para minha insatisfação o programa é pago e não possui versão para Linux.</description>
     </item>

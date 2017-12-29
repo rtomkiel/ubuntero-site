@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abes on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/abes/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/abes/</link>
     <description>Recent content in Abes on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 20 Jul 2013 01:39:27 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/abes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/abes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #25 – FISL 14, Fedora 19 e Firefox OS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
       <pubDate>Sat, 20 Jul 2013 01:39:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
       <description>Voltamos a nos reunir para gravar mais um episódio do Opencast, desta vez a publicação atrasou devido a muito trabalho e atraso na data de gravação causado por falhas no próprio hangout.
 Neste episódio Ivan, Og Maciel, Aprígio Simões, Diego e Rudinei tentamos comentar alguns acontecimentos importantes que foram notícia no mundo do software livre. Entre eles estão o FISL 14, onde o Diego e o Rudinei estavam presentes, Fedora 19 que pode explodir a cabeça de alguns e o Firefox OS.</description>
     </item>

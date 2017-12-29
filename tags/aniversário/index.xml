@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aniversário on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/anivers%C3%A1rio/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/anivers%C3%A1rio/</link>
     <description>Recent content in Aniversário on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 21 Oct 2013 22:14:09 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/anivers%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/anivers%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu comemora 9 anos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-comemora-9-anos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-comemora-9-anos/</link>
       <pubDate>Mon, 21 Oct 2013 22:14:09 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-comemora-9-anos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-comemora-9-anos/</guid>
       <description>Em 20/10/2013 a distribuição GNU/Linux Ubuntu comemorou 9 anos do lançamento de sua primeira versão.
 O Ubuntu 4.10 (The Warty Warthog) foi lançado em 20 de outubro de 2004 baseado na distribuição Debian, com a proposta de ser um sistema operacional Linux de fácil utilização, para que qualquer pessoa consiga usar sem dificuldades.
 A cada 6 meses é lançada uma nova release. Em 17 de outubro de 2013 foi lançado o Ubuntu 13.</description>
@@ -24,20 +24,20 @@ A cada 6 meses é lançada uma nova release. Em 17 de outubro de 2013 foi lança
     
     <item>
       <title>Aniversário de 6 anos do Ubuntero</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/aniversario-de-6-anos-do-ubuntero/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/aniversario-de-6-anos-do-ubuntero/</link>
       <pubDate>Tue, 26 Jun 2012 11:00:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/aniversario-de-6-anos-do-ubuntero/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/aniversario-de-6-anos-do-ubuntero/</guid>
       <description>Seis anos se passaram e o site cresceu bastante. No início era um blog pessoal para documentar a aprendizagem de um usuário no mundo do Ubuntu e para aprender a trabalhar com um servidor web. Os acessos foram crescendo e o servidor teve que sair do meu quarto e passou para um servidor de verdade em uma empresa que tinha um link melhor, mas não era especializada no assunto.
 O domínio mudou e passou a ser acessado através do endereço atual e deixou de ser um blog pessoal, virou um site para ajudar outras pessoas.</description>
     </item>
     
     <item>
       <title>5 anos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/5-anos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/5-anos/</link>
       <pubDate>Sun, 26 Jun 2011 18:29:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/5-anos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/5-anos/</guid>
       <description>Quem diria? Há cinco anos começava a história deste blog. No meu quarto, em um pentium 100 com 32 MB de Ram começou o Ubuntero. No início nem nome tinha o blog, logo depois recebeu o nome de Ubuntero. Nos primeiros meses era um milagre ter 50 page views e o pentim 100 dava conta com sobra, mas o blog começou a se tornar conhecido e o pentium 100 foi substituído por um k6-II 500 com 128 MB de memória e assim foi por um bom tempo até começar a ser hospedado em um servidor de verdade.</description>
     </item>
     

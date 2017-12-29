@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quetzal on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/quetzal/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/quetzal/</link>
     <description>Recent content in Quetzal on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 22 Sep 2012 20:40:57 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/quetzal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/quetzal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast 17 – Ubuntu 12.10 Beta 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</link>
       <pubDate>Sat, 22 Sep 2012 20:40:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</guid>
       <description>Enfim consegui fazer a gravação do vídeo do Ubuntu 12.10 Beta 1. No início do vídeo eu faço a correção de uma informação que dei sobre o Unity 2D no Ubuntu 12.04 e na sequencia mostro as novidades visuais do Ubuntu 12.10 Beta 1.
 Sim eu estava com o nariz congestionado, não é problema de gravação.</description>
     </item>
     
     <item>
       <title>Quantal Quetzal</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</link>
       <pubDate>Tue, 24 Apr 2012 00:05:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</guid>
       <description>Nem lançaram o Ubuntu 12.04 mas as conversas já estão sendo realizadas para o desenvolvimento da 12.10, e o nome já foi escolhido. Quantal Quetzal será o codinome da segunda versão do Ubuntu a ser lançada neste ano.
 Segundo o próprio Mark Shuttleworth, a versão 12.10 vai servir para redesenhar a cara do Ubuntu, por isto esta ave foi escolhida para dar nome a esta versão.</description>
     </item>

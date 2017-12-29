@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linuz on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/linuz/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/linuz/</link>
     <description>Recent content in Linuz on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 25 Apr 2011 12:52:24 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/linuz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/linuz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux vs Windows – Jogos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</link>
       <pubDate>Mon, 25 Apr 2011 12:52:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/linux-vs-windows-jogos/</guid>
       <description>Ao contrário do que alguns falaram nos comentários do artigo anterior, a licença do Windows 7 que comprei não serve apenas para que eu possa falar mal do sistema, não sou louco para fazer isto.
 Como no primeiro artigo, onde falei da instalação dos dois sistemas, o Windows 7 perdeu de lavada para o Ubuntu 11.04, neste artigo irei falar de um campo onde o Windows ganha de lavada do Ubuntu e outros Linux.</description>
     </item>

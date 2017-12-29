@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review Semanal on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/review-semanal/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/review-semanal/</link>
     <description>Recent content in Review Semanal on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 31 Jan 2012 10:00:24 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/review-semanal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/review-semanal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review semanal 05</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/review-semanal-05/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/review-semanal-05/</link>
       <pubDate>Tue, 31 Jan 2012 10:00:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/review-semanal-05/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/review-semanal-05/</guid>
       <description>Um tanto quanto atrasado mas o review semanal está no ar. Devido a problemas nos gravadores de telas tentados durante o final de semana no Ubuntu 12.04 Alpha 1, não exibimos o review semanal no domingo como o esperado e ficamos sem uma previsão para postar o episódio.
 O destino foi gente boa conosco e resolveu entregar o notebook Dell Vostro 3450 com Ubuntu pre-instalado no início da semana, permitindo que o review fosse repensado e publicado hoje.</description>
     </item>

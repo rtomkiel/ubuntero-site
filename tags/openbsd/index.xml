@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openbsd on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/openbsd/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/openbsd/</link>
     <description>Recent content in Openbsd on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 24 Oct 2011 12:52:44 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/openbsd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TcheLinux Sant’Ana do Livramento</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/tchelinux-santana-do-livramento/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/tchelinux-santana-do-livramento/</link>
       <pubDate>Mon, 24 Oct 2011 12:52:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/tchelinux-santana-do-livramento/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/tchelinux-santana-do-livramento/</guid>
       <description>Fórum TcheLinux de Software Livre &amp;#8211; Sant&amp;#8217;Ana do Livramento
 Data: 12 de Novembro
 Local: Centro Anglicano de Eventos &amp;#8211; Instituto Livramento -Av. João Goulart.

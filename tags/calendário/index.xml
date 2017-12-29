@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendário on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/calend%C3%A1rio/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/calend%C3%A1rio/</link>
     <description>Recent content in Calendário on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 30 Apr 2014 12:58:35 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/calend%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/calend%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Divulgado calendário do Ubuntu 14.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/divulgado-calendario-do-ubuntu-14-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/divulgado-calendario-do-ubuntu-14-10/</link>
       <pubDate>Wed, 30 Apr 2014 12:58:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/divulgado-calendario-do-ubuntu-14-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/divulgado-calendario-do-ubuntu-14-10/</guid>
       <description>Como prometido, aqui está o calendário da próxima versão do Ubuntu 14.10.
 Como muitas pessoas tem dificuldade em interpretar a tabela abaixo, as principais informações são:
  Alpha 1 &amp;#8211; 26 de junho Alpha 2 – 24 de julho Congelamento de funcionalidades — 21 de agosto Beta 1 – 28 de agosto UI Freeze — 11 de setembro Beta Final – 25 de setembro Congelamento do Kernel — 2 de outubro Candidato a versão final – 9 de outubro Lançamento da versão final – 16 de outubro  &amp;nbsp;</description>
@@ -24,29 +24,29 @@ Como muitas pessoas tem dificuldade em interpretar a tabela abaixo, as principai
     
     <item>
       <title>Trusty Tahr será o nome do Ubuntu 14.04 e seu calendário está definido</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
       <pubDate>Tue, 22 Oct 2013 13:03:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
       <description>Mark Shuttlerworth, ao falar sobre o lançamento do Ubuntu 13.10, anunciou o nome do Ubuntu 14.04, Trusty Tahr. O bichinho da foto aí de cima é uma espécie de cabra selvagem que representa resistência e coragem. Estes adjetivos me levam a crer que a próxima versão terá a estabilidade que é esperada de uma versão LTS, mas também terá a coragem da implantação do novo servidor gráfico Mir, mesmo sem os exaustivos testes que teríamos se o mesmo estivesse já disponível por padrão na versão 13.</description>
     </item>
     
     <item>
       <title>Calendário de desenvolvimento do Ubuntu 14.04 LTS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</link>
       <pubDate>Sat, 31 Aug 2013 13:31:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</guid>
       <description>O Ubuntu 14.04 LTS ainda não tem nome definido, sabemos somente que irá iniciar pela letra &amp;#8220;T&amp;#8221;, mas seu cronograma de desenvolvimento já foi divulgado durante a UDS (Ubuntu Developer Summit), realizada online entre os dias 27 a 29 de Agosto de 2013.
 O primeiro Alpha do Ubuntu 14.04 LTS estará disponível em 19 de Dezembro de 2013 e a versão final está prevista para 17 de Abril de 2014.</description>
     </item>
     
     <item>
       <title>Calendário de lançamento do Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/calendario-de-lancamento-do-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/calendario-de-lancamento-do-ubuntu-13-10/</link>
       <pubDate>Fri, 03 May 2013 16:51:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/calendario-de-lancamento-do-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/calendario-de-lancamento-do-ubuntu-13-10/</guid>
       <description>Como de costume, nem Esfriou o lançamento do Ubuntu 13.04 (Raring Ringtail) e já temos disponível o calendário de lançamento do Ubuntu 13.10 (Saucy Salamander). Veja abaixo as datas, lembrando que a primeira coluna é a semana, a segunda é a data e a terceira o título do evento.
 Os freezes (congelamentos) ocorrem normalmente por volta de 21:00 UTC da data da tabela.
   Week   Date (Thursday)   13.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photoshop on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/photoshop/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/photoshop/</link>
     <description>Recent content in Photoshop on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 05 Dec 2013 00:41:39 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/photoshop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #31 – Sua TV te espiona e não use Linux Mint</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
       <pubDate>Thu, 05 Dec 2013 00:41:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
       <description>Ainda não foi desta vez, mas ainda não desistimos e pelo menos acredito que vamos gravar neste ano o episódio do openSUSE. Neste episódio, Ivan, Aprígio, Og Maciel e Diego se juntaram para falar um pouco sobre algumas notícias que foram divulgadas nos últimos dias e aproveitamos para responder algumas perguntas feitas pelos ouvintes que acompanhavam a gravação ao vivo.
 Links do episódio  Link do raspbery comentado no espaço da comunidade Opencast #12a &amp;#8211; Libreoffice Opencast #12b &amp;#8211; Libreoffice Linux Mint não é seguro para transações bancárias Resposta do Linux Mint Post explicando o que realmente foi dito sobre o Mint FAQ do Kernel do Ubuntu Drones da Amazon Vírus de computador pode se comunicar pelos alto-falantes Ilustrador troca Photoshop por Gimp Sua TV te espiona Sailfish-OS Instalador do Cyanogenmod é retirado da Play Store NSA pediu para que Linus instalasse backdoor no Linux  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>

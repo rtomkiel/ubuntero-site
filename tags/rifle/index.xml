@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rifle on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/rifle/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/rifle/</link>
     <description>Recent content in Rifle on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 10 Jan 2013 11:34:42 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/rifle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/rifle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rifle rodando Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/rifle-rodando-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/rifle-rodando-linux/</link>
       <pubDate>Thu, 10 Jan 2013 11:34:42 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/rifle-rodando-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/rifle-rodando-linux/</guid>
       <description>Pois é, uma notícia um tanto quanto inusitada hoje. Embora não rode diretamente Ubuntu, a startup TrackingPoint resolveu lançar um rifle com precisão guiada e o sistema operacional para guiar esta precisão foi Linux.
 A lente do rifle tem um visor onde o alvo poderá ser marcado e informações sobre distância, temperatura, umidade entre outras informações importantes para um atirador são mostradas.
 O melhor é que ao travar um alvo você tem certeza que o que vai travar será o alvo e não a arma.</description>

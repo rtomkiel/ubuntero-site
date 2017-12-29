@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bq on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/bq/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/bq/</link>
     <description>Recent content in Bq on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 11 Aug 2015 12:43:57 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/bq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/bq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smartphone com Ubuntu já pode ser comprado por brasileiros</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</link>
       <pubDate>Tue, 11 Aug 2015 12:43:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/</guid>
       <description>Uma notícia que quase não dá para acreditar (calma que tem pegadinha). A BQ, empresa espanhola que vem apostando no ainda desconhecido da grande massa, Ubuntu para smartphones, agora está vendendo seus telefones para qualquer parte do planeta em sua loja pela internet.
 Os modelos que a BQ está vendendo são o Aquarios E4.5 que custa €169.90 e o Aquarios E5 que custa €199.90. A diferença dos dois aparelhos está no tamanho da tela que no Aquarios E4.</description>
     </item>
     
     <item>
       <title>Canonical anuncia dois parceiros para o Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</link>
       <pubDate>Wed, 19 Feb 2014 23:57:40 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/canonical-anuncia-dois-parceiros-para-o-ubuntu-touch/</guid>
       <description>Finalmente temos nomes(passei bem longe de acertar) de duas empresas que venderão smartphones com Ubuntu Touch instalado de fábrica, são elas a espanhola Bq e a chinesa Meizu.
 Segundo o anúncio feito pelo próprio Mark Shuttleworth durante um hangout, as duas empresas estão dispostas a vender aparelhos com Ubuntu Touch por todo o planeta, mas claro que a Bq começará pela Europa e a Meizu pela China. A China alias, é o maior mercado do Ubuntu no momento, nada mais justo do que começar a vender celulares por aquelas bandas.</description>
     </item>

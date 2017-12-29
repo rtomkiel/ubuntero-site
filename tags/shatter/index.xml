@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shatter on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/shatter/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/shatter/</link>
     <description>Recent content in Shatter on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 03 Nov 2012 12:49:03 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/shatter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/shatter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configurações do Shatter</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/configuracoes-do-shatter/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/configuracoes-do-shatter/</link>
       <pubDate>Sat, 03 Nov 2012 12:49:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/configuracoes-do-shatter/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/configuracoes-do-shatter/</guid>
       <description>Pensei que não seria necessário mostrar esta parte do jogo, na verdade fora do jogo, mas como algumas pessoas me pediram, aí está como configurar as teclas do jogo.</description>
     </item>
     
     <item>
       <title>Shatter</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/shatter/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/shatter/</link>
       <pubDate>Fri, 02 Nov 2012 20:47:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/shatter/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/shatter/</guid>
       <description>No sexto jogo da série Humble Bundle, mostramos um jogo mais simples, mas não menos interessante e divertido. Shatter é um jogo para passar o tempo, pelo menos na minha opinião.
  Assistir no Youtube </description>
     </item>

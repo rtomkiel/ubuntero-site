@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sofwarelivre on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/sofwarelivre/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/sofwarelivre/</link>
     <description>Recent content in Sofwarelivre on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 16 May 2013 17:04:24 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sofwarelivre/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/sofwarelivre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>XVII Semana Acadêmica do Curso de Ciência da Computação</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</link>
       <pubDate>Thu, 16 May 2013 17:04:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/xvii-semana-academica-do-curso-de-ciencia-da-computacao/</guid>
       <description>Este não é um evento gratuito como a maioria que divulgo aqui, bem pelo contrário, tem um preço até que bem salgado para os padrões de software livre, a inscrição custa $ 80,00 para alunos e R$ 100,00 para público em geral e nem é específico de software livre. O motivo de ele estar sendo divulgado aqui é que eu serei um dos palestrantes e mostrarei o Ubuntu e o Ubuntu Touch em um dos dias e também ministrarei um mini-curso de Linux básico no sábado.</description>
     </item>
     

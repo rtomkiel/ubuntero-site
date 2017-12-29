@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Área De Trabalho on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/%C3%A1rea-de-trabalho/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/%C3%A1rea-de-trabalho/</link>
     <description>Recent content in Área De Trabalho on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 20 Aug 2013 14:32:11 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/%C3%A1rea-de-trabalho/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/%C3%A1rea-de-trabalho/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Área de Trabalho mostrando arquivos da pasta pessoal</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</link>
       <pubDate>Tue, 20 Aug 2013 14:32:11 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</guid>
       <description>Ainda não encontrei o que gerou o problema, mas eu estava com minha área de trabalho mostrando os arquivos e pastas da pastas pessoal. Isto aconteceu após voltar o Ubuntu da versão 13.10 para a 13.04 mantendo a mesma partição home que também havia sido utilizada pelo Elementary OS(não estou dizendo que a culpa é do Elementary OS).
 Uma breve busca pelos arquivos de configuração do sistema e o problema foi resolvido.</description>
     </item>

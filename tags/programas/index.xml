@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programas on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/programas/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/programas/</link>
     <description>Recent content in Programas on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 20 Dec 2011 13:24:32 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/programas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/programas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Central de programas do Ubuntu Online</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/central-de-programas-do-ubuntu-online/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/central-de-programas-do-ubuntu-online/</link>
       <pubDate>Tue, 20 Dec 2011 13:24:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/central-de-programas-do-ubuntu-online/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/central-de-programas-do-ubuntu-online/</guid>
       <description>Se algum dia você não tiver um computador com Ubuntu instalado e alguém lhe perguntar se existe algum programa específico o que você faz? Agora você pode acessar a Central de programas do Ubuntu Online.
 A proposta da Central de Programas Online é permitir que programas sejam pesquisados e que informações dos programas possam ser consultadas de qualquer lugar em qualquer computador independentemente do sistema operacional. Se você estiver usando Ubuntu ao acessar a página, você poderá instalar os programas pelo botão que aparecerá ao visualizar os detalhes da aplicação.</description>
     </item>
     
     <item>
       <title>PPA’s interessantes</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</link>
       <pubDate>Thu, 06 Jan 2011 11:00:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</guid>
       <description>O Ubuntu tem seus próprios repositórios de programas, mas nem sempre eles são suficientes para instalar tudo o que cada usuário deseja. Estes repositórios são mantidos por algumas pessoas e tem suas regras para manter os pacotes atualizados ou não. Como muita gente não consegue ou não pode esperar para que uma versão seja testada ou um programa ser incluído nos repositórios oficiais, uma alternativa foi criada, PPA(Personal Package Archives &amp;#8211; Arquivos de pacotes pessoais).</description>
     </item>
     

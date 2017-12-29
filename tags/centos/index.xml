@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centos on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/centos/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/centos/</link>
     <description>Recent content in Centos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 22 Oct 2013 15:20:44 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/centos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu continua crescendo nos servidores</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</link>
       <pubDate>Tue, 22 Oct 2013 15:20:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</guid>
       <description>O Debian continua no topo, mas o Ubuntu está chegando lá com um crescimento muito alto e constante.
 Como já era de se esperar, o Debian continua dominando o mercado de servidores com 32,5% das instalações, seguida pelo Ubuntu e CentOS com 26% e pela Red Hat com 9%. Juntos, Debian e Ubuntu somam incríveis 58,5% do mercado de servidores, bem acima da soma da Red Hat, Fedora e CentOS que é de 38% aproximadamente.</description>
     </item>
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     

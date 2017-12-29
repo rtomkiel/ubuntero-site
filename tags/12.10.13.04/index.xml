@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12.10.13.04 on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/12.10.13.04/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/12.10.13.04/</link>
     <description>Recent content in 12.10.13.04 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 19 Oct 2012 11:45:13 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/12.10.13.04/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/12.10.13.04/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntero On Air #2 – Ubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</link>
       <pubDate>Fri, 19 Oct 2012 11:45:13 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</guid>
       <description>No segundo episódio do Ubuntero On Air falamos um pouco sobre o lançamento do Ubuntu 12.10 e batemos um papo com quem estava assistindo ao vivo. O assunto da steam também veio a tona e uma notícia sobre o Ubuntu 13.04 também foi discutida.
 Ficou no ar a ideia de tornar o Ubuntero On Air em um quadro fixo no site, com intervalo de tempo regular. Esperamos seus comentários para definir como faremos isto.</description>
     </item>

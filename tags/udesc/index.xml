@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udesc on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/udesc/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/udesc/</link>
     <description>Recent content in Udesc on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 12 Nov 2011 10:00:19 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/udesc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/udesc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu-BR e Ubuntu-BR-SC marcarão presença no Seminário de Ciência e Tecnologia da UDESC</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</link>
       <pubDate>Sat, 12 Nov 2011 10:00:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-br-e-ubuntu-sc-marcarao-presenca-no-seminario-de-ciencia-e-tecnologia-da-udesc/</guid>
       <description>Os times nacional e catarinense do Ubuntu estarão marcando presença no Seminário de Ciência e Tecnologia da Universidade do Estado de Santa Catarina, em São Bento do Sul – SC. Realizado pelo Centro de Educação do Planalto Norte, o evento acontecerá de 21 a 24 de novembro, e contará com uma palestra dos times apresentando a versão 11.10 do Ubuntu, bem como as novidades da próxima versão do sistema, 12.04.</description>
     </item>
     

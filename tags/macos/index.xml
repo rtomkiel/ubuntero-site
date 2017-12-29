@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macos on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/macos/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/macos/</link>
     <description>Recent content in Macos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 02 Aug 2012 13:39:41 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>exFAT no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/exfat-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/exfat-no-ubuntu/</link>
       <pubDate>Thu, 02 Aug 2012 13:39:41 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/exfat-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/exfat-no-ubuntu/</guid>
       <description>Durante o FISL 13 convivi com pessoas que utilizam Linux em seus Mac&amp;#8217;s e inevitavelmente um pendrive com sistema de arquivos exFAT caiu em minhas mãos. No primeiro momento eu disse para a pessoa que o sistema de arquivos não era suportado pelo Linux, mas ele mesmo me disse que tem uma maneira de habilitar este suporte e me passou o link que está no final do artigo. Antes que eu esqueça, quem deu a dica foi o Andrei Zuse.</description>
     </item>
     

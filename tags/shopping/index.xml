@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shopping on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/shopping/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/shopping/</link>
     <description>Recent content in Shopping on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 21 Oct 2013 16:21:02 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/shopping/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/shopping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como desabilitar a lente da Amazon no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
       <pubDate>Mon, 21 Oct 2013 16:21:02 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
       <description>Se você não gosta da lente da Amazon e está usando o Ubuntu 13.10, já deve ter percebido que não adianta desinstalar o pacote unity-lens-shopping como era feito na versão 13.04. O procedimento agora é um pouco diferente.
 Para desabilitar a lente abra o Dash e clique na lente Aplicativos.
 

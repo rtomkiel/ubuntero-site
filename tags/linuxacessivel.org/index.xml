@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linuxacessivel.org on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/linuxacessivel.org/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/linuxacessivel.org/</link>
     <description>Recent content in Linuxacessivel.org on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 27 Aug 2012 04:02:03 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/linuxacessivel.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/linuxacessivel.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #16 – Distribuições Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
       <pubDate>Mon, 27 Aug 2012 04:02:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
       <description>Neste episódio, eu (Ivan), Diego, Rudinei e Og Maciel falamos um pouco sobre o mundo de distribuições Linux existentes no mundo. Escolhemos algumas distribuições para falar um pouco mais como Ubuntu, incluindo uma polêmica, Red Hat, Slackware também entraram na discussão. Conversamos também um pouco sobre ser ou não ser bom ter este número gigantesco de distribuições.
 Não deixe de votar no Ubuntero para o Prêmio TopBlog Brasil 2012.</description>
     </item>
     
     <item>
       <title>Lançado linuxacessivel.org 2.0</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancado-linuxacessivel-org-2-0/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancado-linuxacessivel-org-2-0/</link>
       <pubDate>Tue, 19 Apr 2011 11:24:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-linuxacessivel-org-2-0/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancado-linuxacessivel-org-2-0/</guid>
       <description>linuxacessivel.org: nova imagem e agora também fala espanhol O linuxacessivel.org agora também fala espanhol. Graças ao amigo paraguaio Mario Bentiz e ao Latinoware 2010, temos o sitio satisfatoriamente traduzido e uma primeira imagem para o idioma de nossos vizinhos latinos americanos; onde esperamos que estes venham a somar em nossa comunidade e assim evoluirmos para uma melhor regionalização. Para tanto pedimos imensamente que divulguem o linuxacessivel.org para nossos irmãos da América Latina e outros países de idioma espanhol.</description>
     </item>
     

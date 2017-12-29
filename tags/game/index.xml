@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/game/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/game/</link>
     <description>Recent content in Game on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 29 Sep 2012 21:26:53 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast 18 – Bit.trip runner</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-18-bit-trip-runner/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-18-bit-trip-runner/</link>
       <pubDate>Sat, 29 Sep 2012 21:26:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-18-bit-trip-runner/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-18-bit-trip-runner/</guid>
       <description>Hoje começo a mostrar os jogos do Humble Bundle 6, serão 10 jogos.
 O primeiro jogo é Bit.tip. Um jogo simples na jogabilidade e em seus gráficos, mas pode render algumas horas de diversão, ou raiva caso não consiga fazer um pulo simples.
 Prometo que da próxima vez vou baixar o volume do jogo para que possam ouvir melhor minha voz.
@@ -25,20 +25,20 @@ Prometo que da próxima vez vou baixar o volume do jogo para que possam ouvir me
     
     <item>
       <title>Jogo Zero Ballistics</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</link>
       <pubDate>Sun, 13 Nov 2011 23:11:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/jogo-zero-ballistics/</guid>
       <description>Gosta de jogos de tiro em primeira pessoa(FPS)? O jogo que vamos mostrar hoje é um FPS um pouco diferente, ao invés de controlar um personagem humano, neste jogo controlamos um tanque de guerra.
 O jogo Zero Ballistics não tem uma história e então foca totalmente no jogo pela internet ou rede. Algumas funções do jogo ainda não funcionam, mesmo estando na versão 2.0, como a mudança de resolução de tela e o modo FullScreen, mas nada disso estraga a diversão do jogo.</description>
     </item>
     
     <item>
       <title>Como instalar game 0 Ad no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-instalar-game-0-ad-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-instalar-game-0-ad-no-ubuntu/</link>
       <pubDate>Thu, 10 Feb 2011 15:26:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-instalar-game-0-ad-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-instalar-game-0-ad-no-ubuntu/</guid>
       <description>Olá a todos!
 Esse é o meu primeiro post aqui no Ubuntero. Essa dica é como instalar de forma fácil o jogo oad, um jogo parecido com Age os Empires.
 O jeito facilitado para instalar, sem precisas compilar, é utilizar o getdeb, que como a descrição do site diz &amp;#8221; prover os últimos lançamento Open Source e Freeware&amp;#8221;.

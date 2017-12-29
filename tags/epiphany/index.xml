@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Epiphany on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/epiphany/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/epiphany/</link>
     <description>Recent content in Epiphany on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Jan 2012 10:19:44 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/epiphany/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/epiphany/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Flash no Epiphany 3.2</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</link>
       <pubDate>Tue, 24 Jan 2012 10:19:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/flash-no-epiphany-3-2/</guid>
       <description>Olá a todos. Meu notebook &amp;#8220;morreu&amp;#8221; há cerca de 3 meses atrás, e o desktop aqui de casa só passou a ser meu depois que minha mãe comprou um netbook para ela, e bem, o desktop não é lá grandes coisas, tem um Intel Celeron e 2 GB de RAM então com o uso prolongado dos navegadores ele acaba perdendo muito desempenho e para não ter que ficar fechando o tempo todo as janelas dos mesmos, o jeito foi pesquisar por uma alternativa.</description>
     </item>
     

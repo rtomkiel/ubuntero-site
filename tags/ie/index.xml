@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ie on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ie/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ie/</link>
     <description>Recent content in Ie on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 04 Dec 2011 18:18:44 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resumo semanal 02</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</link>
       <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resumo-semanal-02/</guid>
       <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
 Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
     </item>
     
     <item>
       <title>Internet Explorer no Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</link>
       <pubDate>Wed, 05 Jul 2006 11:00:42 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/internet-explorer-no-linux/</guid>
       <description>Acredito que muitos já tenham tentado instalar algum programa para Windows em seus computadores com o auxílio do Wine. Muitos dos programas mais simples funcionam sem nenhum problema, no entantanto, alguns pedem que outros recursos sejam instalandos anteriormente. A lista de recursos vai desde fontes utilizadas pelo windows, passando por dll&amp;#8217;s de systema ou de terceiros, até alguns programas como o famoso, e cheio de falhas, Internet Explorer.
 Instalar e já sair usando o Internet Explorer no linux não é tão simples como parece.</description>
     </item>

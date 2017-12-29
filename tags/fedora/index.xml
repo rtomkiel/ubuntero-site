@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fedora on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/fedora/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/fedora/</link>
     <description>Recent content in Fedora on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 12 Mar 2014 23:32:06 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #32 – Hardening</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
       <pubDate>Wed, 12 Mar 2014 23:32:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
       <description>Voltamos com o Opencast depois de uma boa parada para espairecer. Neste episódio Ivan, Aprígio Simões, Diego e Og Maciel falam sobre o processo de &amp;#8220;endurecimento&amp;#8221; de um sistema. Na verdade o episódio é quase um monólogo do Aprígio que foi quem sugeriu a pauta e também foi o especialista &amp;#8220;convidado&amp;#8221;.
 Excepcionalmente, mas pode se tornar o padrão, não teremos a versão em vídeo no youtube. O motivo é bem simples, é muito trabalho e isto acabaria prejudicando a periodicidade do Videocast e provavelmente a do Opencast também (mais do que já é prejudicada).</description>
     </item>
     
     <item>
       <title>Opencast #31 – Sua TV te espiona e não use Linux Mint</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</link>
       <pubDate>Thu, 05 Dec 2013 00:41:39 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-31-sua-tv-te-espiona-e-nao-use-linux-mint/</guid>
       <description>Ainda não foi desta vez, mas ainda não desistimos e pelo menos acredito que vamos gravar neste ano o episódio do openSUSE. Neste episódio, Ivan, Aprígio, Og Maciel e Diego se juntaram para falar um pouco sobre algumas notícias que foram divulgadas nos últimos dias e aproveitamos para responder algumas perguntas feitas pelos ouvintes que acompanhavam a gravação ao vivo.
 Links do episódio  Link do raspbery comentado no espaço da comunidade Opencast #12a &amp;#8211; Libreoffice Opencast #12b &amp;#8211; Libreoffice Linux Mint não é seguro para transações bancárias Resposta do Linux Mint Post explicando o que realmente foi dito sobre o Mint FAQ do Kernel do Ubuntu Drones da Amazon Vírus de computador pode se comunicar pelos alto-falantes Ilustrador troca Photoshop por Gimp Sua TV te espiona Sailfish-OS Instalador do Cyanogenmod é retirado da Play Store NSA pediu para que Linus instalasse backdoor no Linux  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Videocast #49 – Erros ao divulgar Software Livre</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</link>
       <pubDate>Tue, 03 Dec 2013 16:38:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-49-erros-ao-divulgar-software-livre/</guid>
       <description>Era para sair na segunda, mas saiu na terça. Neste episódio comento um pouco sobre alguns erros muito comuns a quem está começando a divulgar software livre.
  Assistir no Youtube Deixe nos comentários erros que eu não citei neste vídeo.</description>
     </item>
     
     <item>
       <title>Videocast #48 – Refisefuqui</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-48-refisefuqui/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-48-refisefuqui/</link>
       <pubDate>Mon, 11 Nov 2013 00:56:08 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-48-refisefuqui/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-48-refisefuqui/</guid>
       <description> Neste episódio do Videocast falo um pouco sobre uma coisa que muitas vezes me irrita, as &amp;#8220;distribuições&amp;#8221; refisefuqui. Com muita frequência me pedem para fazer reviews de &amp;#8220;distribuições&amp;#8221; refisefuqui e neste vídeo poderão entender por que eu acabo nunca fazendo.
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Ubuntu continua crescendo nos servidores</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</link>
       <pubDate>Tue, 22 Oct 2013 15:20:44 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-continua-crescendo-nos-servidores/</guid>
       <description>O Debian continua no topo, mas o Ubuntu está chegando lá com um crescimento muito alto e constante.
 Como já era de se esperar, o Debian continua dominando o mercado de servidores com 32,5% das instalações, seguida pelo Ubuntu e CentOS com 26% e pela Red Hat com 9%. Juntos, Debian e Ubuntu somam incríveis 58,5% do mercado de servidores, bem acima da soma da Red Hat, Fedora e CentOS que é de 38% aproximadamente.</description>
     </item>
     
     <item>
       <title>Videocast #40 – Vírus no Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</link>
       <pubDate>Sat, 10 Aug 2013 21:18:13 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-40-virus-no-linux/</guid>
       <description> Novas notícias de programas maliciosos no Linux foram dadas esta semana. Desta vez não se fala tanto em vírus, mas sim em um trojan que rouba dados bancários. Será que esta ameaça é realmente uma ameaça?
  Assistir no Youtube Links para as notícias {.button}  Trojan ataca utilizadores de Linux roubando-lhes informações bancárias Linux desktop Trojan &amp;#8216;Hand of Thief&amp;#8217; steals in Thieves Reaching for Linux—”Hand of Thief” Trojan Targets Linux  </description>
     </item>
     
     <item>
       <title>Videocast #38 – Fedora 19</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</link>
       <pubDate>Mon, 22 Jul 2013 11:39:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-38-fedora-19/</guid>
       <description>Voltando a nossa programação normal, mais um episódio do videocast está no ar. Para alegria de muitos, testei o Fedora 19, claro que algumas comparações com o Ubuntu são feitas, isto é inevitável.
 No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o que agradou e desagradou no vídeo abaixo.
  Assistir no Youtube </description>
@@ -84,70 +84,70 @@ No geral o sistema me agradou, mas tem algumas coisas que me incomodaram. Veja o
     
     <item>
       <title>Opencast #25 – FISL 14, Fedora 19 e Firefox OS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
       <pubDate>Sat, 20 Jul 2013 01:39:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
       <description>Voltamos a nos reunir para gravar mais um episódio do Opencast, desta vez a publicação atrasou devido a muito trabalho e atraso na data de gravação causado por falhas no próprio hangout.
 Neste episódio Ivan, Og Maciel, Aprígio Simões, Diego e Rudinei tentamos comentar alguns acontecimentos importantes que foram notícia no mundo do software livre. Entre eles estão o FISL 14, onde o Diego e o Rudinei estavam presentes, Fedora 19 que pode explodir a cabeça de alguns e o Firefox OS.</description>
     </item>
     
     <item>
       <title>Opencast #24 – Projeto Fedora</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</link>
       <pubDate>Wed, 03 Jul 2013 00:06:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</guid>
       <description>Não foi planejado, afinal não sou usuário do Fedora, mas neste episódio falaremos do Projeto Fedora que teve sua mais nova versão, 19, lançada no dia 2 de julho. No episódio Ivan, Daniel Lara, Fabio Olive e Og Maciel falam um pouco sobre o Projeto Fedora no geral, sem focar em versões mas sim no Projeto como um todo.
 Temos um pouco de ruído no som devido ao Og Maciel ter sido obrigado a gravar o episódio diretamente de um bar.</description>
     </item>
     
     <item>
       <title>Opencast #21 – Mandou para o espaço e virou satélite, jogos e DRM</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
       <pubDate>Wed, 22 May 2013 03:07:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
       <description>Por motivos de força maior demos mais uma parada no Opencast, mas estamos de volta mais forte. A partir de agora, nosso casting aumentou e teremos vários participantes em todos os episódios. Nossa ideia é ter representação das mais diversas comunidades e regiões.
 Neste episódio, Ivan, Diego, Og Maciel, Tiago conversamos sobre vários assuntos, entre eles estão Jogos, DRM, Linux na estação espacial, impressoras 3D, LibreOffice no Android e muitas outras coisas.</description>
     </item>
     
     <item>
       <title>Flisol Chapecó 2013</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</link>
       <pubDate>Tue, 30 Apr 2013 12:25:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/flisol-chapeco-2013/</guid>
       <description>No dia 27 de abril aconteceu o Flisol 2013 por toda a América Latina e o local mais próximo da minha humilde residência foi Chapecó &amp;#8211; SC, mas este não foi o único motivo pelo qual estive no evento.
 Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela vakinha que ainda está em andamento.</description>
     </item>
     
     <item>
       <title>Ubuntu Day</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-day/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-day/</link>
       <pubDate>Mon, 01 Apr 2013 12:51:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-day/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-day/</guid>
       <description>O Ubuntu Day é um evento oficial da Comunidade Ubuntu Brasil, que nasceu na ideia se criar um ambiente de troca de informações e experiências entre as diversas áreas da Tecnologia da Informação que desenvolvem, colaboram, difundem, treinam e utilizam o Ubuntu como ambiente operacional, apresentando assim ao usuário final a gama de possibilidades de uso do ecossistema Ubuntu.
 Neste ano de 2013 nós teremos nossa primeira edição do Ubuntu Day São Paulo no dia 22 de junho, das 09 às 17 horas, no Clube Social do Sport Club Corinthians Paulista.</description>
     </item>
     
     <item>
       <title>Opencast #16 – Distribuições Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</link>
       <pubDate>Mon, 27 Aug 2012 04:02:03 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-16-distribuicoes-linux/</guid>
       <description>Neste episódio, eu (Ivan), Diego, Rudinei e Og Maciel falamos um pouco sobre o mundo de distribuições Linux existentes no mundo. Escolhemos algumas distribuições para falar um pouco mais como Ubuntu, incluindo uma polêmica, Red Hat, Slackware também entraram na discussão. Conversamos também um pouco sobre ser ou não ser bom ter este número gigantesco de distribuições.
 Não deixe de votar no Ubuntero para o Prêmio TopBlog Brasil 2012.</description>
     </item>
     
     <item>
       <title>Ubuntu, único servidor web que mostra crescimento</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
       <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
       <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
     </item>
     

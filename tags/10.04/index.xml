@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>10.04 on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/10.04/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/10.04/</link>
     <description>Recent content in 10.04 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 09 Nov 2011 16:44:04 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/10.04/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/10.04/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firefox 8 via PPA (apenas Ubuntu 10.04 e 10.10)</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</link>
       <pubDate>Wed, 09 Nov 2011 16:44:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-8-via-ppa-apenas-ubuntu-10-04-e-10-10/</guid>
       <description>Seguindo a onda dos PPA e o lançamento do Firefox 8 seguem os passos para adicionar o PPA do Firefox para instalarmos a última versão nas versões 10.04 e 10.10.
 Abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:
 sudo apt-add-repository ppa:mozillateam/firefox-stable Pressione Enter quando for pedido e aguarde o terminal ser liberado. Após o terminal ser liberado digite os seguintes comandos:
@@ -25,20 +25,20 @@ sudo apt-get update sudo apt-get dist-upgrade Pronto, agora você terá sempre a
     
     <item>
       <title>Asus vendendo netbooks com Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</link>
       <pubDate>Thu, 02 Jun 2011 17:17:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/asus-vendendo-netbooks-com-ubuntu/</guid>
       <description>A Canonical anunciou que a Asus irá oferecer, ainda este mês, uma linha completa de netbooks com Ubuntu 10.10 pré instalado.
 Depois de um super aquecimento do mercado de netbooks equipados com Linux, vieram novas levas de netbooks rodando o sistema operacional Windows 7 e até mesmo com o Windows XP. Ao que indica este cenário volta a ser favorável ao Linux e o que indica isto é o lançamento de uma linha completa de netbooks pela Asus.</description>
     </item>
     
     <item>
       <title>Firefox 4.0</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-4-0/</link>
       <pubDate>Tue, 22 Mar 2011 20:15:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-4-0/</guid>
       <description>Como todos já sabem, foi lançado o Firefox 4.0 e muitos usuários já estão baixando e usando. Em 12 horas o número de downloads ultrapassou o número alcançado pelo Internet Explorer 9 em 24 horas.
 Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga os passos abaixo:
  Abra o terminal em Aplicativos &amp;gt;&amp;gt; Acessórios &amp;gt;&amp;gt; Terminal e digite os seguintes comandos:  sudo add-apt-repository ppa:mozillateam/firefox-stable sudo apt-get update &amp;&amp; sudo apt-get upgrade Pronto, é só abrir o Firefox que ele lhe fará algumas poucas perguntas e poderá utilizar o Firefox no seu Ubuntu 10.</description>

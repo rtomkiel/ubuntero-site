@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emesene on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/emesene/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/emesene/</link>
     <description>Recent content in Emesene on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 19 Feb 2011 19:50:27 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/emesene/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/emesene/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu é mais social</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</link>
       <pubDate>Sat, 19 Feb 2011 19:50:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-e-mais-social/</guid>
       <description>Mais do que nunca estamos conectados, a internet vive a febre da rede social e o Ubuntu está preparado para tudo isso.
 Hoje é comum encontrarmos em vários computadores ferramentas para Twitter e Faceebook e também sempre um messenger para conectar no MSN, o protocolo mais utilizado no Brasil.
 Twitter e Facebook

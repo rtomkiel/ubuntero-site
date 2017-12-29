@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compressão on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/compress%C3%A3o/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/compress%C3%A3o/</link>
     <description>Recent content in Compressão on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 15 Jan 2013 10:00:55 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/compress%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/compress%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comprimindo imagens com o Trimage</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/comprimindo-imagens-com-o-trimage/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/comprimindo-imagens-com-o-trimage/</link>
       <pubDate>Tue, 15 Jan 2013 10:00:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/comprimindo-imagens-com-o-trimage/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/comprimindo-imagens-com-o-trimage/</guid>
       <description>Precisando diminuir o tamanho em disco de arquivos de imagem mas sem diminuir a qualidade ou resolução? Use o Trimage para comprimir seus arquivos.
 O Trimage é um software multi-plataforma e linha de comando que utiliza-se dos mais altos níveis de compressão disponíveis para diminuir o tamanho de arquivos de imagens sem perda de qualidade (via OptiPNG, Pngcrush, advpng e jpegoptim dependendo do arquivo &amp;#8211; no momento só são suportados PNG e JPEG.</description>
     </item>

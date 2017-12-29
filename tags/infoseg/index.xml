@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infoseg on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/infoseg/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/infoseg/</link>
     <description>Recent content in Infoseg on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 07 May 2013 16:30:16 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/infoseg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/infoseg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Encontro TecLand</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/encontro-tecland/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/encontro-tecland/</link>
       <pubDate>Tue, 07 May 2013 16:30:16 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/encontro-tecland/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/encontro-tecland/</guid>
       <description>O Encontro TecLand é um evento beneficente e sem fins lucrativos concebido em 2008, cujo objetivo é compartilhar conhecimento de qualidade e alto nível e proporcionar um ambiente para networking entre palestrantes e participantes, bem como ajudar uma entidade assistencial com os alimentos não perecíveis arrecadados nas inscrições. Suas primeiras edições ocorreram somente em 2012, com a formação do TecLand Group.
 Atualmente em sua terceira edição, que irá ocorrer dia 25 de maio de 2013, em Erechim/RS, muitas apresentações de alto nível de Software Livre e Segurança da Informação serão ministradas, e o bônus será uma palestra internacional, apresentada por Gabriel Negreira Barbosa, que entrará online ao vivo, diretamente de Guadalajara, no México, visando se aprofundar em um assunto muito interessante e pouco discutido em conferências de infosec, chamada: “Técnicas de Anti-Engenharia Reversa Utilizadas por Malwares”.</description>
     </item>

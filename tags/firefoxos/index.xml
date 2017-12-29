@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firefoxos on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/firefoxos/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/firefoxos/</link>
     <description>Recent content in Firefoxos on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 06 Aug 2014 01:43:05 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/firefoxos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/firefoxos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #38 – Rede Espírito Livre</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
       <pubDate>Wed, 06 Aug 2014 01:43:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
       <description>Capa do episódio desenvolvida por Eduardo Barbosa @_edmb Está no ar mais um episódio do Opencast e neste episódio temos a participação mais do que especial do João Fernando da Rede Espírito Livre. O episódio está muito bacana, conversamos sobre todos os projetos da Rede Espírito Livre como a revista, eventos e os vídeos, passando por uma aula sobre fontes e uma boa discussão sobre a realização de eventos.</description>
     </item>
     
     <item>
       <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
       <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
       <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
 Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>

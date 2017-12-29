@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crossover on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/crossover/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/crossover/</link>
     <description>Recent content in Crossover on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 01 Nov 2012 11:24:29 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/crossover/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/crossover/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Usando o CrossOver no Kubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</link>
       <pubDate>Thu, 01 Nov 2012 11:24:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/usando-o-crossover-no-kubuntu-12-10/</guid>
       <description>Para quem aproveitou e fez o download do CrossOver ontem, totalmente gratuito, mas não sabe como trabalhar com a ferramenta, hoje vou mostrar como trabalhar com ela no Kubuntu, em breve mostrarei como trabalhar no Unity.
 Para começo de conversa, algumas pessoas passaram por dificuldade para instalar o pacote deb em sistemas 64 bits. Vou mostrar aqui como instalar pela linha de comando com apenas três comandos. Abra o terminal pressionando as teclas Alt+F2 e digite o comando &amp;#8220;konsole&amp;#8221; sem as aspas e então pressione Enter.</description>
     </item>
     
     <item>
       <title>CrossOver de graça é só hoje</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/crossover-de-graca-e-so-hoje/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/crossover-de-graca-e-so-hoje/</link>
       <pubDate>Wed, 31 Oct 2012 11:04:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/crossover-de-graca-e-so-hoje/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/crossover-de-graca-e-so-hoje/</guid>
       <description>Não é a primeira vez que a CodeWeaver, empresa responsável pelo CrossOver e por muita contribuição ao wine, dá licenças gratuitas para qualquer usuário, já anunciamos isto aqui no blog no passado, infelizmente a postagem foi perdida durante alguns anos de migrações de servidores.
 A empresa costuma anunciar um desafio, se este for cumprido ela dá um dia de licenças de um ano grátis para quem tiver interesse. Da última vez estava relacionado ao preço do petróleo no Governo Bush, este ano estava atrelado ao número de pessoas nas eleições dos Estados Unidos.</description>
     </item>

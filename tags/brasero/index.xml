@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brasero on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/brasero/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/brasero/</link>
     <description>Recent content in Brasero on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 24 Jan 2012 13:42:51 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/brasero/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/brasero/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brasero não abre após instalar Unity 5</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/brasero-nao-abre-apos-instalar-unity-5/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/brasero-nao-abre-apos-instalar-unity-5/</link>
       <pubDate>Tue, 24 Jan 2012 13:42:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/brasero-nao-abre-apos-instalar-unity-5/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/brasero-nao-abre-apos-instalar-unity-5/</guid>
       <description>Se você, como eu, instalou a versão 5 do Unity para testar e teve problemas para abrir o gravador de disco Brasero, a solução é bem simples e passa pela criação de um link para a biblioteca mais nova. O Brasero instalado no Ubuntu 11.10 utiliza a versão 6 da biblioteca, mas no Unity 5 a biblioteca está na versão 9 então abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:</description>
     </item>
     
     <item>
       <title>Como gravar uma imagem .iso?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</link>
       <pubDate>Mon, 03 Jan 2011 15:43:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-gravar-uma-imagem-iso/</guid>
       <description>Ao contrário do que algumas pessoas imaginam, um arquivo com a extensão iso não deve ser descompactada como um simples arquivo zip ou rar. Embora os programas de compactação consigam abrir arquivos .iso, estes arquivos não são simples arquivos compactados e não devem ser tratados com tal.
 Um arquivo .iso é uma imagem de CD/DVD e deve ser gravada na mídia adequada com as ferramentas disponibilizadas por um programa de gravação.</description>
     </item>

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantal on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/quantal/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/quantal/</link>
     <description>Recent content in Quantal on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 29 Oct 2012 12:43:35 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/quantal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/quantal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast 20 – Ubuntu Gnome Remix 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</link>
       <pubDate>Mon, 29 Oct 2012 12:43:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-20-ubuntu-gnome-remix-12-10/</guid>
       <description>Passada uma semana de uso com o Ubuntu Gnome Remix 12.10, aqui está o vídeo que mostra as minhas impressões sobre o sistema. Em resumo posso dizer que a equipe que fez o trabalho estava com muita preguiça de adicionar o mínimo de qualidade ao sistema. Por padrão o sistema não tem nenhum programa gerenciador de pacotes instalado e precisei instalar muito software básico para poder trabalhar, nem falo dos programas específicos, estes todos sabemos que temos que instalar.</description>
     </item>
     
     <item>
       <title>Como atualizar o Ubuntu 12.04 para 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-12-10/</link>
       <pubDate>Fri, 19 Oct 2012 19:37:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-12-10/</guid>
       <description>Se a última versão do Ubuntu que você instalou era uma LTS, por exemplo a 12.04, a atualização para a 12.10 não deve ter aparecido no gerenciador de atualizações, mesmo que utilize o comando &amp;#8220;update-manager -d&amp;#8221;. Isto acontece porque as versões LTS são configuradas para só serem atualizadas para outras versões LTS, o que só vai acontecer em 2014(se o mundo não acabar).
 Para resolver este &amp;#8220;problema&amp;#8221;, abra a central de programas do ubuntu.</description>
     </item>
     
     <item>
       <title>Faça sua capa para o DVD do Ubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/faca-sua-capa-para-o-dvd-do-ubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/faca-sua-capa-para-o-dvd-do-ubuntu-12-10/</link>
       <pubDate>Sun, 14 Oct 2012 16:51:41 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/faca-sua-capa-para-o-dvd-do-ubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/faca-sua-capa-para-o-dvd-do-ubuntu-12-10/</guid>
       <description>Está disponível na wiki do Ubuntu a arte para você imprimir a capa oficial do Ubuntu 12.10. Nesta wiki você pode inclusive encontrar as capas para as versões mais antigas, é só baixar, imprimir e dobrar. Uma informação que eu não gostei de ver foi que a arte foi criada com o Adobe Ilustrator, como se não houvesse alternativa livre para fazer o mesmo trabalho.
  Desta maneira fica mais fácil distribuir uma cópia do Ubuntu de maneira mais profissional e sem gastar muito dinheiro.</description>
     </item>
     
     <item>
       <title>Videocast 17 – Ubuntu 12.10 Beta 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</link>
       <pubDate>Sat, 22 Sep 2012 20:40:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-17-ubuntu-12-10-beta-1/</guid>
       <description>Enfim consegui fazer a gravação do vídeo do Ubuntu 12.10 Beta 1. No início do vídeo eu faço a correção de uma informação que dei sobre o Unity 2D no Ubuntu 12.04 e na sequencia mostro as novidades visuais do Ubuntu 12.10 Beta 1.
 Sim eu estava com o nariz congestionado, não é problema de gravação.</description>
     </item>
     
     <item>
       <title>Quantal Quetzal</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</link>
       <pubDate>Tue, 24 Apr 2012 00:05:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/quantal-quetzal/</guid>
       <description>Nem lançaram o Ubuntu 12.04 mas as conversas já estão sendo realizadas para o desenvolvimento da 12.10, e o nome já foi escolhido. Quantal Quetzal será o codinome da segunda versão do Ubuntu a ser lançada neste ano.
 Segundo o próprio Mark Shuttleworth, a versão 12.10 vai servir para redesenhar a cara do Ubuntu, por isto esta ave foi escolhida para dar nome a esta versão.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Direito Autoral on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/direito-autoral/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/direito-autoral/</link>
     <description>Recent content in Direito Autoral on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 27 Jan 2014 13:12:33 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/direito-autoral/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/direito-autoral/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Google volta a aprontar</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</link>
       <pubDate>Mon, 27 Jan 2014 13:12:33 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</guid>
       <description>Pois é galera, sei que o post não tem ligação direta com Ubuntu, mas tem com o site.
 Não é segredo que o Google tem algo contra a minha pessoa, e eu também não tenho muitas coisas a favor ao Google. A última que o Google me aprontou é dizer que um hangout tem conteúdo protegido por direitos autorais, mesmo este conteúdo sendo a tela de espera quando a transmissão cai e outra sendo o próprio logo do site Ubuntero.</description>
     </item>

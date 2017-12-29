@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicotine&#43; on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/nicotine&#43;/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/nicotine&#43;/</link>
     <description>Recent content in Nicotine&#43; on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 10 Feb 2011 12:18:19 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/nicotine+/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/nicotine+/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SoulSeek no Linux? É possível! Conheça o Nicotine&#43;</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</link>
       <pubDate>Thu, 10 Feb 2011 12:18:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/soulseek-no-linux-e-possivel-conheca-o-nicotine/</guid>
       <description>Há algum tempo eu buscava alguma alternativa aos downloads convencionais para minhas músicas. Foi aí que eu me lembrei do SoulSeek. Mas peraí, agora eu não usava mais o velho Windows e deveria achar uma solução para baixar músicas na rede do SoulSeek, então comecei minha saga por algum aplicativo alternativo.
 Nicotine Plus (Nicotine+) Eis que surge no meu caminho depois de algumas buscas no Google, o Nicotine+, fork do Nicotine.</description>
     </item>

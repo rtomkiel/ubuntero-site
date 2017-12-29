@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mx3 on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/mx3/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/mx3/</link>
     <description>Recent content in Mx3 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 02 Jul 2014 16:24:38 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/mx3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/mx3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meizu responde algumas perguntas sobre o Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</link>
       <pubDate>Wed, 02 Jul 2014 16:24:38 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/meizu-responde-algumas-perguntas-sobre-o-ubuntu-touch/</guid>
       <description>A notícia não é tão nova, mas é importante. Durante a Asia Expo a Meizu mostrou o Ubuntu Touch rodando em seu aparelho MX3, um smartphone de respeito com tela de 5.1 polegadas, processador de 8 núcleos, câmera de 8 mega pixels, 2 GB de memória e processador gráfico de 3 núcleos.
 As repostas dadas pela empresa não são as mais animadoras. A primeira pergunta foi &amp;#8220;Por que o sistema está levando tanto tempo para ser finalizado?</description>
     </item>

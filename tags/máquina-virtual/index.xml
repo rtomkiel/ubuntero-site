@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Máquina Virtual on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/m%C3%A1quina-virtual/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/m%C3%A1quina-virtual/</link>
     <description>Recent content in Máquina Virtual on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 07 Jan 2011 11:00:21 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/m%C3%A1quina-virtual/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/m%C3%A1quina-virtual/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VirtualBox IndicatorMenu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/virtualbox-indicatormenu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/virtualbox-indicatormenu/</link>
       <pubDate>Fri, 07 Jan 2011 11:00:21 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/virtualbox-indicatormenu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/virtualbox-indicatormenu/</guid>
       <description>Se você é como eu e vive testando outos Sistemas Operacionais, ou precisa utilizar outros Sistemas para acesso a programas que só existem para tal sistema, provavelmente você utiliza o programa VirtualBox.
 Este artigo não é sobre como utilizar e nem para que serve o VirtualBox, é para quem já faz uso do mesmo. Para acessar uma máquina virtual, por muito tempo, eu abria o VirtualBox, selecionava a máquina e iniciava ela.</description>
     </item>

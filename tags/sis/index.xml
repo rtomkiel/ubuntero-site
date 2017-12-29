@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sis on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/sis/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/sis/</link>
     <description>Recent content in Sis on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 07 Jul 2011 12:03:29 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/sis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como configurar o Ubuntu 11.04 com placa SIS671</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</link>
       <pubDate>Thu, 07 Jul 2011 12:03:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-configurar-o-ubuntu-11-04-com-placa-sis671/</guid>
       <description>Anteriormente comentei sobre como configurar o Ubuntu 10.04 para trabalhar com a placa SIS 671. Já que entramos na &amp;#8220;era Unity&amp;#8221; (nova interface que aparentemente será o padrão nas novas versões), vou expor sobre como configurar o driver da Sis671 no Ubuntu 11.04 🙂   1)Baixe o driver aqui. 
 2)Descompacte (por exemplo, na pasta Downloads).  3)Vamos copiar alguns arquivos para os seus locais corretos para que tudo funcione ok.</description>
     </item>
     
     <item>
       <title>Kernel 2.6.39-0 no Ubuntu 11.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/kernel-2-6-39-0-no-ubuntu-11-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/kernel-2-6-39-0-no-ubuntu-11-04/</link>
       <pubDate>Mon, 20 Jun 2011 01:08:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/kernel-2-6-39-0-no-ubuntu-11-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/kernel-2-6-39-0-no-ubuntu-11-04/</guid>
       <description>Desde o primeiro instante de que eu instalei o Ubuntu 11.04 no meu notebook, na versão alfa 3, percebi uma certa lerdeza, mas não era por causa da sua versão, que ainda era de desenvolvimento, e sim pela versão do Kernel que veio junto, e então acabava ficando lento na minha SiS. Fiz um pequeno teste no 11.10, e devo dizer que com a nova versão do kernel ficou muito mais veloz.</description>
     </item>
     
     <item>
       <title>Resolução correta no Ubuntu 11.04 em placas SiS 671/672/771, e solução de possível desempenho ruim</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
       <pubDate>Sun, 01 May 2011 00:14:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
       <description>Notícia muito boa aos proprietários de placas SiS que assim como eu, ficaram sem o Unity 3D, mas que não perdem a esperança de um dia conseguir poder utilizar o Compiz em nossos computadores ou notebooks.
 Mas antes da solução final, uma pequena história. Na manhã do dia 28 &amp;#8211; quinta-feira &amp;#8211; amanheci com um ar de animação, o novo Ubuntu estava por vir, melhor do que nunca &amp;#8211; sim, sou do time que apoia o Unity.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ps3mediaserver on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ps3mediaserver/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ps3mediaserver/</link>
     <description>Recent content in Ps3mediaserver on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 20 Aug 2012 11:00:49 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ps3mediaserver/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ps3mediaserver/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Servidor DLNA Ps3MediaServer</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/servidor-dlna-ps3mediaserver/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/servidor-dlna-ps3mediaserver/</link>
       <pubDate>Mon, 20 Aug 2012 11:00:49 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/servidor-dlna-ps3mediaserver/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/servidor-dlna-ps3mediaserver/</guid>
       <description>Já mostrei em um artigo anterior como montar um servidor DLNA utilizando o servidor Serviio. Nos comentários foi sugerido utilizar o servidor Ps3MediaServer e eu prometi que um dia faria um artigo mostrando ele e enfim este dia chegou.
 Antes de mostrar como fazer para instalar, alguns comentários. Como eu imaginei pela descrição, o Ps3MediaServer é mais fácil de instalar, mas o produto final não é tão bem acabado como o Serviio.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/software/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/software/</link>
     <description>Recent content in Software on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 06 Jan 2011 11:00:32 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PPA’s interessantes</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</link>
       <pubDate>Thu, 06 Jan 2011 11:00:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ppas-interessantes/</guid>
       <description>O Ubuntu tem seus próprios repositórios de programas, mas nem sempre eles são suficientes para instalar tudo o que cada usuário deseja. Estes repositórios são mantidos por algumas pessoas e tem suas regras para manter os pacotes atualizados ou não. Como muita gente não consegue ou não pode esperar para que uma versão seja testada ou um programa ser incluído nos repositórios oficiais, uma alternativa foi criada, PPA(Personal Package Archives &amp;#8211; Arquivos de pacotes pessoais).</description>
     </item>
     

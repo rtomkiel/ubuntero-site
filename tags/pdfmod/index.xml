@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pdfmod on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/pdfmod/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/pdfmod/</link>
     <description>Recent content in Pdfmod on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 27 Feb 2011 17:05:19 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/pdfmod/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/pdfmod/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Extraindo imagens de documentos PDF no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/extraindo-imagens-de-documentos-pdf-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/extraindo-imagens-de-documentos-pdf-no-ubuntu/</link>
       <pubDate>Sun, 27 Feb 2011 17:05:19 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/extraindo-imagens-de-documentos-pdf-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/extraindo-imagens-de-documentos-pdf-no-ubuntu/</guid>
       <description>Estava fazendo algumas tarefas da escola, quando precisei extrair uma imagem de um documento .pdf e não conseguia de forma alguma. Antes de sair por ai pesquisando no Google, fui lá na Central de Programas do Ubuntu e pesquisei por &amp;#8220;PDF&amp;#8221; fui lendo e lendo, testando alguns programas, até encontrar o PDF Mod. Sua função não se resume em apenas extrair imagens como eu queria. O PDF Mod é uma aplicação simples de código aberto, para modificar documentos do tipo pdf.</description>
     </item>
     

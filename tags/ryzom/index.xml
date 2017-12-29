@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryzom on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ryzom/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ryzom/</link>
     <description>Recent content in Ryzom on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 11 Dec 2011 22:40:10 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ryzom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ryzom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Saga of Ryzom</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/saga-of-ryzom/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/saga-of-ryzom/</link>
       <pubDate>Sun, 11 Dec 2011 22:40:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/saga-of-ryzom/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/saga-of-ryzom/</guid>
       <description>Amantes dos jogos MMORPG, a dica de jogo deste final de semana é para vocês. O jogo Ryzom é um prato cheio para quem já conhece o jogo WOW, muitos dos elementos do &amp;#8220;primo&amp;#8221; famoso estão presentes neste RPG que mostro para vocês, sendo que você não precisa ficar preso a classes como mago, guerreiro entre outros. Basta treinar ou usar mais um telento que ele vai evoluir fazendo por exemplo que tenhamos um personagem mago especialista em espadas.</description>
     </item>
     

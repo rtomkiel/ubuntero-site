@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startupmanager on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/startupmanager/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/startupmanager/</link>
     <description>Recent content in Startupmanager on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 15 Jul 2011 20:46:35 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/startupmanager/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/startupmanager/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Falha no Startup Manager no Ubuntu – e a solução: GRUB Customizer</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</link>
       <pubDate>Fri, 15 Jul 2011 20:46:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/falha-no-startup-manager-no-ubuntu-e-a-solucao-grub-customizer/</guid>
       <description>Os que fizeram a última atualização do Kernell do Ubuntu 11.04 ontem (14 de julho) e utilizavam o &amp;#8220;startupmanager&amp;#8221; para configurar o GRUB notaram que o mesmo não funciona mais neste Kernell.
 Ou seja, ao inicializar um computador com dual-boot (no meu caso, Windows + Ubuntu) o sistema livre ficou novamente como padrão para inicialização e o startupmanager não consegue mais reconfigurar. Resumindo: o startupmanager NÃO funciona nesta versão do Ubuntu, com o Kernell atualizado.</description>
     </item>

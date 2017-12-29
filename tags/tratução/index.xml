@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tratução on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/tratu%C3%A7%C3%A3o/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/tratu%C3%A7%C3%A3o/</link>
     <description>Recent content in Tratução on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 07 Aug 2012 17:33:57 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/tratu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/tratu%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Foi dada a largada para as traduções do Ubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</link>
       <pubDate>Tue, 07 Aug 2012 17:33:57 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</guid>
       <description>Notícia saída fresquinha do blog do Fábio Nogueira.
 Chegou a hora de ajudar nas traduções da futura versão do Ubuntu: Ubuntu Quantal 12.10!
 A equipe de tradução do Ubuntu está esperando pelo seu apoio! Para isso, basta acessar o nossa wiki (http://wiki.ubuntu-br.org/TimeDeTraducao) e começar a fazer parte do time. A lista de todos os pacotes do Ubuntu Quantal a serem traduzidos estão em https://translations.launchpad.net/ubuntu/quantal/+lang/pt_BR.

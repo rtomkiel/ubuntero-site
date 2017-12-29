@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nevernote on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/nevernote/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/nevernote/</link>
     <description>Recent content in Nevernote on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 11 Oct 2011 17:34:10 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/nevernote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/nevernote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nevernote agora se chama Nixnote</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</link>
       <pubDate>Tue, 11 Oct 2011 17:34:10 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/nevernote-agora-se-chama-nixnote/</guid>
       <description>A poucos dias postei como fazer a instalação do Nevernote no Ubuntu. Depois disto descobri uma maneira mais fácil de instalar, utilizando um ppa, e que o projeto mudou de nome e agora se chama Nixnote.
 Para adicionar o repositório veja os passos no artigo anterior apenas trocando o endereço por:
 ppa:vincent-c/nevernote Aguarde atualizar os repositórios e procure por Nixnote e clique no botão instalar.
@@ -25,10 +25,10 @@ O funcionamento é o mesmo mostrado no artigo sobre o Nevernote, mas existem nov
     
     <item>
       <title>Nevernote para sincronizar com Evernote do Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</link>
       <pubDate>Thu, 06 Oct 2011 23:21:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/nevernote-para-sincronizar-com-evernote-do-android/</guid>
       <description>Um aplicativo que já não vivo sem no Android é o Evernote. A função do aplicativo é fazer notas com texto, fotos, vídeos, áudio ou qualquer outra coisa que o seu Android consiga armazenar. Como qualquer celular tem a tela pequena, por maior que seja, é muito interessante usar o computador para escrever as notas. Para várias plataformas temos opções como podemos ver nesta página do próprio Evernote, mas falta uma plataforma que foi &amp;#8220;esquecida&amp;#8221;.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Senac on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/senac/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/senac/</link>
     <description>Recent content in Senac on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 06 Apr 2011 11:23:35 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/senac/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/senac/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FLISOL – Arapiraca</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/flisol-arapiraca/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/flisol-arapiraca/</link>
       <pubDate>Wed, 06 Apr 2011 11:23:35 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/flisol-arapiraca/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/flisol-arapiraca/</guid>
       <description>Este ano nós faremos o FLISOL no SENAC, na rua São Francisco. Na ocasião, serão apresentadas algumas palestras sobre Software Livre e Cultura Livre.
 Teremos o apoio da OFICINA LIVRE, que é Ubuntu Partner em Alagoas e está autorizada a ministrar os cursos oficiais Ubuntu no estado.
 Para quem não sabe ainda, FLISOL é o Festival Latinoamericano de Instalação de Software Livre. Isso significa que você pode levar seu computador lá e instalaremos gratuitamente softwares livres.</description>
@@ -24,10 +24,10 @@ Para quem não sabe ainda, FLISOL é o Festival Latinoamericano de Instalação 
     
     <item>
       <title>Aberta chamada de trabalhos para o Seminário Tchelinux em Erechim</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/aberta-chamada-de-trabalhos-para-o-seminario-tchelinux-em-erechim/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/aberta-chamada-de-trabalhos-para-o-seminario-tchelinux-em-erechim/</link>
       <pubDate>Tue, 01 Mar 2011 11:00:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/aberta-chamada-de-trabalhos-para-o-seminario-tchelinux-em-erechim/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/aberta-chamada-de-trabalhos-para-o-seminario-tchelinux-em-erechim/</guid>
       <description>Está aberta a chamada de trabalhos para o Seminário Tchelinux em Erechim. O evento será realizado no dia 30 de abril de 2011 nas dependências do Senac.
 Os interessados em apresentar palestras devem preencher o formulário disponível no Google Forms.
 No dia do evento teremos disponíveis computadores e projetores para a apresentação das palestras. Caso precise de algum material específico, nos informe no formulário no campo apropriada para tentarmos disponibilizar tal material.</description>

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Broffice on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/broffice/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/broffice/</link>
     <description>Recent content in Broffice on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 19 Oct 2011 10:58:48 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/broffice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/broffice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Paginação no LibreOffice</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</link>
       <pubDate>Wed, 19 Oct 2011 10:58:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/paginacao-no-libreoffice/</guid>
       <description>Tenho ajudado minha esposa nos vários trabalhos que ela tem para entregar na Faculdade e uma coisa bem chata de se fazer no LibreOffice é a simples tarefa de numerar páginas. A maneira que eu utilizava até ontem para esta tarefa é a maneira considerada difícil, mas encontrei uma maneira mais fácil no viva o Linux.
 Como eu fazia Posicionar o cursor na última página da página anterior de onde você quer começar a numerar.</description>
     </item>
     
     <item>
       <title>Lançado o livro LibreOffice Para Leigos</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancado-o-livro-libreoffice-para-leigos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancado-o-livro-libreoffice-para-leigos/</link>
       <pubDate>Tue, 26 Apr 2011 19:01:14 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-o-livro-libreoffice-para-leigos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancado-o-livro-libreoffice-para-leigos/</guid>
       <description>Desde o final do ano passado, estava escrevendo o livro, aproveitando as férias de janeiro e momentos de folga durante a semana e finais de semana. Mas finalmente ficou pronto minha primeira obra, LibreOffice Para Leigos.
 Enquanto estava escrevendo o livro, ocorreram diversas alterações como a logomarca, mudança do nome, lançamento de versões e extinção da ONG, mas depois de algumas correções e diagramação, segue o link para vocẽs fazerem download.</description>
     </item>
     
     <item>
       <title>Revista BrOffice.org – Natal Solidário</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/revista-broffice-org-natal-solidario/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/revista-broffice-org-natal-solidario/</link>
       <pubDate>Tue, 21 Dec 2010 11:29:41 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/revista-broffice-org-natal-solidario/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/revista-broffice-org-natal-solidario/</guid>
       <description>Uma edição especial de natal que destaca algumas ações que compartilham alegrias e esperança. Uma delas, o Natal Livre, um evento que acontece no estado do Ceará, outra, Ação Xavier e Parceiros, do Pará e ainda o blog Nossos Poetas das Casas André Luiz, em São Paulo, cujo conteúdo é de responsabilidade de pessoas para lá de especiais. Iniciamos nessa edição uma série de entrevistas com desenvolvedores do LibreOffice. A primeira delas traça o perfil de Norbert Thiébaud.</description>
     </item>
     

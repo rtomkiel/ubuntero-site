@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Licença on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/licen%C3%A7a/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/licen%C3%A7a/</link>
     <description>Recent content in Licença on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 20 Feb 2014 00:12:55 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/licen%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/licen%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu exige licença para o Linux Mint e outras distribuições derivadas</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</link>
       <pubDate>Thu, 20 Feb 2014 00:12:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-exige-licenca-para-o-linux-mint-e-outras-distribuicoes-derivadas/</guid>
       <description>Não é novidade que o Ubuntu pede que uma licença seja assinada pelas distribuições derivadas dele, mas também não é novidade que ninguém dá atenção para esta licença, até porque ela não faz sentido. A vítima da vez foi o Linux Mint que utiliza os repositórios do Ubuntu além de seus próprios repositórios. A Canonical vem há cerca de um ano pedindo que o Linux Mint assine uma licença para utilizar seus repositórios.</description>
     </item>
     

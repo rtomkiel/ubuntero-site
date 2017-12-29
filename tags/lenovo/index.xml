@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lenovo on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/lenovo/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/lenovo/</link>
     <description>Recent content in Lenovo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 07 Aug 2015 21:03:29 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/lenovo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tecla “?” no Lenovo E431</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/tecla-no-lenovo-e431/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/tecla-no-lenovo-e431/</link>
       <pubDate>Fri, 07 Aug 2015 21:03:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/tecla-no-lenovo-e431/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/tecla-no-lenovo-e431/</guid>
       <description>Tem coisa mais chata do que pressionar uma tecla no teclado e nada aparecer na tela? Para piorar você procura uma segunda opção no teclado e não encontra? Pois é, passei por isso ao reinstalar o Ubuntu no meu Lenovo E431, com os caracterres &amp;#8220;?&amp;#8221; e &amp;#8220;/&amp;#8221;, mas não foi difícil encontrar a solução.
 A solução para este problema, para quem utiliza Ubuntu e outras distribuições baseadas no Debian, é simples e pelo que pesquisei se aplica a vários outros modelos da Lenovo vendidos no Brasil.</description>
     </item>

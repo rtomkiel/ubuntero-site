@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atualizações on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/atualiza%C3%A7%C3%B5es/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/atualiza%C3%A7%C3%B5es/</link>
     <description>Recent content in Atualizações on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 14 Aug 2013 14:08:06 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/atualiza%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/atualiza%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atualizações do Ubuntu 13.04 em fases</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/atualizacoes-do-ubuntu-13-04-em-fases/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/atualizacoes-do-ubuntu-13-04-em-fases/</link>
       <pubDate>Wed, 14 Aug 2013 14:08:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/atualizacoes-do-ubuntu-13-04-em-fases/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/atualizacoes-do-ubuntu-13-04-em-fases/</guid>
       <description>Se você está usando o Ubuntu 13.04, já está utilizando o novo método de atualização do Ubuntu e nada precisa ser feito. Agora as atualizações não são disponibilizadas para todos os usuários &amp;#8220;imediatamente&amp;#8221;, mas em fases.
 Sempre que uma atualização sair, 10% dos usuários a receberão. Se dentro de 6 horas nenhum erro for reportado, mais 10% dos usuários receberão as atualizações e assim por diante até que todos recebam. Caso algum erro seja reportado, as atualizações serão abortadas até que o mesmo seja corrigido e o processo é retomado.</description>
     </item>

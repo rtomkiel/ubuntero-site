@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>On Air on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/categories/on-air/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/categories/on-air/</link>
     <description>Recent content in On Air on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 12 Dec 2013 10:47:46 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/categories/on-air/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/categories/on-air/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntero On Air #4</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-4/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-4/</link>
       <pubDate>Thu, 12 Dec 2013 10:47:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-4/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-4/</guid>
       <description>Se você não conseguiu assistir ao vivo o Ubuntero On Air #4, não tem problema, o programa está disponível no Youtube na íntegra. Como prometido, começamos às 21 horas e terminamos às 23 horas.
  Assistir no Youtube Como o papo estava bom e tinha muita coisa para responder e comentar, acabou que o sorteio não saiu ao vivo, mas ele foi feito e os vencedores que participarão da gravação de um episódio do Opencast são:</description>
     </item>
     
     <item>
       <title>Ubuntero On Air #3</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-3/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-3/</link>
       <pubDate>Wed, 27 Nov 2013 12:45:26 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-3/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-3/</guid>
       <description>Ainda lembram do Ubuntero On Air? Ele tinha nascido e fizemos apenas 2 episódios e depois acabamos usando os hangouts apenas para a gravação do Opencast. Ao tentarmos fazer mais uma gravação, participante convidado não pode comparecer devido a problemas no trabalho e acabamos batendo um papo bem ao estilo Papo de Buteco onde quem estava assistindo pode nos fazer perguntas e nós íamos respondendo.
 Após encerrar a transmissão, conversamos um pouco mais e resolvemos reavivar o Ubuntero On Air no mesmo estilo que fizemos este.</description>
     </item>
     
     <item>
       <title>Ubuntero On Air #2 – Ubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</link>
       <pubDate>Fri, 19 Oct 2012 11:45:13 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-2-ubuntu-12-10/</guid>
       <description>No segundo episódio do Ubuntero On Air falamos um pouco sobre o lançamento do Ubuntu 12.10 e batemos um papo com quem estava assistindo ao vivo. O assunto da steam também veio a tona e uma notícia sobre o Ubuntu 13.04 também foi discutida.
 Ficou no ar a ideia de tornar o Ubuntero On Air em um quadro fixo no site, com intervalo de tempo regular. Esperamos seus comentários para definir como faremos isto.</description>
     </item>
     
     <item>
       <title>Ubuntero On Air 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</link>
       <pubDate>Fri, 28 Sep 2012 11:51:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntero-on-air-1/</guid>
       <description>No dia 27 fizemos nosso piloto do quadro Ubuntero On Air. Este primeiro episódio serviu mais para conhecermos a ferramenta e testar se algumas configurações da ferramenta estavam funcionando.
 Os assuntos que abordamos foram:
  Propagandas da Amazon no Ubuntu 12.10 Mudança de ideia da Intel sobre o suporte ao Linux nos chips da linha Clover Trail para tablets Grub 2 voltando ao Ubuntu 12.10 Adoção de software livre pelo governo francês Modelo de software livre brasileiro em destaque na campus party do Equador Ubuntu 12.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systemd on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/systemd/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/systemd/</link>
     <description>Recent content in Systemd on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 18 Feb 2014 17:41:42 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/systemd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/systemd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu usará o Systemd no lugar do Upstart</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-usara-o-systemd-no-lugar-do-upstart/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-usara-o-systemd-no-lugar-do-upstart/</link>
       <pubDate>Tue, 18 Feb 2014 17:41:42 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-usara-o-systemd-no-lugar-do-upstart/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-usara-o-systemd-no-lugar-do-upstart/</guid>
       <description>Depois do anúncio da comunidade Debian em apoio ao Systemd, agora foi a vez da Canonical, através do Mark Shuttleworth também dizer que o Ubuntu irá utilizar o Systemd no lugar do Upstart. Mark ainda pediu para que a comunidade do Ubuntu ajude na migração do Upstart para o Systemd com uma certa urgência, sem dar nenhuma data específica.
 É bom lembrar que o Upstart existe desde 2006, sendo usado pelo Ubuntu, RHEL 6, WebOS e ChromOS e o Systemd desde 2010, usado pelo Arch Linux, Fedora, Gentoo, Mageia, openSUSE e outras, mas não vi ninguém dizendo que o Systemd foi a reinvenção da roda.</description>
     </item>

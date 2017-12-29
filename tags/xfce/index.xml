@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xfce on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/xfce/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/xfce/</link>
     <description>Recent content in Xfce on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 27 Jun 2013 16:00:01 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kubuntu não pretende utilizar o MIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
       <pubDate>Thu, 27 Jun 2013 16:00:01 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
       <description>Talvez o que eu vou falar seja besteira, mas esta é uma opinião pessoal sobre os mimimi&amp;#8217;s referentes ao desenvolvimento do MIR e sua adoção.
 Ao contrário do que muitos dizem, o desenvolvimento do MIR está licenciado sobre a GPLv3, o que garante que o projeto é e sempre será open source, algumas pessoas tentam implantar rumores de que esta licença dá liberdade para o fechamento do código em qualquer momento, mas isso não é verdade, a licença mantém as mesmas proteções das versões 1 e 2, apenas adaptada a legislação americana mais atual.</description>
     </item>
     
     <item>
       <title>XFCE, LXDE e Gnome 3 rodando no MIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</link>
       <pubDate>Mon, 24 Jun 2013 20:57:52 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</guid>
       <description>Está ansioso para usar o Mir como servidor gráfico padrão no seu Ubuntu? Mesmo que não esteja, veja estas imagens onde é possível ver o XFCE, LXDE e Gnome 3 rodando diretamente no Mir.
 XFCE  LXDE  GNOME 3  Você não verá o KDE rodando ainda por motivo de problema em um arquivo, não do Mir, segundo os desenvolvedores, mas em breve novas imagens mostrando o KDE no Mir estarão disponíveis.</description>
     </item>

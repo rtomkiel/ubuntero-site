@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warzone 2100 on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/warzone-2100/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/warzone-2100/</link>
     <description>Recent content in Warzone 2100 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 20 Nov 2011 10:00:51 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/warzone-2100/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/warzone-2100/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Warzone 2100</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/warzone-2100/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/warzone-2100/</link>
       <pubDate>Sun, 20 Nov 2011 10:00:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/warzone-2100/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/warzone-2100/</guid>
       <description>O jogo desta semana foi escolhido pensando nos fãs de jogos de estratégia em tempo real(RTS).
 O jogo Warzone 2100 é um jogo de ficção científica em 3D, reimplementação melhorada do clássico jogo desenvolvido pelo estúdio Pumpkin em 1999, calma, os gráficos não são de 1999.
 As modalidades oferecidas pelo jogo são campanha, tutorial, multi-player e single-player skirmish. Além disso o jogo permite que você monte suas unidades com esteiras e canhões conforme o seu desejo e a evolução das unidades que não são destruídas durante os combates.</description>

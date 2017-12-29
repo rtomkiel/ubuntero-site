@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sudo on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/sudo/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/sudo/</link>
     <description>Recent content in Sudo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 25 Oct 2013 11:16:43 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/sudo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/sudo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sudo su, porque não usar?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/sudo-su-porque-nao-usar/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/sudo-su-porque-nao-usar/</link>
       <pubDate>Fri, 25 Oct 2013 11:16:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/sudo-su-porque-nao-usar/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/sudo-su-porque-nao-usar/</guid>
       <description>Uma prática muito usual entre novos e experientes usuários é a utilização do comando sudo. Ele é muito útil por permitir executar comandos administrativos sem que seja necessário logar-se com o usuário root. Porém, vejo muita gente cometendo um erro e esse é muito difundido por sites que deveriam difundir a maneira correta de se fazer as coisas.
 A primeira coisa que temos que corrigir é que o sudo não serve apenas para executar programas como root, ele serve para executar como qualquer outro usuário, depende da política de segurança em suas configurações, o padrão do Ubuntu é executar como root.</description>
     </item>

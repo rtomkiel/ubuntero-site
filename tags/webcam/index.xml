@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webcam on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/webcam/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/webcam/</link>
     <description>Recent content in Webcam on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 19 Jan 2011 10:00:34 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/webcam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/webcam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Problemas com gravação de vídeo com o Cheese</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/problemas-com-gravacao-de-video-com-o-cheese/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/problemas-com-gravacao-de-video-com-o-cheese/</link>
       <pubDate>Wed, 19 Jan 2011 10:00:34 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/problemas-com-gravacao-de-video-com-o-cheese/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/problemas-com-gravacao-de-video-com-o-cheese/</guid>
       <description>Infelizmente este artigo não irá resolver o problema de quem está sem conseguir gravar vídeos utilizando o programa Cheese. Este artigo tem como intuito divulgar um bug reportado por mim no launchpad e que fala exatamente deste problema de não se conseguir gravar vídeos utilizando o programa.
 Para tirar fotos ou visualizar a imagem sem gravar tudo funciona perfeitamente, mas quando o assunto é gravar a imagem da webcam a conversa muda e o vídeo trava, fazendo com que o programa tenha que ser fechado, muitas vezes com o comando xkill.</description>
     </item>

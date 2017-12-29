@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lxde on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/lxde/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/lxde/</link>
     <description>Recent content in Lxde on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 20 Jul 2013 01:39:27 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/lxde/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/lxde/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #25 – FISL 14, Fedora 19 e Firefox OS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
       <pubDate>Sat, 20 Jul 2013 01:39:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
       <description>Voltamos a nos reunir para gravar mais um episódio do Opencast, desta vez a publicação atrasou devido a muito trabalho e atraso na data de gravação causado por falhas no próprio hangout.
 Neste episódio Ivan, Og Maciel, Aprígio Simões, Diego e Rudinei tentamos comentar alguns acontecimentos importantes que foram notícia no mundo do software livre. Entre eles estão o FISL 14, onde o Diego e o Rudinei estavam presentes, Fedora 19 que pode explodir a cabeça de alguns e o Firefox OS.</description>
     </item>
     
     <item>
       <title>Kubuntu não pretende utilizar o MIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</link>
       <pubDate>Thu, 27 Jun 2013 16:00:01 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/kubuntu-nao-pretende-utilizar-o-mir/</guid>
       <description>Talvez o que eu vou falar seja besteira, mas esta é uma opinião pessoal sobre os mimimi&amp;#8217;s referentes ao desenvolvimento do MIR e sua adoção.
 Ao contrário do que muitos dizem, o desenvolvimento do MIR está licenciado sobre a GPLv3, o que garante que o projeto é e sempre será open source, algumas pessoas tentam implantar rumores de que esta licença dá liberdade para o fechamento do código em qualquer momento, mas isso não é verdade, a licença mantém as mesmas proteções das versões 1 e 2, apenas adaptada a legislação americana mais atual.</description>
     </item>
     
     <item>
       <title>XFCE, LXDE e Gnome 3 rodando no MIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</link>
       <pubDate>Mon, 24 Jun 2013 20:57:52 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/xfce-lxde-e-gnome-3-rodando-no-mir/</guid>
       <description>Está ansioso para usar o Mir como servidor gráfico padrão no seu Ubuntu? Mesmo que não esteja, veja estas imagens onde é possível ver o XFCE, LXDE e Gnome 3 rodando diretamente no Mir.
 XFCE  LXDE  GNOME 3  Você não verá o KDE rodando ainda por motivo de problema em um arquivo, não do Mir, segundo os desenvolvedores, mas em breve novas imagens mostrando o KDE no Mir estarão disponíveis.</description>
     </item>

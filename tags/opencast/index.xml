@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opencast on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/opencast/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/opencast/</link>
     <description>Recent content in Opencast on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 07 Nov 2014 01:08:58 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/opencast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/opencast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fim do Opencast</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/fim-do-opencast/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/fim-do-opencast/</link>
       <pubDate>Fri, 07 Nov 2014 01:08:58 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/fim-do-opencast/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/fim-do-opencast/</guid>
       <description>Calma, este é o fim do Opencast no site Ubuntero. Como já avisamos tantas outras vezes, o Opencast será publicado única e exclusivamente no site Tecnologia Aberta.
 Corre para lá que tem episódio novo.</description>
     </item>
     
     <item>
       <title>Opencast #39 – Netflix e Android Pirulito</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</link>
       <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-39-netflix-e-android-pirulito/</guid>
       <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
 Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
 Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
@@ -34,58 +34,58 @@ Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouc
     
     <item>
       <title>Opencast #38 – Rede Espírito Livre</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</link>
       <pubDate>Wed, 06 Aug 2014 01:43:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-38-rede-espirito-livre/</guid>
       <description>Capa do episódio desenvolvida por Eduardo Barbosa @_edmb Está no ar mais um episódio do Opencast e neste episódio temos a participação mais do que especial do João Fernando da Rede Espírito Livre. O episódio está muito bacana, conversamos sobre todos os projetos da Rede Espírito Livre como a revista, eventos e os vídeos, passando por uma aula sobre fontes e uma boa discussão sobre a realização de eventos.</description>
     </item>
     
     <item>
       <title>Opencast #36 – Mozilla TV e Patentes da Microsoft no Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
       <pubDate>Thu, 26 Jun 2014 02:14:55 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
       <description>Até parece mentira, mas estamos conseguindo manter a periodicidade dos episódios. Neste episódio falamos sobre a Mozilla TV, Android, patentes da Microsoft no Android, GTK2 e GTK3 entre outros assuntos.
 Gostaríamos de lembrar a todos que devem atualizar seus feeds do Opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.com.br. Por enquanto, os episódios estão sendo publicados em paralelo, mas em breve serão publicados exclusivamente no site tecnologiaaberta.</description>
     </item>
     
     <item>
       <title>Opencast #35 – Fim do Ubuntu One e TrueCrypt</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</link>
       <pubDate>Fri, 13 Jun 2014 02:34:53 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-35-fim-do-ubuntu-one-e-truecrypt/</guid>
       <description>Como avisado, atrasamos em um dia o lançamento deste episódio. Mesmo contra todas as agendas que deram errado, conseguimos gravar um episódio bacaninha para vocês. Neste episódio Ivan e Diego comentam algumas notícias sobre o mundo das tecnologias livres.
 Links do episódio  Provedores deveriam isolar computadores infectados 10 novidades do OS X que já existiam no Ubuntu Smart TV da Samsung com Tizen em breve Vodafone confirma coleta de dados Fim do Ubuntu One TrueCrypt não morreu Modelos hibridos da Dell com Ubuntu Mozila vai oferecer serviço de conferência em áudio e vídeo nativo no navegador Comparativo clang e gcc Porta dos fundos no expresso Sem porta dos fundos no expresso Meizu mostra Ubuntu Touch na Mobile Asia Expo 2014  Twitter: @tecnologiaabert</description>
     </item>
     
     <item>
       <title>Opencast #34 – FISL 15 E DRM</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</link>
       <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-34-fisl-15-e-drm/</guid>
       <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
     </item>
     
     <item>
       <title>Opencast #33 – Firefox 29 e Ubuntu 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</link>
       <pubDate>Wed, 14 May 2014 23:43:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
       <description>Voltamos, sei que já está cansativa esta história, mas o que importa é que estamos de volta e com ânimo renovado. Neste episódio falamos um pouco sobre algumas notícias que julgamos importantes e também respondemos a algumas perguntas dos ouvintes que estavam assistindo a gravação ao vivo. Os participantes deste episódio foram Ivan, Diego, Rudinei(com o som muito melhor) e Og Maciel.
 Links do episódio  Lançado o Ubuntu 14.</description>
     </item>
     
     <item>
       <title>Videocast #58 – Tecnologia Aberta</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-58-tecnologia-aberta/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-58-tecnologia-aberta/</link>
       <pubDate>Mon, 12 May 2014 13:32:13 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-58-tecnologia-aberta/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-58-tecnologia-aberta/</guid>
       <description> 
 Voltando com o Videocast após problemas que são explicados no vídeo, falo um pouco sobre a placa mãe Gigabyte B75M-D3H que substituiu a minha falecida. Também falo sobre um novo projeto onde convido todos a participar.
  Assistir no Youtube Links do episódio  Tecnologia aberta Twitter Tecnologia aberta Facebook Tecnologia aberta Google+ Tecnologia aberta Canal no youtube Tecnologia aberta  </description>
@@ -93,30 +93,30 @@ Voltando com o Videocast após problemas que são explicados no vídeo, falo um 
     
     <item>
       <title>Opencast #32 – Hardening</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</link>
       <pubDate>Wed, 12 Mar 2014 23:32:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-32-hardenig/</guid>
       <description>Voltamos com o Opencast depois de uma boa parada para espairecer. Neste episódio Ivan, Aprígio Simões, Diego e Og Maciel falam sobre o processo de &amp;#8220;endurecimento&amp;#8221; de um sistema. Na verdade o episódio é quase um monólogo do Aprígio que foi quem sugeriu a pauta e também foi o especialista &amp;#8220;convidado&amp;#8221;.
 Excepcionalmente, mas pode se tornar o padrão, não teremos a versão em vídeo no youtube. O motivo é bem simples, é muito trabalho e isto acabaria prejudicando a periodicidade do Videocast e provavelmente a do Opencast também (mais do que já é prejudicada).</description>
     </item>
     
     <item>
       <title>Google volta a aprontar</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</link>
       <pubDate>Mon, 27 Jan 2014 13:12:33 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-volta-a-aprontar/</guid>
       <description>Pois é galera, sei que o post não tem ligação direta com Ubuntu, mas tem com o site.
 Não é segredo que o Google tem algo contra a minha pessoa, e eu também não tenho muitas coisas a favor ao Google. A última que o Google me aprontou é dizer que um hangout tem conteúdo protegido por direitos autorais, mesmo este conteúdo sendo a tela de espera quando a transmissão cai e outra sendo o próprio logo do site Ubuntero.</description>
     </item>
     
     <item>
       <title>Sorteio para participar de uma gravação do Opencast</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/sorteio-para-participar-de-uma-gravacao-do-opencast/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/sorteio-para-participar-de-uma-gravacao-do-opencast/</link>
       <pubDate>Thu, 05 Dec 2013 10:57:07 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/sorteio-para-participar-de-uma-gravacao-do-opencast/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/sorteio-para-participar-de-uma-gravacao-do-opencast/</guid>
       <description>Natal chegando e nós vamos dar um presente para quem é ouvinte do Opencast. Três pessoas, uma de cada rede social, poderão participar da gravação de um episódio do Opencast.
 Para participar as regras são simples e estão abaixo:
  Preencher o formulário que está no final deste post Seguir, curtir ou circular o ubuntero na rede social escolhida É obrigatório ter uma conta no G+ para poder participar de um hangout É obrigatório ter uma webcam Recomendamos o uso de fones de ouvido, caso o som esteja muito ruim pela falta deles, podemos cancelar a participação Em caso de a mesma pessoa ser sorteada para mais de uma rede social, esta escolherá por qual irá participar e a segunda pessoa sorteada da rede social não escolhida, será a nova participante Durante a gravação, use roupas, não permitiremos participação de pessoas sem camiseta, não importa o motivo  Estas regras podem ser alteradas a qualquer momento, sem aviso prévio.</description>
@@ -124,87 +124,87 @@ Para participar as regras são simples e estão abaixo:
     
     <item>
       <title>Opencast #30 – SteamOS e FixUbuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</link>
       <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-30-steamos-e-fixubuntu/</guid>
       <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
 Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
     </item>
     
     <item>
       <title>Google e suas brincadeiras de atualizar software</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</link>
       <pubDate>Thu, 07 Nov 2013 10:00:45 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/google-e-suas-brincadeiras-de-atualizar-software/</guid>
       <description>Não é segredo para ninguém que eu e o Google não nos damos muito bem e que me envergonha quem adora esta empresa. Não estou falando dos casos de &amp;#8220;auxílio&amp;#8221; em &amp;#8220;investigações&amp;#8221; feitas pela NSA, estou falando da péssima qualidade da maioria de seus softwares. Infelizmente, muitos fãs não conseguem ver isto.
 Pela terceira vez o Google nos impediu de gravar um hangout. Novamente após uma atualização de seu software, o próprio hangout.</description>
     </item>
     
     <item>
       <title>Videocast #45 – Latinoware e Ubuntu Touch com Mir</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
       <pubDate>Mon, 14 Oct 2013 11:00:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
       <description>Hoje não temos grandes novidades em relação ao último videocast onde mostramos o estado atual, para aquela data, do Ubuntu Touch. Alguns dias depois de publicar o vídeo, o Mir passou a ser o servidor gráfico padrão do Ubuntu Touch e a experiência do sistema mudou bastante, o que me motivou a mostrar novamente como o sistema está.
 Neste vídeo também explico antecipadamente que o opencast e o próximo videocast podem atrasar ou até mesmo nem sair nas datas previstas devido a eu estar na Latinoware que fica a quase 8 horas de carro de onde eu moro.</description>
     </item>
     
     <item>
       <title>Opencast #28 – Debian</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-27-debian/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-27-debian/</link>
       <pubDate>Fri, 27 Sep 2013 23:16:36 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-27-debian/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-27-debian/</guid>
       <description>Neste episódio do Opencast Ivan, Aprígio Simões, Helio Loureiro e Luiz Guaraldo falam um pouco sobre a história da distribuição Mãe(ou seria Pai?) de tantas outras, o Debian. Podemos entender como funcionam cada repositório, diferenças e similaridades entre Debian, Ubuntu e outras distribuições não baseadas no Debian. Finalizamos o papo falando sobre a comunidade Debian no Brasil e como obter ajuda quando necessário.
 Links do episódio  Debian na wikipedia Distribuições baseadas no Debian Versões do Debian já lançadas Sistema de acompanhamento de bugs do Debian Obter uma cópia do Debian Como transformar seu Debian em Sid Criar pacotes DEB no Debian e Ubuntu Lista geral Debian Brasil Lista debian-user em português Comunidade Debian Brasil do Software Livre Brasil Como obter ajuda por IRC Wiki do Debian  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
     </item>
     
     <item>
       <title>Governo do RS prefere padrão ODF</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</link>
       <pubDate>Fri, 05 Jul 2013 11:00:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/governo-do-rs-prefere-padrao-odf/</guid>
       <description>Os primeiros frutos do Fisl 14 já estão sendo colhidos. O Estado do Rio Grande do Sul, por intermédio da Secretaria Geral de Governo, com a interveniência do Departamento de Tecnologia da Informação e Telecomunicações, e a The Document Foundation firmaram o Protocolo ODF (Open Document Format). O objetivo é a realização de ações conjuntas para o desenvolvimento e a promoção de políticas públicas de uso de padrões abertos nas administrações governamentais.</description>
     </item>
     
     <item>
       <title>Opencast #24 – Projeto Fedora</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</link>
       <pubDate>Wed, 03 Jul 2013 00:06:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-24-projeto-fedora/</guid>
       <description>Não foi planejado, afinal não sou usuário do Fedora, mas neste episódio falaremos do Projeto Fedora que teve sua mais nova versão, 19, lançada no dia 2 de julho. No episódio Ivan, Daniel Lara, Fabio Olive e Og Maciel falam um pouco sobre o Projeto Fedora no geral, sem focar em versões mas sim no Projeto como um todo.
 Temos um pouco de ruído no som devido ao Og Maciel ter sido obrigado a gravar o episódio diretamente de um bar.</description>
     </item>
     
     <item>
       <title>Inatividade justificável</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</link>
       <pubDate>Mon, 10 Jun 2013 22:33:41 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/inatividade-justificavel/</guid>
       <description>Nesta última semana não consegui postar muita coisa, mas a explicação é simples e o motivo é bem justificável. Apresentei uma palestra sobre o Ubuntu e Ubuntu Touch na semana acadêmica do Curso de Ciência da Computação na URI &amp;#8211; Campus de Erechim no dia 5&amp;frasl;6 e no dia 8&amp;frasl;6 ministrei um mini-curso sobre Ubuntu para finalizar a mesma semana acadêmica. Estas duas tarefas, juntamente com a edição do Opencast sobre a Red Hat me tomaram bastante tempo.</description>
     </item>
     
     <item>
       <title>Por que supercomputadores rodam Linux, Unix e BSD?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</link>
       <pubDate>Tue, 07 May 2013 13:30:40 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/porque-supercomputadores-rodam-linux-unix-e-bsd/</guid>
       <description>A última estatística é de novembro de 2012, mas ela não tem se alterado muitos pontos nos últimos 10 anos. Somando os supercomputadores que rodam Linux, Unix e BSD, temos a impressionante marca de 98%, os outros 2% ficam divididos entre sistemas Windows e outras coisas indefinidas. Se você já sabia desta informação, já parou para pensar porque isto acontece? Se você está sabendo disto agora, pare para pensar porque sistemas não Windows são tão usados.</description>
     </item>
     
     <item>
       <title>Videocast #30 – Trisquel 6.0</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-30-trisquel-6-0/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-30-trisquel-6-0/</link>
       <pubDate>Mon, 25 Mar 2013 11:00:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-30-trisquel-6-0/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-30-trisquel-6-0/</guid>
       <description>Continuando nossa peregrinação por várias distribuições Linux, hoje mostro um pouco do Trisquel 6.0, uma distribuição considerada realmente Open Source. Esta distribuição é baseada no Ubuntu 12.04 e tem como interface gráfica principal o Gnome Classic, e não utiliza os mesmos repositórios do Ubuntu.
 Divirtam-se com mais uma alternativa do mundo do software livre.
  Assistir no Youtube </description>
@@ -212,20 +212,20 @@ Divirtam-se com mais uma alternativa do mundo do software livre.
     
     <item>
       <title>Comunidades de Ubunteros</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/comunidades-de-ubunteros/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/comunidades-de-ubunteros/</link>
       <pubDate>Thu, 21 Mar 2013 11:46:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/comunidades-de-ubunteros/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/comunidades-de-ubunteros/</guid>
       <description>Frequentemente recebemos pedidos de ajuda nos comentários dos artigos, e eventualmente por e-mail, mas estes não são os melhores caminhos para dar este suporte pois acabam por desvirtuar o assunto tratado nos artigos e por e-mail não consigo dar a resposta em tempo.
 Pensando nisso e procurando a melhor alternativa para o momento, resolvemos criar duas comunidades do Google+, uma para assuntos gerais relacionados ao Ubuntu, incluindo algum suporte, e outro canal destinado a discutir os episódios do Opencast.</description>
     </item>
     
     <item>
       <title>Opencast #19 – Mir, Ubuntu Touch e Global Jam</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
       <pubDate>Wed, 20 Mar 2013 00:31:37 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
       <description>Voltamos enfim para mais um episódio do Opencast. Neste episódio falamos sobre o servidor gráfico da Canonical, o Mir, Ubuntu Touch Developer Preview e Ubuntu Global Jam Brazil 2013. Vamos tentar deixar o episódio sem música, além da abertura, e sem transições entre os assuntos e vocês nos dizem o que acharam.
 Não se acostumem, os episódios irão ao ar quinzenalmente nas quartas-feiras, apenas hoje saiu na terça.
 Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do Android &amp;#8211; SurfaceFinger Gnome considera acelerar suporte ao Wayland Ubuntu Touch Developer Preview Videocast 26 &amp;#8211; Galaxy X e Ubuntu Phone Vakinha para compra de um Galaxy X Ubuntu Touch pela equipe do Ubuntu-BR-SC Imagens diárias para o Ubuntu Touch Ubuntu Touch portado para novos aparelhos Site Ubuntued Canal do Youtube com hangouts do Ubuntu SDK e outros vídeos também.</description>
@@ -233,29 +233,29 @@ Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do An
     
     <item>
       <title>Videocast #29 – Ubuntu 13.04 Beta 1</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</link>
       <pubDate>Mon, 18 Mar 2013 11:00:37 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-29-ubuntu-13-04-beta-1/</guid>
       <description>É com um papelão do OpenSuse que começamos este VideoCast. Esta semana iria falar e mostrar um pouco do OpenSuse, mas ele resolveu que não queria funcionar comigo e me deixou na mão. Por isso este VideoCast dá uma rápida olhada em algumas novidades do Ubuntu 13.04 Beta 1 (na verdade único beta).
  Assistir no Youtube </description>
     </item>
     
     <item>
       <title>Videocast #19</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-19/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-19/</link>
       <pubDate>Sun, 14 Oct 2012 05:17:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-19/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-19/</guid>
       <description>Aproveito este Videocast para esclarecer alguns pontos sobre o Opencast, agradecer aos votos para o prêmio TopBlog Brasil 2012 e comentar sobre a crítica que fiz sobre as webapps do Ubuntu 12.10.</description>
     </item>
     
     <item>
       <title>Opencast #18 – Arduino</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-18-arduino/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-18-arduino/</link>
       <pubDate>Thu, 27 Sep 2012 01:35:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-18-arduino/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-18-arduino/</guid>
       <description>Um pouco atrasado devido a viagem de trabalho mas o episódio 8 do Opencast está no ar. Neste episódio conversamos um pouco com o Saulo sobre o hardware aberto Arduino.
 As fotos e links que prometemos durante o episódio estarão no ar em breve, por enquanto fique apenas com o episódio.
 Links do episódio  Estação Meteorológica Prêmio TopBlog Brasil 2012 Sorteio Humble Bundle  Fotos o robô     Twitter: @tecnologiaabert</description>
@@ -263,30 +263,30 @@ Links do episódio  Estação Meteorológica Prêmio TopBlog Brasil 2012 Sorteio
     
     <item>
       <title>Opencast #15 – FISL 13 e notícias</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</link>
       <pubDate>Wed, 15 Aug 2012 04:11:24 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-15-fisl-13-e-noticias/</guid>
       <description>Voltamos com o Opencast depois de uma pausa necessária para descanso e falamos um pouco sobre nossa participação no FISL 13 e alguma notícias que foram destaques nos últimos dias. O feed para iTunes não está funcionando e eu desisti de tentar arrumar, se alguém souber como arrumar eu agradeço, mas eu não vou mais correr atras deste negócio.
 Links  FISL 13 VideoCast 16 &amp;#8211; FISL 13 Instalando o Ubuntu em um computador Apple Intel Video Game OUYA O pirata dos barramentos TexMate LibreOffice 3.</description>
     </item>
     
     <item>
       <title>Opencast #13 – Notícias</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</link>
       <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-13-noticias/</guid>
       <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
 Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
     </item>
     
     <item>
       <title>Opencast # 12a – LibreOffice</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencat-12a-libreoffice/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencat-12a-libreoffice/</link>
       <pubDate>Tue, 19 Jun 2012 01:57:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencat-12a-libreoffice/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencat-12a-libreoffice/</guid>
       <description>Pela primeira vez teremos um episódio em duas partes. Tivemos uma ótima conversa com Eliane Domingos de Souza, Olivier Hallot e Vitorio Yoshinori Furusho sobre o LibreOffice. O som tem alguns probleminhas em alguns pontos mas não prejudica a totalidade do episódio.
 Os assuntos que conseguimos abordar nesta primeira parte passam mais por detalhes técnicos do LibreOffice e migração, mas também falamos um pouco sobre uma possível nova interface.
 Os links e o Papo de Buteco estarão disponíveis na segunda parte do episódio que irá ao ar exatamente daqui a uma semana.</description>
@@ -294,10 +294,10 @@ Os links e o Papo de Buteco estarão disponíveis na segunda parte do episódio 
     
     <item>
       <title>Opencast # 10 – Estreia do bloco Papo de buteco</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-10-estreia-do-bloco-papo-de-buteco/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-10-estreia-do-bloco-papo-de-buteco/</link>
       <pubDate>Thu, 24 May 2012 16:04:30 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-10-estreia-do-bloco-papo-de-buteco/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-10-estreia-do-bloco-papo-de-buteco/</guid>
       <description>Ainda acreditamos que neste ano conseguiremos fazer episódios quinzenais, enquanto não conseguimos acertar em definitivo nossos problemas de agenda vamos levando do jeito que dá.
 Neste episódio falamos sobre algumas notícias que foram destaque no mundo do software livre e estreamos o quadro &amp;#8220;Papo de buteco&amp;#8221;.
 Links do episódio  Novas funções do LibreOffice Clang irá substituir o o GCC no FreeBSD 10 Estudo sobre patentes de software Linux Mint 13 RC Mandriva Remix oficial do Ubuntu com Gnome Shell Tudo sobre o Ubuntu 12.</description>

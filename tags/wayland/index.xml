@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wayland on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/wayland/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/wayland/</link>
     <description>Recent content in Wayland on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 09 Sep 2013 14:53:51 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/wayland/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intel retira suporte ao XMIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</link>
       <pubDate>Mon, 09 Sep 2013 14:53:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/intel-retira-suporte-ao-xmir/</guid>
       <description>Uma notícia um pouco preocupante para quem usa o driver através do instalador próprio da Intel em seu computador e pretendia usá-lo no Ubuntu. A Intel anunciou que não dará suporte ao seu driver no servidor gráfico XMIR que será utilizado no Ubuntu nas próximas versões. A empresa está concentrando seus esforços para entregar o melhor driver para o Wayland, outra alternativa para mudança de servidor gráfico que deverá estar presente na maioria das distribuições.</description>
     </item>
     
     <item>
       <title>Opencast #19 – Mir, Ubuntu Touch e Global Jam</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
       <pubDate>Wed, 20 Mar 2013 00:31:37 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
       <description>Voltamos enfim para mais um episódio do Opencast. Neste episódio falamos sobre o servidor gráfico da Canonical, o Mir, Ubuntu Touch Developer Preview e Ubuntu Global Jam Brazil 2013. Vamos tentar deixar o episódio sem música, além da abertura, e sem transições entre os assuntos e vocês nos dizem o que acharam.
 Não se acostumem, os episódios irão ao ar quinzenalmente nas quartas-feiras, apenas hoje saiu na terça.
 Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do Android &amp;#8211; SurfaceFinger Gnome considera acelerar suporte ao Wayland Ubuntu Touch Developer Preview Videocast 26 &amp;#8211; Galaxy X e Ubuntu Phone Vakinha para compra de um Galaxy X Ubuntu Touch pela equipe do Ubuntu-BR-SC Imagens diárias para o Ubuntu Touch Ubuntu Touch portado para novos aparelhos Site Ubuntued Canal do Youtube com hangouts do Ubuntu SDK e outros vídeos também.</description>
@@ -33,10 +33,10 @@ Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do An
     
     <item>
       <title>Novo servidor gráfico para o Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novo-servidor-grafico-para-o-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novo-servidor-grafico-para-o-ubuntu/</link>
       <pubDate>Mon, 04 Mar 2013 22:20:54 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novo-servidor-grafico-para-o-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novo-servidor-grafico-para-o-ubuntu/</guid>
       <description>Muito se falou do Wayland, principalmente que ele iria substituir o Xorg e a principal distribuição a começar a mudança seria o Ubuntu. Contrariando os profetas, o Ubuntu usará seu próprio servidor gráfico, o Mir.
 Não serei hipócrita e não direi que adorei a ideia, sempre tive minhas próprias opiniões e este anúncio me deixa um pouco preocupado. Não estou dizendo que não gosto da ideia do projeto, mas também não estou dizendo que isto é maravilhoso.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolution on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/evolution/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/evolution/</link>
     <description>Recent content in Evolution on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 24 Jun 2011 12:59:14 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thunderbird 5 Beta</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/thunderbird-5-beta/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/thunderbird-5-beta/</link>
       <pubDate>Fri, 24 Jun 2011 12:59:14 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/thunderbird-5-beta/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/thunderbird-5-beta/</guid>
       <description>Dizem as &amp;#8220;más&amp;#8221; linguas que o Ubuntu 11.10 virá com o Mozilla Thunderbird no lugar do Evolution. Para mim isto será bom, pois sempre instalo o Thunderbird após a instalação do Ubuntu.
 Estou testando o Ubuntu 11.10 alpha 1 e ainda não vi esta alteração, mas isto deve vier com o tempo, afinal, nem o tema estava aplicado até o inicio do feriado.
 Mas se você já usa o Thunderbird e quer ter a versão 5 beta 2(última beta) siga estes simples passos:</description>

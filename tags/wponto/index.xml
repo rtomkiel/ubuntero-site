@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wponto on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/wponto/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/wponto/</link>
     <description>Recent content in Wponto on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 18 Sep 2011 22:46:54 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/wponto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/wponto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>wPonto, fim do projeto</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/wponto-fim-do-projeto/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/wponto-fim-do-projeto/</link>
       <pubDate>Sun, 18 Sep 2011 22:46:54 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/wponto-fim-do-projeto/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/wponto-fim-do-projeto/</guid>
       <description>Muitas pessoas estão procurando pelo wPonto, sistema de ponto eletrônico que era desenvolvido por mim. Infelizmente tive que abandonar o projeto graças as mudanças na legislação brasileira.
 Segundo a legislação, o software não tinha mais razão de existir, já que o foco era no registro dos pontos sem o alto custo dos relógios físicos, bastando ter apenas um computador que nem precisava ser específico para tal tarefa. Como o foco do projeto não era no gerenciamento dos pontos que viessem de um relógio físico, optei por finalizar o projeto.</description>
     </item>

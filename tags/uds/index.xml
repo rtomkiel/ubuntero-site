@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uds on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/uds/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/uds/</link>
     <description>Recent content in Uds on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 26 Feb 2013 19:09:17 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/uds/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/uds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>UDS passará a ser transmitida online e será de 3 em 3 meses</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/uds-passara-a-ser-transmitida-online-e-sera-de-3-em-3-meses/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/uds-passara-a-ser-transmitida-online-e-sera-de-3-em-3-meses/</link>
       <pubDate>Tue, 26 Feb 2013 19:09:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/uds-passara-a-ser-transmitida-online-e-sera-de-3-em-3-meses/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/uds-passara-a-ser-transmitida-online-e-sera-de-3-em-3-meses/</guid>
       <description>A UDS (Ubuntu Developer Summit) sempre aconteceu duas vezes por ano e é uma ótima maneira de definir os rumos que o Ubuntu vai tomar a cada novo ciclo de desenvolvimento.
 Várias tecnologias evoluíram desde que esta metodologia foi adotada e hoje não faz mais sentido esperar tanto e muito menos limitar o acesso apenas a quem está fisicamente nas salas onde as palestras e discussões acontecem. Pensando nisso a Canonical mudou a periodicidade da UDS para 3 meses e transmitirá via Google+ em 4 canais, Client, Server &amp;amp; Cloud, Community, and App Developers, todos com duas transmissões totalizando 8 canais.</description>
     </item>

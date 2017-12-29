@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Office Banking on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/office-banking/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/office-banking/</link>
     <description>Recent content in Office Banking on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 28 Mar 2012 01:25:17 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/office-banking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/office-banking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resposta da Caixa</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resposta-da-caixa/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resposta-da-caixa/</link>
       <pubDate>Wed, 28 Mar 2012 01:25:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resposta-da-caixa/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resposta-da-caixa/</guid>
       <description>E mais um banco respondeu aos meus questionamentos quanto ao funcionamento de seus home/office banking no Linux. Desta vez foi a Caixa que se manifestou e segue abaixo a resposta na íntegra.
 &amp;#8220;Prezado Ivan,
 Agradecemos o contato.
@@ -25,10 +25,10 @@ Informamos que o Internet Banking Caixa é compatível com todos os sistemas ope
     
     <item>
       <title>Resposta do Bradesco</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/resposta-do-bradesco/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/resposta-do-bradesco/</link>
       <pubDate>Wed, 21 Mar 2012 00:48:12 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/resposta-do-bradesco/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/resposta-do-bradesco/</guid>
       <description>Como o protesto contra os Bancos que não respeitam seus clientes não pode sair devido a divergências nas informações referentes a o que funciona ou não em cada um, resolvi entrar em contato direto com os Bancos para saber o que eles tem a dizer. Por enquanto só um banco respondeu e este Banco foi o Bradesco.
 Segue a resposta na íntegra.
 &amp;#8220;Agradecemos sua manifestação.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcos André Lucas on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/author/marcos-andr%C3%A9-lucas/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/author/marcos-andr%C3%A9-lucas/</link>
     <description>Recent content in Marcos André Lucas on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 28 Mar 2008 00:16:23 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/author/marcos-andr%C3%A9-lucas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/author/marcos-andr%C3%A9-lucas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Autenticação Squid com base em Tabelas MySql</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</link>
       <pubDate>Fri, 28 Mar 2008 00:16:23 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
       <description>&lt;p&gt;Um assunto muito recorrente, para quem trabalha com administração de proxy&amp;#8217;s, é a necessidade de se fazer autenticação dos usuários com base em uma determinada lista de acesso. Geralmente, é questão apenas de fazer a configuração correta do Squid, definir alguns arquivos texto com as informações e pronto. Porém, no caso de empresas grandes, é desejável que esta informação seja reutilizada a partir de alguma já existente, geralmente em forma de dados em tabelas de um banco de dados qualquer.&lt;/p&gt;
 
 &lt;p&gt;Utilizo em algumas empresas um script bem simples, que eu mesmo desenvolvi, para esta tarefa. Qual não foi minha surpresa, ao saber que fazer isto é uma dúvida bastante buscada na Internet por outras pessoas e, quase sempre, não resolvida. A maioria utiliza alguns projetos complicados, outros já recomendam partir para alguma solução mais rebuscada (e, talvez, até mais correta) como LDAP e outros.&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Ubuntu Server 7.10 Beta</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-server-710-beta/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-server-710-beta/</link>
       <pubDate>Thu, 27 Sep 2007 23:57:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-server-710-beta/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-server-710-beta/</guid>
       <description>Conforme o anúncio feito pelo Ivan no post anterior, já está disponível a versão beta da nova versão do Ubuntu. No mesmo link indicado, encontramos entre as opções de download a versão Server da distribuição.
 Além de compartilhar algumas novidades da versão desktop, algumas alterações são dignas de nota:
  Utilização do Kernel 2.6.22, pulando o 2.6.21 (7.04 usava 2.6.20) Em decorrência do kernel mais recente, existe agora o suporte a várias otimizações de energia (tickless, dynticks, clockevents), úteis em notebooks, mas que também são uma ótima pedida para servidores menos exigidos em questão de processador, tendo então uma diferença real de consumo.</description>
@@ -57,10 +57,10 @@ Além de compartilhar algumas novidades da versão desktop, algumas alterações
     
     <item>
       <title>Tutorial: Oracle Xpress 10g no Ubuntu</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/tutorial-oracle-xpress-10g-no-ubuntu/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/tutorial-oracle-xpress-10g-no-ubuntu/</link>
       <pubDate>Wed, 05 Sep 2007 01:39:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/tutorial-oracle-xpress-10g-no-ubuntu/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/tutorial-oracle-xpress-10g-no-ubuntu/</guid>
       <description>&lt;p&gt;Um dos pontos que levantei em meu &lt;a href=&#34;http://www.fuzzer.com.br/ubuntero/?cat=14&#34;&gt;primeiro post&lt;/a&gt; foi sobre o Oracle rodando em Ubuntu. Pensei então em escrever um tutorial sobre o assunto, mas o tempo era escasso, até que me deparei eu mesmo com a tarefa de ter de fazer isto, e resolvi documentar o processo. Este tutorial pretende mostrar como instalar o Oracle Express no Ubuntu Server.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sobre este tutorial:&lt;/strong&gt;&lt;/p&gt;
@@ -84,10 +84,10 @@ Além de compartilhar algumas novidades da versão desktop, algumas alterações
     
     <item>
       <title>Ubuntu Server 6.06 LTS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-server-606-lts/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-server-606-lts/</link>
       <pubDate>Sun, 20 May 2007 03:44:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-server-606-lts/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-server-606-lts/</guid>
       <description>Olá! Meu nome é Marcos André Lucas, sou programador e administrador de redes, e moro em Erechim &amp;#8211; RS. Conforme dito pelo Ivan neste post, eu estarei escrevendo alguns posts mais focados no lado &amp;#8220;servidor&amp;#8221; do Ubuntu e do Linux em geral. Assim, me junto ao colega André, no qual eu me &amp;#8220;inspirei&amp;#8221; na maior cara dura para este início, por meio do seu primeiro post 🙂 .
 Sou usuário Linux a pelo menos 5 anos, como profissional (por hobby, não lembro).</description>
     </item>

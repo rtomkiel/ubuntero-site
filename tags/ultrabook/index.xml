@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ultrabook on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ultrabook/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ultrabook/</link>
     <description>Recent content in Ultrabook on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 06 May 2013 03:05:15 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ultrabook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ultrabook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #33 – Ultrabook Inspiron 14z</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</link>
       <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-33-ultrabook-inspiron-14z/</guid>
       <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
 Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
     </item>

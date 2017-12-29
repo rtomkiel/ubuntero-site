@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu for Phones on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-phones/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-phones/</link>
     <description>Recent content in Ubuntu for Phones on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 26 Feb 2013 18:52:15 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-phones/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ubuntu-for-phones/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu for phones agora com builds diárias</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-phones-agora-com-builds-diarias/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-for-phones-agora-com-builds-diarias/</link>
       <pubDate>Tue, 26 Feb 2013 18:52:15 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-for-phones-agora-com-builds-diarias/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-for-phones-agora-com-builds-diarias/</guid>
       <description>Mantenha-se atualizado com a última versão do Ubuntu for Phones (Ubuntu Touch Developer Preview). A partir de hoje temos a disposição imagens diárias com atualizações para seu Ubuntu for Phones.
 Se você já instalou o Ubuntu for Phones no seu Galaxy, basta manter atualizado digitando o seguinte comando no terminal do seu computador, claro que o celular deve estar conectado via USB e o aparelho na tela do bootloader (ligue ele com os botões de volume pressionados):</description>
     </item>
     
     <item>
       <title>Sai Ubuntu for Phones e volta Android</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</link>
       <pubDate>Sun, 24 Feb 2013 16:26:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/sai-ubuntu-for-phones-e-volta-android/</guid>
       <description>Ok, você já viu como instalar o Ubuntu for Phones no Galaxy X, instalou, e viu que está muito cru para usar e quer voltar ao Android, mas não sabe como fazer. Não se preocupe que é fácil e de lambuja vamos voltar ao Android 4.2.2 e não a imagem oficial da Samsung que ainda nos traz o Android 4.1.
 A descrição de como retornar ao Android está na mesma página que ensina a instalar o Ubuntu for Phones, o que está neste artigo é apenas a tradução, claro que já testei e voltei a versão no Galaxy X mostrado no VideoCast 26 &amp;#8211; Galaxy X e Ubuntu for Phones.</description>
     </item>
     
     <item>
       <title>Videocast #26 – Galaxy X e Ubuntu for Phones</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</link>
       <pubDate>Sat, 23 Feb 2013 23:09:01 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-26-galaxy-x-e-ubuntu-for-phones/</guid>
       <description>Enfim volto ao mundo online plenamente e recomeçamos os trabalhos com um VideoCast mostrando o Ubuntu for Phones rodando no Galaxy X, modelo brasileiro do Galaxy Nexus. Na primeira parte do vídeo mostro o Galaxy rodando o Android atualizado com a rom da Samsung, 4.1. Na Segunda parte mostro o Ubuntu for Phone rodando no mesmo aparelho. Não precisaria, mas prefiro destacar. Esta versão do Ubuntu for Phone não deve ser usada em produção, ela é extremamente limitada e voltada para desenvolvedores de aplicativos.</description>
     </item>
     
     <item>
       <title>Ubuntu Phone na CES 2013</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-phone-na-ces-2013/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-phone-na-ces-2013/</link>
       <pubDate>Tue, 08 Jan 2013 10:49:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-phone-na-ces-2013/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-phone-na-ces-2013/</guid>
       <description>Mais um vídeo do próprio Mark demonstrando o Ubuntu for phones, desta vez na CES 2013, maior feira de tecnologia do mundo.
  Assistir no Youtube É impressionando como a velocidade e a responsividade aumentou em tão pouco tempo de desenvolvimento.
 Aproveite e participe da nossa vakinha para adquirir um aparelho igual ao mostrado no vídeo para que possamos acompanhar o desenvolvimento do projeto mostrando cada detalhe para vocês.

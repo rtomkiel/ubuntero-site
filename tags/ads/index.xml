@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ads on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/ads/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/ads/</link>
     <description>Recent content in Ads on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 19 Nov 2011 11:22:05 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/ads/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/ads/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Novos vídeos no canal não oficial UbuntuAds</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novos-videos-no-canal-nao-oficial-ubuntuads/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novos-videos-no-canal-nao-oficial-ubuntuads/</link>
       <pubDate>Sat, 19 Nov 2011 11:22:05 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novos-videos-no-canal-nao-oficial-ubuntuads/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novos-videos-no-canal-nao-oficial-ubuntuads/</guid>
       <description>Dois novos vídeos foram disponibilizados no canal não oficial UbuntuAds no Youtube.
 Vírus Ubuntu 11.10 </description>
     </item>

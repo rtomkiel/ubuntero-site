@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firewall on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/firewall/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/firewall/</link>
     <description>Recent content in Firewall on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 20 Jan 2011 11:05:27 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adicionar repositórios estando atras de um firewall</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</link>
       <pubDate>Thu, 20 Jan 2011 11:05:27 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
       <description>Artigo retirado e traduzido do site OMGUbuntu, tradução livre.
 Tendo problemas com o Ubuntu na Universidade? MadnessRed tem a solução.
 Um grande número de empresas e universidades bloqueiam todas as portas desconhecidas. Isto inclui as portas usadas para adicionar repositórios.

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>14.04 on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/14.04/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/14.04/</link>
     <description>Recent content in 14.04 on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 14 May 2014 23:43:48 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/14.04/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/14.04/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #33 – Firefox 29 e Ubuntu 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</link>
       <pubDate>Wed, 14 May 2014 23:43:48 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
       <description>Voltamos, sei que já está cansativa esta história, mas o que importa é que estamos de volta e com ânimo renovado. Neste episódio falamos um pouco sobre algumas notícias que julgamos importantes e também respondemos a algumas perguntas dos ouvintes que estavam assistindo a gravação ao vivo. Os participantes deste episódio foram Ivan, Diego, Rudinei(com o som muito melhor) e Og Maciel.
 Links do episódio  Lançado o Ubuntu 14.</description>
     </item>
     
     <item>
       <title>Gnome flashback no Ubuntu 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/gnome-flashback-no-ubuntu-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/gnome-flashback-no-ubuntu-14-04/</link>
       <pubDate>Fri, 02 May 2014 16:51:26 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/gnome-flashback-no-ubuntu-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/gnome-flashback-no-ubuntu-14-04/</guid>
       <description>Sempre é bom relembrar os momentos já vividos e ver por tudo que nós passamos. Lembrar as dificuldades e como fizemos para passar por cima delas, mas será que é bom voltar no tempo para viver novamente naquele mesmo mundo?
 Esta é a proposta do Gnome flashback disponível no Ubuntu 14.04. Utilizei a interface durante meio dia e foi bom lembrar dos antigos tempos e principalmente ver que o Unity e o Gnome Shell são extremamente superiores.</description>
     </item>
     
     <item>
       <title>Fim da linha para o Ubuntu 12.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/fim-da-linha-para-o-ubuntu-12-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/fim-da-linha-para-o-ubuntu-12-10/</link>
       <pubDate>Thu, 01 May 2014 19:05:25 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/fim-da-linha-para-o-ubuntu-12-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/fim-da-linha-para-o-ubuntu-12-10/</guid>
       <description>Está na hora de quem ainda utiliza o Ubuntu 12.10 fazer a migração para uma versão mais nova do sistema. Como já tivemos o lançamento do Ubuntu 14.04 LTS, nem preciso dizer para qual eu recomendo a migração. A data limite das atualizações da versão 12.10 é o dia 16 de maio, tempo suficiente para você fazer o seu backup e proceder com os passos para se atualizar. O diferencial é que você terá que passar pela versão 13.</description>
     </item>
     
     <item>
       <title>Lançado Firefox 29</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lancado-firefox-29/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lancado-firefox-29/</link>
       <pubDate>Tue, 29 Apr 2014 17:36:11 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lancado-firefox-29/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lancado-firefox-29/</guid>
       <description>Se você está usando o Ubuntu 14.04, já pode atualizar o seu sistema para ter o novo Firefox 29. Nesta versão temos enfim a nova interface totalmente redesenhada e minimalista, lembrando bastante o Google Chrome.
 Para abrir o atualizador, pressione e solte a tecla Super(tecla Windows) e digite &amp;#8220;atualizador&amp;#8221; sem as aspas. Aparecerá o atualizador de programas. Abra ele e instale as atualizações disponíveis.
 Uma das principais mudanças está na facilitação da utilização do Firefox Sync que agora exige apenas uma conta do Firefox e senha, nada mais de códigos e chaves.</description>
@@ -53,30 +53,30 @@ Uma das principais mudanças está na facilitação da utilização do Firefox S
     
     <item>
       <title>Como atualizar o Ubuntu 12.04 para o 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
       <pubDate>Wed, 23 Apr 2014 13:03:29 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
       <description>Se você é usuário do Ubuntu 12.04, deve estar preocupado que a atualização para a versão 14.04 ainda não apareceu no seu gerenciador de atualizações. Pode ficar tranquilo que o seu Ubuntu não está com problema, este é o comportamento esperado para esta versão devido ao suporte até 2017 da versão 12.04. A notificação de atualização deve vir só em meados de julho, quando a versão 14.04.1 será lançada.
 Para atualizar para a versão 14.</description>
     </item>
     
     <item>
       <title>Mir como padrão no desktop só para 2016</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/mir-como-padrao-no-desktop-so-para-2016/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/mir-como-padrao-no-desktop-so-para-2016/</link>
       <pubDate>Fri, 14 Mar 2014 11:35:54 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/mir-como-padrao-no-desktop-so-para-2016/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/mir-como-padrao-no-desktop-so-para-2016/</guid>
       <description>Se você estava esperando que o Mir viesse como padrão após a versão 14.04 LTS, pode sentar e esperar até a LTS seguinte, a 16.04. Embora o Mir já possa ser testado no destktop de maneira simples para quem está testando a 14.04 e Unity 8, os planos para o servidor gráfico estar como padrão no Ubuntu tem uma boa estrada para percorrer.
 Segundo Mark Shuttleworth durante a vUDS, é necessário muito trabalho para melhorar a compatibilidade com mais hardware e muitas melhorias no desempenho.</description>
     </item>
     
     <item>
       <title>Menus integrados localmente no Ubuntu 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/menus-integrados-localmente-no-ubuntu-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/menus-integrados-localmente-no-ubuntu-14-04/</link>
       <pubDate>Thu, 20 Feb 2014 20:30:18 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/menus-integrados-localmente-no-ubuntu-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/menus-integrados-localmente-no-ubuntu-14-04/</guid>
       <description>Uma boa e aguardada novidade para o Ubuntu 14.04, os menus localmente integrados. Com esta novidade, muita gente ficará feliz pois teremos a possibilidade de escolher se os menus estarão apenas como é hoje, global, ou também na janela do aplicativo.
 Veja no vídeo como vai ficar:
  Assistir no Youtube Eu gostei da novidade.</description>
@@ -84,20 +84,20 @@ Veja no vídeo como vai ficar:
     
     <item>
       <title>Concurso para escolher os papeis de parede do Ubuntu 14.04</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</link>
       <pubDate>Tue, 18 Feb 2014 18:40:12 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</guid>
       <description>Artistas digitais e fotógrafos, agora é a vez da colaboração de vocês para o Ubuntu 14.04 LTS com suas fotos ou criações digitais.
 Todos estão livres para criar, não existe um tema definido, apenas algumas recomendações como simplicidade, um único ponto de foco, ter relação com o design do Unity e resolução mínima de 2560 x 1600. Além disso, as imagens devem estar disponíveis sobre a licença Creative Commons ShareAlike 3.</description>
     </item>
     
     <item>
       <title>Videocast #50 – Dell Inspiron 14, um notebook para jogos?</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
       <pubDate>Tue, 24 Dec 2013 21:03:06 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
       <description>Este é o último episódio deste ano e enfim caiu em minhas mãos um notebook que é bom para jogos no Linux. O notebook é o Dell Inspiron 14 que vem equipado com uma placa de vídeo Nvidia GT625M, processador Intel Core i5-3337U, 6GB de memória e HD de 1 TB.
 Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
  Assistir no Youtube Antes de ver como habilitar a placa de vídeo Nvidia, passa no site da Dell e compra o computador por nosso link, assim ajuda o site e fica com uma super máquina para jogar.</description>
@@ -105,10 +105,10 @@ Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
     
     <item>
       <title>Ícone do Dropbox no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/icone-do-dropbox-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/icone-do-dropbox-no-ubuntu-13-10/</link>
       <pubDate>Mon, 04 Nov 2013 18:02:34 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/icone-do-dropbox-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/icone-do-dropbox-no-ubuntu-13-10/</guid>
       <description>Não utilizo o Dropbox por dois motivos, apenas 2 GB de armazenamento e por ter o UbuntuOne com 6 GB disponíveis para mim. Mesmo assim, sei que muitos de vocês são usuários dele e muitos estão com problema no Ubuntu 13.10. O problema é que o ícone não aparece na bandeja do sistema.
 Haters vão dizer:
 &amp;#8220;Viu como o Ubuntu é bugado?!&amp;#8221;
@@ -117,10 +117,10 @@ Sinto informar que o bug é exclusivo do Dropbox que não adiciona uma dependên
     
     <item>
       <title>O Ubuntu GNOME precisa de você</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/o-ubuntu-gnome-precisa-de-voce/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/o-ubuntu-gnome-precisa-de-voce/</link>
       <pubDate>Mon, 04 Nov 2013 13:00:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/o-ubuntu-gnome-precisa-de-voce/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/o-ubuntu-gnome-precisa-de-voce/</guid>
       <description>Usuários do Ubuntu GNOME, sua distribuição precisa da sua contribuição. Em seu site, o projeto está pedindo uma grande ajuda visando a próxima versão do Ubuntu que será uma LTS, 14.04.
 Para poder lançar uma versão LTS, como os outros sabores do Ubuntu farão, o projeto precisa de pessoas dedicadas para as seguintes funções:
  Controle de Bugs para comitar os mesmos para a triagem Muitas pessoas para arrumar os bugs encontrados Pessoas para ajudar no empacotamento nos PPA&amp;#8217;s  O projeto também destaca que precisa de pessoas com conhecimento e experiência e comprometidas para trabalhar por 2 ou 5 anos e não para apenas alguns meses.</description>
@@ -128,38 +128,38 @@ Para poder lançar uma versão LTS, como os outros sabores do Ubuntu farão, o p
     
     <item>
       <title>Trusty Tahr será o nome do Ubuntu 14.04 e seu calendário está definido</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
       <pubDate>Tue, 22 Oct 2013 13:03:32 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
       <description>Mark Shuttlerworth, ao falar sobre o lançamento do Ubuntu 13.10, anunciou o nome do Ubuntu 14.04, Trusty Tahr. O bichinho da foto aí de cima é uma espécie de cabra selvagem que representa resistência e coragem. Estes adjetivos me levam a crer que a próxima versão terá a estabilidade que é esperada de uma versão LTS, mas também terá a coragem da implantação do novo servidor gráfico Mir, mesmo sem os exaustivos testes que teríamos se o mesmo estivesse já disponível por padrão na versão 13.</description>
     </item>
     
     <item>
       <title>Calendário de desenvolvimento do Ubuntu 14.04 LTS</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</link>
       <pubDate>Sat, 31 Aug 2013 13:31:56 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</guid>
       <description>O Ubuntu 14.04 LTS ainda não tem nome definido, sabemos somente que irá iniciar pela letra &amp;#8220;T&amp;#8221;, mas seu cronograma de desenvolvimento já foi divulgado durante a UDS (Ubuntu Developer Summit), realizada online entre os dias 27 a 29 de Agosto de 2013.
 O primeiro Alpha do Ubuntu 14.04 LTS estará disponível em 19 de Dezembro de 2013 e a versão final está prevista para 17 de Abril de 2014.</description>
     </item>
     
     <item>
       <title>Firefox continuará sendo o navegador padrão no Ubuntu 13.10</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</link>
       <pubDate>Wed, 14 Aug 2013 14:58:50 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/firefox-continuara-sendo-o-navegador-padrao-no-ubuntu-13-10/</guid>
       <description>Ouviram minhas preces e o navegador padrão do Ubuntu 13.10 continuará sendo o Firefox. Sei que o o Chromium e principalmente o Chrome tem vários fãs, mas muitos destes fãs não sabem que os processos do Chrome e Chromium se dividem em vários outros e simplesmente devoram a memória do computador. Não estou com ele instalado agora para provar, mas em medições anteriores o Chome estava usando nada menos que 3 vezes mais memória que o Firefox com as mesmas abas abertas.</description>
     </item>
     
     <item>
       <title>Novidades sobre o MIR</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-mir/</link>
       <pubDate>Thu, 27 Jun 2013 16:52:59 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/novidades-sobre-o-mir/</guid>
       <description>Mal escrevo um desabafo sobre o posicionamento de algumas comunidades em relação ao MIR e já tenho algumas novidades relativas ao desenvolvimento.
 A primeira novidade e mais interessante é que o MIR será o servidor gráfico padrão no Ubuntu 13.10, próxima versão a ser lançada. O Unity lançado na versão 13.10 continuará sendo o 7 e estará rodando na camada de compatibilidade do MIR, o XMIR.
 O MIR será usado para os drivers livres da Intel, NVIDIA e ATI, já para os drivers proprietários da NVIDIA e ATI, o X ainda será utilizado.</description>

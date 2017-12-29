@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/mobile/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/mobile/</link>
     <description>Recent content in Mobile on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 12 May 2014 19:53:51 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emulador x86 para Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/emulador-x86-para-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/emulador-x86-para-ubuntu-touch/</link>
       <pubDate>Mon, 12 May 2014 19:53:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/emulador-x86-para-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/emulador-x86-para-ubuntu-touch/</guid>
       <description>Eis que hoje recebo uma ótima notícia via lista de discussão do time do ubuntu-phone. Foi lançado o emulador x86 do Ubuntu Touch.
 Infelizmente, nem todos os softwares estão disponíveis na imagem x86, mas dá para ter uma boa ideia de como o sistema funciona. Agora voltamos a ter uma boa chance de mostrar o andamento do desenvolvimento do Ubuntu Touch, mesmo que não seja em um aparelho real.</description>
     </item>
     
     <item>
       <title>Ubuntu Touch terá apresentação de boas vindas</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tera-apresentacao-de-boas-vindas/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tera-apresentacao-de-boas-vindas/</link>
       <pubDate>Thu, 29 Aug 2013 13:56:14 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tera-apresentacao-de-boas-vindas/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-touch-tera-apresentacao-de-boas-vindas/</guid>
       <description>Algo essencial para quem está conhecendo um novo sistema operacional de um Celular, já que o manual não é lido, é uma boa apresentação de boas vindas na primeira vez que o sistema é iniciado.
 Até então o Ubuntu Touch não tinha isto, mas existiam discussões. Agora esta importante funcionalidade está disponível e pode ser visto neste vídeo do Alam Pope.
  Assistir no Youtube </description>
@@ -34,29 +34,29 @@ Até então o Ubuntu Touch não tinha isto, mas existiam discussões. Agora esta
     
     <item>
       <title>Empresas de telefonia mostram interesse no Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</link>
       <pubDate>Thu, 20 Jun 2013 13:07:30 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/empresas-de-telefonia-mostram-interesse-no-ubuntu-touch/</guid>
       <description>A Canonical anunciou a criação de um consórcio, Ubuntu Carrier Advisor Group(CAG), formado por 8 empresas que mostram o interesse em suportar o Ubuntu Touch. Fazem parte do grupo a Deutsche Telekom, Everything Everywhere, Telecom Italia, Korea Telecom, LG UPlus, Portugal Telecom, e SK Telecom. Este grupo é independente e tem como objetivo influenciar o roadmap do projeto. Vejam que é influenciar e não definir, que isso fique bem claro para os trolls que tentam aproveitar todas as oportunidades.</description>
     </item>
     
     <item>
       <title>Lista de mudanças das imagens diárias do Ubuntu Touch</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</link>
       <pubDate>Thu, 21 Mar 2013 18:32:51 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/lista-de-mudancas-das-imagens-diarias-do-ubuntu-touch/</guid>
       <description>Depois de anunciar atualização diária da imagem do Ubuntu Touch, uma coisa ficou faltando, o que havia mudado de um dia para o outro? Muitos perguntavam isso, eu incluso, afinal, como iria eu atualizar o celular e testar o que havia de novo se eu não fazia ideia do que tinha sido mudado?
 O problema está solucionado, agora o changelog (lista de mudanças) pode ser acessado no endereço http://cdimage.ubuntu.com/ubuntu-touch-preview/daily-preinstalled/current/quantal-preinstalled.changelog</description>
     </item>
     
     <item>
       <title>Ubuntu Mobile App Store</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-app-store/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-app-store/</link>
       <pubDate>Mon, 18 Mar 2013 12:06:17 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-app-store/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/ubuntu-mobile-app-store/</guid>
       <description>Calma, não é oficial, é apenas uma proposta da comunidade. Veja como poderá ser a loja de aplicativos do Ubuntu Touch, caso a proposta, seja aceita.
     
  Assistir no Youtube O que acharam? Deixe seu comentário.

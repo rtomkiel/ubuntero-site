@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Landscape on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/landscape/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/landscape/</link>
     <description>Recent content in Landscape on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 05 Apr 2013 02:50:46 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/landscape/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/landscape/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Opencast #20 – Servidores Linux</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</link>
       <pubDate>Fri, 05 Apr 2013 02:50:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/opencast-20-servidores-linux/</guid>
       <description>Está atrasado mas o importante é que está no ar mais um episódio do Opencast. Não liguem para a minha voz(Ivan), eu estava no auge da gripe no dia da gravação. Neste episódio recebemos a visita do Tiago do site ubuntu-br-sc e do Aprígio Simões. Vocês vão notar a ausência do Rudinei, que foi atingido por uma falha massiva da OI devido ao rompimento de fibra ótica em três pontos do sul do país.</description>
     </item>
     

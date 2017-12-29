@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artigo on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/artigo/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/artigo/</link>
     <description>Recent content in Artigo on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 25 Jan 2011 12:00:09 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/artigo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/artigo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Buscamos colaboradores</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/buscamos-colaboradores/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/buscamos-colaboradores/</link>
       <pubDate>Tue, 25 Jan 2011 12:00:09 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/buscamos-colaboradores/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/buscamos-colaboradores/</guid>
       <description>Em nossa nova fase, estamos procurando colaboradores para fazer parte do grupo de colunistas. No momento estamos procurando por todo o tipo de conteúdo, seguindo apenas duas regras:
  Todo o conteúdo publicado no site estará sobre uma licença Creative Commons Todo o conteúdo tem que estar relacionado a distribuição Linux Ubuntu  Novos colaboradores terão seus artigos revisados antes de serem autorizados a serem divulgados no site. Seguindo as duas regras básicas, escrito em bom português e não contendo palavras de baixo calão, todos os artigos serão liberados e os créditos serão dados ao colaborador que o escreveu.</description>
     </item>

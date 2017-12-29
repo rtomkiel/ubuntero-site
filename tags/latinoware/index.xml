@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latinoware on Ubuntero</title>
-    <link>http://rtomkiel.github.io/ubuntero-site/tags/latinoware/</link>
+    <link>https://rtomkiel.github.io/ubuntero-site/tags/latinoware/</link>
     <description>Recent content in Latinoware on Ubuntero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 28 Oct 2013 02:20:46 +0000</lastBuildDate>
     
-	<atom:link href="http://rtomkiel.github.io/ubuntero-site/tags/latinoware/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rtomkiel.github.io/ubuntero-site/tags/latinoware/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Videocast #46 – Latinoware</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-46-latinoware/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-46-latinoware/</link>
       <pubDate>Mon, 28 Oct 2013 02:20:46 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-46-latinoware/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-46-latinoware/</guid>
       <description>Entre os dias 16 e 18 de outubro ocorreu a décima edição da Latinoware e eu estive no evento para representar o site e acabei sendo o representante do Ubuntu-BR-RS. Participei de maneira tímida, já que não estava preparado para isto, era para ser apenas mais um participante.
 Estive presente no evento apenas nos dois primeiros dias devido a um compromisso pessoal que me fez pegar a estrada antes da hora, mas deu para fazer bons contatos, conhecer gente nova e reencontrar velhos amigos.</description>
     </item>
     
     <item>
       <title>Videocast #45 – Latinoware e Ubuntu Touch com Mir</title>
-      <link>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
+      <link>https://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</link>
       <pubDate>Mon, 14 Oct 2013 11:00:04 +0000</pubDate>
       
-      <guid>http://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
+      <guid>https://rtomkiel.github.io/ubuntero-site/videocast-45-latinoware-e-ubuntu-touch-com-mir/</guid>
       <description>Hoje não temos grandes novidades em relação ao último videocast onde mostramos o estado atual, para aquela data, do Ubuntu Touch. Alguns dias depois de publicar o vídeo, o Mir passou a ser o servidor gráfico padrão do Ubuntu Touch e a experiência do sistema mudou bastante, o que me motivou a mostrar novamente como o sistema está.
 Neste vídeo também explico antecipadamente que o opencast e o próximo videocast podem atrasar ou até mesmo nem sair nas datas previstas devido a eu estar na Latinoware que fica a quase 8 horas de carro de onde eu moro.</description>
     </item>
