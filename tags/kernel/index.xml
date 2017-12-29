@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kernel on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/kernel/</link>
+    <description>Recent content in Kernel on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 05 Sep 2013 01:47:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
+      <link>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
+    </item>
+    
+    <item>
+      <title>Baixe já sua Linux Magazine 92 Community Edition!</title>
+      <link>http://ubuntero.com.br/baixe-ja-sua-linux-magazine-92-community-edition/</link>
+      <pubDate>Fri, 13 Jul 2012 02:03:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/baixe-ja-sua-linux-magazine-92-community-edition/</guid>
+      <description>Já está no ar a Linux Magazine 92 Community Edition.
+Confira nesta edição os principais assuntos da Linux Magazine de julho (Virtualização) e aprenda a criar sistemas de arquivos virtuais baseados em uma árvore de diretório e integre-o a outros programas com o cmdfs. Saiba como explorar as falhas de segurança da sua rede usando o MetaSploit, conjunto de ferramentas para testes de invasão e exploração de vulnerabilidade. Na revista é ensinado como você pode criar seu próprio servidor Git, o sistema de controle de versão desenvolvido por Linus Torvalds, e são mostradas duas formas de organizar trabalhos em grupo com a ferramenta.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #9 – Easter Eggs, Gnome 3.4, Ubuntu abandonando o Linux</title>
+      <link>http://ubuntero.com.br/opencast-episodio-9/</link>
+      <pubDate>Sun, 08 Apr 2012 20:19:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-episodio-9/</guid>
+      <description>Feriado de páscoa mas não deixamos vocês na mão e gravamos um episódio, um pouco menor que o habitual, mas o importante é ter o episódio com o mínimo de qualidade.
+Neste episódio falamos sobre os famosos ovos de páscoa (easter eggs) que podem ser encontrados nos programas de código aberto, a polêmica sobre o Ubuntu ter abandonado o Linux, Gnome 3.4, algumas pesquisas, tiro no pé do flash, processos de patentes e Red Hat.</description>
+    </item>
+    
+    <item>
+      <title>Kernel 2.6.39-0 no Ubuntu 11.04</title>
+      <link>http://ubuntero.com.br/kernel-2-6-39-0-no-ubuntu-11-04/</link>
+      <pubDate>Mon, 20 Jun 2011 01:08:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kernel-2-6-39-0-no-ubuntu-11-04/</guid>
+      <description>Desde o primeiro instante de que eu instalei o Ubuntu 11.04 no meu notebook, na versão alfa 3, percebi uma certa lerdeza, mas não era por causa da sua versão, que ainda era de desenvolvimento, e sim pela versão do Kernel que veio junto, e então acabava ficando lento na minha SiS. Fiz um pequeno teste no 11.10, e devo dizer que com a nova versão do kernel ficou muito mais veloz.</description>
+    </item>
+    
+    <item>
+      <title>Kernel 2.6.37.1 e 2.6.38-rc5 disponível para download</title>
+      <link>http://ubuntero.com.br/kernel-2-6-37-1-e-2-6-38-rc5-disponivel-para-download/</link>
+      <pubDate>Tue, 22 Feb 2011 11:14:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kernel-2-6-37-1-e-2-6-38-rc5-disponivel-para-download/</guid>
+      <description>Amigos
+As últimas versões do Kernel para Ubuntu Maverick estão disponível par download em http://www.megatek.net.br/customkernels/, ambas estão bastante estáveis.
+Para os que usam driver da Nvidia com o kernel 2.6.38-rc5, talvez seja necessario desabilitar o modulo nouveaux com os comandos abaixo:
+sudo echo &#34;blacklist nouveau&#34; &amp;gt; /etc/modprobe.d/nvidia-installer-disable-nouveau.conf sudo echo &#34;options nouveau modeset=0&#34; &amp;gt;&amp;gt; /etc/modprobe.d/nvidia-installer-disable-nouveau.conf Divirtam-se.</description>
+    </item>
+    
+    <item>
+      <title>As vezes rápido ainda não é o suficiente…</title>
+      <link>http://ubuntero.com.br/as-vezes-rapido-ainda-nao-e-o-suficiente-2/</link>
+      <pubDate>Thu, 10 Feb 2011 01:02:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/as-vezes-rapido-ainda-nao-e-o-suficiente-2/</guid>
+      <description>Aos amigos entusiastas, sedentários e híperativos.
+Como se já não bastasse a performance do linux, aguardamos nas próximas versões do kernel, duas atualizações que muitos consideram, um salto na performance do núcleo do nosso S.O. predileto.
+_BLK (Big kernel Lock): Bug este de quase 12 anos, teve de ser usado nas primeiras versões do kernel para uso em multi CPUs, por motivos de estabilidade e dificuldades na programação. Este praticamente removido apartir da versão 2.</description>
+    </item>
+    
+    <item>
+      <title>Kernel PAE para mais de 4 GB de memória</title>
+      <link>http://ubuntero.com.br/kernel-pae-para-mais-de-4-gb-de-memoria/</link>
+      <pubDate>Thu, 13 Jan 2011 11:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kernel-pae-para-mais-de-4-gb-de-memoria/</guid>
+      <description>Estou com um notebook novo com 6 GB de RAM e estava em um dilema. Instalar Ubuntu 64 bits e aproveitar toda a memória ou 32 bits para poder utilizar algumas impressoaras Canon que só tem driver para 32 bits?
+A decisão foi pelas impressoras e pelos 6 GB de Ram. Como isto é feito? Utilizando um Kernel PAE(Physical Address Extension). Segundo algumas leituras, a instalação do Ubuntu 32 bits em DVD já identifica a necessidade de instalação do kernel PAE, mas como eu só tinha a imagem de CD, fiz a instalação do sistema normalmente e após fiz a instalação do Kernel PAE como demonstrado agora:</description>
+    </item>
+    
+    <item>
+      <title>Remover kernel antigo</title>
+      <link>http://ubuntero.com.br/remover-kernel-antigo/</link>
+      <pubDate>Mon, 13 Sep 2010 15:00:28 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/remover-kernel-antigo/</guid>
+      <description>Com o tempo e atualizações do Ubuntu, várias entradas de kernel são enfileiradas no Grub. Para quem utiliza apenas o Ubuntu como sistema operacional isto não é problema, já para quem tem outro(s) sistema(s) o número de entradas pode ser incômodo, além de usar espaço em disco sem necessidade.
+O comando abaixo remove todas as entradas, menos a última, de uma só vez. O comando deve ser utilizado apenas depois de já ter testado todo o seu hardware e programas para ter certeza de que nada parou de funcionar após uma atualização.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/erro-de-certificado-do-msn-pidgin/" title="Erro de certificado do MSN no Pidgin">Erro de certificado do MSN no Pidgin</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela4.png"><img class="alignnone size-full wp-image-1190" title="Captura_de_tela" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela4.png" alt="" width="507" height="260" /></a>
+</p>
+
+<p>Nos últimos dias o Pidgin passou a apresentar um erro de certificado e raramente se conectava ao protocolo MSN. O problema, logicamente, está diretamente relacionado a mudanças no protocolo feitas pelo desenvolvedor que neste caso é a Microsoft.</p>
+
+<p>Para resolvermos este problema feche o pidgin e execute o comando abaixo no terminal:</p>
+
+<pre class="brush:shell">wget http://claudio-novais.info/ubuntuedFiles/omega.contacts.msn.com -O "omega.contacts.msn.com" && mkdir -p ~/.purple/certificates/x509/tls_peers && mv omega.contacts.msn.com ~/.purple/certificates/x509/tls_peers</pre>
+
+<p>Depois disto é só abrir o pidgin e o problema estará resolvido. Infelizmente esta solução não é permanente e você poderá ter que usá-la mais de uma vez.</p>
+
+<p>O comando foi retirado do blog <a href="http://ubuntued.info/problema-do-certificado-omega-contacts-msn-com-no-pidgin">Ubuntued</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 21 de Nov de 2010 | <a href="http://ubuntero.com.br/erro-de-certificado-do-msn-pidgin/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ferro-de-certificado-do-msn-pidgin%2f&url=http%3a%2f%2fubuntero.com.br%2ferro-de-certificado-do-msn-pidgin%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ferro-de-certificado-do-msn-pidgin%2f&t=Erro%20de%20certificado%20do%20MSN%20no%20Pidgin" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ferro-de-certificado-do-msn-pidgin%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/papel-de-parede-animado/" title="Papel de parede animado">Papel de parede animado</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><strong>Artigo válido apenas para a versão 10.10(Maverick Meerkat)</strong>.</p>
+
+<p>Quem já usou o Android, eu ainda não tive este privilégio, deve ter visto um ou mais papéis de parede animados na área de trabalho. Para quem utiliza Ubuntu isto também é possível, veja como.</p>
+
+<p>Usando o Compiz, o usuário conhecido como ilap criou algo muito parecido com o papel de parede do Android para o Ubuntu 10.10.</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Galaxy.png"><img class="alignnone size-thumbnail wp-image-1167" title="Galaxy" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Galaxy-150x93.png" alt="" width="150" height="93" /></a>
+</p>
+
+<p style="text-align: left;">
+  Para instalar este papel de parede tenha certeza de que o compiz esteja rodando e instale o aplicativo &#8220;Compiz settings manager&#8221;. Para isto abra a &#8220;Central de programas do Ubuntu&#8221;.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela2.png"><img class="alignnone size-thumbnail wp-image-1168" title="Captura_de_tela" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela2-118x150.png" alt="" width="118" height="150" /></a>
+</p>
+
+<p style="text-align: left;">
+  Na Central de programas procure por compiz e clique em instalar na segunda opção como na tela abaixo:
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-11.png"><img class="alignnone size-thumbnail wp-image-1169" title="Captura_de_tela-1" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-11-150x88.png" alt="" width="150" height="88" /></a>
+</p>
+
+<p style="text-align: left;">
+  Agora abra o terminal, apenas para sermos mais diretos e rápidos para adicionar um novo repositório e instalar os pacotes necessários. Para abrir o terminal Vá no menu Aplicativos => Acessórios => Terminal.
+</p>
+
+<p style="text-align: left;">
+  Digite os seguintes comandos:
+</p>
+
+<p style="text-align: left;">
+  <pre class="brush:shell">sudo add-apt-repository ppa:ilap/lwp
+sudo apt-get update && sudo apt-get install compiz-plugins-livewallpapers</pre>
+  
+  <p style="text-align: left;">
+    Depois do processo finalizado, clique com o botão direito do mouse na sua Área de trabalho e  escolha &#8220;Alterar plano de Fundo&#8221;. Digite o caminho &#8220;/usr/share/backgrounds/&#8221; e selecione o arquivo &#8220;Space_b_ilap.jpg&#8221;.
+  </p>
+  
+
+<p><p style="text-align: center;">
+    <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela3.png"><img class="alignnone size-thumbnail wp-image-1170" title="Captura_de_tela" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela3-150x131.png" alt="" width="150" height="131" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-12.png"><img class="alignnone size-thumbnail wp-image-1171" title="Captura_de_tela-1" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-12-150x115.png" alt="" width="150" height="115" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-21.png"><img class="alignnone size-thumbnail wp-image-1172" title="Captura_de_tela-2" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-21-150x115.png" alt="" width="150" height="115" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-31.png"><img class="alignnone size-thumbnail wp-image-1173" title="Captura_de_tela-3" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-31-150x130.png" alt="" width="150" height="130" /></a>
+  </p></p>
+
+<p><p style="text-align: left;">
+    Abra o Gerenciador de configurações do compiz que está localizado no menu Sistema =&gt; Preferências =&gt; Gerenciador de configurações do CompizConfig e no lado esquerdo clique em Live Wallpapers e marque a opção &#8220;Galaxy Live Wallpaper&#8221; do lado direito.
+  </p></p>
+
+<p><p style="text-align: center;">
+    <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-41.png"><img class="alignnone size-thumbnail wp-image-1175" title="Captura_de_tela-4" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-41-150x63.png" alt="" width="150" height="63" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-5.png"><img class="alignnone size-thumbnail wp-image-1176" title="Captura_de_tela-5" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-5-150x91.png" alt="" width="150" height="91" /></a>
+  </p></p>
+
+<p><p style="text-align: left;">
+    Feito isto, pressione as teclas Super(Windows)+F4 e você terá o efeito mostrado no vídeo abaixo:
+  </p></p>
+
+<p><p style="text-align: center;">
+  </p></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 10 de Nov de 2010 | <a href="http://ubuntero.com.br/papel-de-parede-animado/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fpapel-de-parede-animado%2f&url=http%3a%2f%2fubuntero.com.br%2fpapel-de-parede-animado%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fpapel-de-parede-animado%2f&t=Papel%20de%20parede%20animado" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fpapel-de-parede-animado%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/suporte-remoto/" title="Suporte remoto">Suporte remoto</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><strong>Ainda em tempo, quero agradecer ao Tiago Rocha que me deu a dica da conexão reversa pela lista de discussão do <a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-br">Ubuntu-BR</a></strong>.</p>
+
+<p>Em meu trabalho necessito dar suporte a usuários Windows e o software utilizado nas estações é o VNC. Não detalharei o procedimento de instalação do VNC no Windows, mas acredito que não seja necessário.</p>
+
+<p>Você deve estar se perguntando qual é o motivo de existir um artigo para falar de conexão remota usando VNC entre Windows e Linux, afinal, se não existe nenhum segredo nisto?</p>
+
+<p>Pense que cada cliente tem um endereço IP, um modem ADSL ou até uma conexão a rádio. Cada usuário teria que fazer as devidas configurações para ter as portas do VNC direcionadas para seus computadores. E se atras de um modem tiver 10 computadores? Direcionar uma porta diferente para cada computador? Alterar a configuração de redirecionamento de porta a cada vez que um computador diferente necessitar de suporte? A resposta para isto é: Faça a configuração de redirecionamento de porta no seu modem e utilize a opção &#8220;Conexões Reversas&#8221; do &#8220;Visualizador de área de trabalho remota&#8221;. Com esta opção, seu cliente pedirá que você conecte no computador dele. Desta maneira, ele não precisará configurar nada além de instalar e definir uma senha no VNC.</p>
+
+<p>Não tenho como entrar em detalhes de configuração de redirecionamento de portas, pois cada modem ADSL tem suas diferenças, então vamos direto à nossa conexão remota.</p>
+
+<p>Para inicio de conversa, abra o &#8220;Visualizador de área de trabalho remota&#8221; que está disponível no menu Aplicativos =&gt; Internet =&gt; Visualizador de área de trabalho remota.</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela1.png"><img class="alignnone size-thumbnail wp-image-1157" title="Captura_de_tela" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela1-150x140.png" alt="" width="150" height="140" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-1.png"><img class="alignnone size-thumbnail wp-image-1158" title="Captura_de_tela-1" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-1-150x88.png" alt="" width="150" height="88" /></a>
+</p>
+
+<p style="text-align: left;">
+  No &#8220;Visualizador de área de trabalho remota&#8221; vá no menu Arquivo => Conexões reversas.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-2.png"><img class="alignnone size-thumbnail wp-image-1159" title="Captura_de_tela-2" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-2-150x134.png" alt="" width="150" height="134" /></a>
+</p>
+
+<p style="text-align: left;">
+  Na janela que se abre, deixe as configurações como na imagem abaixo:
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-3.png"><img class="alignnone size-thumbnail wp-image-1160" title="Captura_de_tela-3" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-3-150x85.png" alt="" width="150" height="85" /></a>
+</p>
+
+<p style="text-align: left;">
+  A configuração do &#8220;Visualizador de área de trabalho remota&#8221; está pronta para receber novas conexões de outras máquinas. Agora vamos ver como o cliente que usa Windows fará para conectar em nossa máquina.
+</p>
+
+<p style="text-align: left;">
+  Depois de instalado o VNC no Windows, vá no menu Iniciar => Todos os programas => RealVNC => VNCServer => Add New Client como na imagem abaixo:
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-4.png"><img class="alignnone size-thumbnail wp-image-1162" title="Captura_de_tela-4" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-4-150x79.png" alt="" width="150" height="79" /></a>
+</p>
+
+<p style="text-align: left;">
+  Será aberta a janela para informar o IP ou nome de domínio para conexão remota. Nesta janela o cliente informará o IP da máquina onde foi configurado o &#8220;Visualizador de área de trabalho remota&#8221;. Este host pode ser um endereço da rede interna, caso os computadores estejam na mesma rede, ou um endereço público, caso os computadores possam se comunicar apenas pela internet.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-6.png"><img class="alignnone size-thumbnail wp-image-1163" title="Captura_de_tela-6" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-6-150x54.png" alt="" width="150" height="54" /></a>
+</p>
+
+<p style="text-align: left;">
+  Quando a conexão se estabelecer o cliente terá seu papel de parede removido e ele visualizará uma tela como podemos ver abaixo, veja o ícone do VNC que estará com o fundo preto.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-7.png"><img class="alignnone size-thumbnail wp-image-1164" title="Captura_de_tela-7" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-7-150x79.png" alt="" width="150" height="79" /></a>
+</p>
+
+<p style="text-align: left;">
+  Abaixo podemos ver a tela do &#8220;Visualizador de área de trabalho remota&#8221; já com a conexão estabelecida.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-8.png"><img class="alignnone size-thumbnail wp-image-1165" title="Captura_de_tela-8" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-8-150x88.png" alt="" width="150" height="88" /></a>
+</p>
+
+<p style="text-align: left;">
+  Espero que esta informação seja útil tanto para quem não conhecia a conexão reversa quanto para quem já a tinha utilizado em ambientes totalmente Windows.
+</p>
+
+<p><p style="text-align: left;"></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 9 de Nov de 2010 | <a href="http://ubuntero.com.br/suporte-remoto/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fsuporte-remoto%2f&url=http%3a%2f%2fubuntero.com.br%2fsuporte-remoto%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fsuporte-remoto%2f&t=Suporte%20remoto" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fsuporte-remoto%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/ubuntu-11-04-com-muitas-novidades/" title="Ubuntu 11.04 com muitas novidades">Ubuntu 11.04 com muitas novidades</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>O desenvolvimento do Ubuntu 11.04 já começou a ser traçado e muitas mudanças estão por vir.</p>
+
+<p>A mudança que será mais notada é, sem sombra de dúvidas, a mudança do Gnome-panel para o Unity. Sim, não estou louco, na versão 11.04 a interface padrão será a mesma utilizada em netbooks na versão 10.10.</p>
+
+<p>O motivo da mudança é o desenvolvimento do Gnome 3 que será lançado, segundo cronograma, em março do próximo ano. Como o Ubuntu sempre segue este calendário(Gnome+1) para lançamento de suas versões e o Gnome 3 usará o Gnome shell no lugar do gnome-panel, a Canonical preferiu utilizar o Unity, que no final das contas tem algumas funcionalidades parecidas. Para quem não gostou da ideia, sempre é possível voltar a utilizar o Gnome 2 pois ele estará disponível nos repositórios.</p>
+
+<p>Embora esta seja a mudança que será notada com maior facilidade por ser a porta de entrada do sistema, muitas outras mudanças foram definidas como banshee no lugar do rhythmbox como player de músicas, firefox 4, libreoffice no lugar do openoffice se este estiver maduro o suficiente e suporte ao protocolo RDP no vinagre.</p>
+
+<p>O suporte a RDP no vinagre ainda não está garantido, mas caso seja efetivado o cliente do terminal server será removido.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 8 de Nov de 2010 | <a href="http://ubuntero.com.br/ubuntu-11-04-com-muitas-novidades/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fubuntu-11-04-com-muitas-novidades%2f&url=http%3a%2f%2fubuntero.com.br%2fubuntu-11-04-com-muitas-novidades%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fubuntu-11-04-com-muitas-novidades%2f&t=Ubuntu%2011.04%20com%20muitas%20novidades" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fubuntu-11-04-com-muitas-novidades%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/integrar-o-thunderbird-ao-mini-aplicativo-indicador/" title="Integrar o Thunderbird ao mini-aplicativo Indicador">Integrar o Thunderbird ao mini-aplicativo Indicador</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Por algum tempo tentei utilizar o cliente de email padrão do Ubuntu, Evolution, mas confesso que ele nunca me agradou totalmente principalmente por ter muito mais do que eu precisava que era só um leitor de emails. Como alternativa sempre utilizei o Thunderbird, embora tenha usado o Zimbra Desktop por um longo período, e sempre senti falta de uma integração do Thunderbird com o mini-aplicativo indicador.</p>
+
+<p>Para resolver este problema existe um complemento que adiciona as devidas entradas no menu de notificação quando o Thunderbird é aberto. Este complemento pode ser baixado no endereço abaixo:</p>
+
+<ul>
+<li><a href="https://addons.mozilla.org/en-US/thunderbird/addon/223374/">https://addons.mozilla.org/en-US/thunderbird/addon/223374/</a></li>
+</ul>
+
+<p>Para instalar este complemento faça o download do arquivo entrando no endereço acima e clique no botão &#8220;Download for Linux&#8221;.</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela.png"><img class="alignnone size-thumbnail wp-image-1139" title="Captura_de_tela" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-150x56.png" alt="" width="150" height="56" /></a>
+</p>
+
+<p style="text-align: left;">
+  Depois de feito o download, abra o Thunderbird e vá no menu Ferramentas => Complementos e clique no botão &#8220;Instalar&#8221;
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Complementos.png"><img class="alignnone size-thumbnail wp-image-1140" title="Captura_de_tela-Complementos" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Complementos-150x109.png" alt="" width="150" height="109" /></a>
+</p>
+
+<p style="text-align: left;">
+  Preste atenção que na janela que se abre, para selecionar o complemento a ser instalado, estará marcado para mostrar apenas arquivos com a extensão .jar, marque para mostrar todos os arquivos como na imagem abaixo.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Instalar-tema.png"><img class="alignnone size-thumbnail wp-image-1141" title="Captura_de_tela-Instalar tema" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Instalar-tema-150x110.png" alt="" width="150" height="110" /></a>
+</p>
+
+<p style="text-align: left;">
+  Selecione o arquivo thunderbird_indicator-1.1-tb-linux.xpi, clique em abrir e aguarde liberar o botão &#8220;Instalar agora&#8221;.
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Instalar-tema-1.png"><img class="alignnone size-thumbnail wp-image-1142" title="Captura_de_tela-Instalar tema-1" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Instalar-tema-1-150x110.png" alt="" width="150" height="110" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Instalação-de-extensões-e-temas.png"><img class="alignnone size-thumbnail wp-image-1143" title="Captura_de_tela-Instalação de extensões e temas" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/Captura_de_tela-Instalação-de-extensões-e-temas-150x94.png" alt="" width="150" height="94" /></a>
+</p>
+
+<p style="text-align: left;">
+  Depois disto basta reiniciar o Thunderbird e você poderá ver o plugin funcionando como na imagem abaixo:
+</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/11/48727.png"><img class="alignnone size-thumbnail wp-image-1144" title="48727" src="http://www.ubuntero.com.br/wp-content/uploads/2010/11/48727-150x49.png" alt="" width="150" height="49" /></a>
+</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 3 de Nov de 2010 | <a href="http://ubuntero.com.br/integrar-o-thunderbird-ao-mini-aplicativo-indicador/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fintegrar-o-thunderbird-ao-mini-aplicativo-indicador%2f&url=http%3a%2f%2fubuntero.com.br%2fintegrar-o-thunderbird-ao-mini-aplicativo-indicador%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fintegrar-o-thunderbird-ao-mini-aplicativo-indicador%2f&t=Integrar%20o%20Thunderbird%20ao%20mini-aplicativo%20Indicador" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fintegrar-o-thunderbird-ao-mini-aplicativo-indicador%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/126/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">127</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/128/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

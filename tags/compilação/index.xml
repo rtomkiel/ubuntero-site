@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compilação on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/compila%C3%A7%C3%A3o/</link>
+    <description>Recent content in Compilação on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 16 Nov 2011 10:00:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/compila%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pacotes otimizados para o seu computador</title>
+      <link>http://ubuntero.com.br/pacotes-otimizados-para-o-seu-computador/</link>
+      <pubDate>Wed, 16 Nov 2011 10:00:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/pacotes-otimizados-para-o-seu-computador/</guid>
+      <description>Se você é louco por desempenho e tem bastante tempo para compilar uma aplicação, o apt-build foi feito para você. A sintaxe do programa é muito parecida com o apt-get, no entanto, o apt-build utiliza os pacotes de código fonte(dev) para fazer as instalações, fazendo com que se ganhe um pouco com desempenho, nem sempre este desempenho ganho vale o tempo para recompilar a aplicação.
+Para instalar o apt-build não precisamos adicionar nenhum repositório, ele já faz parte do Ubuntu.</description>
+    </item>
+    
+  </channel>
+</rss>

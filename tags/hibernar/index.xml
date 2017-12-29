@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hibernar on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/hibernar/</link>
+    <description>Recent content in Hibernar on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 23 Apr 2012 19:27:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/hibernar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Precise pangolin não gosta de hibernar</title>
+      <link>http://ubuntero.com.br/precise-pangolin-nao-gosta-de-hibernar/</link>
+      <pubDate>Mon, 23 Apr 2012 19:27:22 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/precise-pangolin-nao-gosta-de-hibernar/</guid>
+      <description>Esta é uma funcionalidade que não costumo usar, para falar a verdade eu só usei uma vez para ver o que acontecia, então não é algo que eu tenha notado, se não fosse o post do Andre Noel e o Cristiano Lazzari me perguntar eu nem saberia que isto não está mais acontecendo no 12.04.
+O problema é simples, a Canonical resolveu tirar a opção de hibernar da próxima versão do Ubuntu simplesmente por não funcionar em grande parte dos computadores existentes no mundo.</description>
+    </item>
+    
+  </channel>
+</rss>

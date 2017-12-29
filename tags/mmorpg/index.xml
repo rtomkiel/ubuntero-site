@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mmorpg on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/mmorpg/</link>
+    <description>Recent content in Mmorpg on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 11 Dec 2011 22:40:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/mmorpg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saga of Ryzom</title>
+      <link>http://ubuntero.com.br/saga-of-ryzom/</link>
+      <pubDate>Sun, 11 Dec 2011 22:40:10 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/saga-of-ryzom/</guid>
+      <description>Amantes dos jogos MMORPG, a dica de jogo deste final de semana é para vocês. O jogo Ryzom é um prato cheio para quem já conhece o jogo WOW, muitos dos elementos do &amp;#8220;primo&amp;#8221; famoso estão presentes neste RPG que mostro para vocês, sendo que você não precisa ficar preso a classes como mago, guerreiro entre outros. Basta treinar ou usar mais um telento que ele vai evoluir fazendo por exemplo que tenhamos um personagem mago especialista em espadas.</description>
+    </item>
+    
+    <item>
+      <title>Jogo GrandFantasia no Wine</title>
+      <link>http://ubuntero.com.br/jogo-grandfantasia-no-wine/</link>
+      <pubDate>Sun, 06 Nov 2011 15:50:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/jogo-grandfantasia-no-wine/</guid>
+      <description>Para quem gosta de jogos, hoje teremos uma ótima dica. Um jogo MMORPG em português e gratuito. O nome deste jogo é Grand Fantasia, mas ele não tem versão para Linux. O que fazemos então? Utilizaremos o programa Wine para instalar e rodar o jogo no Ubuntu.
+A primeira coisa que temos a fazer é adicionar o repositório do wine para instalarmos a última versão. Para isso abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:</description>
+    </item>
+    
+  </channel>
+</rss>

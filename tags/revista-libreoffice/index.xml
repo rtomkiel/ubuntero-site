@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revista Libreoffice on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/revista-libreoffice/</link>
+    <description>Recent content in Revista Libreoffice on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 25 Jun 2013 19:23:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/revista-libreoffice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disponível a revista LibreOffice Magazine – edição 5</title>
+      <link>http://ubuntero.com.br/disponivel-a-revista-libreoffice-magazine-edicao-5/</link>
+      <pubDate>Tue, 25 Jun 2013 19:23:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/disponivel-a-revista-libreoffice-magazine-edicao-5/</guid>
+      <description>A edição número 5 da revista LibreOffice Magazine traz como capa &amp;#8220;Os meninos do Brasil&amp;#8221; em homenagem aos desenvolvedores brasileiros do projeto. A revista traz muitos tutorias na seção &amp;#8220;Como Fazer&amp;#8221;, matéria sobre o servidor XMPP Openfire, Kernel Linux, e o restante vocês devem fazer o download da revista para conferir.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

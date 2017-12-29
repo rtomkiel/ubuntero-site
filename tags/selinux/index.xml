@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selinux on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/selinux/</link>
+    <description>Recent content in Selinux on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 03 Jul 2013 00:06:32 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/selinux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #24 – Projeto Fedora</title>
+      <link>http://ubuntero.com.br/opencast-24-projeto-fedora/</link>
+      <pubDate>Wed, 03 Jul 2013 00:06:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-24-projeto-fedora/</guid>
+      <description>Não foi planejado, afinal não sou usuário do Fedora, mas neste episódio falaremos do Projeto Fedora que teve sua mais nova versão, 19, lançada no dia 2 de julho. No episódio Ivan, Daniel Lara, Fabio Olive e Og Maciel falam um pouco sobre o Projeto Fedora no geral, sem focar em versões mas sim no Projeto como um todo.
+Temos um pouco de ruído no som devido ao Og Maciel ter sido obrigado a gravar o episódio diretamente de um bar.</description>
+    </item>
+    
+  </channel>
+</rss>

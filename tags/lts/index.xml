@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lts on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/lts/</link>
+    <description>Recent content in Lts on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 26 Jun 2014 02:14:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/lts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #36 – Mozilla TV e Patentes da Microsoft no Android</title>
+      <link>http://ubuntero.com.br/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
+      <pubDate>Thu, 26 Jun 2014 02:14:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
+      <description>Até parece mentira, mas estamos conseguindo manter a periodicidade dos episódios. Neste episódio falamos sobre a Mozilla TV, Android, patentes da Microsoft no Android, GTK2 e GTK3 entre outros assuntos.
+Gostaríamos de lembrar a todos que devem atualizar seus feeds do Opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.com.br. Por enquanto, os episódios estão sendo publicados em paralelo, mas em breve serão publicados exclusivamente no site tecnologiaaberta.</description>
+    </item>
+    
+    <item>
+      <title>Como atualizar o Ubuntu 12.04 para o 14.04</title>
+      <link>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-o-14-04/</link>
+      <pubDate>Wed, 23 Apr 2014 13:03:29 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-o-14-04/</guid>
+      <description>Se você é usuário do Ubuntu 12.04, deve estar preocupado que a atualização para a versão 14.04 ainda não apareceu no seu gerenciador de atualizações. Pode ficar tranquilo que o seu Ubuntu não está com problema, este é o comportamento esperado para esta versão devido ao suporte até 2017 da versão 12.04. A notificação de atualização deve vir só em meados de julho, quando a versão 14.04.1 será lançada.
+Para atualizar para a versão 14.</description>
+    </item>
+    
+    <item>
+      <title>Lançado o Ubuntu 14.04 LTS</title>
+      <link>http://ubuntero.com.br/lancado-o-ubuntu-14-04-lts/</link>
+      <pubDate>Thu, 17 Apr 2014 22:42:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-ubuntu-14-04-lts/</guid>
+      <description>O tão aguardado Ubuntu 14.04 LTS, codinome Trusty Tahr (Cabra selvagem Fiel) foi liberado para download hoje 17&amp;frasl;04.
+Se você não acompanhou o desenvolvimento do Ubuntu 14.04 não deverá notar grandes mudanças nessa nova versão. O ciclo atual de desenvolvimento foi focado em melhorias de performance, segurança e confiabilidade, concentrando os trabalhos &amp;#8220;em baixo do capô&amp;#8221; com poucas mudanças no visual.
+Algumas novidades do Ubuntu 14.04 LTS &amp;#8211; Foram removidas as bordas das janelas, que receberam uma suavização com cantos superiores arredondados;</description>
+    </item>
+    
+    <item>
+      <title>O Ubuntu GNOME precisa de você</title>
+      <link>http://ubuntero.com.br/o-ubuntu-gnome-precisa-de-voce/</link>
+      <pubDate>Mon, 04 Nov 2013 13:00:04 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/o-ubuntu-gnome-precisa-de-voce/</guid>
+      <description>Usuários do Ubuntu GNOME, sua distribuição precisa da sua contribuição. Em seu site, o projeto está pedindo uma grande ajuda visando a próxima versão do Ubuntu que será uma LTS, 14.04.
+Para poder lançar uma versão LTS, como os outros sabores do Ubuntu farão, o projeto precisa de pessoas dedicadas para as seguintes funções:
+ Controle de Bugs para comitar os mesmos para a triagem Muitas pessoas para arrumar os bugs encontrados Pessoas para ajudar no empacotamento nos PPA&amp;#8217;s  O projeto também destaca que precisa de pessoas com conhecimento e experiência e comprometidas para trabalhar por 2 ou 5 anos e não para apenas alguns meses.</description>
+    </item>
+    
+    <item>
+      <title>Trusty Tahr será o nome do Ubuntu 14.04 e seu calendário está definido</title>
+      <link>http://ubuntero.com.br/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</link>
+      <pubDate>Tue, 22 Oct 2013 13:03:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/trusty-tahr-sera-o-nome-do-ubuntu-14-04-e-seu-calendario-esta-definido/</guid>
+      <description>Mark Shuttlerworth, ao falar sobre o lançamento do Ubuntu 13.10, anunciou o nome do Ubuntu 14.04, Trusty Tahr. O bichinho da foto aí de cima é uma espécie de cabra selvagem que representa resistência e coragem. Estes adjetivos me levam a crer que a próxima versão terá a estabilidade que é esperada de uma versão LTS, mas também terá a coragem da implantação do novo servidor gráfico Mir, mesmo sem os exaustivos testes que teríamos se o mesmo estivesse já disponível por padrão na versão 13.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu se tornará “rolling release” ?</title>
+      <link>http://ubuntero.com.br/ubuntu-se-tornara-rolling-release/</link>
+      <pubDate>Wed, 23 Jan 2013 10:14:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-se-tornara-rolling-release/</guid>
+      <description>A resposta a esta pergunta é sim ao que tudo indica, mas fiquem calmos, as versões LTS continuam existindo.
+Em um hangout que você pode assistir no final do post, a gerente do time do kernel da Canonical, Leann Ogasawara, disse que a proposta foi lançada e a ideia é lançar as novidades quando elas aparecem e não apenas a cada 6 meses. Isto não significa que as versões LTS vão deixar de existir, muito pelo contrário.</description>
+    </item>
+    
+    <item>
+      <title>VídeoCast #13 – Ubuntu 12.04 LTS</title>
+      <link>http://ubuntero.com.br/videocast-13-ubuntu-12-04-lts/</link>
+      <pubDate>Sun, 29 Apr 2012 20:10:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-13-ubuntu-12-04-lts/</guid>
+      <description>Neste vídeo mostro um pouco do funcionamento do Ubuntu 12.04 LTS principalmente para os usuários que estão vindo da última versão LTS, a 10.04.
+Entenda que o Dash não é um lugar para apenas digitar o nome dos programas que quer que sejam abertos, você pode digitar o que quer fazer.</description>
+    </item>
+    
+    <item>
+      <title>Versões LTS, continuar ou não?</title>
+      <link>http://ubuntero.com.br/versoes-lts-continuar-ou-nao/</link>
+      <pubDate>Sun, 24 Apr 2011 17:30:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/versoes-lts-continuar-ou-nao/</guid>
+      <description>Dia 28 de Abril chegando, lançamento de mais uma nova versão do nosso querido Ubuntu.
+Muitos usuários e entusiastas assim como eu não aguentaram esperar e já instalaram a versão Beta, alguns já usam desde a versão Alpha.
+Mas muitos também perguntam: E a versão LTS? Continuo nela ou não?
+Bom, isso depende do ponto de vista e necessidade de cada usuário.
+Para quem quer ter todos os softwars atualizados e as últimas novidades disponíveis, podem atualizar para a última versão.</description>
+    </item>
+    
+  </channel>
+</rss>

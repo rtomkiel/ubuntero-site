@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intel on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/intel/</link>
+    <description>Recent content in Intel on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 09 Sep 2013 14:53:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intel retira suporte ao XMIR</title>
+      <link>http://ubuntero.com.br/intel-retira-suporte-ao-xmir/</link>
+      <pubDate>Mon, 09 Sep 2013 14:53:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/intel-retira-suporte-ao-xmir/</guid>
+      <description>Uma notícia um pouco preocupante para quem usa o driver através do instalador próprio da Intel em seu computador e pretendia usá-lo no Ubuntu. A Intel anunciou que não dará suporte ao seu driver no servidor gráfico XMIR que será utilizado no Ubuntu nas próximas versões. A empresa está concentrando seus esforços para entregar o melhor driver para o Wayland, outra alternativa para mudança de servidor gráfico que deverá estar presente na maioria das distribuições.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntero On Air 1</title>
+      <link>http://ubuntero.com.br/ubuntero-on-air-1/</link>
+      <pubDate>Fri, 28 Sep 2012 11:51:58 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntero-on-air-1/</guid>
+      <description>No dia 27 fizemos nosso piloto do quadro Ubuntero On Air. Este primeiro episódio serviu mais para conhecermos a ferramenta e testar se algumas configurações da ferramenta estavam funcionando.
+Os assuntos que abordamos foram:
+ Propagandas da Amazon no Ubuntu 12.10 Mudança de ideia da Intel sobre o suporte ao Linux nos chips da linha Clover Trail para tablets Grub 2 voltando ao Ubuntu 12.10 Adoção de software livre pelo governo francês Modelo de software livre brasileiro em destaque na campus party do Equador Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>Dell XPS com Intel e Nvidia</title>
+      <link>http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/</link>
+      <pubDate>Mon, 02 Apr 2012 16:30:40 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/</guid>
+      <description>Usuários de notebooks com placas de vídeo híbridas Intel e Nvidia tem enfrentado graves problemas referentes a má utilização do hardware devido a baixa qualidade dos drivers disponíveis para Linux. Além de a mudança entre as placas não ser feita, os usuários sofrem também com o superaquecimento de seus equipamentos, nem preciso dizer que isto reduz a vida útil do computador e das baterias.
+Para resolver este problema, em um notebook Dell XPS os seguintes passos resolveram:</description>
+    </item>
+    
+  </channel>
+</rss>

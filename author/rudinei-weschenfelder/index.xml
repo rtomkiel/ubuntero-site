@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rudinei Weschenfelder on Ubuntero</title>
+    <link>http://ubuntero.com.br/author/rudinei-weschenfelder/</link>
+    <description>Recent content in Rudinei Weschenfelder on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 17 Apr 2014 22:42:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/author/rudinei-weschenfelder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lançado o Ubuntu 14.04 LTS</title>
+      <link>http://ubuntero.com.br/lancado-o-ubuntu-14-04-lts/</link>
+      <pubDate>Thu, 17 Apr 2014 22:42:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-ubuntu-14-04-lts/</guid>
+      <description>O tão aguardado Ubuntu 14.04 LTS, codinome Trusty Tahr (Cabra selvagem Fiel) foi liberado para download hoje 17&amp;frasl;04.
+Se você não acompanhou o desenvolvimento do Ubuntu 14.04 não deverá notar grandes mudanças nessa nova versão. O ciclo atual de desenvolvimento foi focado em melhorias de performance, segurança e confiabilidade, concentrando os trabalhos &amp;#8220;em baixo do capô&amp;#8221; com poucas mudanças no visual.
+Algumas novidades do Ubuntu 14.04 LTS &amp;#8211; Foram removidas as bordas das janelas, que receberam uma suavização com cantos superiores arredondados;</description>
+    </item>
+    
+    <item>
+      <title>Comunidade internacional quer saber sua opinião sobre o Ubuntu</title>
+      <link>http://ubuntero.com.br/comunidade-internacional-quer-saber-sua-opiniao-sobre-o-ubuntu/</link>
+      <pubDate>Fri, 07 Mar 2014 01:18:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comunidade-internacional-quer-saber-sua-opiniao-sobre-o-ubuntu/</guid>
+      <description>Quer dar sua opinião sobre o Ubuntu, Unity e aplicativos padrões da distro? Então responda a Pesquisa 2014 da Comunidade!
+Desde 2011 a Comunidade internacional do Ubuntu organiza uma pesquisa para reunir opiniões, tendências e preferências dos usuários.
+A pesquisa é simples, leva menos de 3 minutos para responder e abrange vários temas como: qual seu principal sistema operacional, qual ambiente gráfico que você prefere, se você gosta dos papéis de parede do Ubuntu, o que você acha do Unity, qual seu navegador preferido, etc&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Bug de 10 anos é corrigido no LibreOffice</title>
+      <link>http://ubuntero.com.br/bug-de-10-anos-e-corrigido-no-libreoffice/</link>
+      <pubDate>Thu, 16 Jan 2014 18:40:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/bug-de-10-anos-e-corrigido-no-libreoffice/</guid>
+      <description>Limite de 65000 caracteres para parágrafos do LibreOffice, esse é o bug que será corrigido nas próximas versões, provavelmente na versão 4.3.
+Para ter uma ideia são 13 páginas em fonte tamanho 10 e espaçamento simples. Mas quem escreveria um parágrafo tão longo?
+
+Textos com essas características geralmente são usados em atas, minutas, acórdãos, petições e e muitos outros documentos, usados geralmente na área jurídica. Também pode-se usar um único parágrafo para tornar a leitura e interpretação do texto mais difícil, ou ainda, medo de deixar um espaço em branco aonde possa ser escrito algo depois de impresso.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu trará a verdadeira convergência antes da Microsoft</title>
+      <link>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</link>
+      <pubDate>Mon, 30 Dec 2013 12:57:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</guid>
+      <description>A convergência já deve chegar no Ubuntu 14.10 ou mais tardar na versão 15.04, aonde a mesma base de código (sistema operacional) irá rodar nos smartphones, tablets e desktops.
+Em entrevista concedida a PCPro o diretor da Canonical, Mark Shuttleworth falou sobre os planos de convergência para o Ubuntu, aonde o atual ciclo de atualizações poderá ser abandonado e sendo liberadas automaticamente &amp;#8220;sempre&amp;#8221; que estiverem prontas.
+Essa não seria a primeira vez que o ciclo de atualizações do Ubuntu seria alterada, recentemente o período de suporte das versões interim (versões não LTS) passou de 18 para 9 meses, cogitando-se até que nas próximas versões o Ubuntu poderá se tornar uma pseudo &amp;#8220;rolling release&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu comemora 9 anos</title>
+      <link>http://ubuntero.com.br/ubuntu-comemora-9-anos/</link>
+      <pubDate>Mon, 21 Oct 2013 22:14:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-comemora-9-anos/</guid>
+      <description>Em 20/10/2013 a distribuição GNU/Linux Ubuntu comemorou 9 anos do lançamento de sua primeira versão.
+O Ubuntu 4.10 (The Warty Warthog) foi lançado em 20 de outubro de 2004 baseado na distribuição Debian, com a proposta de ser um sistema operacional Linux de fácil utilização, para que qualquer pessoa consiga usar sem dificuldades.
+A cada 6 meses é lançada uma nova release. Em 17 de outubro de 2013 foi lançado o Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>Calendário de desenvolvimento do Ubuntu 14.04 LTS</title>
+      <link>http://ubuntero.com.br/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</link>
+      <pubDate>Sat, 31 Aug 2013 13:31:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/calendario-de-desenvolvimento-do-ubuntu-14-04-lts/</guid>
+      <description>O Ubuntu 14.04 LTS ainda não tem nome definido, sabemos somente que irá iniciar pela letra &amp;#8220;T&amp;#8221;, mas seu cronograma de desenvolvimento já foi divulgado durante a UDS (Ubuntu Developer Summit), realizada online entre os dias 27 a 29 de Agosto de 2013.
+O primeiro Alpha do Ubuntu 14.04 LTS estará disponível em 19 de Dezembro de 2013 e a versão final está prevista para 17 de Abril de 2014.</description>
+    </item>
+    
+    <item>
+      <title>Acompanhe o FISL 14 ao vivo</title>
+      <link>http://ubuntero.com.br/acompanhe-o-fisl-14-ao-vivo/</link>
+      <pubDate>Thu, 04 Jul 2013 21:28:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/acompanhe-o-fisl-14-ao-vivo/</guid>
+      <description>Iniciou ontem (03) e vai até sábado (06) a 14ª edição do Fórum Internacional Software Livre &amp;#8211; FISL 14, no Centro de Eventos da PUC em Porto Alegre/RS.
+Para quem não está presente no evento é possível acompanhar a programação de algumas salas ao vivo pela internet através do endereço http://softwarelivre.org/fisl14/aovivo
+Sobre o FISL Considerado um dos maiores encontros de comunidades de Software (e cultura) Livre na América Latina, aonde milhares de colaboradores e entusiastas se encontram, discutem e apresentam soluções tecnológicas e educacionais livres.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 13.10 (Saucy Salamander) Alpha 1 está disponível</title>
+      <link>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</link>
+      <pubDate>Sat, 29 Jun 2013 18:02:01 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-alpha-1-esta-disponivel/</guid>
+      <description>Seguindo o calendário de lançamento do Ubuntu 13.10 (Saucy Salamander), o primeiro Alpha foi disponibilizado para testes no dia 27 de junho de 2013.
+O Alpha 1 inclui uma série de atualizações de software que estarão na próxima versão do Ubuntu. Este é um conjunto inicial de imagens para testes, não recomendado para uso em produção, use somente para testes pois é possível encontrar vários bugs nesse primeiro lançamento.</description>
+    </item>
+    
+    <item>
+      <title>Firefox 18 é lançado com poucas novidades</title>
+      <link>http://ubuntero.com.br/firefox-18-e-lancado-com-poucs-novidades/</link>
+      <pubDate>Sat, 12 Jan 2013 21:10:18 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/firefox-18-e-lancado-com-poucs-novidades/</guid>
+      <description>O Mozilla Firefox 18 veio sem grandes novidades visuais, somente correções de segurança e melhorias em performance no suporte ao JavaScript. O melhor desempenho do JavaScript ocorreu devido a troca da engine compiladora, utilizando agora a IonMonkey.
+Usuários do Mac que possuem tela de Retina em seus equipamentos notaram grande melhoria no visual, agora o Firefox passa a suportar completamente a nova tecnologia da Apple.
+Outra novidade que ainda não está pronta mas já foi colocada em testes é o suporte a WebRTC &amp;#8211; Web Real-Time Communication.</description>
+    </item>
+    
+    <item>
+      <title>Ocultar Acesso remoto na tela de login do Ubuntu</title>
+      <link>http://ubuntero.com.br/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</link>
+      <pubDate>Wed, 12 Dec 2012 10:10:21 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</guid>
+      <description>A versão 12.10 do Ubuntu veio com uma nova funcionalidade chamada &amp;#8220;Acesso remoto&amp;#8221; na tela de &amp;#8220;boas-vindas&amp;#8221; (tela de login), conforme pode ser vista na imagem abaixo:clique para ampliar
+Através dessa opção é possível acessar um servidor remoto sem a necessidade de logar primeiro na máquina.
+O &amp;#8220;Acesso remoto&amp;#8221; na tela de login está habilitado por padrão no Ubuntu 12.10, e como a grande maioria dos usuários não utiliza essa funcionalidade, existe a possibilidade de ocultar essa opção na tela de login.</description>
+    </item>
+    
+    <item>
+      <title>Fórum Software Livre Tchelinux.org – Porto Alegre 2012</title>
+      <link>http://ubuntero.com.br/forum-software-livre-tchelinux-org-porto-alegre-2012/</link>
+      <pubDate>Thu, 08 Nov 2012 12:00:43 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/forum-software-livre-tchelinux-org-porto-alegre-2012/</guid>
+      <description>Dia 24 de Novembro de 2012 vai ocorrer mais uma edição do Fórum Software Livre Tchelinux.org &amp;#8211; Porto Alegre 2012. O evento é promovido por voluntários do Grupo de Usuários de Software Livre Tchelinux.org em parceria com a FTEC Porto Alegre.
+Estão previstas 24 Palestras ou Workshops que irão ocorrer simultaneamente em 4 salas temáticas, além de uma sala para conversas informais e networking.
+Durante todo o dia também irá ocorrer o Install Fest, aonde os simpatizantes, curiosos e novos usuários terão o apoio e ajuda de voluntários para instalar e aprender um pouco mais sobre Software Livre.</description>
+    </item>
+    
+    <item>
+      <title>Visualizando arquivos .pdf no Mozilla Firefox</title>
+      <link>http://ubuntero.com.br/visualizando-arquivos-pdf-no-mozilla-firefox/</link>
+      <pubDate>Mon, 01 Oct 2012 11:00:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/visualizando-arquivos-pdf-no-mozilla-firefox/</guid>
+      <description>No Ubuntero on Air 1 comentamos sobre a possibilidade de visualizar/abrir arquivos .pdf dentro do navegador Mozilla Firefox, uma funcionalidade que já existe no Google Chrome e que também será nativa nas próximas versões do Firefox.
+Para quem quiser habilitar a opção de abrir arquivos .pdf no Firefox, siga as instruções a seguir:
+1) Abra o Firefox e na barra de url digite: about:config e depois aperte ENTER.(clique para ampliar)</description>
+    </item>
+    
+    <item>
+      <title>Atualizando uma imagem .iso do Ubuntu com zsync</title>
+      <link>http://ubuntero.com.br/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</link>
+      <pubDate>Sat, 04 Aug 2012 20:46:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</guid>
+      <description>Essa dica é para quem costuma baixar com frequência as imagens .iso do Live CD/DVD do Ubuntu e também para economizar no consumo de tráfego de dados de sua internet.
+Usando o zsync é possível fazer uma atualização da imagem .iso que você já baixou, aonde será feita uma comparação entre as imagens e irá baixar somente as diferenças.
+Exemplo: você tem a imagem .iso de uma versão Alpha 2 e quer baixar a Alpha 3, usando o zsync será feita uma leitura da imagem que você possui e comparar com a nova imagem a ser baixada, após irá iniciar o download de somente as diferenças entre os arquivos.</description>
+    </item>
+    
+    <item>
+      <title>Revista Espírito Livre na Central de programas do Ubuntu</title>
+      <link>http://ubuntero.com.br/revista-espirito-livre-na-central-de-programas-do-ubuntu/</link>
+      <pubDate>Thu, 12 Jul 2012 11:00:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/revista-espirito-livre-na-central-de-programas-do-ubuntu/</guid>
+      <description>As primeiras edições da Revista Espírito Livre já estão na Central de programas do Ubuntu, em breve as demais edições também estarão disponíveis.
+ Para quem gosta de acompanhar publicações com conteúdos de qualidade sobre Tecnologia e Software Livre, a Revista Espírito Livre é leitura obrigatória.
+A revista é uma publicação digital, distribuída de forma gratuita via internet em formato PDF, destinada aos usuários envolvidos com tecnologia, software livre, cultura digital e outros assuntos relacionados a liberdade e compartilhamento do conhecimento.</description>
+    </item>
+    
+    <item>
+      <title>Guia Oficial do Ubuntu 12.04 LTS</title>
+      <link>http://ubuntero.com.br/guia-oficial-do-ubuntu-12-04-lts/</link>
+      <pubDate>Thu, 05 Jul 2012 14:00:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/guia-oficial-do-ubuntu-12-04-lts/</guid>
+      <description>&amp;#8220;Getting Started with Ubuntu 12.04&amp;#8221; é o manual Oficial do Ubuntu 12.04 LTS destinado para quem está conhecendo o Ubuntu e também para aqueles usuários mais experientes, que desejam conhecer as novidades e aprofundar seus conhecimentos no sistema operacional da Canonical.
+O guia gratuíto é mantido pela equipe do Ubuntu Manual Project e traz 143 páginas com guias ilustrados que abrangem desde como baixar o Ubuntu, instalação, apresentação detalhada do ambiente Unity, além de dicas de segurança e soluções de problemas.</description>
+    </item>
+    
+  </channel>
+</rss>

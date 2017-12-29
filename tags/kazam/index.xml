@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazam on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/kazam/</link>
+    <description>Recent content in Kazam on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 22 Feb 2012 15:57:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/kazam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kazam Screencaster 1.0 lançada</title>
+      <link>http://ubuntero.com.br/kazam-screencaster-1-0-lancada/</link>
+      <pubDate>Wed, 22 Feb 2012 15:57:36 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kazam-screencaster-1-0-lancada/</guid>
+      <description>Olá a todos. Quando eu ainda tinha tempo de procurar por temas para postar aqui no site, eu gravei alguns vídeos para a demonstração do mesmo, e utilizava o Kazam. Quando passei para o Ubuntu 11.04 não pude utilizá-lo, por que o seu desenvolvimento não estava indo muito bem e não havia suporte algum. Hoje pela manhã navegando na internet vi que havia sido lançada uma nova versão do programa após muito tempo.</description>
+    </item>
+    
+    <item>
+      <title>Post 4 em 1</title>
+      <link>http://ubuntero.com.br/post-4-em-1/</link>
+      <pubDate>Tue, 05 Apr 2011 16:18:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/post-4-em-1/</guid>
+      <description>É isso mesmo que está escrito no título, hoje o post é 4 em 1. Ao invés de postar várias dicas ao longo dos dias, resolvi fazer esse &amp;#8220;pacote&amp;#8221;. São duas dicas com relação ao VLC e outra será a apresentação, para os que não conhecem, do Kazam.
+Assistindo DVD com menu no VLC A situação foi a seguinte, há alguns meses atrás, comprei o DVD de UP &amp;#8211; Altas Aventuras (filme bacana, quem não assistiu assista) e hoje resolvi assistir novamente pois estava com insônia.</description>
+    </item>
+    
+  </channel>
+</rss>

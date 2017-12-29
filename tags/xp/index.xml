@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xp on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/xp/</link>
+    <description>Recent content in Xp on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 23 Oct 2014 20:18:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/xp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #39 – Netflix e Android Pirulito</title>
+      <link>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</link>
+      <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</guid>
+      <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
+Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
+Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
+    </item>
+    
+  </channel>
+</rss>

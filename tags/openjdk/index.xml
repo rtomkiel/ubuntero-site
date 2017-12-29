@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openjdk on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/openjdk/</link>
+    <description>Recent content in Openjdk on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 20 Dec 2011 00:44:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/openjdk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review semanal 03</title>
+      <link>http://ubuntero.com.br/review-semanal-03/</link>
+      <pubDate>Tue, 20 Dec 2011 00:44:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/review-semanal-03/</guid>
+      <description>Último resumo semanal, agora com o nome de Review Semanal, do ano no ar com bastante atraso, mas aí está ele.
+Os assuntos abordados neste episódio vão desde java, OpenJDK, passando incrivelmente pela microsoft e terminando com um rápido review da distribuição, baseada no Ubuntu, Bodhi.
+Links do episódio  TecLand Chapecó Canonical removerá Java do Ubuntu Oracla usará OpenJDK como base para desenvolvimento do Java 7 (inglês) MSN Messenger com suporte a XMPP Nvidia libera código do compilador da CUDA, baseado no LLVM The Humble Indie Bundle GNU Telephony in 2012 [Bodhi Linux   ]8</description>
+    </item>
+    
+  </channel>
+</rss>

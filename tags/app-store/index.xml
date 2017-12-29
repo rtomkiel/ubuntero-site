@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Store on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/app-store/</link>
+    <description>Recent content in App Store on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 18 Mar 2013 12:06:17 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu Mobile App Store</title>
+      <link>http://ubuntero.com.br/ubuntu-mobile-app-store/</link>
+      <pubDate>Mon, 18 Mar 2013 12:06:17 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-mobile-app-store/</guid>
+      <description>Calma, não é oficial, é apenas uma proposta da comunidade. Veja como poderá ser a loja de aplicativos do Ubuntu Touch, caso a proposta, seja aceita.
+    
+ Assistir no Youtube O que acharam? Deixe seu comentário.
+_Fonte: elbuntu projects_</description>
+    </item>
+    
+    <item>
+      <title>Lojas de aplicativos</title>
+      <link>http://ubuntero.com.br/lojas-de-aplicativos/</link>
+      <pubDate>Wed, 27 Apr 2011 12:29:28 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lojas-de-aplicativos/</guid>
+      <description>Quantas vezes você já ouviu ou leu sobre as &amp;#8220;inovadoras&amp;#8221; lojas de aplicativos? Apple tem a sua, android também e a até a Microsoft tem a sua. A única explicação do porque estas lojas de aplicativos serem famosas é o simples fato de elas venderem aplicativos exclusivos para seus dispositivos.
+Você deve estar se perguntando qual a relação destas lojas com o software livre e o Ubuntu? A resposta é tão simples que pode até parecer forçação de barra, mas o Linux basicamente criou a ideia de lojas de aplicativos, mas nunca vendeu os aplicativos lá disponíveis.</description>
+    </item>
+    
+  </channel>
+</rss>

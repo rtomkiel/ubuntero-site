@@ -1,0 +1,535 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/kernel-2-6-39-0-no-ubuntu-11-04/" title="Kernel 2.6.39-0 no Ubuntu 11.04">Kernel 2.6.39-0 no Ubuntu 11.04</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/06/Monitor-kernel-novo.png" rel="lightbox"><img class="aligncenter size-full wp-image-2330" title="Kernel 2.6.39-0 no Ubuntu 11.04" alt="Kernel 2.6.39-0 no Ubuntu 11.04" src="http://www.ubuntero.com.br/wp-content/uploads/2011/06/Monitor-kernel-novo.png" width="614" height="384" /></a></p>
+
+<p>Desde o primeiro instante de que eu instalei o <strong>Ubuntu 11.04</strong> no meu notebook, na versão alfa 3, percebi uma certa lerdeza, mas não era por causa da sua versão, que ainda era de desenvolvimento, e sim pela versão do <strong>Kernel</strong> que veio junto, e então acabava ficando lento na minha <strong>SiS</strong>. Fiz um pequeno teste no 11.10, e devo dizer que com a nova versão do kernel ficou muito mais veloz.</p>
+
+<p>São três simples passos no terminal e tudo estará instalado e funcional. Os comandos são os seguintes:</p>
+
+<p><code>sudo add-apt-repository ppa:kernel-ppa/ppa</code></p>
+
+<p><code>sudo apt-get update</code></p>
+
+<p><code>sudo apt-get install linux-headers-2.6.39-0 linux-headers-2.6.39-0-generic linux-image-2.6.39-0-generic --fix-missing</code></p>
+
+<p>Se quiser tornar o processo mais automático, digite os comandos com <em>&amp;&amp;</em> entre eles, para que vá diretamente.</p>
+
+<p><code>sudo add-apt-repository ppa:kernel-ppa/ppa &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install linux-headers-2.6.39-0 linux-headers-2.6.39-0-generic linux-image-2.6.39-0-generic --fix-missing -y</code></p>
+
+<p>Ser der algum erro, tire o <code>-y</code> do final. É isso.</p>
+
+<p>Mais uma coisa, os que puderem ajudem o Ivan na sua <a href="http://www.vakinha.com.br/VaquinhaP.aspx?e=40069" target="_blank" rel="nofollow">vaquinha</a>, ajudem. Desculpa eu não poder ajudar, mas tô só com 20 reais, minha mãe não deixa eu contribuir e eu também tô precisando de uma vakinha pra poder comprar um notebook novo, com uma placa descente.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/kernel">kernel</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/sis">sis</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/anderson-henrique" title="Mais posts de /author/anderson-henrique">Anderson Henrique</a> em 20 de Jun de 2011 | <a href="http://ubuntero.com.br/kernel-2-6-39-0-no-ubuntu-11-04/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fkernel-2-6-39-0-no-ubuntu-11-04%2f&url=http%3a%2f%2fubuntero.com.br%2fkernel-2-6-39-0-no-ubuntu-11-04%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fkernel-2-6-39-0-no-ubuntu-11-04%2f&t=Kernel%202.6.39-0%20no%20Ubuntu%2011.04" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fkernel-2-6-39-0-no-ubuntu-11-04%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/suporte-no-ubuntu-via-irc/" title="Suporte no Ubuntu via IRC">Suporte no Ubuntu via IRC</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>O Ubuntu oferece muitas formas de se obter suporte e uma delas é através do IRC como podemos ver no vídeo.</p>
+
+<p><center>
+</center></p>
+
+<p>Aproveitanto, ajudem o site em seu aniversário com uma pequena contribuição na <a href="http://t.co/w29sbun">vakinha</a> que estamos fazendo. A contribuição mínima é de R$ 5,00. O link para a vakinha é <a href="http://t.co/w29sbun">http://t.co/w29sbun</a>.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/irc">irc</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/suporte">suporte</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 19 de Jun de 2011 | <a href="http://ubuntero.com.br/suporte-no-ubuntu-via-irc/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fsuporte-no-ubuntu-via-irc%2f&url=http%3a%2f%2fubuntero.com.br%2fsuporte-no-ubuntu-via-irc%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fsuporte-no-ubuntu-via-irc%2f&t=Suporte%20no%20Ubuntu%20via%20IRC" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fsuporte-no-ubuntu-via-irc%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/11%C2%BA-tema-dark-squares/" title="11º Tema – Dark Squares">11º Tema – Dark Squares</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Neste final de semana trago um tema para o Unity. Chama-se Dark Squares, e foi criado por <a href="http://gnome-look.org/usermanager/search.php?username=Senoculus">Senoculus</a>. É um belo tema, com tons escuros, que vai agradar a todos. O tema pode ser tanto usado com o Unity, como no Gnome clássico.</p>
+
+<p>O download tem pouco mais de 100k, mas antes de ser obtido, vamos ao wallpaper.</p>
+
+<p>&nbsp;</p>
+
+<div class="mceTemp mceIEcenter" style="text-align: center;">
+  <dl id="attachment_2310" class="wp-caption aligncenter" style="width: 310px;">
+    <dt class="wp-caption-dt">
+      <a href="http://www.ubuntero.com.br/wp-content/uploads/2011/06/e_the_patch_1920.jpg"><img class="size-medium wp-image-2310 " src="http://www.ubuntero.com.br/wp-content/uploads/2011/06/e_the_patch_1920-300x187.jpg" alt="" width="300" height="187" /></a>
+    </dt>
+    
+    <dd class="wp-caption-dd">
+      *Clique para abrir a imagem em alta qualidade
+    </dd>
+  </dl>
+</div>
+
+<p style="text-align: left;">
+  Após obtermos o plano de fundo, vamos enfim ao arquivo do tema. Para o obter <strong><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/06/142481-Dark-Squares.tar.gz">clique aqui</a></strong>.
+</p>
+
+<p><span style="color: #000000;"><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="font-size: small;">Salve o arquivo em qualquer pasta e depois, para instalar, o copie para as </span></span></span><span style="color: #000000;"><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="font-size: small;">Preferências de Aparência </span></span></span><em><span style="color: #000000;"><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="font-size: small;">(</span></span></span></em><span style="font-family: 'DejaVu Sans Condensed';"><em><span style="color: #000000;"><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="font-size: small;">﻿</span></span></span></em></span><em><span style="color: #000000;"><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="font-size: small;">Tecla Super → Pesquise por Aparência). </span></span></span></em><span style="color: #000000;"><span style="font-size: small;">C</span></span><span style="color: #000000;"><span style="font-size: small;">om o tema já instalado selecione-o e o estará utilizando. O resultado final é mais ou menos o seguinte (os problemas ainda continuam para aplicar temas):</span></span></p>
+
+<p style="text-align: center;">
+  <span style="color: #000000;"><span style="font-size: small;"><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/06/Dark-Square1.png"><img class="aligncenter size-large wp-image-2314" src="http://www.ubuntero.com.br/wp-content/uploads/2011/06/Dark-Square1-1024x640.png" alt="" width="473" height="296" /></a><br /> </span></span>
+</p>
+
+<p>Semana que vem até o final de julho, postarei todo final de semana um tema, pois estarei de férias da escola, e será mostrado no Unity 3D, isso se eu conseguir resolver o problema com o driver da NVidia. Até semana que vem.</p>
+
+<p><em><span style="color: #000000;"><span style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;"><span style="font-size: x-small;"><em><br /> </em></span></span></span></em></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/linux">Linux</a>,   <a href="/tags/tema">tema</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/anderson-henrique" title="Mais posts de /author/anderson-henrique">Anderson Henrique</a> em 12 de Jun de 2011 | <a href="http://ubuntero.com.br/11%C2%BA-tema-dark-squares/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f11%25C2%25BA-tema-dark-squares%2f&url=http%3a%2f%2fubuntero.com.br%2f11%25C2%25BA-tema-dark-squares%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f11%25C2%25BA-tema-dark-squares%2f&t=11%c2%ba%20Tema%20%e2%80%93%20Dark%20Squares" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f11%25C2%25BA-tema-dark-squares%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/2301disponivel-revista-espirito-livre-n-26/" title="Disponível a Revista Espírito Livre n. 26">Disponível a Revista Espírito Livre n. 26</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<div style="text-align: center;">
+  <img title="Revista Espírito Livre - Ed. #026 - Maio 2011" src="http://revista.espiritolivre.org/img/REL026_Capa.jpg" alt="Revista Espírito Livre - Ed. #026 - Maio 2011" width="269" height="359" />
+</div>
+
+<div style="text-align: center;">
+  Revista Espírito Livre &#8211; Ed. #026 &#8211; Maio 2011
+</div>
+
+<div style="text-align: center;">
+  <p>
+    &nbsp;
+  </p>
+</div>
+
+<p style="text-align: center;">
+  <code>&lt;a title="Baixado 1135 vezes" href="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=26">Revista Espírito Livre - Ed. n #026 - Maio 2011&lt;br />
+&lt;img class="aligncenter" src="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/img/download.gif" alt="Revista Espírito Livre - Ed. n #026 - Maio 2011" />&lt;/a></code>
+</p>
+
+<p>Crowdsourcing é uma nomenclatura recente para algo que todos conhecemos bem. A construção colaborativa através da rede já vem sendo feita a muito tempo. Vários projetos de código aberto foram produzidos e se tornaram o que são justamente por causa da construção coletiva de vários entes, vários nós, pontos interligados em uma grande teia. E o que antes era um passatempo nerd, se tornou o motor de muitos projetos.</p>
+
+<p>Alguém aí já pensou em como seria as nossas vidas sem a construção coletiva, responsável por exemplo, pela criação, manutenção e crescimento da Wikipédia? E as mobilizações que hoje são feitas através das redes sociais com os mais diversos propósitos? Projetos são criados, mantidos, remunerados e atingem maturidade através de vários pares de mãos, dezenas de dedos, milhares de IPs, espalhados mundo a fora. Compartilhar e constribuir com o outro são valores que aprendemos desde criança. “Reparta o seu lanche com o seu coleguinha”, ou “divida o seu biscoito com seu amigo”; você certamente já ouviu estas frases proferidas por entes queridos, pessoas que se importavam com você. Uma pena que tais valores, com o passar do tempo foram sendo esquecidos. Em uma sociedade como a nossa, o inteligente não é quem compartilha, mas sim aquele que esconde. Convido-o a reflitir os novos valores da sociedade…</p>
+
+<p>Onde erramos?! Erramos? Ou tudo não passa de uma evolução (ou regressão)? Devaneios que esta edição apresenta em diversos artigos, ora técnicos, hora reflexivos e que nos leva a pensar, tentar entender o que hoje vivemos. E para nos ajudar a entender um pouco mais sobre este tema conversamos com Carl Esposti, criador do site Crowsdsourcing.org. Esposti clarifica o termo, com exemplos reais e palpáveis. Outros colaboradores como Alexandre Oliva, João Carlos Caribé, Ana Brambilla, entre outros, igualmente tratam o tema, com rigor e foco. Além do tema em questão, contribuições diversas e que merecem destaque! Várias matérias sobre programação, internet, eventos. Redes, segurança e vários outros temas também estão disponíveis.</p>
+
+<p>A partir desta edição a Revista Espírito Livre também incluirá uma seção exclusiva sobre LibreOffice, a suíte de escritório líder e que certamente você utiliza. Se ainda não a instalou, não perca tempo. Existem versões para GNU/Linux e outros sistemas operacionais disponíveis no mercado. Diversas distribuições GNU/Linux, como Ubuntu, Fedora, OpenSuSE, Linux Mint, Debian e tantas outras já trazem o LibreOffice ou em suas mídias de instalação ou repositórios, bem como várias empresas que também sinalizaram positivamente quanto a suas migrações para o LibreOffice, logo, nada mais natural acompanharmos tal ascensão.</p>
+
+<p>O sorteio da caneca personalizada da série Warning Zone ainda está valendo. Então se você gosta de desenhar, não perca tempo e nos envie sua proposta. Quem sabe você ganha?!</p>
+
+<p>A partir da última semana de Abril, tivemos mais uma vitória: agora a Revista Espírito Livre conta com um servidor dedicado, cedido pelos parceiros da HostGator. O aumento no número de visitas e downloads acabou nos levando a este caminho, o que me alegra muito. E além de estar de casa nova, o site também conta com mais um jornalista a frente das notícias. José Moutinho, está empenhado em turbinar o site da revista com notícias recentes e relevantes. E se você quiser se juntar ao time e contribuir, não perca tempo!</p>
+
+<p>Partimos rumo ao terceiro ano, com a ajuda de muitos colaboradores dedicados, parceiros que nos ajudam de alguma forma e dos leitores que sempre estão nos acompanhando. Um abraço a todos que ajudam a construir esta incrível publicação.</p>
+
+<p><strong>Fonte: <a href="http://www.revista.espiritolivre.org/?p=1288">Revista Espírito Livre</a></strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/linux">Linux</a>,   <a href="/tags/revista">revista</a>,   <a href="/tags/revista-espirito-livre">revista espirito livre</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 9 de Jun de 2011 | <a href="http://ubuntero.com.br/2301disponivel-revista-espirito-livre-n-26/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f2301disponivel-revista-espirito-livre-n-26%2f&url=http%3a%2f%2fubuntero.com.br%2f2301disponivel-revista-espirito-livre-n-26%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f2301disponivel-revista-espirito-livre-n-26%2f&t=Dispon%c3%advel%20a%20Revista%20Esp%c3%adrito%20Livre%20n.%2026" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f2301disponivel-revista-espirito-livre-n-26%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/asus-vendendo-netbooks-com-ubuntu/" title="Asus vendendo netbooks com Ubuntu">Asus vendendo netbooks com Ubuntu</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/06/asus-logo.jpg"><img class="alignleft size-thumbnail wp-image-2294" title="asus-logo" src="http://www.ubuntero.com.br/wp-content/uploads/2011/06/asus-logo-150x120.jpg" alt="logotipo da asus" width="150" height="120" /></a>A Canonical anunciou que a Asus irá oferecer, ainda este mês, uma linha completa de netbooks com Ubuntu 10.10 pré instalado.</p>
+
+<p>Depois de um super aquecimento do mercado de netbooks equipados com Linux, vieram novas levas de netbooks rodando o sistema operacional Windows 7 e até mesmo com o Windows XP. Ao que indica este cenário volta a ser favorável ao Linux e o que indica isto é o lançamento de uma linha completa de netbooks pela Asus.</p>
+
+<p>Os primeiros modelos a serem lançados serão os ﻿Eee PC 1001PXD, Eee PC 1011PX, e Eee PC 1015PX. Outros modelos já estão planejados e são esperados ainda este ano.</p>
+
+<p>Mesmo com o lançamento da versão 11.04, a Canonical e a Asus decidiram utilizar a versão 10.10. Eu particularmente preferia que a versão a ser distribuída fosse a 10.04 que é a última LTS, mas negócios são negócios e os motivos desta decisão pertencem as duas companias.</p>
+
+<p>Fonte: <a href="http://www.pcpro.co.uk/news/enterprise/367768/asus-to-ship-ubuntu-netbooks">PC Pro</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/10.04">10.04</a>,   <a href="/tags/10.1">10.1</a>,   <a href="/tags/11.04">11.04</a>,   <a href="/tags/asus">asus</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/netbook">Netbook</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 2 de Jun de 2011 | <a href="http://ubuntero.com.br/asus-vendendo-netbooks-com-ubuntu/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fasus-vendendo-netbooks-com-ubuntu%2f&url=http%3a%2f%2fubuntero.com.br%2fasus-vendendo-netbooks-com-ubuntu%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fasus-vendendo-netbooks-com-ubuntu%2f&t=Asus%20vendendo%20netbooks%20com%20Ubuntu" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fasus-vendendo-netbooks-com-ubuntu%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/103/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">104</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/105/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

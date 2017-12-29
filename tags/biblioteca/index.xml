@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biblioteca on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/biblioteca/</link>
+    <description>Recent content in Biblioteca on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Mar 2011 11:34:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biblioteca digital desenvolvida em software livre</title>
+      <link>http://ubuntero.com.br/biblioteca-digital-desenvolvida-em-software-livre/</link>
+      <pubDate>Thu, 24 Mar 2011 11:34:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/biblioteca-digital-desenvolvida-em-software-livre/</guid>
+      <description>O &amp;#8220;Portal Domínio Público&amp;#8221;, lançado em novembro de 2004 (com um acervo inicial de 500 obras), propõe o compartilhamento de conhecimentos de forma equânime, colocando à disposição de todos os usuários da rede mundial de computadores &amp;#8211; Internet &amp;#8211; uma biblioteca virtual que deverá se constituir em referência para professores, alunos, pesquisadores e para a população em geral.  Este portal constitui-se em um ambiente virtual que permite a coleta, a integração, a preservação e o compartilhamento de conhecimentos, sendo seu principal objetivo o de promover o amplo acesso às obras literárias, artísticas e científicas (na forma de textos, sons, imagens e vídeos), já em domínio público ou que tenham a sua divulgação devidamente autorizada, que constituem o patrimônio cultural brasileiro e universal.</description>
+    </item>
+    
+  </channel>
+</rss>

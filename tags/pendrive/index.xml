@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pendrive on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/pendrive/</link>
+    <description>Recent content in Pendrive on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 14 Feb 2011 11:36:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/pendrive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gerar pendrive para instalação do Ubuntu</title>
+      <link>http://ubuntero.com.br/gerar-pendrive-para-instalacao-do-ubuntu/</link>
+      <pubDate>Mon, 14 Feb 2011 11:36:01 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/gerar-pendrive-para-instalacao-do-ubuntu/</guid>
+      <description>Acompanhando a lista de discussão e o fórum do Ubuntu vejo que muita gente tem dúvida sobre como gerar um pendrive com a instalação do Ubuntu. Confesso que fiquei surpreso, pois o processo é muito simples.
+Para sanar esta dúvida de vez, criei o screencast abaixo que mostra todo o processo sem cortes.
+Música: Already There &amp;#8211; Josh Woodward ( http://www.joshwoodward.com/ )</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Ubuntero</title>
+    <link>http://ubuntero.com.br/author/</link>
+    <description>Recent content in Author on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 18 Aug 2012 22:40:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anderson Henrique</title>
+      <link>http://ubuntero.com.br/author/anderson-henrique/</link>
+      <pubDate>Sat, 18 Aug 2012 22:40:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/anderson-henrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andre Almeida</title>
+      <link>http://ubuntero.com.br/author/andre-almeida/</link>
+      <pubDate>Mon, 02 May 2011 21:06:28 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/andre-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Quirino</title>
+      <link>http://ubuntero.com.br/author/daniel-quirino/</link>
+      <pubDate>Wed, 13 Mar 2013 13:32:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/daniel-quirino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edigley Alexandre</title>
+      <link>http://ubuntero.com.br/author/edigley-alexandre/</link>
+      <pubDate>Thu, 26 Jul 2012 14:09:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/edigley-alexandre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Barbosa</title>
+      <link>http://ubuntero.com.br/author/eduardo-barbosa/</link>
+      <pubDate>Wed, 06 Apr 2011 11:23:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/eduardo-barbosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Brasil Fuzzer</title>
+      <link>http://ubuntero.com.br/author/ivan-brasil-fuzzer/</link>
+      <pubDate>Sun, 29 Nov 2015 21:07:53 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/ivan-brasil-fuzzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leandro</title>
+      <link>http://ubuntero.com.br/author/leandro/</link>
+      <pubDate>Tue, 22 Feb 2011 11:14:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/leandro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos André Lucas</title>
+      <link>http://ubuntero.com.br/author/marcos-andr%C3%A9-lucas/</link>
+      <pubDate>Fri, 28 Mar 2008 00:16:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/marcos-andr%C3%A9-lucas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milton Rodrigues</title>
+      <link>http://ubuntero.com.br/author/milton-rodrigues/</link>
+      <pubDate>Mon, 14 Mar 2011 11:00:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/milton-rodrigues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renato</title>
+      <link>http://ubuntero.com.br/author/renato/</link>
+      <pubDate>Thu, 06 Oct 2011 14:12:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/renato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudinei Weschenfelder</title>
+      <link>http://ubuntero.com.br/author/rudinei-weschenfelder/</link>
+      <pubDate>Thu, 17 Apr 2014 22:42:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/rudinei-weschenfelder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntero</title>
+      <link>http://ubuntero.com.br/author/ubuntero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/author/ubuntero/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

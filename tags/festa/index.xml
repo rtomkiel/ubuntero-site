@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Festa on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/festa/</link>
+    <description>Recent content in Festa on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 17 Apr 2011 03:41:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/festa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Festa de lançamento do Ubuntu 11.04 Natty Narwhal</title>
+      <link>http://ubuntero.com.br/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</link>
+      <pubDate>Sun, 17 Apr 2011 03:41:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</guid>
+      <description>No dia 28 de abril o Ubuntu 11.04 Natty Narwhal deve estar no ar, que tal fazer uma reunião? A proposta é se juntar, conhecer, discutir, debater, conversar ou mesmo só beber, isso mesmo.
+Esta versão terá como o shell padrão o Unity e isso vai dar muito o que conversar, já que será um impacto muito grande para o usuário final que está acostumado com uma modelo de usar o Ubuntu.</description>
+    </item>
+    
+  </channel>
+</rss>

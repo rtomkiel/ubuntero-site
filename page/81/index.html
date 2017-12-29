@@ -1,0 +1,555 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/" title="Mudanças na resolução DNS no Ubuntu 12.04">Mudanças na resolução DNS no Ubuntu 12.04</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				
+
+<p style="text-align: center;">
+  <img class="alignnone size-medium wp-image-3306" title="DNS" src="http://www.ubuntero.com.br/wp-content/uploads/2012/02/DNS-300x240.jpg" alt="" width="300" height="240" />
+</p>
+
+<p>Se você pretende migrar pra o Ubuntu 12.04 e costuma fazer configurações manuais diretamente no arquivo resolv.conf esta notícia é para você.</p>
+
+<p>As mudanças são resultado da implementação do <a href="https://blueprints.launchpad.net/ubuntu/+spec/foundations-p-dns-resolving">foundations-p-dns-resolving</a> e as duas maiores mudanças são:</p>
+
+<h2 id="mudança-no-gerenciamento-do-resolvconf">Mudança no gerenciamento do resolvconf</h2>
+
+<p>O resolvconf é um conjunto de scripts que gerenciam a resolução DNS. A diferença mais notável será que toda a configuração feita diretamente no arquivo resolv.conf será perdida sempre que os scripts do resolvconf seja invocado. Ao invés de usar o arquivo, o usuário deve fazer alteração através de ferramentas como o gerenciador de redes ou então outros arquivos segmentados.</p>
+
+<p>Mas o melhor ainda é dar uma olhada no manpage do resolvconf.</p>
+
+<h2 id="usar-dnsmasq-como-8220-resolvedor-8221-local">Usar dnsmasq como &#8220;resolvedor&#8221; local</h2>
+
+<p>Esta é a segunda grande mudança. Nas instalações Desktop, o servidor DNS passará a ser o endereço 127.0.0.1 que apontará para um servidor dnsmasq.</p>
+
+<p>Isto foi feito pensando, entre outras coisas, em ajudar a melhorar o tratamento de DNS em redes VPN, principalmente em caso de splits(quedas).</p>
+
+<p>Em caso de quedas, o gerenciador de DNS poderá enviar requisições para vários servidores DNS sem que o usuário fique sabendo disso pois as suas requisições sempre irão para o mesmo endereço local 127.0.0.1.</p>
+
+<p>Para saber mais detalhes sobre esta mudança, recomendo visitar <a href="http://www.stgraber.org/2012/02/24/dns-in-ubuntu-12-04/">este site</a>(em inglês).</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/12.04">12.04</a>,   <a href="/tags/dns">dns</a>,   <a href="/tags/dnsmasq">dnsmasq</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 27 de Feb de 2012 | <a href="http://ubuntero.com.br/mudancas-na-resolucao-dns-no-ubuntu-12-04/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fmudancas-na-resolucao-dns-no-ubuntu-12-04%2f&url=http%3a%2f%2fubuntero.com.br%2fmudancas-na-resolucao-dns-no-ubuntu-12-04%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fmudancas-na-resolucao-dns-no-ubuntu-12-04%2f&t=Mudan%c3%a7as%20na%20resolu%c3%a7%c3%a3o%20DNS%20no%20Ubuntu%2012.04" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fmudancas-na-resolucao-dns-no-ubuntu-12-04%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/" title="Opencast episódio 7 – Grupos regionais, SOPA, PIPA, ACTA e outras cositas">Opencast episódio 7 – Grupos regionais, SOPA, PIPA, ACTA e outras cositas</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				
+
+<p>Voltamos com mais um episódio do Opencast, agora no novo formato prometido e que iremos manter daqui para frente. Como todo brasileiro, atrasei um pouco as coisas devido ao carnaval, não por ser folião, mas por ter me afastado da civilização durante esta festa.</p>
+
+<p>Neste episódio Eu(Ivan), Diego, Tiago e mais a participação especial do meu cachorro, com um latido, conversamos um pouco sobre as notícias que julgamos mais importante no mundo do Software livre desde o início do ano até agora. Entre os assuntos abordados estão os Grupos Regionais do Ubuntu, os projetos que pretendem controlar a internet mundial, Mandriva, Ubuntu e alguns outros assuntos que surgiram durante nossa conversa.</p>
+
+<h2 id="links-do-episódio">Links do episódio:</h2>
+
+<ul>
+<li><a href="http://ubuntubrsc.com">Ubuntu-BR-SC</a></li>
+<li><a href="http://wiki.ubuntu-br.org/TimesRegionais">Times Regionais</a></li>
+<li><a href="http://pt.wikipedia.org/wiki/Stop_Online_Piracy_Act">SOPA</a></li>
+<li><a href="http://pt.wikipedia.org/wiki/PROTECT_IP_Act">PIPA</a></li>
+<li><a href="http://pt.wikipedia.org/wiki/Acordo_Comercial_Anticontrafa%C3%A7%C3%A3o">ACTA Wikipedia</a></li>
+<li><a href="https://www.eff.org/issues/acta">ACTA</a></li>
+<li><a href="http://www.tecmundo.com.br/ciencia/18357-conheca-a-lei-azeredo-o-sopa-brasileiro.htm">Lei Azeredo</a></li>
+<li><a href="http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=nasa-site-programas-codigo-aberto">Site da NASA para compartilhar software livre</a></li>
+<li><a href="http://br-linux.org/2012/mandriva-tentativa-de-obter-capital-foi-rejeitada-por-acionista-mas-nao-havera-fechamento-imediato/">Mandriva, será o fim?</a></li>
+<li><a href="http://makeplaylive.com/">Tablet Spark</a></li>
+<li><a href="http://www.plasma-active.org/">Plasma Active</a></li>
+<li><a href="http://windowmaker.org/">Window Maker</a></li>
+<li><a href="http://www.ubuntubrsc.com/conheca-heads-up-display-nova-revolucao-ubuntu.html">Ubuntu HUD</a></li>
+<li><a href="http://www.ubuntubrsc.com/ubuntuview-1-entrevista-com-jorge-castro-canonical.html">Entrevista com Jorge Castro</a></li>
+<li><a href="http://www.videolan.org/vlc/download-ubuntu.html">VLC 2.0</a></li>
+</ul>
+
+<p><strong>Twitter: <a href="http://twitter.com/tecnologiaabert">@tecnologiaabert</a></strong></p>
+
+<p><strong>Facebook: <a href="https://www.facebook.com/tecnologiaaberta">http://www.facebook.com/tecnologiaaberta</a></strong></p>
+
+<p><strong>Google+: <a href="https://plus.google.com/u/0/b/114491525240353631044/114491525240353631044/about">Tecnologia Aberta</a></strong></p>
+
+<p><strong>Youtube: <a href="http://youtube.com/tecnologiaaberta">Tecnologia Aberta</a></strong></p>
+
+<p><strong>E-Mail: <a href="mailto:opencast@tecnologiaaberta.com.br">opencast@tecnologiaaberta.com.br</a></strong></p>
+
+<p><strong>Feed do Opencast: <a href="http://tecnologiaaberta.com.br/feed/opencast/">http://tecnologiaaberta.com.br/feed/opencast/</a></strong></p>
+
+<p><strong>iTunes: <a href="http://itunes.apple.com/br/podcast/id424732898" target="_blank" rel="nofollow"><a href="http://itunes.apple.com/br/podcast/id424732898">http://itunes.apple.com/br/podcast/id424732898</a></a></strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/acta">ACTA</a>,   <a href="/tags/lei-azeredo">lei azeredo</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/mandriva">mandriva</a>,   <a href="/tags/nasa">nasa</a>,   <a href="/tags/pipa">pipa</a>,   <a href="/tags/sopa">sopa</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/ubuntu-tv">Ubuntu TV</a>,   <a href="/tags/ubuntu-br-rs">ubuntu-br-rs</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 26 de Feb de 2012 | <a href="http://ubuntero.com.br/opencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fopencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas%2f&url=http%3a%2f%2fubuntero.com.br%2fopencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fopencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas%2f&t=Opencast%20epis%c3%b3dio%207%20%e2%80%93%20Grupos%20regionais%2c%20SOPA%2c%20PIPA%2c%20ACTA%20e%20outras%20cositas" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fopencast-episodio-7-grupos-regionais-sopa-pipa-acta-e-outras-cositas%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/" title="I BootCamp OeSC-Livre Xanxerê: Inscrições abertas!">I BootCamp OeSC-Livre Xanxerê: Inscrições abertas!</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2012/02/logo-oesc-livre-final-sem-url-medio1.png"><img class="alignnone size-full wp-image-3293" title="logo-oesc-livre-final-sem-url-medio" src="http://www.ubuntero.com.br/wp-content/uploads/2012/02/logo-oesc-livre-final-sem-url-medio1.png" alt="" width="384" height="146" /></a>
+</p>
+
+<p>O <a href="http://oesc-livre.org/">Grupo de Usuários de Software Livre do Oeste Catarinense</a>, em parceria com a <a href="http://www.unoesc.edu.br/">Unoesc Xanxerê</a>, tem o prazer de convidar a todos os interessados para o evento <a href="http://oesc-livre.org/xanxere/">I BootCamp OeSC-Livre Xanxerê</a>, a se realizar no Auditório da Unoesc no sábado dia 10 de Março.</p>
+
+<p>A grade com palestrantes de várias cidades da região já está disponível, e as inscrições estão abertas. Se você é da região, participe! Ajude a divulgar e reforçar a cultura do Software Livre no Oeste Catarinense, participando do <a href="http://oesc-livre.org/">OeSC-Livre</a> e prestigiando os nossos eventos!</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/bootcamp">bootcamp</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/oesc-livre">OeSC-Livre</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 25 de Feb de 2012 | <a href="http://ubuntero.com.br/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fi-bootcamp-oesc-livre-xanxere-inscricoes-abertas%2f&url=http%3a%2f%2fubuntero.com.br%2fi-bootcamp-oesc-livre-xanxere-inscricoes-abertas%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fi-bootcamp-oesc-livre-xanxere-inscricoes-abertas%2f&t=I%20BootCamp%20OeSC-Livre%20Xanxer%c3%aa%3a%20Inscri%c3%a7%c3%b5es%20abertas%21" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fi-bootcamp-oesc-livre-xanxere-inscricoes-abertas%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/protesto-opencast-e-review-semanal/" title="Protesto, Opencast e Review Semanal">Protesto, Opencast e Review Semanal</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Pretendia prestar estes esclarecimentos antes mas a internet dos hotéis por onde passei não ajudou nada, nem para escrever um post servia.</p>
+
+<p>O primeiro ponto é falar porque o prometido protesto contra os bancos que não respeitam seus correntistas que utilizam Linux. Resolvi aguardar um pouco mais porque muitos estão relatando problemas com bancos que fornecem suporte a Linux, o que faria com que a credibilidade do protesto fosse por água abaixo. Quero seriedade de quem relatar problemas com bancos, então vamos fazer uma força primeiro para falar do banco depois.</p>
+
+<p>Outro ponto é o Opencast que está gravado e parcialmente editado, falta apenas sonorizar e colocar alguns efeitos, coisa que farei neste final de semana. Esta finalização ficou faltando devido ao meu isolamento durante o carnaval e uma imprevista viagem logo que voltei para o trabalho.</p>
+
+<p>O motivo para o Review Semanal não ter saído é o mesmo do Opencast, com a diferença de que ele nem foi gravado, mas não se apavorem, neste final de semana tem novo episódio.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 24 de Feb de 2012 | <a href="http://ubuntero.com.br/protesto-opencast-e-review-semanal/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fprotesto-opencast-e-review-semanal%2f&url=http%3a%2f%2fubuntero.com.br%2fprotesto-opencast-e-review-semanal%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fprotesto-opencast-e-review-semanal%2f&t=Protesto%2c%20Opencast%20e%20Review%20Semanal" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fprotesto-opencast-e-review-semanal%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/disponivel-a-edicao-34-da-revista-espirito-livre/" title="Disponível a edição 34 da Revista Espírito Livre">Disponível a edição 34 da Revista Espírito Livre</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><center>
+  </p></p>
+
+<p><div>
+    <p>
+      <img class="alignnone" title="Revista Espírito Livre - Ed. #034 - Janeiro 2012" src="http://revista.espiritolivre.org/img/REL034_Capa.jpg" alt="Revista Espírito Livre - Ed. #034 - Janeiro 2012" width="269" height="359" />
+    </p>
+  </div></p>
+
+<p><p>
+    </center>
+  </p></p>
+
+<p><p style="text-align: center;">
+    Revista Espírito Livre &#8211; Ed. #034 &#8211; Janeiro 2012
+  </p></p>
+
+<p><p style="text-align: center;">
+    <code>&lt;a title=&ldquo;Baixado 2318 vezes&rdquo; href=&ldquo;<a href="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=34&quot;&gt;Revista">http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=34&quot;&gt;Revista</a> Espírito Livre - Ed. n #034 - Janeiro 2012&lt;br /&gt;
+&lt;img class=&ldquo;aligncenter&rdquo; src=&ldquo;<a href="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/img/download.gif&quot;">http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/img/download.gif&quot;</a> alt=&ldquo;Revista Espírito Livre - Ed. n #034 - Janeiro 2012&rdquo; /&gt;&lt;/a&gt;</code>
+  </p></p>
+
+<p><p>
+    O ano de 2012 começa animado para uns e paradão para outros. Enquanto alguns de nós simplesmente não sabe o que são férias, outros conseguem a tão sonhada paz de espírito em um mês quase “morto” em nosso calendário. Mas como assim um mês morto? Simples. A quem diga que o ano realmente só começa depois do nosso amado e odiado Carnaval. E não é pra menos. Vários de nós só faz planos realmente para depois deste feriado. E o que isso tem a ver com tecnologia? Tudo! Afinal, a rede não para, as conexões não param, os servidores não param para uma folga de fim de semana ou feriado prolongado. Pense por um instante: em qual momento os seus processos no servidor estão mais desprotegidos? No momento em que você está com o terminal aberto, monitorando as ações do servidor ou no meio da noite, enquanto muitos de nós dormem e alguns poucos navegam pela estrada da informação? Pense nisso. Ainda tem mais: e quando você dorme com o inimigo, tendo ao lado de sua mesa alguém que pode por em risco toda sua infraestrutura de dados? Mas quem invade um sistema comprometendo-o a ponto de inutilizá-lo é o mesmo que lhe informa, reportando sobre um bug no seu sistema? Você realmente acha que estes indivíduos são todos iguais? Pense de novo, afinal não podemos afirmar que um chaveiro é também um arrombador, como bem esclarece Wilkens Lenon em seu artigo. Alguns veículos de mídia normalmente colocam todos “dentro do mesmo balaio”, como se hackers, crackers, piratas, ativistas, usuários, fossem todos a mesma coisa, o que não é bem verdade. Talvez isso ocorra pra privilegiar alguns poucos ou simplesmente por falta de informação. Mas será mesmo falta de informação quando estamos falando justamente da sociedade da informação (e conhecimento)?
+  </p></p>
+
+<p><p>
+    O tema de capa desta edição é bastante controverso, polêmico, por muitas vezes confuso e divide opiniões, já que muita gente diz muita coisa a respeito do tema. Alguns falam sem conhecimento de causa, simplesmente por que leram um texto ou tutorial na rede, e se colocam como se fossem hackers, por exemplo. Enquanto outros, por anos não puderam sequer se aproximar de algum computador ou celular. Sendo assim, de certa forma é compreensível haver tanta dúvida sobre o tema. Alguns são contra os hackers, outros são a favor. E existem outros que são contra os crackers e acham que todos estes são a mesma coisa: vândalos ou simplesmente piratas. Piratas de computador. Alguns, para se beneficiar, buscam criar legislações em países e/ou grupos para tratar os crimes cibernéticos. Leis que bloqueiam isso e aquilo, vasculham e peneiram seus dados, filtrando sabe lá o que. O que sabemos é que com o avanço da tecnologia, teremos cada vez mais novos dispositivos para saciar nossa ânsia e gosto por novidades, mas também teremos a nossa disposição (e também contra nós), cada vez mais possibilidades. Talvez sejam exatamente as possibilidades que todos estes buscam. Os mocinhos e também os bandidos.
+  </p></p>
+
+<p><p>
+    E ficam algumas questões para reflexão: você já pensou na sua vida sem a presença dos hackers? Já pensou em todos os equipamentos que você já destravou, desbloqueou, dando aquele “jeitinho” ou com aquela gambiarra? Já pensou em todas as facilidades que os hackers trouxeram a sua vida e em todos os sistemas que você provavelmente usa justamente porque um hacker o fez e disponibilizou na rede? E pior, imagine se todos eles resolvessem cruzar os braços?
+  </p></p>
+
+<p><p>
+    Em meio a esta confusão toda, tivemos o prazer de conversar com o Barba Ruiva (personagem criado por Alexandre Oliva). Barba Ruiva nos esclarece alguns pontos importantes em toda essa temática. Esperamos vê-lo por aqui outras vezes, mesmo este sendo um camarada muito ocupado.<br /> Então cuidado ao confundir crackers, hackers, piratas, newbies, usuários avançados, peritos, modders e tantos outros, afinal, mocinhos e bandidos não são a mesma coisa. Seus propósitos são diferentes. E mais: ninguém gosta de ser confundido com o seu oposto.
+  </p></p>
+
+<p><p>
+    Um grande abraço!
+  </p></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 23 de Feb de 2012 | <a href="http://ubuntero.com.br/disponivel-a-edicao-34-da-revista-espirito-livre/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fdisponivel-a-edicao-34-da-revista-espirito-livre%2f&url=http%3a%2f%2fubuntero.com.br%2fdisponivel-a-edicao-34-da-revista-espirito-livre%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fdisponivel-a-edicao-34-da-revista-espirito-livre%2f&t=Dispon%c3%advel%20a%20edi%c3%a7%c3%a3o%2034%20da%20Revista%20Esp%c3%adrito%20Livre" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fdisponivel-a-edicao-34-da-revista-espirito-livre%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/80/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">81</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/82/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

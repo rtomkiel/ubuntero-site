@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntero</title>
+    <link>http://ubuntero.com.br/author/ubuntero/</link>
+    <description>Recent content on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    
+	<atom:link href="http://ubuntero.com.br/author/ubuntero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Downloads</title>
+      <link>http://ubuntero.com.br/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/downloads/</guid>
+      <description>Agora o Ubuntero conta com uma seção de Downloads. Aqui você poderá encontrar alguns programas ou imagens de CD’s interessantes e totalmente gratuito.</description>
+    </item>
+    
+    <item>
+      <title>Sobre o Ubuntero</title>
+      <link>http://ubuntero.com.br/ajude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ajude/</guid>
+      <description>Quer ajudar? Se você gostou do conteúdo do site ou algum artigo específico lhe ajudou de alguma maneira, porque não ajudar o Ubuntero?
+A maneira mais fácil de você ajudar o Ubuntero é tornando-se um colaborador do site enviando artigos e até mesmo passando a ser um colaborador fixo. Para enviar artigos esporádicos, basta enviar seu artigo para ubuntero@ubuntero.com.br que nós iremos analisar e publicar. Conforme seus artigos esporádicos vão deixando de ser esporádicos e passam a ser mais periódicos, a meritocracia falará mais alto e você será convidado a fazer parte do time fixo do site.</description>
+    </item>
+    
+    <item>
+      <title>Sobre o Ubuntero</title>
+      <link>http://ubuntero.com.br/sobre-mim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/sobre-mim/</guid>
+      <description>O Ubuntero surgiu no final do mês de junho de 2006 com a intenção de divulgar o dia-a-dia de um simples usuário do sistema operacional Linux. O nome “Ubuntero” vem do nome dado aos usuários registrados no sistema de tradução e controle de bugs da distribuição Ubuntu Linux. Ao iniciar com esse pequeno trabalho de divulgação, o Ubuntu era um bom sistema operacional mas ainda tinha muito que melhorar para cumprir a promessa de ser um “Linux para seres humanos”.</description>
+    </item>
+    
+    <item>
+      <title>Sobre o Ubuntero</title>
+      <link>http://ubuntero.com.br/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/store/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

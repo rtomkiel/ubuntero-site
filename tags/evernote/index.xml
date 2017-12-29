@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evernote on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/evernote/</link>
+    <description>Recent content in Evernote on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 06 Oct 2011 23:21:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/evernote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nevernote para sincronizar com Evernote do Android</title>
+      <link>http://ubuntero.com.br/nevernote-para-sincronizar-com-evernote-do-android/</link>
+      <pubDate>Thu, 06 Oct 2011 23:21:36 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/nevernote-para-sincronizar-com-evernote-do-android/</guid>
+      <description>Um aplicativo que já não vivo sem no Android é o Evernote. A função do aplicativo é fazer notas com texto, fotos, vídeos, áudio ou qualquer outra coisa que o seu Android consiga armazenar. Como qualquer celular tem a tela pequena, por maior que seja, é muito interessante usar o computador para escrever as notas. Para várias plataformas temos opções como podemos ver nesta página do próprio Evernote, mas falta uma plataforma que foi &amp;#8220;esquecida&amp;#8221;.</description>
+    </item>
+    
+  </channel>
+</rss>

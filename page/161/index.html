@@ -1,0 +1,532 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/maquinas-virtuais/" title="Máquinas virtuais">Máquinas virtuais</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Enquanto esperamos a chegada do novo Ubuntu, versão 7.10, para dar continuidade aos artigos sobre migração, vou falar um pouco sobre máquinas virtuais e sobre o programa utilizado para executar e retirar as telas mostradas nos artigos.</p>
+
+<p>Começando pelo básico, o que é uma máquina virtual? Segundo a definição da wikipedia.org, &#8220;Uma máquina virtual (Virtual Machine – VM) pode ser definida como “uma duplicata eficiente e isolada de uma máquina real”.&#8221;. Traduzindo, uma máquina virtual é uma simulação, por software, de uma máquina real.</p>
+
+<p>Estas máquinas virtuais já estão presentes no dia-a-dia de todos nós. Quem nunca usou um emulador de super nintendo, mega drive ou atari? Estes são os exemplos mais clássicos de máquinas virtuais e que muitas pessoas nem imaginam que estão utilizando.</p>
+
+<p>Outro exemplo de máquina virtual é o Java. Diferente das outras máquinas virtuais citadas acima, o Java é uma máquina virtual específica para uma linguagem e não para uma máquina. Confuso mas não tanto, no caso do Java não existe uma máquina física que faça o mesmo, então ela não é uma emulação mas uma implementação do conceito.</p>
+
+<p>Algumas das principais utilizações de máquinas virtuais são:</p>
+
+<ul>
+<li>Desktop: Para testar vários sistemas operacionais sem precisar formatar o computador ou fazer várias partições são uma ótima escolha. Além de testar sistemas operacionais, podemos testar programas sem arriscar danificar nossos computadores com a infinidade de vírus ou spywares que podem ser instalados juntamente com programas no caso do Windows.</li>
+<li>Servidores: Com um único computador físico, podemos ter vários máquinas virtuais rodando como se tivéssemos vários servidores para fins diferentes. Podemos fazer uma máquina virtual para servidor web, outra para servidor de emails e outra para servidor de arquivos. Podemos ainda criar máquinas para teste de novos serviços para disponibilizar para os funcionários e colaboradores sem a necessidade de ter uma máquina física para estes testes.</li>
+</ul>
+
+<p>Das máquinas virtuais disponíveis no mercado já utilizei duas, VMWare e VirtualBox. Meu primeiro contato com este tipo de software foi com o VMWare.</p>
+
+<p>O VMWare é uma solução proprietária e de código fechado. Acredito que seja a solução mais conhecida no mercado corporativo. Nunca tive nenhuma dificuldade em instalar e utilizar esta solução mas também nunca tive dinheiro sobrando para comprar uma licença, utilizando assim as versões de teste disponibilizadas no site do desenvolvedor. Existe uma verão completa e free, VmWare ESX Server, mas nunca utilizei.</p>
+
+<p>Uma solução de código aberto é o VirtualBox. Como nunca fiz a utilização deste tipo de solução em servidores, o VirtualBox sempre atendeu as minhas necessidades de virtualização. Para os artigos de migração do Windows para o Linux é esta máquina virtual que utilizo. A interface é parecida com o VMWare, o que ajuda quem está tentando fazer a migração.</p>
+
+<p><strong>PS: Nos próximos artigos sobre migração estarei utilizando a versão 7.10 Gutsy e estarei explicando o que mudou nos artigos anteriores.</strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 11 de Oct de 2007 | <a href="http://ubuntero.com.br/maquinas-virtuais/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fmaquinas-virtuais%2f&url=http%3a%2f%2fubuntero.com.br%2fmaquinas-virtuais%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fmaquinas-virtuais%2f&t=M%c3%a1quinas%20virtuais" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fmaquinas-virtuais%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/mais-um-banco-na-contra-mao/" title="Mais um banco na contra-mão">Mais um banco na contra-mão</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Depois do Unibanco, agora é a vez do Banco Real exigir que seus correntistas utilizem o sistema operacional windows. Eu estou completamente convencido de que há algum patrocínio para esses bancos ou uma total falta de capacidade dos desenvolvedores dos sistemas de &#8220;segurança&#8221; dos bancos. Em nome da segurança, exigem que seus correntistas utilizem do sistema operacional reconhecido como mais inseguro do mercado.</p>
+
+<p>Agora resta aos correntistas, utilizadores de Linux e Mac OS, que reclamem ao banco.</p>
+
+<p>Mais informações podem ser obtidas no site <a href="http://br-linux.org/linux/banco-real-anuncia-que-vai-exigir-windows-em-seu-home-banking">BR-Linux</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 9 de Oct de 2007 | <a href="http://ubuntero.com.br/mais-um-banco-na-contra-mao/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fmais-um-banco-na-contra-mao%2f&url=http%3a%2f%2fubuntero.com.br%2fmais-um-banco-na-contra-mao%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fmais-um-banco-na-contra-mao%2f&t=Mais%20um%20banco%20na%20contra-m%c3%a3o" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fmais-um-banco-na-contra-mao%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/1%C2%BA-seminario-de-software-livre-tchelinux-canoas/" title="1º Seminário de Software Livre Tchelinux Canoas">1º Seminário de Software Livre Tchelinux Canoas</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Antes de mais nada quero pedir desculpas pelo blog ter ficado fora do ar durante o final de semana. O servidor teve um pequeno problema de falta de energia não superado pelo nobreak e não voltou a ligar normalmente logo que a energia se reestabeleceu.</p>
+
+<p>No dia 29 de setembro foi realizado mais um Seminário Tchelinux. Desta vez o evento foi realizado em Canoas e contou com a presença de aproximadamente 200 pessoas. O <a href="http://www.ubuntero.com.br">Ubuntero</a> marcou presença com dois de seus escritores, Ivan e Marcos.</p>
+
+<p>Erechim participou em peso deste evento, ainda não foi com palestrantes mas com ouvintes. Uma turma de 33 alunos do curso de Ciência da Computação.</p>
+
+<p>Aproveito este post para corrigir um erro que não me dei conta durante o evento. Quem correu atrás de ônibus e organizou a ida do pessoal da URI para Canoas foi o Centro Acadêmico de Informática e Ciencia Da Computação(CAICC), minha contribuição foi apenas na divulgação do evento. Fica o meu pedido de desculpas por não ter dito isto no dia do evento, não foi por mal, apenas não me dei conta disto na hora.</p>
+
+<p>Logo na abertura do evento uma nuvem negra pairou sobre os palestrantes. A máquina que se encontrava disponível para a apresentação dos slides estava com um grande bug, veja a foto abaixo.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2007/10/p1013088.JPG' title='Bug'><img src='http://www.ubuntero.com.br/wp-content/uploads/2007/10/p1013088.thumbnail.JPG' alt='Bug' /></a>
+</center></p>
+
+<p>O bug foi corrigido rapidamente e a abertura do evento pode ser feita com total tranquilidade.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2007/10/p1013089.JPG' title='Bug corrigido'><img src='http://www.ubuntero.com.br/wp-content/uploads/2007/10/p1013089.thumbnail.JPG' alt='Bug corrigido' /></a>
+</center></p>
+
+<p>Desta vez escolhi as palestras que estavam mais ligadas a minha profissão e que acabavam não falando do Ubuntu. Assisti a palestras relacionadas a redes e ao kernel.</p>
+
+<p>Nas palestras referentes ao kernel do Linux foi onde pude sentir na pele a principal ideologia do software livre, compartilhamento de conhecimento. As palestras foram ministradas por <a href="http://dougsland.livejournal.com/">Douglas Landgraf</a>.</p>
+
+<p>No intervalo entre a primeira e a segunda palestra sobre o kernel conversei um pouco com o Douglas e falei sobre a minha tentativa, ainda infeliz, de alterar o driver spca para fazer minha webcam funcionar no linux. O Douglas se mostrou bastante prestativo e se disponibilizou a me ajudar nesta empreitada. Daqui a alguns dias estarei incomodando ele para que eu consiga enfim alterar este driver. Depois das palestras ficamos bastante tempo conversando sobre a vida, alguns projetos que encaramos e com certeza saí de Canoas com um novo amigo.</p>
+
+<p>Outro ponto positivo foi eu ter conhecido o atual Coordenador do grupo <a href="http://wiki.ubuntu-br.org/UbuntuRS">Ubuntu-RS</a>, <a href="http://www.ubuntu.blog.br/">Arlei</a>. Fomos apresentados pelo <a href="http://www.leonardovaz.org/blog">Leonardo Vaz</a> logo após a abertura do evento. Conversamos um pouco sobre a necessidade de um projeto para que possamos trabalhar mais pelo Ubuntu. Não decidimos nada mas vamos chegar a alguma coisa em breve.</p>
+
+<p>Depois do evento falei com alguns dos participantes de Erechim e todos acharam muito bom o evento, alguns até já estão conversando sobre a possibilidade de comparecer ao próximo evento que será em Porto Alegre com data a confirmar. Fico feliz por ter conseguido levar essa galera até este evendo e muito mais feliz por eles terem gostado.</p>
+
+<p>A partir da semana que vem voltarei a trabalhar no driver da minha webcam e o Douglas vai ter alguém pentelhando todas as madrugadas.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/tchelinux-canoas-ubuntu">tchelinux canoas ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 1 de Oct de 2007 | <a href="http://ubuntero.com.br/1%C2%BA-seminario-de-software-livre-tchelinux-canoas/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f1%25C2%25BA-seminario-de-software-livre-tchelinux-canoas%2f&url=http%3a%2f%2fubuntero.com.br%2f1%25C2%25BA-seminario-de-software-livre-tchelinux-canoas%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f1%25C2%25BA-seminario-de-software-livre-tchelinux-canoas%2f&t=1%c2%ba%20Semin%c3%a1rio%20de%20Software%20Livre%20Tchelinux%20Canoas" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f1%25C2%25BA-seminario-de-software-livre-tchelinux-canoas%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/ubuntu-server-710-beta/" title="Ubuntu Server 7.10 Beta">Ubuntu Server 7.10 Beta</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Conforme o anúncio feito pelo Ivan <a href="http://www.ubuntero.com.br/?p=396" title="Ubuntu 7.10 Beta">no post anterior</a>, já está disponível a versão beta da nova versão do Ubuntu. No mesmo link indicado, encontramos entre as opções de download a versão Server da distribuição.</p>
+
+<p>Além de compartilhar algumas novidades da versão desktop, algumas alterações são dignas de nota:</p>
+
+<ul>
+<li>Utilização do Kernel 2.6.22, pulando o 2.6.21 (7.04 usava 2.6.20)</li>
+<li>Em decorrência do kernel mais recente, existe agora o suporte a várias otimizações de energia (tickless, dynticks, clockevents), úteis em notebooks, mas que também são uma ótima pedida para servidores menos exigidos em questão de processador, tendo então uma diferença real de consumo.</li>
+<li>Da mesma forma, herda algumas otimizações feitas pela equipe do kernel (que visam o futuro) no sistema de &#8220;paravirtualização&#8221;, com uma &#8220;Virtual Machine Interface&#8221; melhorada, o que pode impactar significativamente com quem trabalha com soluções do tipo Xen ou Vmware Server para seus servidores.</li>
+<li>Algumas otimizações feitas pela equipe da Canonical em conjunto com a Intel no sentido de tornar mais eficiente o código do kernel em termos de uso do processador.</li>
+<li>Alterações no sistema de imagens em sistemas LTSP que visam melhorar a velocidade e performance, além de novas características no sistema de login (autologin, múltiplos servidores, transporte gráfico não-encriptado), principalmente no Edubuntu</li>
+<li>Facilidades na configuração de profiles de autenticação, com o recurso <a href="https://wiki.ubuntu.com/AuthClientConfig" title="AuthClientConfig">AuthClientConfig</a>.</li>
+<li>Tecnologia <a href="http://help.ubuntu.com/community/AppArmor" title="AppArmor">AppArmor</a>, que promete ser uma maneira fácil de limitar recursos que uma aplicação pode acessar, adicionando assim uma camada de proteção adicional contra vulnerabilidades ainda desconhecidas.</li>
+<li>Novas opções de instalação padrão, entre elas &#8220;Mail Server&#8221; (Servidor de E-Mail), &#8220;File Server&#8221; (Servidor de Arquivos), &#8220;Print Server&#8221; (Servidor de Impressão), e &#8220;Database Server&#8221; (Servidor Banco de Dados), que se juntam ao já tradicional LAMP e DNS para instalações pré-configuradas, facilitando a construção de configurações comuns.</li>
+</ul>
+
+<p>As alterações que mais saltam à vista, como as novas opções de instalação, por exemplo, são muito bem vindas, e acredito que logo logo surjam na rede alguns casos de teste. Porém, um administrador experiente achará as outras opções, que não são tão divulgadas, muito mais úteis no dia a dia.</p>
+
+<p>É muito bom vermos que a equipe da Canonical está bastante empenhada também na versão Server, além das melhorias já conhecidas da versão Desktop. Em breve, novos artigos testando estas e outras novidades da versão Server, além da tradicional &#8220;Primeira Impressão&#8221;, aqui no Ubuntero, juntamente com outras opções ainda baseadas no 6.06, que é a versão LTS.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/marcos-andr%C3%A9-lucas" title="Mais posts de /author/marcos-andr%C3%A9-lucas">Marcos André Lucas</a> em 27 de Sep de 2007 | <a href="http://ubuntero.com.br/ubuntu-server-710-beta/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fubuntu-server-710-beta%2f&url=http%3a%2f%2fubuntero.com.br%2fubuntu-server-710-beta%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fubuntu-server-710-beta%2f&t=Ubuntu%20Server%207.10%20Beta" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fubuntu-server-710-beta%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/ubuntu-710-beta/" title="Ubuntu 7.10 Beta">Ubuntu 7.10 Beta</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Para quem não aguenta esperar foi lançado o Ubuntu 7.10 Beta. O download pode ser feito em <a href="http://www.ubuntu.com/testing/gutsybeta#head-09942533e683a9d0224069978a37043a49572274">http://www.ubuntu.com/testing/gutsybeta</a>.</p>
+
+<p>Entre as novidades desta nova versão estão:</p>
+
+<ul>
+<li>Gnome 2.20</li>
+<li></li>
+<li>Efeitos 3D</li>
+<li></li>
+<li>Busca no Desktop</li>
+<li></li>
+<li>Troca rápida de usuários</li>
+<li></li>
+<li>Novas ferramentas gráficas para configuração do X</li>
+<li></li>
+<li>Instalação automática de impressoras</li>
+<li></li>
+</ul>
+
+<p>Lembre-se que esta é uma versão BETA e não deve ser usada em computadores de produção. Utilize-a apenas para testes.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 27 de Sep de 2007 | <a href="http://ubuntero.com.br/ubuntu-710-beta/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fubuntu-710-beta%2f&url=http%3a%2f%2fubuntero.com.br%2fubuntu-710-beta%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fubuntu-710-beta%2f&t=Ubuntu%207.10%20Beta" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fubuntu-710-beta%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/160/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">161</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/162/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

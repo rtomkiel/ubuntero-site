@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ccsm on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/ccsm/</link>
+    <description>Recent content in Ccsm on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 05 Aug 2011 11:32:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/ccsm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aumentar o número de áreas de trabalho no Unity</title>
+      <link>http://ubuntero.com.br/aumentar-o-numero-de-areas-de-trabalho-no-unity/</link>
+      <pubDate>Fri, 05 Aug 2011 11:32:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/aumentar-o-numero-de-areas-de-trabalho-no-unity/</guid>
+      <description>Muita gente reclama da falta de opções de personalização do Unity e uma das personalizações é o número de áreas de trabalho que no Unity temos habilitados apenas 4.
+Para resolver este problema é muito simples. Instale o aplicativo CCSM via Central de programas do Ubuntu.
+ Abra o programa pressionando e soltando a tecla &amp;#8220;Super&amp;#8221;, também conhecida como tecla &amp;#8220;Windows&amp;#8221;, e digite ccsm. Apenas um programa aparecerá e deverá ser aberto.</description>
+    </item>
+    
+  </channel>
+</rss>

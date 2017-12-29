@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lol.league of Legends on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/lol.league-of-legends/</link>
+    <description>Recent content in Lol.league of Legends on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 11 Sep 2013 03:09:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/lol.league-of-legends/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>League of Legends no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/league-of-legends-no-ubuntu-13-04/</link>
+      <pubDate>Wed, 11 Sep 2013 03:09:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/league-of-legends-no-ubuntu-13-04/</guid>
+      <description>Calma galera, ainda não lançaram o jogo para Linux, mas isto não significa que não possamos jogar. Através do Wine e do excelente trabalho dos desenvolvedores do PlayOnLinux, o Jogo League of Legends já pode ser rodando no Linux.
+Infelizmente não vai rodar em qualquer computador. Eu fiz testes no meu notebook Dell Vostro 3460 com VGA Intel integrada e não consegui passar do lançador do jogo, mesmo a instalação ocorrendo sem nenhum erro.</description>
+    </item>
+    
+  </channel>
+</rss>

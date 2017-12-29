@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementary on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/elementary/</link>
+    <description>Recent content in Elementary on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 19 Sep 2013 12:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/elementary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>elementary OS: Nome da próxima versão, sincronização com Google Agenda e notificações</title>
+      <link>http://ubuntero.com.br/elementary-os-nome-da-proxima-versao-sincronizacao-com-google-agenda-e-notificacoes/</link>
+      <pubDate>Thu, 19 Sep 2013 12:18:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/elementary-os-nome-da-proxima-versao-sincronizacao-com-google-agenda-e-notificacoes/</guid>
+      <description>Nova série sobre o elementary, hoje apresentando o nome da próxima versão do sistema, central de apps própria, sincronização do calendário com o Google Agenda, e um centro de notificações muito interessante.
+ Assistir no Youtube Este vídeo é uma parceria entre o site Ubuntero e o LinuxVlog.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #41 – Elementary OS</title>
+      <link>http://ubuntero.com.br/videocast-41-elementary-os/</link>
+      <pubDate>Sat, 17 Aug 2013 14:52:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-41-elementary-os/</guid>
+      <description>Neste episódio falo um pouco sobre minha experiência utilizando o sistema Elementary OS, baseado no Ubuntu 12.04. Como já havia dito nas redes sociais, este promete ser o episódio onde farei mais inimigos, pois a experiência com o sistema foi &amp;#8230; assista o vídeo para saber como foi.
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>Videocast #28 – Novo site e Elementary OS Luna</title>
+      <link>http://ubuntero.com.br/videocast-28-novo-site-e-elementary-os-luna/</link>
+      <pubDate>Mon, 11 Mar 2013 00:28:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-28-novo-site-e-elementary-os-luna/</guid>
+      <description>Site novo e novo dia para os vídeos. Agora o VideoCast vai ao ar nas segundas (eventualmente ainda vai sair no domingo), para dar tempo de aproveitar o final de semana e não atropelar tudo para largar o vídeo no Youtube. Neste vídeo tentei usar um teleprompter via software e vocês vão notar que não ficou bom, não vou mais usar esse negócio.
+Vejam no vídeo como ficou o novo layout do site e conheçam o Elementary OS Luna, ainda em beta.</description>
+    </item>
+    
+    <item>
+      <title>5º Tema – Elementary</title>
+      <link>http://ubuntero.com.br/5%C2%BA-tema-elementary/</link>
+      <pubDate>Sat, 26 Mar 2011 21:16:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/5%C2%BA-tema-elementary/</guid>
+      <description>Essa semana não tive tempo algum para planejar um tema bem elaborado, mas não foi algo necessariamente ruim, já que o post de hoje, é destinado completamente à instalação do Elementary, que é, sem sombra de dúvidas um dos temas mais usados como base para outros, se esse não for o mais. Mas convenhamos, se já o instalou, sabe bem do que falo, é simplesmente incrível. Com seus tons cinzas, e alguns pontos mais escuros, fazem do mesmo, uma das melhores alternativas para temas.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telefone on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/telefone/</link>
+    <description>Recent content in Telefone on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Nov 2011 10:48:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/telefone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu em telefones, tablets, TV’s e qualquer lugar</title>
+      <link>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</link>
+      <pubDate>Tue, 01 Nov 2011 10:48:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</guid>
+      <description>Em seu blog, Mark Shuttleworth, fundador da Canonical que por sua vez é a empresa por trás do Ubuntu, fala sobre o futuro do Ubuntu e promete que o nosso pinguim estará disponível em todo tipo de dispositivo até 2014.
+Além disso, já nos premia com a data da próxima versão LTS após a 12.04. No artigo ele já confirma que a versão 12.04 será LTS.
+Como já havia falado em um artigo no lançamento do Ubuntu 11.</description>
+    </item>
+    
+  </channel>
+</rss>

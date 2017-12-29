@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mate on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/mate/</link>
+    <description>Recent content in Mate on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 07 May 2013 11:00:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/mate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voltando no tempo e instalando a interface do Gnome 2 no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/voltando-no-tempo-e-instalando-a-interface-do-gnome-2-no-ubuntu-13-04/</link>
+      <pubDate>Tue, 07 May 2013 11:00:41 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/voltando-no-tempo-e-instalando-a-interface-do-gnome-2-no-ubuntu-13-04/</guid>
+      <description>Antes que comecem a falar, este artigo está aqui porque algumas pessoas ainda estão presas no tempo e não querem sair da interface gnome-panel. Para mim esta interface já deu o que tinha que dar, era boa até que as interfaces modernas apareceram.
+Se para você o Unity ou o Gnome-Shell não estão satisfazendo e deseja voltar a utilizar a interface utilizada pelo Gnome 2, o gnome-panel, siga estes passos e seu desejo será realizado.</description>
+    </item>
+    
+    <item>
+      <title>Mate, fork do Gnome 2 no Ubuntu 12.04</title>
+      <link>http://ubuntero.com.br/mate-fork-do-gnome-2-no-ubuntu-12-04/</link>
+      <pubDate>Sat, 26 May 2012 14:17:28 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/mate-fork-do-gnome-2-no-ubuntu-12-04/</guid>
+      <description>Para os amantes do Gnome 2 temos uma ótima notícia. O fork do Gnome 2, Mate, agora roda sem nenhuma incompatibilidade no Ubuntu 12.04. Para instalar execute os seguintes passos:
+Abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:
+sudo add-apt-repository &#34;deb http://packages.mate-desktop.org/repo/ubuntu precise main&#34; sudo apt-get update sudo apt-get install mate-archive-keyring sudo apt-get install mate-core mate-desktop-environment Agora é só reiniciar a sessão e escolher iniciar a sessão MATE, como na imagem abaixo, e digitar sua senha para entrar no sistema.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tor on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/tor/</link>
+    <description>Recent content in Tor on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 09 Jul 2014 04:14:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/tor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #37 – Celular Modular e Manipulação do Facebook</title>
+      <link>http://ubuntero.com.br/opencast-37-celular-modular-e-manipulacao-do-facebook/</link>
+      <pubDate>Wed, 09 Jul 2014 04:14:57 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-37-celular-modular-e-manipulacao-do-facebook/</guid>
+      <description>Esqueça a tristeza da desclassificação da seleção brasileira na copa(o Ivan e o Aprígio já estávamos torcendo para a Alemanha mesmo) e ouça mais um episódio do Opencast. Neste episódio Ivan e Diego discutem assuntos relacionados com software livre, incluindo um desabafo referente a comunidade Ubuntu-BR e uma música especial no final do episódio.
+Agradecemos novamente ao Eduardo Barbosa pela arte da capa do episódio.
+Gostaríamos de lembrar a todos que devem atualizar seus feeds do opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar e configurar o TOR para navegar anônimo no Ubuntu</title>
+      <link>http://ubuntero.com.br/como-instalar-e-configurar-o-tor-para-navegar-anonimo-no-ubuntu/</link>
+      <pubDate>Mon, 21 Feb 2011 11:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-instalar-e-configurar-o-tor-para-navegar-anonimo-no-ubuntu/</guid>
+      <description>Inspirado no assunto do momento, o Wikileaks, eu no meu segundo post aqui no Ubuntero resolvi falar sobre como navegar na internet no anonimato. O que é o TOR e o que tem a ver com o Wikileaks? Ultimamente, vários arquivos sigilosos foram divulgados na internet através do Wikileaks e desde que saiu o escândalo, uma das primeiras coisas que me deixou intrigado foi sobre como esses arquivos foram publicados e por que essas pessoas que divulgaram esses arquivos não foram rastreadas, lembrando que estamos falando a nível CIA, FBI e NSA.</description>
+    </item>
+    
+  </channel>
+</rss>

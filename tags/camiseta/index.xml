@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camiseta on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/camiseta/</link>
+    <description>Recent content in Camiseta on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 22 Jul 2013 23:16:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/camiseta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caneca e camiseta do Ubuntero</title>
+      <link>http://ubuntero.com.br/caneca-e-camiseta-do-ubuntero/</link>
+      <pubDate>Mon, 22 Jul 2013 23:16:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/caneca-e-camiseta-do-ubuntero/</guid>
+      <description>Não é um smartphone e também não é produção própria, mas aí estão os primeiros produtos com a marca do site.
+ Antes de divulgar os produtos, resolvi esperar chegar para mim para ter certeza de que eram de boa qualidade e agora posso garantir que os produtos são bons. Enquanto não tenho um capital de giro, os preços não poderão ser baixados, pois o preço mínimo do site já é bem salgado, com o tempo posso melhorar os preços, basta que vocês comprem para que eu junte dinheiro para mandar fazer em quantidade e manter um estoque.</description>
+    </item>
+    
+  </channel>
+</rss>

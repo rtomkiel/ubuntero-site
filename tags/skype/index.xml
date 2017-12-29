@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skype on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/skype/</link>
+    <description>Recent content in Skype on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 03 Jun 2013 16:27:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/skype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skype Call Recorder no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-13-04/</link>
+      <pubDate>Mon, 03 Jun 2013 16:27:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-13-04/</guid>
+      <description>Se você ainda usa o Skype Call Recorder para gravar as chamadas feitas ou recebidas no Skype, já deve ter percebido que o PPA que passamos aqui em outro artigo não está funcionando.
+O programa continua funcionando, inclusive na versão mais nova do Skype, mas é necessário fazer uma pequena alteração nos repositórios. Se você ainda não adicionou o PPA, adicione com o seguinte comando no terminal:
+sudo apt-add-repository ppa:dajhorn/skype-call-recorder Agora vá nas Configurações do sistema.</description>
+    </item>
+    
+    <item>
+      <title>Skype 4.2 nos repositórios do Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/skype-4-2-nos-repositorios-do-ubuntu-13-04/</link>
+      <pubDate>Fri, 24 May 2013 12:48:57 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-4-2-nos-repositorios-do-ubuntu-13-04/</guid>
+      <description>Se você é uma pessoa paciente e aguardou um pouquinho já pode instalar a nova versão do Skype para Ubuntu sem precisar entrar em site nenhum, basta atualizar seu sistema que o Ubuntu cuida do resto.
+Esta nova versão conta com várias correções de bugs como pode ver abaixo:
+ Compartilhamento de tela quando em dois monitores está melhorado Agora será visto um grupo com os usuários do MSN Botão para começar uma conferência foi adicionado a janela de conversação Várias correções menores  .</description>
+    </item>
+    
+    <item>
+      <title>Opencast #21 – Mandou para o espaço e virou satélite, jogos e DRM</title>
+      <link>http://ubuntero.com.br/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
+      <pubDate>Wed, 22 May 2013 03:07:06 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
+      <description>Por motivos de força maior demos mais uma parada no Opencast, mas estamos de volta mais forte. A partir de agora, nosso casting aumentou e teremos vários participantes em todos os episódios. Nossa ideia é ter representação das mais diversas comunidades e regiões.
+Neste episódio, Ivan, Diego, Og Maciel, Tiago conversamos sobre vários assuntos, entre eles estão Jogos, DRM, Linux na estação espacial, impressoras 3D, LibreOffice no Android e muitas outras coisas.</description>
+    </item>
+    
+    <item>
+      <title>Skype no Ubuntu 13.04 64 bits</title>
+      <link>http://ubuntero.com.br/skype-no-ubuntu-13-04-64-bits/</link>
+      <pubDate>Fri, 15 Mar 2013 23:52:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-no-ubuntu-13-04-64-bits/</guid>
+      <description>Estes passos não são mais necessários, basta instalar e usar o skype. 
+Se você não aguenta esperar sair a versão final do Ubuntu 13.04 e já instalou no seu computador de produção e ainda por cima depende do Skype para alguma função, parece que entramos na mesma fria. Tudo funcionando após a instalação, velocidade legal, nem parece uma versão alpha, mas o último aplicativo que você instala e abre é o Skype e ele simplesmente não abre.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #13 – Notícias</title>
+      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
+Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
+    </item>
+    
+    <item>
+      <title>Skype 4 para Linux, quem diria?</title>
+      <link>http://ubuntero.com.br/skype-4-para-linux-quem-diria/</link>
+      <pubDate>Fri, 15 Jun 2012 11:47:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-4-para-linux-quem-diria/</guid>
+      <description>Enfim a Microsoft queimou minha língua e lançou uma nova versão do skype para Linux, e deixou a nomenclatura de Beta, não que isto faça alguma diferença.
+As principais mudanças desta nova versão são:
+ Melhora na janela de bate-papo e chamadas Melhora na qualidade de áudio e vídeo Suporte adicional a webcam Melhora na sincronização de bate-papo Novos ícones Abas nas conversas  Para instalar esta nova versão, faça o download no link abaixo e execute os seguintes comandos para remover a versão anterios:(apenas para sermos mais rápidos).</description>
+    </item>
+    
+    <item>
+      <title>Skype Call Recorder no Ubuntu 11.10</title>
+      <link>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-11-10/</link>
+      <pubDate>Fri, 28 Oct 2011 15:30:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-11-10/</guid>
+      <description>Este tópico já existe para o Ubuntu 11.04, no entanto nele é necessário substituir o sistema de áudio do Ubuntu para que o skype call recorder funcione normalmente. Para quem ainda está utilizando o Ubuntu 11.04, o antigo artigo continua valendo, mas para quem está utilizando o Ubuntu 11.10 os passos para ter o skype call recorder instalado e sempre atualizados são menores.
+Abra o terminal pressionando Ctrl+Alt+t e adicione o repositório com o seguinte comando:</description>
+    </item>
+    
+    <item>
+      <title>Skype Call Recorder no Ubuntu 11.04</title>
+      <link>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-11-04/</link>
+      <pubDate>Tue, 03 May 2011 11:00:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-11-04/</guid>
+      <description>Estava testando a gravação do Skype com o programa Skype Call Recorder mas o programa eventualmente funcionava, para ser bonzinho porque deve ter aberto umas 2 vezes em 20 tentativas.
+Inicialmente pensei que o problema era em alguma configuração do skype ou do skype call recorder mas mesmo apagando os diretorios de configuração o problema persistia. Pensei então que o problema era com a placa de som, que funcionava perfeitamente antes, mas não adiantou tentar mil configurações mirabolantes e o problema persistia.</description>
+    </item>
+    
+    <item>
+      <title>Lançado Skype 2.2 Beta para Linux</title>
+      <link>http://ubuntero.com.br/lancado-skype-2-2-beta-para-linux/</link>
+      <pubDate>Wed, 06 Apr 2011 14:21:07 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-skype-2-2-beta-para-linux/</guid>
+      <description>Depois de parecer que o Linux tinha sido abandonado, mais uma vez, pelo Skype, hoje tivemos o lançamento da versão 2.2 Beta.
+Entre as novidades podemos destacar:
+ Suporte a espera de chamadas. Skype access que permite conectar a hotspots WiFi pelo mundo inteiro. Melhora na qualidade de chamadas de áudio/vídeo. Adicionar usuário a uma conferência apenas arrastando o contato. Adicionado botão de chamada na janela de bate-papo.  Para saber mais detalhes sobre as mudanças, visite http://blogs.</description>
+    </item>
+    
+    <item>
+      <title>Como gravar suas conversas do skype</title>
+      <link>http://ubuntero.com.br/como-gravar-suas-conversas-do-skype/</link>
+      <pubDate>Tue, 18 Jan 2011 12:00:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-gravar-suas-conversas-do-skype/</guid>
+      <description>Pensando em algumas novidades para o Ubuntero, fui atras de alguns programas para gravação de conversas pelo skype. A procura não foi difícil, logo na primeira página de busca encontrei o que eu desejava, e o melhor, encontrei um PPA. O programa se chama &amp;#8220;Skype Call Recorder&amp;#8221;.
+Para instalar abra o terminal e digite, ou copie e cole os comandos abaixo:
+sudo add-apt-repository ppa:dajhorn/skype-call-recorder sudo apt-get update sudo apt-get install skype-call-recorder Para utilizar o programa esteja com o Skype aberto e vá no menu Aplicativos -&amp;gt; Internet -&amp;gt; Skype Call Recorder.</description>
+    </item>
+    
+    <item>
+      <title>Skype 2.0</title>
+      <link>http://ubuntero.com.br/skype-20/</link>
+      <pubDate>Fri, 14 Mar 2008 13:43:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-20/</guid>
+      <description>Demora mas o desenvolvimento do Skype para Linux anda. Saiu a versão 2.0 do Skype com algumas melhorias, muitas correções de bugs e adição da funcionalidade de vídeo conferência.
+Segundo o changelog desta versão as novidades são:
+ Vídeo Opção para auto atendimento de chamadas Login por linha de comando Mostrar quando alguém está falando durante uma chamada Shift+Enter ativa ação contrária a padrão(se a ação padrão é iniciar uma chamada então irá abrir tela de conversa por mensagens) Adicionado custo da chamada por minuto Novas opções de privacidade Ícone indicando que um contato está conectado por um dispositivo móvel Funcionalidades menores e muitas correções de erros  A tradução para português do Brasil está muito ruim, parece que foi feita usando alguma ferramenta de tradução automática.</description>
+    </item>
+    
+    <item>
+      <title>Skype 1.3 Beta</title>
+      <link>http://ubuntero.com.br/skype-13-beta/</link>
+      <pubDate>Sun, 02 Jul 2006 03:52:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-13-beta/</guid>
+      <description>Foi lançado no dia 28 de junho, uma versão beta do mensageiro instantâneo que também permite fazer ligações para telefones convencionais, Skype.
+Até o momento testei muito pouco esta nova versão. A principal mudança, e que acho que muitos vão gostar, é que agora o Skype dá a opção de se utilizar OSS ou ALSA como sistema de som.
+Se tinha uma coisa que eu odiava no Skype para linux era exatamente este negócio de usar apenas OSS.</description>
+    </item>
+    
+  </channel>
+</rss>

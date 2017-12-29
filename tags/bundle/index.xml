@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bundle on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/bundle/</link>
+    <description>Recent content in Bundle on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 03 Oct 2012 11:00:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/bundle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dustforce</title>
+      <link>http://ubuntero.com.br/dustforce/</link>
+      <pubDate>Wed, 03 Oct 2012 11:00:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dustforce/</guid>
+      <description>Voltamos com mais um jogo da série Humble Bundle 6. Dustfoce é um dos jogos exclusivos para compradores que pagaram acima do valor médio.
+O jogo é simples mas apresenta alguma dificuldade para passar por alguns obstáculos. No jogo você escolhe um dos faxineiros e sai pelos cômodos de uma casa fazendo a faxina, no entanto existem alguns livros sujos querendo te atacar além de alguns criados mal limpos também.</description>
+    </item>
+    
+    <item>
+      <title>The Humble Indie Bundle 6 e sorteio</title>
+      <link>http://ubuntero.com.br/the-humble-indie-bundle-6-e-sorteio/</link>
+      <pubDate>Wed, 19 Sep 2012 13:13:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/the-humble-indie-bundle-6-e-sorteio/</guid>
+      <description>Conhecem o The Humble Indie Bundle? Se não conhece esta é uma ótima hora para conhecer e participar. A iniciativa disponibiliza jogos independentes, sem um estúdio grande por traz, e a melhor parte é que você paga quanto quiser, quanto achar que os jogos valem.
+Nesta sexta edição os jogos disponíveis são:
+ Dustforce Rochard Shatter Space Pirates and Zombies Torchlight Vessel  Os jogos podem ser baixados diretamente da Central de programas do Ubuntu ou pelo site The Humble Indie Bundle.</description>
+    </item>
+    
+  </channel>
+</rss>

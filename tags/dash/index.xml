@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dash on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/dash/</link>
+    <description>Recent content in Dash on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 03 Jun 2013 03:27:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/dash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #36 – Primeiros passos no Ubuntu – Vídeo 4</title>
+      <link>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</link>
+      <pubDate>Mon, 03 Jun 2013 03:27:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</guid>
+      <description>Depois de um final de semana de trabalho, do tipo que paga as contas e não no site, e 3 gravações do desktop, enfim está no ar o quarto vídeo da nossa série &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;.
+Neste vídeo apresento o Unity e tento botar na cabeça de todos que você não precisa saber o nome dos programas que quer abrir, precisa saber o que quer fazer. Acredito que agora ninguém tenha mais dúvida sobre como usar o sistema, ainda falta muita coisa para mostrar sobre o Ubuntu, nem mostrei a utilização do HUD neste vídeo, pretendo usar onde ele é realmente útil em um futuro vídeo.</description>
+    </item>
+    
+  </channel>
+</rss>

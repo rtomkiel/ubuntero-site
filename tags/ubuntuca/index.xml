@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntuca on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/ubuntuca/</link>
+    <description>Recent content in Ubuntuca on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 20 Jul 2013 23:21:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/ubuntuca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UbuntUCA, Ubuntu para o projeto Um Computador por Aluno</title>
+      <link>http://ubuntero.com.br/ubuntuca-ubuntu-para-o-projeto-um-computador-por-aluno/</link>
+      <pubDate>Sat, 20 Jul 2013 23:21:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntuca-ubuntu-para-o-projeto-um-computador-por-aluno/</guid>
+      <description>O UbuntUCA é um projeto educativo, social, voluntário, independente e sem fins lucrativos. É uma remasterização do Ubuntu (10.04.4), desenvolvida para os laptops do Programa UCA (Um Computador por Aluno), sendo a solução ideal para embarcar os laptops do ProUCA da sua escola.
+Sua interface é adaptada à telas pequenas, além de ser agradável, leve e funcional. Sua coleção de aplicativos é capaz de atender a praticamente todas as necessidades dos professores e alunos em sala de aula.</description>
+    </item>
+    
+  </channel>
+</rss>

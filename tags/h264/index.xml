@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H264 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/h264/</link>
+    <description>Recent content in H264 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 20 Nov 2013 20:02:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/h264/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #30 – SteamOS e FixUbuntu</title>
+      <link>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</link>
+      <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</guid>
+      <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
+Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
+    </item>
+    
+  </channel>
+</rss>

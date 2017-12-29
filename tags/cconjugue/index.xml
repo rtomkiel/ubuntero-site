@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cconjugue on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/cconjugue/</link>
+    <description>Recent content in Cconjugue on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 07 Mar 2011 14:49:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/cconjugue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GConjugue – Conjugue verbos facilmente no Ubuntu</title>
+      <link>http://ubuntero.com.br/gconjugue-conjugue-verbos-facilmente-no-ubuntu/</link>
+      <pubDate>Mon, 07 Mar 2011 14:49:13 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/gconjugue-conjugue-verbos-facilmente-no-ubuntu/</guid>
+      <description>A dica de hoje é o GConjugue. O que ele faz? Conjuga verbos da nossa língua portuguesa. Simples assim.
+Para instalar basta recorrer à Central de Programa Ubuntu e digitar na caixinha de pesquisa GConjugue. Pronto! Agora não terás de recorrer a um livro de gramática ou pesquisar no Google a conjugação daquele verbo que quase lhe fez desistir dele. A interface é do programa é simplória e vai direto ao assunto.</description>
+    </item>
+    
+  </channel>
+</rss>

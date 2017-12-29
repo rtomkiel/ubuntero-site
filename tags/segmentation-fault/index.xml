@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Segmentation Fault on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/segmentation-fault/</link>
+    <description>Recent content in Segmentation Fault on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 15 Mar 2013 23:52:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/segmentation-fault/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skype no Ubuntu 13.04 64 bits</title>
+      <link>http://ubuntero.com.br/skype-no-ubuntu-13-04-64-bits/</link>
+      <pubDate>Fri, 15 Mar 2013 23:52:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-no-ubuntu-13-04-64-bits/</guid>
+      <description>Estes passos não são mais necessários, basta instalar e usar o skype. 
+Se você não aguenta esperar sair a versão final do Ubuntu 13.04 e já instalou no seu computador de produção e ainda por cima depende do Skype para alguma função, parece que entramos na mesma fria. Tudo funcionando após a instalação, velocidade legal, nem parece uma versão alpha, mas o último aplicativo que você instala e abre é o Skype e ele simplesmente não abre.</description>
+    </item>
+    
+  </channel>
+</rss>

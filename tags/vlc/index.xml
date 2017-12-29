@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vlc on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/vlc/</link>
+    <description>Recent content in Vlc on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 08 Jul 2012 22:36:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/vlc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #13 – Notícias</title>
+      <link>http://ubuntero.com.br/opencast-13-noticias/</link>
+      <pubDate>Sun, 08 Jul 2012 22:36:43 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-13-noticias/</guid>
+      <description>Agora é definitivo, o Opencast tem calendário e é periódico. Neste episódio temos a participação do Rudinei que já participava dos episódios enviando perguntas e comentários. Conversamos sobre algumas notícias que julgamos interessantes e importantes e que aconteceram desde o último episódio de notícias.
+Para não haver reclamações, foi decidido que os episódios terão cerca de 60 minutos a partir de hoje, o que fará que os episódios não sejam cansativos para ouvir.</description>
+    </item>
+    
+    <item>
+      <title>Post 4 em 1</title>
+      <link>http://ubuntero.com.br/post-4-em-1/</link>
+      <pubDate>Tue, 05 Apr 2011 16:18:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/post-4-em-1/</guid>
+      <description>É isso mesmo que está escrito no título, hoje o post é 4 em 1. Ao invés de postar várias dicas ao longo dos dias, resolvi fazer esse &amp;#8220;pacote&amp;#8221;. São duas dicas com relação ao VLC e outra será a apresentação, para os que não conhecem, do Kazam.
+Assistindo DVD com menu no VLC A situação foi a seguinte, há alguns meses atrás, comprei o DVD de UP &amp;#8211; Altas Aventuras (filme bacana, quem não assistiu assista) e hoje resolvi assistir novamente pois estava com insônia.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remover Ppa on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/remover-ppa/</link>
+    <description>Recent content in Remover Ppa on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 28 Mar 2012 13:26:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/remover-ppa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remover PPA</title>
+      <link>http://ubuntero.com.br/remover-ppa/</link>
+      <pubDate>Wed, 28 Mar 2012 13:26:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/remover-ppa/</guid>
+      <description>É inevitável ficarmos sem adicionar algum PPA em nossos Ubuntu, sempre tem algum software que não está nos repositórios oficiais ou que a versão não é a mais atualizada. O problema é que alguns PPA&amp;#8217;s são experimentais e nem sempre o resultado é agradável e para remover nem sempre lembramos quais foram os pacotes adicionados. Para resolver o problema e voltar os pacotes para as versões originais dos repositórios oficiais, podemos utilizar o programa ppa-purge que está disponível nos repositórios oficiais do Ubuntu.</description>
+    </item>
+    
+  </channel>
+</rss>

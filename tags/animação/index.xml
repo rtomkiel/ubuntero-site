@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animação on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/anima%C3%A7%C3%A3o/</link>
+    <description>Recent content in Animação on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 07 Nov 2012 10:00:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/anima%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estúdio de animação 2D vetorial Synfig Studio</title>
+      <link>http://ubuntero.com.br/estudio-de-animacao-2d-vetorial-synfig-studio/</link>
+      <pubDate>Wed, 07 Nov 2012 10:00:04 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/estudio-de-animacao-2d-vetorial-synfig-studio/</guid>
+      <description>Não sou artista e muito menos animador, mas me deparei com um programa de criação de animações 2D durante minhas peregrinações pela internet. O programa que quero mostrar para vocês chama-se Synfig Studio.
+Não tenho como ensinar a usar o programa por não ter o mínimo de criatividade e domínio da ferramenta para isso, mas posso mostrar como instalar o programa no Ubuntu e é isso que vocês verão abaixo.</description>
+    </item>
+    
+  </channel>
+</rss>

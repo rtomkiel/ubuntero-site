@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paginação on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/pagina%C3%A7%C3%A3o/</link>
+    <description>Recent content in Paginação on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 19 Oct 2011 10:58:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/pagina%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paginação no LibreOffice</title>
+      <link>http://ubuntero.com.br/paginacao-no-libreoffice/</link>
+      <pubDate>Wed, 19 Oct 2011 10:58:48 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/paginacao-no-libreoffice/</guid>
+      <description>Tenho ajudado minha esposa nos vários trabalhos que ela tem para entregar na Faculdade e uma coisa bem chata de se fazer no LibreOffice é a simples tarefa de numerar páginas. A maneira que eu utilizava até ontem para esta tarefa é a maneira considerada difícil, mas encontrei uma maneira mais fácil no viva o Linux.
+Como eu fazia Posicionar o cursor na última página da página anterior de onde você quer começar a numerar.</description>
+    </item>
+    
+  </channel>
+</rss>

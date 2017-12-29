@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/arduino/</link>
+    <description>Recent content in Arduino on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 10 Mar 2014 17:12:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #54 – Arduino Leonardo</title>
+      <link>http://ubuntero.com.br/videocast-54-arduino-leonardo/</link>
+      <pubDate>Mon, 10 Mar 2014 17:12:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-54-arduino-leonardo/</guid>
+      <description>Nesta semana estou propondo o início de uma séria sobre a programação para Arduino. Comprei uma placa compatível com o Arduino Leonardo, mas até agora não dei nenhum fim para ela, já tem 3 ou 4 meses, até por não ter nenhuma ideia de uma aplicação para a placa. Me acompanhe nesta série e vamos aprender juntos as possibilidades deste hardware livre. Estou aceitando dicas de o que fazer com a placa, até mesmo comprar novos componentes para desenvolver algo útil.</description>
+    </item>
+    
+    <item>
+      <title>Flisol Chapecó 2013</title>
+      <link>http://ubuntero.com.br/flisol-chapeco-2013/</link>
+      <pubDate>Tue, 30 Apr 2013 12:25:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/flisol-chapeco-2013/</guid>
+      <description>No dia 27 de abril aconteceu o Flisol 2013 por toda a América Latina e o local mais próximo da minha humilde residência foi Chapecó &amp;#8211; SC, mas este não foi o único motivo pelo qual estive no evento.
+Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela vakinha que ainda está em andamento.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #18 – Arduino</title>
+      <link>http://ubuntero.com.br/opencast-18-arduino/</link>
+      <pubDate>Thu, 27 Sep 2012 01:35:50 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-18-arduino/</guid>
+      <description>Um pouco atrasado devido a viagem de trabalho mas o episódio 8 do Opencast está no ar. Neste episódio conversamos um pouco com o Saulo sobre o hardware aberto Arduino.
+As fotos e links que prometemos durante o episódio estarão no ar em breve, por enquanto fique apenas com o episódio.
+Links do episódio  Estação Meteorológica Prêmio TopBlog Brasil 2012 Sorteio Humble Bundle  Fotos o robô     Twitter: @tecnologiaabert</description>
+    </item>
+    
+    <item>
+      <title>Resumo semanal 01</title>
+      <link>http://ubuntero.com.br/resumo-semanal-01/</link>
+      <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resumo-semanal-01/</guid>
+      <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
+Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
+A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>
+    </item>
+    
+  </channel>
+</rss>

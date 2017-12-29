@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polly on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/polly/</link>
+    <description>Recent content in Polly on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 18 Nov 2013 17:50:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/polly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resolvendo problema ao abrir o cliente de twitter Polly</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
+      <pubDate>Mon, 18 Nov 2013 17:50:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
+      <description>Após uma atualização do cliente de Twitter Polly, não consegui mais abrir o programa. Fui notar isso só alguns dias após fazer a atualização devido ao feriadão onde não tinha internet disponível para acessar o programa.
+O erro que estava sendo mostrado é o seguinte:
+Polly 0.93.11 (pre-alpha 3.11) Copyright (C) 2011 Marcelo Hashimoto cache path: /home/ivan/.cache/polly config path: /home/ivan/.config/polly data home: /home/ivan/.local/share/polly Traceback (most recent call last): File &#34;/usr/bin/polly&#34;, line 241, in &amp;lt;module&amp;gt; from polly import setting, gui File &#34;</description>
+    </item>
+    
+    <item>
+      <title>Cliente para Twitter Polly</title>
+      <link>http://ubuntero.com.br/cliente-para-twitter-polly/</link>
+      <pubDate>Sun, 15 Jan 2012 19:48:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/cliente-para-twitter-polly/</guid>
+      <description>Demorei um pouco mas aí está o artigo sobre o cliente para Twitter Polly. O projeto é desenvolvido por Marcelo Hashimoto, sim, mais um brasileiro desenvolvendo software de qualidade.
+Para instalar o programa abra o nosso amigo terminal pressionando as teclas Ctrl+Alt+t e digite os seguintes comandos:
+sudo apt-add-repository ppa:conscioususer/polly-daily sudo apt-get update sudo apt-get install polly A utilização do programa é simples. Ao abrir pela primeira vez o programa já pede para configurar suas contas através de um código de verificação fornecido pelo site do twitter, acho que isto pode e deve ser melhorado.</description>
+    </item>
+    
+    <item>
+      <title>Resumo semanal 01</title>
+      <link>http://ubuntero.com.br/resumo-semanal-01/</link>
+      <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resumo-semanal-01/</guid>
+      <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
+Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
+A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>
+    </item>
+    
+  </channel>
+</rss>

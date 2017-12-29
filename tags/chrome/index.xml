@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrome on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/chrome/</link>
+    <description>Recent content in Chrome on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 06 Aug 2014 01:43:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #38 – Rede Espírito Livre</title>
+      <link>http://ubuntero.com.br/opencast-38-rede-espirito-livre/</link>
+      <pubDate>Wed, 06 Aug 2014 01:43:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-38-rede-espirito-livre/</guid>
+      <description>Capa do episódio desenvolvida por Eduardo Barbosa @_edmb Está no ar mais um episódio do Opencast e neste episódio temos a participação mais do que especial do João Fernando da Rede Espírito Livre. O episódio está muito bacana, conversamos sobre todos os projetos da Rede Espírito Livre como a revista, eventos e os vídeos, passando por uma aula sobre fontes e uma boa discussão sobre a realização de eventos.</description>
+    </item>
+    
+    <item>
+      <title>Google e suas brincadeiras de atualizar software</title>
+      <link>http://ubuntero.com.br/google-e-suas-brincadeiras-de-atualizar-software/</link>
+      <pubDate>Thu, 07 Nov 2013 10:00:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/google-e-suas-brincadeiras-de-atualizar-software/</guid>
+      <description>Não é segredo para ninguém que eu e o Google não nos damos muito bem e que me envergonha quem adora esta empresa. Não estou falando dos casos de &amp;#8220;auxílio&amp;#8221; em &amp;#8220;investigações&amp;#8221; feitas pela NSA, estou falando da péssima qualidade da maioria de seus softwares. Infelizmente, muitos fãs não conseguem ver isto.
+Pela terceira vez o Google nos impediu de gravar um hangout. Novamente após uma atualização de seu software, o próprio hangout.</description>
+    </item>
+    
+    <item>
+      <title>Corrigindo problema ao instalar Chrome no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</link>
+      <pubDate>Mon, 15 Apr 2013 17:54:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</guid>
+      <description>É público que não uso o Google Chrome como navegador, tenho meus motivos, mas hoje resolvi instalar para ver como ele estava e para minha surpresa não consegui instalar de primeira por problema de dependências. Este problema está ocorrendo no Ubuntu 13.04 que ainda está em versão Beta. Uma rápida pesquisa e a solução foi encontrada.
+Se você utiliza o Ubuntu 13.04 de 32 bits, baixe este arquivo:
+ libudev0 para 32bit  Se você utiliza o Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>Firefox com suporte extendido</title>
+      <link>http://ubuntero.com.br/firefox-com-suporte-extendido/</link>
+      <pubDate>Fri, 20 Jan 2012 10:00:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/firefox-com-suporte-extendido/</guid>
+      <description>A história começou com o Google fazendo o favor de jogar fora o padrão de versionamento e a concorrência teve que correr atrás dos clientes, não corporativo, e fã boys que acharam a brincadeira linda. Mudando de versão a cada mudança de lugar de um botão, as empresas não conseguiram seguir a velocidade para homologar sites e sistemas web para as novas versões dos navegadores, muito menos arrumar algum tempo para migrar centenas de computadores para uma nova versão de navegador.</description>
+    </item>
+    
+    <item>
+      <title>Resumo semanal 02</title>
+      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
+Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
+    </item>
+    
+  </channel>
+</rss>

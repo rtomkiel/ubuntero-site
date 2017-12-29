@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>64 Bits on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/64-bits/</link>
+    <description>Recent content in 64 Bits on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 22 Aug 2012 11:00:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/64-bits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 32 ou 64 bits (Reloaded)</title>
+      <link>http://ubuntero.com.br/ubuntu-32-ou-64-bits-reloaded/</link>
+      <pubDate>Wed, 22 Aug 2012 11:00:41 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-32-ou-64-bits-reloaded/</guid>
+      <description>Em 2009 fiz um artigo que chamou bastante atenção e voltou a estar na lista dos mais lidos no site. O artigo fala sobre qual arquitetura utilizar e principalmente a minha experiência com as duas arquiteturas. Acontece que aquele artigo já não tem mais validade devido a evolução das duas arquiteturas, mesmo assim algumas pessoas continuam fazendo comentários no artigo como se ele tivesse sido escrito na semana passada. Por este motivo resolvi voltar a escrever o mesmo assunto mas com uma nova visão, não editei o antigo artigo devido aos muitos comentários que lá estão e desvirtuariam a nova abordagem.</description>
+    </item>
+    
+  </channel>
+</rss>

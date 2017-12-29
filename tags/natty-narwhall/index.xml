@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natty Narwhall on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/natty-narwhall/</link>
+    <description>Recent content in Natty Narwhall on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 04 May 2011 00:42:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/natty-narwhall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entendendo a interface Unity</title>
+      <link>http://ubuntero.com.br/entendendo-a-interface-unity/</link>
+      <pubDate>Wed, 04 May 2011 00:42:46 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/entendendo-a-interface-unity/</guid>
+      <description>Instalou ou atualizou o Ubuntu e está meio perdido na nova interface? Não se preocupe, isto é normal quando temos uma mudança tão radical como tivemos nesta versão. A boa notícia é que com um pouco de boa vontade você consegue se adaptar e até ser mais produtivo utilizando a nova interface. Ela tem alguns problemas ainda, isto não pode nem deve ser escondido, mas tenho certeza de que tudo será corrigido tão logo for possível.</description>
+    </item>
+    
+  </channel>
+</rss>

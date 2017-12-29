@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compartilhamento on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/compartilhamento/</link>
+    <description>Recent content in Compartilhamento on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 25 Aug 2013 13:34:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/compartilhamento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #42 – Primeiros passos no Ubuntu – Vídeo 6</title>
+      <link>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</link>
+      <pubDate>Sun, 25 Aug 2013 13:34:20 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</guid>
+      <description>Algo que leio bastante por fórums e listas é a dificuldade em se compartilhar pastas na rede utilizando o Ubuntu, o que realmente não consigo entender. Para facilitar a vida de todos, este vídeo mostra a maneira simples de se acessar e fazer compartilhamento. Não é necessário fazer configurações mirabolantes no samba, isso é coisa para compartilhamentos avançados e não para simples compartilhamentos.
+ Assistir no Youtube Viu como é fácil e não precisa nem abrir o terminal?</description>
+    </item>
+    
+    <item>
+      <title>Opera Unite 11 no Ubuntu</title>
+      <link>http://ubuntero.com.br/opera-unite-11-no-ubuntu/</link>
+      <pubDate>Sun, 13 Mar 2011 14:38:22 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opera-unite-11-no-ubuntu/</guid>
+      <description>Antes de tudo recomendo a baixar/instalar o Opera 11, você não vai se arrepender. Caso não goste é só desinstalar, não custa nada! &amp;nbsp; [][1]Clique na imagem para instalar o Opera 11 O link na imagem acima lhe redirecionará para o site baixaki onde poderá baixar o pacote .deb (Basta clicar duas vezes e pronto, instalação normal). Sempre fui curioso e gostei de pesquisar/testar novas opções de quaisquer programa. Mas não é apenas testar por testar, busco sempre funcionalidades que satisfaçam alguma necessidade que tenho.</description>
+    </item>
+    
+  </channel>
+</rss>

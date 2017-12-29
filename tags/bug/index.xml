@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/bug/</link>
+    <description>Recent content in Bug on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:20:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/bug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resolvendo problemas ao enviar arquivos para a lixeira</title>
+      <link>http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/</link>
+      <pubDate>Sat, 10 Oct 2015 13:20:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/</guid>
+      <description>Dando uma olhada no canal do IRC do Ubuntu, sim, este canal continua muito vivo hoje em dia, topei com um problema de um usuário( Jairo Augusto dos Santos) que não conseguia enviar arquivos para a lixeira. Ele tinha duas opções, apagar o arquivo sem chances de reparar depois, ou não apagava o arquivo.
+Primeiro notamos que a pasta da lixeira estava com o dono setado de maneira errada, estava com o root como dono e grupo.</description>
+    </item>
+    
+    <item>
+      <title>Bug de 10 anos é corrigido no LibreOffice</title>
+      <link>http://ubuntero.com.br/bug-de-10-anos-e-corrigido-no-libreoffice/</link>
+      <pubDate>Thu, 16 Jan 2014 18:40:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/bug-de-10-anos-e-corrigido-no-libreoffice/</guid>
+      <description>Limite de 65000 caracteres para parágrafos do LibreOffice, esse é o bug que será corrigido nas próximas versões, provavelmente na versão 4.3.
+Para ter uma ideia são 13 páginas em fonte tamanho 10 e espaçamento simples. Mas quem escreveria um parágrafo tão longo?
+
+Textos com essas características geralmente são usados em atas, minutas, acórdãos, petições e e muitos outros documentos, usados geralmente na área jurídica. Também pode-se usar um único parágrafo para tornar a leitura e interpretação do texto mais difícil, ou ainda, medo de deixar um espaço em branco aonde possa ser escrito algo depois de impresso.</description>
+    </item>
+    
+    <item>
+      <title>Resolvendo problema ao abrir o cliente de twitter Polly</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
+      <pubDate>Mon, 18 Nov 2013 17:50:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
+      <description>Após uma atualização do cliente de Twitter Polly, não consegui mais abrir o programa. Fui notar isso só alguns dias após fazer a atualização devido ao feriadão onde não tinha internet disponível para acessar o programa.
+O erro que estava sendo mostrado é o seguinte:
+Polly 0.93.11 (pre-alpha 3.11) Copyright (C) 2011 Marcelo Hashimoto cache path: /home/ivan/.cache/polly config path: /home/ivan/.config/polly data home: /home/ivan/.local/share/polly Traceback (most recent call last): File &#34;/usr/bin/polly&#34;, line 241, in &amp;lt;module&amp;gt; from polly import setting, gui File &#34;</description>
+    </item>
+    
+    <item>
+      <title>Resolvendo problema com driver 310 da Nvidia</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-com-driver-310-da-nvidia/</link>
+      <pubDate>Mon, 26 Aug 2013 11:00:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-com-driver-310-da-nvidia/</guid>
+      <description>Artigo enviado por Wagner (Gplus, Facebook e twitter)
+Ao efetuar uma atualização do sistema, houve um problema com o driver 310 da NVIDIA(VGA GeForce GT 220) no qual estava usando no kernel anterior ao que foi atualizado. Ao ligar o PC o Ubuntu 12.04.2 LTS não iniciava o seu ambiente desktop. Não houve kernel panic mas o X não subiu depois desta atualização. Executei o seguinte procedimento para remontar a raiz do sistema em modo de leitura e escrita, no modo de recuperação e para minha felicidade funcionou e pude então remover o driver bugado e instalar o mais novo que foi disponibilizado nos repositórios do Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>Desabilitar o notificador de bugs</title>
+      <link>http://ubuntero.com.br/desabilitar-o-notificador-de-bugs/</link>
+      <pubDate>Mon, 02 Jul 2012 17:00:26 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/desabilitar-o-notificador-de-bugs/</guid>
+      <description>A dica deste artigo deve ser usada em casos bem específicos, já que o mínimo que se espera de alguém que usa um sistema gratuito é que os problemas que venham a acontecer sejam relatados aos desenvolvedores. Um caso onde a dica até deve ser utilizada é durante a presentações de palestras ou aulas.
+Para desabilitar a notificação de bugs é necessário editar um arquivo e para isto tecle Alt+F2 e digite o seguinte comando:</description>
+    </item>
+    
+    <item>
+      <title>Reportar bugs</title>
+      <link>http://ubuntero.com.br/reportar-bugs/</link>
+      <pubDate>Mon, 30 Apr 2012 11:00:48 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/reportar-bugs/</guid>
+      <description>Quando um erro em um programa gera uma exceção que &amp;#8220;quebra&amp;#8221; a execução, como no exemplo acima, fica fácil reportar o problema diretamente para a Canonical, mas como fazer quando o problema não envolve travamento de programas? Eu passei por este problema ao verificar que após atualizar o meu Desktop para o Ubuntu 12.04. No meu caso tudo funciona, menos o microfone que não tem jeito de captar sons. A primeira coisa que fiz foi verificar se o problema não é com o microfone mesmo e pluguei ele em outro computador, como ele funcionou, tentei com um live CD do Ubuntu 11.</description>
+    </item>
+    
+  </channel>
+</rss>

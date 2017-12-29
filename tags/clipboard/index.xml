@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clipboard on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/clipboard/</link>
+    <description>Recent content in Clipboard on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 18 Aug 2012 22:40:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/clipboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parcellite – O melhor clipboard manager</title>
+      <link>http://ubuntero.com.br/parcellite-o-melhor-clipboard-manager/</link>
+      <pubDate>Sat, 18 Aug 2012 22:40:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/parcellite-o-melhor-clipboard-manager/</guid>
+      <description>Vou dar uma dica rápida agora que poderá agilizar a vida de muita gente. Para quem não sabe, um clipboard manager faz a gerência de tudo o que você copia e cola no seu computador. Isso serve para poder agilizar a vida de quem copia e cola a mesmo informação várias vezes. Para instalá-lo, pode ir na própria Central de Programas do Ubuntu, ou então digitar:
+sudo apt-get install parcellite A instalação é muito rápida.</description>
+    </item>
+    
+  </channel>
+</rss>

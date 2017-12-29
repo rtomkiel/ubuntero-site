@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coca Cola on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/coca-cola/</link>
+    <description>Recent content in Coca Cola on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Jul 2006 21:29:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/coca-cola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saindo um pouco do mundo do Ubuntu</title>
+      <link>http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/</link>
+      <pubDate>Sat, 01 Jul 2006 21:29:57 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/</guid>
+      <description>Tive que postar esta imagem. Até a Coca-Cola se rendeu ao seu maior cliente e fez uma edição especial para ele.
+
+*Imagem criada por Elias Pereira</description>
+    </item>
+    
+  </channel>
+</rss>

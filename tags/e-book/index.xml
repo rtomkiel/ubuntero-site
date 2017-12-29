@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Book on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/e-book/</link>
+    <description>Recent content in E Book on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 26 Apr 2011 19:01:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/e-book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lançado o livro LibreOffice Para Leigos</title>
+      <link>http://ubuntero.com.br/lancado-o-livro-libreoffice-para-leigos/</link>
+      <pubDate>Tue, 26 Apr 2011 19:01:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-livro-libreoffice-para-leigos/</guid>
+      <description>Desde o final do ano passado, estava escrevendo o livro, aproveitando as férias de janeiro e momentos de folga durante a semana e finais de semana. Mas finalmente ficou pronto minha primeira obra, LibreOffice Para Leigos.
+Enquanto estava escrevendo o livro, ocorreram diversas alterações como a logomarca, mudança do nome, lançamento de versões e extinção da ONG, mas depois de algumas correções e diagramação, segue o link para vocẽs fazerem download.</description>
+    </item>
+    
+  </channel>
+</rss>

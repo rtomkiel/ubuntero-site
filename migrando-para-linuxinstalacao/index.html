@@ -1,0 +1,589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Migrando para Linux(Instalação) - Ubuntero</title>
+<meta name="description" content="Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/migrando-para-linuxinstalacao/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Migrando para Linux(Instalação) - Ubuntero" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/migrando-para-linuxinstalacao/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+<meta property="article:author" content=""/>
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Migrando para Linux(Instalação) - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Migrando para Linux(Instalação) - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Migrando para Linux(Instalação)" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+	<div id="content" >
+		<div class="entry post">
+			<div class="adstop">
+
+<script type="text/javascript" language="javascript">
+	lmd_source="25569110";
+	lmd_si="33338950";
+	lmd_pu="22227150";
+	lmd_c="BR";
+	lmd_wi="468";
+	lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+			<h1><a href="http://ubuntero.com.br/migrando-para-linuxinstalacao/" title="Migrando para Linux(Instalação)">Migrando para Linux(Instalação)</a></h1>
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<ul>
+<li><em>Os passos para instalação da versão 7.10 continuam os mesmos deste tutorial.</em></li>
+</ul>
+
+<p>Dando continuidade a série de artigos sobre migração de Windows para Linux, vamos agora fazer a preparação e instalação do sistema. Eu recomendo que a instalação seja feita por alguém que já tem conhecimento para isso. Se você julga ter este conhecimento então vá em frente. Caso se sinta meio inseguro, procure alguém que já tenha feito a instalação, pode entrar em contato comigo se morar em Erechim, para garantir o sucesso na instalação.</p>
+
+<p>Porque estou recomendando que a instalação seja feita por alguém experiente? Porque este processo envolve backup e particionamento de disco e estas coisas não são muito conhecidas por usuários mais leigos.</p>
+
+<p>Então vamos por a mão na massa. Em primeiro lugar você deve decidir se fará um tratamento de choque ou irá tomar doses homeopáticas de linux.</p>
+
+<p>Independente da escolha, pelo tratamento de choque ou pelas doses homeopáticas, faça uma cópia de todos os arquivos que julgue importantes, isso inclui suas músicas e fotos. Essa cópia pode ser em outro disco rígido ou em CD&#8217;s e DVD&#8217;s. Feita a cópia de segurança de seus arquivos, vamos então obter uma cópia do CD de instalação do Ubuntu. Para obter uma cópia exitem três maneiras diferentes. A primeira é fazer o download da imagem ISO neste <a href="http://releases.ubuntu.com/feisty/ubuntu-7.04-desktop-i386.iso">link</a> e gravar em um CD. A segunda é pedindo uma cópia para alguém, algumas pessoas, como eu, possuem cópias para distribuição gratuita e também imagens para gravação de CD&#8217;s. Para usufruir da última maneira você deve parar para pensar um pouco, pois você fará um pedido para que a Canonical, empresa que mantém comercialmente o Ubuntu, mande para você gratuitamente algumas cópias dos CD&#8217;s de instalação. Para fazer o pedido entre no site <a href="https://shipit.ubuntu.com/">shipit</a>, se cadastre e faça seu pedido. O site é todo em inglês. Volto a repetir, só peça os CD&#8217;s se não tiver como baixar a imagem ou pedir para que alguém baixe e grave para você.</p>
+
+<p>Depois de obter sua cópia do Ubuntu você precisará alterar a sequência de boot na bios do seu computador. Para entrar nas configurações da bios fique apertando a tecla Del durante a inicialização do computador. O próximo passo não posso ajudar com muita exatidão, pois as bios não seguem um padrão. Você deve procurar por uma opção de sequencia de boot e deixar o CD em primeiro lugar. Depois de encontrar e efetuar esta configuração saia da bios salvando as alterações. Com o CD do Ubuntu dentro do drive espere até que a tela abaixo apareça em sua tela.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-0.jpg' title='tela-0.jpg'><img src='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-0.thumbnail.jpg' alt='tela-0.jpg' /></a>
+</center></p>
+
+<p>Minha primeira recomendação é que nesta tela seja pressionada a tecla &#8220;F2&#8221; para que seja feita a escolha do idioma. Navegue com o teclado até a opção &#8220;Português do Brasil&#8221; como na figura abaixo.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-1.png' title='tela-1.png'><img src='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-1.thumbnail.png' alt='tela-1.png' /></a>
+</center></p>
+
+<p>Feito isto, seu menu deve mudar para o português do Brasil e ficar como está na figura abaixo. A opção de iniciar o Ubuntu fica marcada como padrão então você deve apenas pressiona &#8220;Enter&#8221; para começar o carregamento. Este processo demora um pouco porque o Ubuntu estará rodando diretamente pelo CD que está no drive.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-2.png' title='tela-2.png'><img src='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-2.thumbnail.png' alt='tela-2.png' /></a>
+</center></p>
+
+<p>Você terá que esperar um tempo até ter uma tela como esta logo abaixo. Esta tela terá dois ícones no desktop. Em um dos ícones, &#8220;Exemples&#8221;, você terá alguns arquivos que não nos interessa explorar agora, e no outro ícone, &#8220;Instalar o sistema no computador&#8221;, você poderá começar o processo de instalação.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-3.png' title='tela-3.png'><img src='http://www.ubuntero.com.br/wp-content/uploads/2007/05/tela-3.thumbnail.png' alt='tela-3.png' /></a>
+</center></p>
+
+<p>Na próxima tela vamos começar de fato com a instalação do Ubuntu. O primeiro passo é selecionar o idioma no qual o sistema será instalado. Neste tutorial já fizemos a seleção do idioma na primeira tela do CD. Esta opção está disponível caso você queira alterar o idioma escolhido na inicialização ou caso não tenha escolhido um. Se você selecionou o idioma &#8220;Português do Brasil&#8221; na primeira tela, nada precisa ser mudado agora, basta clicar no botão &#8220;Avançar&#8221;.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-4.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-4.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Na próxima tela será feita a configuração do fuso horário. Você pode escolher o fuso horário mais adequado ao local onde você mora, no meu caso é o fuso de São Paulo. A seleção do fuso pode ser feita clicando nos pontos do mapa ou na caixa de seleção que diz &#8220;Fuso horário&#8221;.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-5.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-5.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Na tela seguinte você deve escolher o layout do seu teclado. É extremamente recomendável que você teste teclas como ç , . ; ? / \ | [ ] { } para ter certeza de que escolheu o layout correto. Clique em avançar e vá para o próximo passo.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-6.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-6.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>A seguinte tela irá aparecer até o carregamento do particionador de disco.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-7.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-7.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Este é o passo mais temido e mais crítico da instalação. Eu estou demonstrando como fazer uma instalação onde apenas o Ubuntu será instalado. Não descreverei como fazer a instalação para um dual boot com o Windows principalmente porque este sistema operacional não é o alvo do blog e por ter grandes chances de algo sair errado se o usuário não souber o que está fazendo. Então faça como na próxima janela e selecione a opção &#8220;Assistido &#8211; usar o disco inteiro&#8221; e clique em &#8220;Avançar&#8221;.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-8.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-8.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>A próxima janela mostra uma novidade da versão 7.04. Agora é possível migrar configurações de uma conta do Microsoft Windows caso ele esteja instalado na máquina. Utilizei ela em algumas máquinas durante o FLISOL e funcionou perfeitamente. Clique novamente em &#8220;Avançar&#8221; e vá para a próxima tela.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-9.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-9.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Nesta tela você irá identificar o principal usuário deste computador. Este usuário terá acesso a tarefas administrativas através do comando &#8220;sudo&#8221; no terminal e &#8220;gksu&#8221; no modo gráfico. A senha atribuída para este usuário é de extrema importância devido a ser a mesma senha pedida ao executar qualquer tarefa administrativa. Clique em &#8220;Avançar&#8221; novamente.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-10.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-10.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-11.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-11.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Na janela abaixo é mostrado um resumo de tudo que será feito na sua máquina. Leia com atenção os dados contidos nesta tela e se tudo estiver como desejado clique no botão &#8220;Advanced&#8221;.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-12.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-12.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>O passo anterior não é obrigatório mas é recomendável. Nesta pequena janela que aparece, selecione a opção &#8220;Participate in the package usage survey?&#8221; e pressione o botão &#8220;OK&#8221;. Com isso você estará colaborando com a pesquisa de popularidade de pacotes instalados. É com essa pesquisa que a Canonical decide onde irá concentrar os esforços de desenvolvimento de novas aplicações e melhoramentos em programas para a próxima versão. O próximo e último passo antes do começo da instalação própriamente dita é clicar no botão &#8220;Instalar&#8221;.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-13.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-13.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>A instalação será iniciad e você verá uma tela parecida com esta abaixo onde todos os passos da instalação serão descritos e uma porcentagem do andamento da instalação será mostrada.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-14.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-14.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Quando a instalação terminar você verá a tela a seguir.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-15.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-15.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Agora você pode escolher reiniciar o sistema e começar a trabalhar diretamente do sistema instalado no seu disco ou continuar utilizando o sistema pelo liveCD. Se escolher continuar utilizando o liveCD é bom lembrar que as alterações e arquivos alterados não afetarão o sistema instalado no disco e terão que ser refeitas quando passar a utilizar o sistema instalado. Para seguir com o tutorial escolha reiniciar a opção &#8220;Reiniciar agora&#8221;. Não esqueça de tirar o CD do drive quando for pedido.</p>
+
+<p>Ao reiniciar o sistema você verá uma tela, como a que segue logo abaixo, onde deverá entrar primeiramente com um nome de usuário(o nome que você especificou durante a instalação) e logo após a senha(também informada durante a instalação). Digite os dados e pressione enter para ir para a próxima tela.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-16.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-16.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>&nbsp;&nbsp;<a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-17.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-17.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Com isso você estará dentro do seu Ubuntu e, se estiver conectado a internet, receberá uma notificação de que existem atualizações para serem feitas. Diferentemente do Windows que você está acostumado, com software livre, principalmente Ubuntu, assim que um problema de software é detectado e corrigido, a correção estará disponível para download. A idéia de segurança do Linux se deve também a isso. Você fica com seu programa vulnerável durante o mínimo de tempo possível.</p>
+
+<p>Para começar a baixar e instalar as atualizações disponíveis clique uma vez no ícone laranja que fica na parte superior direita da sua tela.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-18.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-18.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>O &#8220;Gerenciador de Atualizações&#8221; será aberto e listará todos os pacotes disponíveis para atualização juntamente com o tamanho total do download necessário. Clique em &#8220;Instalar Atualizações&#8221;.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-19.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-19.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Uma tela será mostrada pedindo a senha para tarefas administrativa. Digite a senha do usuário criado durante a instalação. O Ubuntu reconhece que o primeiro usuário criado tem privilégios de administrador do sistema por ter sido ele quem instalou o mesmo.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-20.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-20.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Enquanto os pacotes de atualizações são baixados e atualizados você verá esta tela.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-21.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-21.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Quando as atualizações acabarem de ser instaladas você netão verá uma janela informando o final da instalação onde você simplesmente deverá cliar em fechar e logo após clicar feche a janela que estava aberta anteriormente.</p>
+
+<p><center>
+  <a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-22.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-22.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>&nbsp;&nbsp;<a href='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-23.png' title='Migrando para Linux(Instalação)'><img src='http://www.fuzzer.com.br/ubuntero/wp-content/uploads/2007/07/tela-23.thumbnail.png' alt='Migrando para Linux(Instalação)' /></a>
+</center></p>
+
+<p>Após fazer a atualização pode ser necessário reiniciar o computador para que todas as alterações tenham efeito, principalmente se o Kernel for atualizado. Isto pode ser feito pelo menu &#8220;Sistema -&gt; Sair&#8221; ou no ícone vermelho no canto superior direito da sua tela.</p>
+
+<p>Espero que este tutorial seja de grande utilidade para você. Tentei expor todos os detalhes da instalação do Ubuntu, incluindo os passos triviais, para que o mínimo possível de dúvidas permanecessem em sua cabeça. Caso ainda fique alguma dúvida, não exite em deixá-la registrada nos comentários do artigo que farei o possível para responder.</p>
+
+<p>Nos próximos artigos desta série irei começar a falar sobre alguns programas que substituirão os programas usados no Windows. Até a próxima.</p>
+
+<p>Artigos relacionados</p>
+
+<ul>
+<li><a href="http://www.ubuntero.com.br/?p=185">Migrando para Linux(Email)</a></li>
+<li><a href="http://www.ubuntero.com.br/?p=383">Migrando para Linux(Gerenciador de arquivos)</a></li>
+<li><a href="http://www.ubuntero.com.br/?p=183">Migrando para Linux(Messenger)</a></li>
+<li><a href="http://www.ubuntero.com.br/?p=330">Migrando para Linux(Instalando programas parte 3)</a></li>
+<li><a href="http://www.ubuntero.com.br/?p=318">Migrando para Linux(Instalando programas parte 2)</a></li>
+<li><a href="http://www.ubuntero.com.br/?p=186">Migrando para Linux(Instalando programas)</a><li
+[>Migrando para Linux]<a href="http://www.ubuntero.com.br/?p=203">9</a></li></li>
+</ul>
+
+			</div>
+
+			<div class="post-utility">
+				<p align="right">Publicado em 4 de Jul de 2007 | <a href="http://ubuntero.com.br/migrando-para-linuxinstalacao/">Deixe um comentário </a></p>
+			</div>
+
+			<div class="share">
+				<span style="margin-top:8px;">Compartilhe</span>
+				<span><a href="http://twitter.com/intent/tweet?text=Migrando%20para%20Linux%28Instala%c3%a7%c3%a3o%29&url=http%3a%2f%2fubuntero.com.br%2fmigrando-para-linuxinstalacao%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//images/ubuntero/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fmigrando-para-linuxinstalacao%2f&t=Migrando%20para%20Linux%28Instala%c3%a7%c3%a3o%29" title="Compartilhar no Facebook" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//images/ubuntero/icon-facebook.png" alt="Curtir" width="24"/>
+				</a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fmigrando-para-linuxinstalacao%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//images/ubuntero/icon-googleplus.png" alt="Google Plus" width="24" /></a></span>
+				<span><iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fubuntero.com.br%2fmigrando-para-linuxinstalacao%2f&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:85px; height:20px; margin-top:7px;"></iframe></span>
+				<span style="margin-top:7px;">
+				<script type="text/javascript">
+					window.___gcfg = {lang: 'pt-BR'};
+					(function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					})();
+					</script>
+					<g:plusone size="medium"></g:plusone>
+				</span>
+			</div>
+
+			<div class="autor">
+				<img src="http://ubuntero.com.br//images/author/Ivan%20Brasil%20Fuzzer.jpg" width="80" alt="Ivan Brasil Fuzzer" class="autorimg" />
+				<p><a href="/author/ivan-brasil-fuzzer" title="Mais Publicações do autor Ivan Brasil Fuzzer">Ivan Brasil Fuzzer</a></p>
+				
+				
+				<p>Faço parte do grupo Tchelinux(http://www.tchelinux.org). O Tchelinux é um grupo de voluntários que trabalha com software livre e ainda acredita que boas coisas podem ser feitas nesta comunidade; desde que saibamos repassar aos que estão iniciando que Software Livre é um aprender e repassar o conhecimento incessante. Sou líder do Ubuntu-BR-RS juntamente com a Marta Vuelma. Tentamos divulgar a distribuição e auxiliar novos usuários por todo o estado do Rio Grande do Sul, as vezes em outros estados também. Sou um amante incondicional de software livre. Vivo apaixonado pelo Ubuntu.</p>
+				
+				<p><a class="left autorsocial autortwitter" href="" title="Twitter"></a> <a class="left autorsocial autorfacebook" href="" title="Facebook"></a> <a class="left autorsocial autorgoogleplus" href="?rel=author" target="_blank" title="Google Plus"></a> <span class="right">
+					<a href="/author/ivan-brasil-fuzzer" alt="Ivan Brasil Fuzzer" >Mais posts do autor</a> </span></p>
+			</div>
+
+			<div class="adsbottom">
+
+<script type="text/javascript" language="javascript">
+	lmd_source="25569110";
+	lmd_si="33338950";
+	lmd_pu="22227150";
+	lmd_c="BR";
+	lmd_wi="468";
+	lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+
+&lt;?php
+/*
+$sorteio = rand(1,2);
+if ($sorteio == 1){
+	_e('
+
+<script type="text/javascript" language="javascript">
+	lmd_source="25569110";
+	lmd_si="33338950";
+	lmd_pu="22227150";
+	lmd_c="BR";
+	lmd_wi="468";
+	lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+');
+}
+elseif ($sorteio == 2){
+	_e('<a href="#" target="_blank" rel="nofollow" title="Publicidade"><img src="') . bloginfo('template_directory') . _e('/images/publicidade.jpg" alt="Publicidade 1" /></a>');
+}
+*/
+?>
+</div>
+
+
+					<div class="related-posts">
+						<h3>Posts relacionados</h3>
+					
+						<div class="related">
+							<a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/" rel="bookmark" title="Passada a black friday, porque não participamos?"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Passada a black friday, porque não participamos?</p></a>
+						</div>
+						
+						<div class="related">
+							<a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/" rel="bookmark" title="Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</p></a>
+						</div>
+						
+						<div class="related">
+							<a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/" rel="bookmark" title="Resolvendo problemas ao enviar arquivos para a lixeira"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Resolvendo problemas ao enviar arquivos para a lixeira</p></a>
+						</div>
+						
+						<div class="related">
+							<a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/" rel="bookmark" title="Smartphone com Ubuntu já pode ser comprado por brasileiros"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Smartphone com Ubuntu já pode ser comprado por brasileiros</p></a>
+						</div>
+						
+						<div class="clear"></div>
+					</div>
+		</div>
+
+ 
+ <div id="disqus_thread"></div>
+<script>
+    (function() {  
+        var d = document, s = d.createElement('script');
+
+        
+        s.src = 'https://ubuntero.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
+        comments powered by Disqus.
+    </a>
+</noscript>
+
+	</div>
+
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Migrando para Linux(Instalação)">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="/categories/ubuntu">Ubuntu</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xubuntu on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/xubuntu/</link>
+    <description>Recent content in Xubuntu on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 06 Sep 2013 11:28:32 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/xubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Versões Beta dos sabores do Ubuntu 13.10</title>
+      <link>http://ubuntero.com.br/versoes-beta-dos-sabores-do-ubuntu-13-10/</link>
+      <pubDate>Fri, 06 Sep 2013 11:28:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/versoes-beta-dos-sabores-do-ubuntu-13-10/</guid>
+      <description>Estão disponíveis as imagens dos &amp;#8220;sabores&amp;#8221; do Ubuntu na versão 13.10 Beta 1. Estas versões são recomendadas apenas para usuários mais avançados, pois são destinadas a testes e problemas podem e devem aparecer.
+Se mesmo sabendo destes possíveis problemas você ainda quiser baixar para instalar e testar no seu computador, seguem os links para baixar as imagens.
+ Xubuntu 13.10 Beta 1 Kubuntu 13.10 Beta 1 Lubuntu 13.10 Beta 1 Ubuntu GNOME 13.</description>
+    </item>
+    
+    <item>
+      <title>Vídeocast #22 – Xubuntu 12.10</title>
+      <link>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</link>
+      <pubDate>Sat, 10 Nov 2012 22:12:43 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</guid>
+      <description>Mais um review muito esperado segundo os comentários nas redes sociais durante a semana. Desta vez falo um pouco sobre o Xubuntu 12.10.
+A grande promessa do sistema é ser mais leve que os &amp;#8220;concorrentes&amp;#8221; e o sistema cumpre com o prometido, ele realmente é mais leve e em geral bem responsivo. Não testei em computadores mais antigos, o teste foi feito no mesmo computador que os últimos reviews, um Intel Core i3 com 4 GB de memória e VGA Intel.</description>
+    </item>
+    
+    <item>
+      <title>Dois monitores no Xubuntu 12.10</title>
+      <link>http://ubuntero.com.br/dois-monitores-no-xubuntu-12-10/</link>
+      <pubDate>Wed, 07 Nov 2012 12:00:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dois-monitores-no-xubuntu-12-10/</guid>
+      <description>Como todos sabem, pelo menos quem acompanha o Videocast, estou testando vários sabores do Ubuntu, passando uma semana em cada uma. Isto está gerando algum material com as dificuldades e facilidades que cada interface oferece.
+Uma das coisas que estou testando em todos é a utilização de dois monitores e no Xubuntu, por enquanto, temos o pior gerenciamento desta funcionalidade.
+A tela de configuração de monitores não oferece as configurações necessárias para trabalhar com os dois monitores com tela extendida, ele simplesmente espelha as duas telas e para conseguir extender os monitores eu tive que apelar para configurações que mostro aqui.</description>
+    </item>
+    
+  </channel>
+</rss>

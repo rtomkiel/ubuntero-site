@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Launcher on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/launcher/</link>
+    <description>Recent content in Launcher on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 27 Oct 2011 19:04:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/launcher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launcher na parte de Baixo da tela</title>
+      <link>http://ubuntero.com.br/launcher-na-parte-de-baixo-da-tela/</link>
+      <pubDate>Thu, 27 Oct 2011 19:04:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/launcher-na-parte-de-baixo-da-tela/</guid>
+      <description>Esta dica é para muitos que simplesmente não conseguiram, ou não quiseram, se acostumar com a mudança do local onde os programas abertos aparecem.
+Esta dica é apenas para quem utiliza o Unity 3D e Ubuntu 32 bits, não tem pacote para 64 bits, pois utiliza um plugin do Compiz para fazer a mágica!
+Para começar, faça o download do arquivo. Aqui ou aqui.
+Extraia o diretório presente no arquivo baixado para o seu home.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teo on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/teo/</link>
+    <description>Recent content in Teo on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 07 May 2011 13:15:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/teo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leitora Teo by Xiring – BANRISUL – no Ubuntu 11.04</title>
+      <link>http://ubuntero.com.br/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</link>
+      <pubDate>Sat, 07 May 2011 13:15:53 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/leitora-teo-by-xiring-banrisul-no-ubuntu-11-04/</guid>
+      <description>Em um post anterior eu havia compartilhado o tutorial de instalação da leitora de cartão Teo by Xiring para o Ubuntu 10.04 LTS.
+Observei que o procedimento não funciona no Ubuntu 11.04 Natty 🙁
+Mas aqui está a solução. Segue o tutorial 🙂
+Abra o terminal e digite:
+&amp;nbsp;
+sudo apt-get install libccid pcscd pcsc-tools Após isso, insira o &amp;#8220;pcscd&amp;#8221; nos aplicativos de sessão (aperte &amp;#8220;super&amp;#8221; no teclado &amp;gt; digite &amp;#8220;aplicativos&amp;#8221; e irá aparecer &amp;#8220;aplicativos de sessão&amp;#8221; na pesquisa, clique nele &amp;gt; clique em adicionar &amp;gt; digite pcscd nos dois campos e ok).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,608 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/" title="Resolvendo problema de repositórios que impede a abertura da Central de Programas">Resolvendo problema de repositórios que impede a abertura da Central de Programas</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><img class="size-full wp-image-5277 aligncenter" title="Logo Central de programas do Ubuntu" alt="Logo Central de programas do Ubuntu" src="http://www.ubuntero.com.br/wp-content/uploads/2013/05/central-de-programas.png" width="200" height="200" /></p>
+
+<p>Já estou vendo que vai ter gente comentando que o <strong>Ubuntu</strong> só tem problema, mas isto não é verdade, apenas quando fico sabendo de um que tem solução eu divulgo a solução.</p>
+
+<p>Se ao tentar abrir a <strong>Central de programas do Ubuntu</strong> você está recebendo um erro parecido com este:</p>
+
+<p><code>&quot;Erro: Abrindo o cache (E: Encountered a section with no package: header, E: problem with Mergelist /var/lib/apt/lists/br.archive.ubuntu.com_ubuntu_dists_raring_universe_i18n_Translation-pt, E:The package listsor status file could not be parsed or opened.)&quot;</code></p>
+
+<p>A solução é bem simples. Abra o terminal pressionando <code>Ctrl+Alt+t</code> e digite os seguintes comandos:</p>
+
+<pre class="brush:shell">sudo rm /var/lib/apt/lists/* -vf
+sudo apt-get update</pre>
+
+<p>Agora você pode voltar a abrir a Central de programas do Ubuntu sem mais problemas.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/central-de-programas">Central de programas</a>,   <a href="/tags/fix">Fix</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 3 de May de 2013 | <a href="http://ubuntero.com.br/resolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas%2f&url=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas%2f&t=Resolvendo%20problema%20de%20reposit%c3%b3rios%20que%20impede%20a%20abertura%20da%20Central%20de%20Programas" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-de-repositorios-que-impede-a-abertura-da-central-de-programas%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/flisol-chapeco-2013/" title="Flisol Chapecó 2013">Flisol Chapecó 2013</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2013/03/banner-flisol-2013.png"><img class="alignnone size-medium wp-image-4893" alt="banner flisol 2013" src="http://www.ubuntero.com.br/wp-content/uploads/2013/03/banner-flisol-2013-300x171.png" width="300" height="171" /></a>
+</p>
+
+<p>No dia 27 de abril aconteceu o <a href="http://www.flisol.info/FLISOL2013/Brasil">Flisol 2013</a> por toda a América Latina e o local mais próximo da minha humilde residência foi <a href="http://oesc-livre.org/doku.php?id=flisol_chapeco_2013">Chapecó &#8211; SC</a>, mas este não foi o único motivo pelo qual estive no evento.</p>
+
+<p>Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela <a href="http://www.ubuntero.com.br/2013/01/vaquinha-para-compra-de-um-galaxy-x/">vakinha</a> que ainda está em andamento.</p>
+
+<p>O evento estava muito bom com boas palestras e principalmente a troca de conhecimento entre palestrantes e participantes. Eu nunca tinha tido a oportunidade de pegar um computador com UEFI para fazer dual boot com outros sistemas operacionais e no evento pude ter esta experiência.</p>
+
+<p>Você pode fazer o download dos slides da apresentação sobre o Ubuntu aqui.</p>
+
+<p class="button">
+  <a href="http://ubuntero.com.br/download/FLISOL%202013%20-%20Ubuntu.pdf" target="_blank" rel="nofollow">Flisol 2013 &#8211; Ubuntu.pdf</a>
+</p>
+
+<p>Fiz a gravação das palestras e estou publicando conforme meu link de internet permite. O som não está bom porque esqueci de ativar o redutor de ruído da câmera, devo ter desabilitado ao voltar para as configurações padrão algum dia, e por isso alguns vídeos não estão muito nítidos, estou tentando melhorar na medida do possível.</p>
+
+<p>Veja os vídeos das palestras que gravei(vou atualizando este artigo conforme vou enviando mais vídeos).</p>
+
+<h2 id="abertura">Abertura</h2>
+
+<div class="video">
+</div>
+
+<p class="button">
+  <a href="http://www.youtube.com/embed/I4T5h1VgjpU" target="_blank" rel="nofollow">Assistir no Youtube</a>
+</p>
+
+<h2 id="software-livre-e-inovação-tecnológica">Software Livre e Inovação Tecnológica</h2>
+
+<div class="video">
+</div>
+
+<p class="button">
+  <a href="http://www.youtube.com/embed/GOogjwuBdEw" target="_blank" rel="nofollow">Assistir no Youtube</a>
+</p>
+
+<h2 id="comunidade-ubuntu-br-e-ubuntu-13-04">Comunidade Ubuntu-BR e Ubuntu 13.04</h2>
+
+<div class="video">
+</div>
+
+<p class="button">
+  <a href="http://www.youtube.com/embed/_M8P0_w-Auo" target="_blank" rel="nofollow">Assistir no Youtube</a>
+</p>
+
+<h2 id="projeto-fedora">Projeto Fedora</h2>
+
+<div class="video">
+</div>
+
+<p class="button">
+  <a href="http://www.youtube.com/embed/E3o7WzzAL3k" target="_blank" rel="nofollow">Assistir no Youtube</a>
+</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/13.04">13.04</a>,   <a href="/tags/arduino">Arduino</a>,   <a href="/tags/chapec%C3%B3">Chapecó</a>,   <a href="/tags/fedora">Fedora</a>,   <a href="/tags/flisol">Flisol</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/ubuntu-touch">Ubuntu Touch</a>,   <a href="/tags/ubuntu-br">ubuntu-br</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 30 de Apr de 2013 | <a href="http://ubuntero.com.br/flisol-chapeco-2013/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fflisol-chapeco-2013%2f&url=http%3a%2f%2fubuntero.com.br%2fflisol-chapeco-2013%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fflisol-chapeco-2013%2f&t=Flisol%20Chapec%c3%b3%202013" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fflisol-chapeco-2013%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/" title="Resolvendo problema com bumblebee no Ubuntu 13.04">Resolvendo problema com bumblebee no Ubuntu 13.04</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				
+
+<p><strong>Artigo enviado por Flavio Brandão (<a href="http://twitter.com/airdumb" target="_blank" rel="nofollow">@airdumb</a>)</strong></p>
+
+<p>Se você está enfrentando problemas ao utilizar o <strong>bumblebee</strong> no <strong>Ubuntu 13.04</strong>, saiba que já existem duas soluções para este problema. A mais difícil por N motivos é fazer o <em>downgrade</em> do <strong>Xorg</strong>, porém, existe outro método que você pode aplicar. Na nova versão do Ubuntu, arquivo de configuração do drive vem sem a informação do BusID, logo, quando você tenta rodar o bumblebee, ele diz que a placa de vídeo não existe e da o erro abaixo:</p>
+
+<pre class="brush:shell">$ optirun -vv --debug glxspheres
+
+[ 2903.328320] [DEBUG]Reading file: /etc/bumblebee/bumblebee.conf
+[ 2903.329002] [INFO]Configured driver: nvidia
+[ 2903.329363] [DEBUG]optirun version 3.1 starting...
+[ 2903.329394] [DEBUG]Active configuration:
+[ 2903.329403] [DEBUG] bumblebeed config file: /etc/bumblebee/bumblebee.conf
+[ 2903.329413] [DEBUG] X display: :8
+[ 2903.329422] [DEBUG] LD_LIBRARY_PATH: /usr/lib/nvidia-304-updates:/usr/lib32/nvidia-304-updates
+[ 2903.329431] [DEBUG] Socket path: /var/run/bumblebee.socket
+[ 2903.329440] [DEBUG] Accel/display bridge: auto
+[ 2903.329449] [DEBUG] VGL Compression: proxy
+[ 2903.329500] [DEBUG]Using auto-detected bridge virtualgl
+[ 2903.826866] [INFO]Response: No - error: [XORG] (EE) No devices detected.
+
+[ 2903.826922] [ERROR]Cannot access secondary GPU - error: [XORG] (EE) No devices detected.
+
+[ 2903.826927] [DEBUG]Socket closed.
+[ 2903.826943] [ERROR]Aborting because fallback start is disabled.
+[ 2903.826949] [DEBUG]Killing all remaining processes.</pre>
+
+<h2 id="solução">Solução</h2>
+
+<p>Edite o arquivo <code>xorg.conf.nvidia</code> para inserir o parâmetro <code>PCI:01:00:0</code></p>
+
+<pre class="brush:shell">sudo gedit  /etc/bumblebee/xorg.conf.nvidia</pre>
+
+<pre class="brush:plain"># xorg.conf.nvidia
+Section "Device"
+    Identifier "Device1"
+    # other options...
+EndSection
+
+# xorg.conf.d/busid.conf
+# autogenerated - do not edit, edit xorg.conf.nvidia or xorg.conf.nouveau instead
+Section "Device"
+    Identifier "Device1"
+    BusID "PCI:01:00:0"
+EndSection</pre>
+
+<p>Em alguns casos, o BusID vem como &#8220;PCI:02:00:0&#8221;, troque o 2 para 1</p>
+
+<p>Basta rodar o optirun agora =)</p>
+
+<p><strong>Fonte: <a href="https://github.com/Bumblebee-Project/Bumblebee/issues/367" target="_blank" rel="nofollow">Github</a></strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/13.04">13.04</a>,   <a href="/tags/bumblebee">bumblebee</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/nvidia">nvidia</a>,   <a href="/tags/raring">raring</a>,   <a href="/tags/ringtail">ringtail</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 26 de Apr de 2013 | <a href="http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-com-bumblebee-no-ubuntu-13-04%2f&url=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-com-bumblebee-no-ubuntu-13-04%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-com-bumblebee-no-ubuntu-13-04%2f&t=Resolvendo%20problema%20com%20bumblebee%20no%20Ubuntu%2013.04" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fresolvendo-problema-com-bumblebee-no-ubuntu-13-04%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/" title="Lançado o Ubuntu 13.04 Raring Ringtail">Lançado o Ubuntu 13.04 Raring Ringtail</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				
+
+<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2013/04/raringringtail.jpg" rel="lightbox"><img class="size-medium wp-image-5237 aligncenter" title="Ubuntu 13.04 Raring Ringtail" alt="Ubuntu 13.04 Raring Ringtail" src="http://www.ubuntero.com.br/wp-content/uploads/2013/04/raringringtail-300x191.jpg" width="300" height="191" /></a></p>
+
+<p>A melhor versão já lançada desde o lançamento do <strong>Unity</strong> está disponível.</p>
+
+<p>A principal mudança em relação a versão 12.10 está na performance que foi absurdamente melhorada. O suporte desta versão, por ser uma <em>interim</em>, é de 9 meses, diferente das outras versões <em>interim</em> que tinham suporte por 18 meses.</p>
+
+<p>Para fazer o <strong>download do Ubuntu 13.04</strong> use os links abaixo</p>
+
+<h2 id="download-direto">Download direto</h2>
+
+<ul>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-desktop-i386.iso">Ubuntu Desktop 32 bits</a></li>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-desktop-amd64.iso">Ubuntu Desktop 64 bits</a></li>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-server-i386.iso">Ubuntu Server 32 bits</a></li>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso">Ubuntu Server 64 bits</a></li>
+</ul>
+
+<h2 id="torrent">Torrent</h2>
+
+<ul>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-desktop-i386.iso.torrent">Ubuntu Desktop 32 bits</a></li>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-desktop-amd64.iso.torrent">Ubuntu Desktop 64 bits</a></li>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-server-i386.iso.torrent">Ubuntu Server 32 bits</a></li>
+<li><a href="http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso.torrent">Ubuntu Server 64 bits</a></li>
+</ul>
+
+<p>Se quiser dar uma olhada em todas as imagens lançadas, entre no endereço <a href="http://releases.ubuntu.com/raring/" target="_blank" rel="nofollow">releases.ubuntu.com/raring/</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/13.04">13.04</a>,   <a href="/tags/lan%C3%A7amento">Lançamento</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/raring">raring</a>,   <a href="/tags/raring-ringtail">raring ringtail</a>,   <a href="/tags/ringtail">ringtail</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/unity">Unity</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 25 de Apr de 2013 | <a href="http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-13-04-raring-ringtail%2f&url=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-13-04-raring-ringtail%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-13-04-raring-ringtail%2f&t=Lan%c3%a7ado%20o%20Ubuntu%2013.04%20Raring%20Ringtail" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-13-04-raring-ringtail%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/" title="Crie um pendrive bootável com o sistema operacional Windows">Crie um pendrive bootável com o sistema operacional Windows</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Eu sei que muitos podem estar estranhando o título deste artigo, mas nada foi digitado errado. No mundo do software livre tem espaço para todos, até para técnicos que precisam instalar outros sistemas operacionais que não são software livre. Estes profissionais, muitas vezes, instalam software pirata, mas deixaremos isso para a consciência de cada um, nesse artigo vamos levar em conta que a cópia do sistema operacional é legal.</p>
+
+<p>Utilizar CD/DVD já está fora de moda, é muito mais fácil ter um pendrive por perto na hora do aperto e você pode precisar instalar aquele outro sistema operacional em computadores que não tem drive de CD/DVD e seguindo a regra, com software livre pode-se fazer tudo, até <strong>gerar um pendrive com um sistema operacional</strong> que não é software livre.</p>
+
+<p>Para esta tarefa vamos utilizar o <strong>WinUSB</strong> e para instalar siga estes passos (lembrando que não nos responsabilizamos pelo conteúdo do PPA):</p>
+
+<p>Abra o terminal pressionando <code>Ctrl+Alt+T</code> e execute os seguintes comandos (só de sacanagem não vou mostrar como adicionar o PPA em modo gráfico):</p>
+
+<pre class="brush:shell">sudo add-apt-repository ppa:colingille/freshlight -y
+sudo apt-get update 
+sudo apt-get install winusb</pre>
+
+<p>Agora pressione e solte a tecla <code>Super</code> (também conhecida como tecla <code>Windows</code>) e digite <code>winusb</code> e pressione <code>Enter</code>.</p>
+
+<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2013/04/winusb-1.png" rel="lightbox"><img class="size-thumbnail wp-image-5216 aligncenter" title="WinUSB - Screen 1" alt="WinUSB - Screen 1" src="http://www.ubuntero.com.br/wp-content/uploads/2013/04/winusb-1-113x150.png" width="113" height="150" /></a></p>
+
+<p>Este é o programa que lhe permitirá <strong>criar pendrives &#8220;bootáveis&#8221; diretamente do seu Ubuntu</strong>. Para usar é simples. Escolha se quer utilizar uma imagem ou um CD/DVD com o Windows, no caso da imagem é necessário indicar onde está a imagem e no caso de ser um CD/DVD, você deve especificar qual é o dispositivo onde o CD/DVD está inserido. Em <em>target device</em> você escolhe o pendrive que será inutilizado, digo, agraciado com o instalador do Windows.</p>
+
+<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2013/04/winusb-2.png" rel="lightbox"><img class="size-thumbnail wp-image-5217 aligncenter" title="WinUSB - Screen 2" alt="WinUSB - Screen 2" src="http://www.ubuntero.com.br/wp-content/uploads/2013/04/winusb-2-113x150.png" width="113" height="150" /></a></p>
+
+<p>Esta dica foi retirada do site <a href="http://sejalivre.org/winusb-ferramenta-para-criar-pendrive-bootavel-do-windows-no-ubuntu/" target="_blank" rel="nofollow">SejaLivre</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/linux">Linux</a>,   <a href="/tags/ppa">PPA</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/windows">Windows</a>,   <a href="/tags/winusb">WinUSB</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 23 de Apr de 2013 | <a href="http://ubuntero.com.br/crie-um-pendrive-bootavel-com-o-sistema-operacional-windows/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fcrie-um-pendrive-bootavel-com-o-sistema-operacional-windows%2f&url=http%3a%2f%2fubuntero.com.br%2fcrie-um-pendrive-bootavel-com-o-sistema-operacional-windows%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fcrie-um-pendrive-bootavel-com-o-sistema-operacional-windows%2f&t=Crie%20um%20pendrive%20boot%c3%a1vel%20com%20o%20sistema%20operacional%20Windows" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fcrie-um-pendrive-bootavel-com-o-sistema-operacional-windows%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/41/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">42</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/43/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

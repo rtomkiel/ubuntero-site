@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/c/</link>
+    <description>Recent content in C on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 13 Oct 2011 03:12:07 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R.I.P Dennis Ritchie</title>
+      <link>http://ubuntero.com.br/r-i-p-dennis-ritchie/</link>
+      <pubDate>Thu, 13 Oct 2011 03:12:07 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/r-i-p-dennis-ritchie/</guid>
+      <description>Dennis Ritchie, criador da linguagem C (desenvolvida inicialmente por ele entre 1969 e 1973) e co-criador do Unix (juntamente com Ken Thompson) faleceu no último final de semana, após uma longa enfermidade. Ritchie aposentou-se em 2007 como pesquisador na Lucent (então proprietária dos antigos Bell Labs, onde nasceu o Unix), mas permanecia atuando como consultor.
+Nós usuários de um clone do Unix devemos muito às suas ideias originais e ao esforço que fez para disseminar a linguagem C e o sistema operacional Unix.</description>
+    </item>
+    
+  </channel>
+</rss>

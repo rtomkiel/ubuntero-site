@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grand Fantasia on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/grand-fantasia/</link>
+    <description>Recent content in Grand Fantasia on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 06 Nov 2011 15:50:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/grand-fantasia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jogo GrandFantasia no Wine</title>
+      <link>http://ubuntero.com.br/jogo-grandfantasia-no-wine/</link>
+      <pubDate>Sun, 06 Nov 2011 15:50:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/jogo-grandfantasia-no-wine/</guid>
+      <description>Para quem gosta de jogos, hoje teremos uma ótima dica. Um jogo MMORPG em português e gratuito. O nome deste jogo é Grand Fantasia, mas ele não tem versão para Linux. O que fazemos então? Utilizaremos o programa Wine para instalar e rodar o jogo no Ubuntu.
+A primeira coisa que temos a fazer é adicionar o repositório do wine para instalarmos a última versão. Para isso abra o terminal pressionando Ctrl+Alt+t e digite o seguinte comando:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 06 Dec 2013 16:14:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kdenlive: Movimento de imagens com efeito sonoro</title>
+      <link>http://ubuntero.com.br/kdenlive-movimento-de-imagens-com-efeito-sonoro/</link>
+      <pubDate>Fri, 06 Dec 2013 16:14:08 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kdenlive-movimento-de-imagens-com-efeito-sonoro/</guid>
+      <description>Este é o segundo vídeo da série de tutorias de edição de vídeo no Linux desenvolvida pelo canal LinuxVlog e divulgada aqui no Ubuntero. Neste vídeo você verá como dar movimento a imagens estáticas e como são adicionados efeitos sonoros.
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>Kdenlive: Efeito simples com movimento e opacidade</title>
+      <link>http://ubuntero.com.br/kdenlive-efeito-simples-com-movimento-e-opacidade/</link>
+      <pubDate>Fri, 09 Aug 2013 12:28:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kdenlive-efeito-simples-com-movimento-e-opacidade/</guid>
+      <description>Começamos uma nova parceria e agora os vídeos do canal do youtube LinuxVlog também serão exibidos aqui no Ubuntero.
+O tão esperado tutorial de Kdenlive chegou, bem enxuto, mas quem assistir já vai conseguir fazer muita coisa legal. Como ficou bem curto e simples, decidi fazer mais nas próximas semanas, num formato mais screencast mesmo, só para mostrar os efeitos que faço nos vídeos.
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>Videocast #37 – Primeiros passos no Ubuntu – Vídeo 5</title>
+      <link>http://ubuntero.com.br/videocast-37-primeiros-passos-no-ubuntu-video-5/</link>
+      <pubDate>Mon, 08 Jul 2013 03:28:36 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-37-primeiros-passos-no-ubuntu-video-5/</guid>
+      <description>Depois deu uma grande pausa, estamos de novo ao Videocast e para mais um episódio do nosso quadro &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;. Neste vídeo mostro como usar as funções da Central de programas do Ubuntu, não só as funções básicas de instalar e desinstalar programas, mas também algumas funções pouco conhecidas da maioria dos usuários.
+Se gostarem do vídeo, não esqueçam de curtir, e se não são inscritos no canal, não custa nada se inscrever também.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #36 – Primeiros passos no Ubuntu – Vídeo 4</title>
+      <link>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</link>
+      <pubDate>Mon, 03 Jun 2013 03:27:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-36-primeiros-passos-no-ubuntu-video-4/</guid>
+      <description>Depois de um final de semana de trabalho, do tipo que paga as contas e não no site, e 3 gravações do desktop, enfim está no ar o quarto vídeo da nossa série &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;.
+Neste vídeo apresento o Unity e tento botar na cabeça de todos que você não precisa saber o nome dos programas que quer abrir, precisa saber o que quer fazer. Acredito que agora ninguém tenha mais dúvida sobre como usar o sistema, ainda falta muita coisa para mostrar sobre o Ubuntu, nem mostrei a utilização do HUD neste vídeo, pretendo usar onde ele é realmente útil em um futuro vídeo.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #35 – Primeiros passos no Ubuntu – 3</title>
+      <link>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-3/</link>
+      <pubDate>Mon, 20 May 2013 12:50:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-3/</guid>
+      <description>Neste terceiro vídeo da séria &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;, mostramos como é a instalação do sistema em dual boot com o Windows 7. Não mostramos nenhuma configuração mais avançada para não confundir, apenas ajudar quem está começando. Futuramente mostraremos como é o processo de particionamento avançado, mas isso acontecerá quando estiverem mais bem ambientado ao sistema. No próximo vídeo mostraremos as principais &amp;#8220;peças&amp;#8221; do Unity, a interface gráfica padrão do Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #34 – Primeiros passos no Ubuntu – 2</title>
+      <link>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-2/</link>
+      <pubDate>Mon, 13 May 2013 11:10:26 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-2/</guid>
+      <description>Neste vídeo explico como funciona a configuração da BIOS para que seja possível fazer a inicialização do computador por um CD/DVD ou Pendrive. Como cada BIOS é diferente da outra e existem particularidades, neste vídeo mostro apenas uma BIOS e explico o que pode acontecer, cabe a você adaptar estes conhecimentos a sua BIOS.
+ Assistir no Youtube Outros vídeos  Videocast #32 &amp;#8211; Primeiros passos no Ubuntu  .</description>
+    </item>
+    
+    <item>
+      <title>Videocast #32 – Primeiros passos no Ubuntu</title>
+      <link>http://ubuntero.com.br/videocast-32-primeiros-passos-no-ubuntu/</link>
+      <pubDate>Mon, 22 Apr 2013 03:12:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-32-primeiros-passos-no-ubuntu/</guid>
+      <description>De volta aos nossos vídeos quase semanais, hoje voltamos as origens do site e começaremos a ensinar todos os passos para começar no mundo do Ubuntu Linux.
+Neste primeiro vídeo mostramos como é fácil obter o Ubuntu e gravar em um CD/DVD ou pendrive. Nos próximos vídeos mostraremos o processo de instalação e utilização do sistema.
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>Autenticação Squid com base em Tabelas MySql</title>
+      <link>http://ubuntero.com.br/autenticacao-squid-com-base-em-tabelas-mysql/</link>
+      <pubDate>Fri, 28 Mar 2008 00:16:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
+      <description>&lt;p&gt;Um assunto muito recorrente, para quem trabalha com administração de proxy&amp;#8217;s, é a necessidade de se fazer autenticação dos usuários com base em uma determinada lista de acesso. Geralmente, é questão apenas de fazer a configuração correta do Squid, definir alguns arquivos texto com as informações e pronto. Porém, no caso de empresas grandes, é desejável que esta informação seja reutilizada a partir de alguma já existente, geralmente em forma de dados em tabelas de um banco de dados qualquer.&lt;/p&gt;
+
+&lt;p&gt;Utilizo em algumas empresas um script bem simples, que eu mesmo desenvolvi, para esta tarefa. Qual não foi minha surpresa, ao saber que fazer isto é uma dúvida bastante buscada na Internet por outras pessoas e, quase sempre, não resolvida. A maioria utiliza alguns projetos complicados, outros já recomendam partir para alguma solução mais rebuscada (e, talvez, até mais correta) como LDAP e outros.&lt;/p&gt;
+
+&lt;p&gt;Porém, basta um script e uma ou outra configuração e a questão está resolvida. Decidi então compartilhar, aqui, o script que instalo nas máquinas que administro. Seu uso é bem simples. Na verdade, se você pegar e simplesmente seguir os passos aqui descritos, verás que é algo trivial. Porém, para manter a qualidade dos artigos aqui publicados, este serve também como um tutorial para que você entenda um pouco mais do funcionamento dos mecanismos de autenticação do Squid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sobre este tutorial:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Baseado na distribuição Ubuntu 7.10 Server&lt;/li&gt;
+&lt;li&gt;Dificuldade de execução: Fácil&lt;/li&gt;
+&lt;li&gt;Nivel de conhecimento: Avançado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Pré-requisitos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conhecimentos básicos sobre o proxy Squid&lt;/li&gt;
+&lt;li&gt;Conhecimentos básicos sobre o banco de dados MySql&lt;/li&gt;
+&lt;li&gt;Entendimento prévio do que se pretende fazer&lt;/li&gt;
+&lt;li&gt;Servidor Linux já instalado e configurado&lt;/li&gt;
+&lt;li&gt;Banco de dados MySql e Squid já instalados e configurados&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

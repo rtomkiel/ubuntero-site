@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/php/</link>
+    <description>Recent content in Php on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 08 Nov 2012 16:00:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux Magazine Community Edition 96</title>
+      <link>http://ubuntero.com.br/linux-magazine-community-edition-96/</link>
+      <pubDate>Thu, 08 Nov 2012 16:00:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/linux-magazine-community-edition-96/</guid>
+      <description>Já está no ar a Linux Magazine 96 Community Edition.
+Confira nesta edição as matérias selecionadas da Linux Magazine de novembro (Big Data) e aprenda a compilar um emulador para o vindouro Firefox OS, e começar a testar seus aplicativos web no novo sistema operacional móvel da Mozilla. Saiba mais sobre os recursos e novidades do Android 4.2 &amp;#8220;Jelly Bean&amp;#8221;, a nova versão do sistema operacional móvel do Google. Aprenda ainda como você pode usar scripts PHP para incrementar sua linha de comando.</description>
+    </item>
+    
+    <item>
+      <title>Aberta chamada de trabalhos para a PHP Conference Brasil 2012</title>
+      <link>http://ubuntero.com.br/aberta-chamada-de-trabalhos-para-a-php-conference-brasil-2012/</link>
+      <pubDate>Wed, 11 Jul 2012 16:38:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/aberta-chamada-de-trabalhos-para-a-php-conference-brasil-2012/</guid>
+      <description>Está aberta a Chamada de Trabalhos para a PHP Conference Brasil 2012.
+Propostas serão aceitas até o dia 3 de Agosto, para os seguintes macro-temas, escolhidos através de uma enquete com a comunidade:
+ Frameworks &amp;amp; Ferramentas APIs &amp;amp; Webservices Desafios e Tendências Estudos de Caso e Casos de Sucesso Segurança Mercado de Trabalho  Envie sua proposta de palestra e boa sorte!
+Mais detalhes no site PHPConference</description>
+    </item>
+    
+    <item>
+      <title>Instalando o CMS Joomla no Ubuntu</title>
+      <link>http://ubuntero.com.br/instalando-o-cms-joomla-no-ubuntu/</link>
+      <pubDate>Wed, 26 Jan 2011 10:15:52 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/instalando-o-cms-joomla-no-ubuntu/</guid>
+      <description>Para iniciar, gostaria de responder a uma simples e importante dúvida que insiste em aparecer quando ouvimos o termo CMS. Afinal, o que é um CMS? Ele significa Content Management System, ou Sistema Gerenciador de Conteúdo. Mais especificamente, ele serve pra ajudar você a criar um website. Simples não? Tudo se torna ainda mais simples, quando o CMS é o Joomla. O sistema Joomla é um dos mais completos, por possuir muitos recursos.</description>
+    </item>
+    
+  </channel>
+</rss>

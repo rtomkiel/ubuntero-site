@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>End of Life on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/end-of-life/</link>
+    <description>Recent content in End of Life on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 26 Jun 2014 12:52:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/end-of-life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 13.10 (Saucy Salamander) chega ao fim de sua vida</title>
+      <link>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-chega-ao-fim-de-sua-vida/</link>
+      <pubDate>Thu, 26 Jun 2014 12:52:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-13-10-saucy-salamander-chega-ao-fim-de-sua-vida/</guid>
+      <description>Ainda temos um tempinho, mas é bom já avisar para que você tenha tempo de fazer seu backup e agendar a atualização. No dia 17 de julho, a versão 13.10 do Ubuntu encerrará suas atualizações. Isto significa que os usuários não terão mais atualizações, nem de segurança, nem comuns a partir deste dia.
+A única recomendação que temos para quem ainda utiliza o Ubuntu 13.10 é atualizar o mais breve possível.</description>
+    </item>
+    
+  </channel>
+</rss>

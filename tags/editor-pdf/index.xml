@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editor Pdf on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/editor-pdf/</link>
+    <description>Recent content in Editor Pdf on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 13 Jun 2013 13:27:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/editor-pdf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Editor PDF Master PDF Editor</title>
+      <link>http://ubuntero.com.br/editor-pdf-master-pdf-editor/</link>
+      <pubDate>Thu, 13 Jun 2013 13:27:31 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/editor-pdf-master-pdf-editor/</guid>
+      <description>Sei que o título ficou redundante, mas o que fazer se o nome do programa traz junto a sua função? O Master PDF Editor é um editor de código proprietário, mas está disponível na Central de programas do Ubuntu. Sua função é visualizar e editar arquivos PDF, além de possibilitar fazer marcações.
+Para instalar é bem simples, mas tem um passo que pode assustar. Abra a Central de programas do Ubuntu e no campo de busca procure por &amp;#8220;Master PDF Editor&amp;#8221;, sem as aspas.</description>
+    </item>
+    
+  </channel>
+</rss>

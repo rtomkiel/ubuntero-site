@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Civil on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/marco-civil/</link>
+    <description>Recent content in Marco Civil on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 26 Jun 2014 02:14:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/marco-civil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #36 – Mozilla TV e Patentes da Microsoft no Android</title>
+      <link>http://ubuntero.com.br/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</link>
+      <pubDate>Thu, 26 Jun 2014 02:14:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-36-mozilla-tv-e-patentes-da-microsoft-no-android/</guid>
+      <description>Até parece mentira, mas estamos conseguindo manter a periodicidade dos episódios. Neste episódio falamos sobre a Mozilla TV, Android, patentes da Microsoft no Android, GTK2 e GTK3 entre outros assuntos.
+Gostaríamos de lembrar a todos que devem atualizar seus feeds do Opencast pois este mudará de endereço e passará a ser hospedado no site tecnologiaaberta.com.br. Por enquanto, os episódios estão sendo publicados em paralelo, mas em breve serão publicados exclusivamente no site tecnologiaaberta.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #56 – Marco Civil</title>
+      <link>http://ubuntero.com.br/videocast-56-marco-civil/</link>
+      <pubDate>Mon, 31 Mar 2014 13:06:48 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-56-marco-civil/</guid>
+      <description>Hoje o assunto não é ligado diretamente a software livre, mas é importante para todos os brasileiros e eu não poderia deixar de falar um pouco sobre ele. Ao falar sobre o Marco Civil, gostaria que todos lessem antes de tecer qualquer comentário abaixo deste vídeo, já temos uma internet cheia de comentários baseados no &amp;#8220;eu acho que&amp;#8221; e &amp;#8220;eu acredito que&amp;#8221;. Tirem suas próprias conclusões e exponham nos comentários.</description>
+    </item>
+    
+  </channel>
+</rss>

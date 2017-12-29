@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systray on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/systray/</link>
+    <description>Recent content in Systray on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 May 2011 12:00:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/systray/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Re-habilitar os ícones na bandeja do sistema</title>
+      <link>http://ubuntero.com.br/re-habilitar-os-icones-na-bandeja-do-sistema/</link>
+      <pubDate>Mon, 02 May 2011 12:00:18 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/re-habilitar-os-icones-na-bandeja-do-sistema/</guid>
+      <description>Instalou o Ubuntu 11.04 e viu que algumas aplicações não aparecem mais na bandeja? Isto acontece porque o Ubuntu 11.04 utiliza uma &amp;#8220;lista branca&amp;#8221; dos aplicativos que podem ocupar esta área para evitar que a barra superior fique poluída com muitas aplicações.
+Esta função, quando bem utilizada, é útil e pode ser restabelecida com os seguintes comandos no terminal:
+Restabelecer para todos os programas gsettings set com.canonical.Unity.Panel systray-whitelist &#34;[&#39;all&#39;]&#34; Restabelecer aplicações específicas gsettings set com.</description>
+    </item>
+    
+  </channel>
+</rss>

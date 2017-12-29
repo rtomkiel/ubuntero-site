@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dicas on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/dicas/</link>
+    <description>Recent content in Dicas on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 12 Dec 2012 10:10:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/dicas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ocultar Acesso remoto na tela de login do Ubuntu</title>
+      <link>http://ubuntero.com.br/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</link>
+      <pubDate>Wed, 12 Dec 2012 10:10:21 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ocultar-acesso-remoto-na-tela-de-login-do-ubuntu/</guid>
+      <description>A versão 12.10 do Ubuntu veio com uma nova funcionalidade chamada &amp;#8220;Acesso remoto&amp;#8221; na tela de &amp;#8220;boas-vindas&amp;#8221; (tela de login), conforme pode ser vista na imagem abaixo:clique para ampliar
+Através dessa opção é possível acessar um servidor remoto sem a necessidade de logar primeiro na máquina.
+O &amp;#8220;Acesso remoto&amp;#8221; na tela de login está habilitado por padrão no Ubuntu 12.10, e como a grande maioria dos usuários não utiliza essa funcionalidade, existe a possibilidade de ocultar essa opção na tela de login.</description>
+    </item>
+    
+    <item>
+      <title>Visualizando arquivos .pdf no Mozilla Firefox</title>
+      <link>http://ubuntero.com.br/visualizando-arquivos-pdf-no-mozilla-firefox/</link>
+      <pubDate>Mon, 01 Oct 2012 11:00:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/visualizando-arquivos-pdf-no-mozilla-firefox/</guid>
+      <description>No Ubuntero on Air 1 comentamos sobre a possibilidade de visualizar/abrir arquivos .pdf dentro do navegador Mozilla Firefox, uma funcionalidade que já existe no Google Chrome e que também será nativa nas próximas versões do Firefox.
+Para quem quiser habilitar a opção de abrir arquivos .pdf no Firefox, siga as instruções a seguir:
+1) Abra o Firefox e na barra de url digite: about:config e depois aperte ENTER.(clique para ampliar)</description>
+    </item>
+    
+    <item>
+      <title>Atualizando uma imagem .iso do Ubuntu com zsync</title>
+      <link>http://ubuntero.com.br/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</link>
+      <pubDate>Sat, 04 Aug 2012 20:46:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/atualizando-uma-imagem-iso-do-ubuntu-com-zsync/</guid>
+      <description>Essa dica é para quem costuma baixar com frequência as imagens .iso do Live CD/DVD do Ubuntu e também para economizar no consumo de tráfego de dados de sua internet.
+Usando o zsync é possível fazer uma atualização da imagem .iso que você já baixou, aonde será feita uma comparação entre as imagens e irá baixar somente as diferenças.
+Exemplo: você tem a imagem .iso de uma versão Alpha 2 e quer baixar a Alpha 3, usando o zsync será feita uma leitura da imagem que você possui e comparar com a nova imagem a ser baixada, após irá iniciar o download de somente as diferenças entre os arquivos.</description>
+    </item>
+    
+    <item>
+      <title>Estrutura de diretórios Linux</title>
+      <link>http://ubuntero.com.br/estrutura-de-diretorios-linux/</link>
+      <pubDate>Sat, 26 Nov 2011 12:23:52 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/estrutura-de-diretorios-linux/</guid>
+      <description>Você já se perguntou por que alguns programas estão localizados em /bin, ou /sbin, ou /usr/bin, ou /usr/sbin?
+Por exemplo, os comandos que estão localizados em /usr/bin. Por que não /bin ou /sbin ou /usr/sbin? Qual é a diferença entre todos esses diretórios?
+Neste artigo, vamos rever as estruturas do sistema de arquivos Linux e compreender o significado de cada um dos diretórios de alto nível.
+  /bin  Executáveis binários     /sbin  Sistema binário     /etc  Arquivos de Configuração     /dev  Arquivos de dispositivos     /proc  Informação de processo     /var  Arquivos variáveis     /tmp  Arquivos temporários     /usr  Programas de usuário     /home  Diretório pessoal     /boot  Arquivos de inicialização     /lib  Bibliotecas do sistema     /opt  Aplicações opcionais     /mnt  Diretório de Montagem     /media  Dispositivos de média removíveis     /srv  Serviço de dados    &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Angry, Drunken Dwarves [Tetris para Ubuntu]</title>
+      <link>http://ubuntero.com.br/angry-drunken-dwarves-tetris-para-ubuntu/</link>
+      <pubDate>Mon, 27 Jun 2011 11:54:40 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/angry-drunken-dwarves-tetris-para-ubuntu/</guid>
+      <description>&amp;nbsp;
+Sobre o jogo Angry, Drunken Dwarves (ADD), é um jogo &amp;#8220;baseado&amp;#8221; no estilo Tetris, mas com uma estratégia um tanto diferente. O objetivo do jogo é a construção de grandes pedras, combinando-se as cores, então quando agrupados 4 bloquinhos da mesma cor, eles são quebrados, transformando-se em um bloco maior de mesma cor. O jogo tem algumas funções diferentes que é perceptível durante os desafios. A primeira pessoa cujo campo encher, perde.</description>
+    </item>
+    
+    <item>
+      <title>Extraindo imagens de documentos PDF no Ubuntu</title>
+      <link>http://ubuntero.com.br/extraindo-imagens-de-documentos-pdf-no-ubuntu/</link>
+      <pubDate>Sun, 27 Feb 2011 17:05:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/extraindo-imagens-de-documentos-pdf-no-ubuntu/</guid>
+      <description>Estava fazendo algumas tarefas da escola, quando precisei extrair uma imagem de um documento .pdf e não conseguia de forma alguma. Antes de sair por ai pesquisando no Google, fui lá na Central de Programas do Ubuntu e pesquisei por &amp;#8220;PDF&amp;#8221; fui lendo e lendo, testando alguns programas, até encontrar o PDF Mod. Sua função não se resume em apenas extrair imagens como eu queria. O PDF Mod é uma aplicação simples de código aberto, para modificar documentos do tipo pdf.</description>
+    </item>
+    
+  </channel>
+</rss>

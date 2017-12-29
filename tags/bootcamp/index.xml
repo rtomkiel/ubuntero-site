@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootcamp on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/bootcamp/</link>
+    <description>Recent content in Bootcamp on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 25 Feb 2012 10:00:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/bootcamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I BootCamp OeSC-Livre Xanxerê: Inscrições abertas!</title>
+      <link>http://ubuntero.com.br/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/</link>
+      <pubDate>Sat, 25 Feb 2012 10:00:12 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/i-bootcamp-oesc-livre-xanxere-inscricoes-abertas/</guid>
+      <description>O Grupo de Usuários de Software Livre do Oeste Catarinense, em parceria com a Unoesc Xanxerê, tem o prazer de convidar a todos os interessados para o evento I BootCamp OeSC-Livre Xanxerê, a se realizar no Auditório da Unoesc no sábado dia 10 de Março.
+A grade com palestrantes de várias cidades da região já está disponível, e as inscrições estão abertas. Se você é da região, participe! Ajude a divulgar e reforçar a cultura do Software Livre no Oeste Catarinense, participando do OeSC-Livre e prestigiando os nossos eventos!</description>
+    </item>
+    
+  </channel>
+</rss>

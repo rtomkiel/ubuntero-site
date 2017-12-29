@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firefox Os on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/firefox-os/</link>
+    <description>Recent content in Firefox Os on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 20 Jul 2013 01:39:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/firefox-os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #25 – FISL 14, Fedora 19 e Firefox OS</title>
+      <link>http://ubuntero.com.br/opencast-25-fisl-14-fedora-19-e-firefox-os/</link>
+      <pubDate>Sat, 20 Jul 2013 01:39:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-25-fisl-14-fedora-19-e-firefox-os/</guid>
+      <description>Voltamos a nos reunir para gravar mais um episódio do Opencast, desta vez a publicação atrasou devido a muito trabalho e atraso na data de gravação causado por falhas no próprio hangout.
+Neste episódio Ivan, Og Maciel, Aprígio Simões, Diego e Rudinei tentamos comentar alguns acontecimentos importantes que foram notícia no mundo do software livre. Entre eles estão o FISL 14, onde o Diego e o Rudinei estavam presentes, Fedora 19 que pode explodir a cabeça de alguns e o Firefox OS.</description>
+    </item>
+    
+    <item>
+      <title>Linux Magazine Community Edition 96</title>
+      <link>http://ubuntero.com.br/linux-magazine-community-edition-96/</link>
+      <pubDate>Thu, 08 Nov 2012 16:00:39 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/linux-magazine-community-edition-96/</guid>
+      <description>Já está no ar a Linux Magazine 96 Community Edition.
+Confira nesta edição as matérias selecionadas da Linux Magazine de novembro (Big Data) e aprenda a compilar um emulador para o vindouro Firefox OS, e começar a testar seus aplicativos web no novo sistema operacional móvel da Mozilla. Saiba mais sobre os recursos e novidades do Android 4.2 &amp;#8220;Jelly Bean&amp;#8221;, a nova versão do sistema operacional móvel do Google. Aprenda ainda como você pode usar scripts PHP para incrementar sua linha de comando.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #17 – Notícias</title>
+      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
+Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
+    </item>
+    
+  </channel>
+</rss>

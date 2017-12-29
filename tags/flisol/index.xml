@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flisol on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/flisol/</link>
+    <description>Recent content in Flisol on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 May 2013 03:05:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/flisol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #33 – Ultrabook Inspiron 14z</title>
+      <link>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</link>
+      <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</guid>
+      <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
+Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
+    </item>
+    
+    <item>
+      <title>Flisol Chapecó 2013</title>
+      <link>http://ubuntero.com.br/flisol-chapeco-2013/</link>
+      <pubDate>Tue, 30 Apr 2013 12:25:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/flisol-chapeco-2013/</guid>
+      <description>No dia 27 de abril aconteceu o Flisol 2013 por toda a América Latina e o local mais próximo da minha humilde residência foi Chapecó &amp;#8211; SC, mas este não foi o único motivo pelo qual estive no evento.
+Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela vakinha que ainda está em andamento.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #20 – Servidores Linux</title>
+      <link>http://ubuntero.com.br/opencast-20-servidores-linux/</link>
+      <pubDate>Fri, 05 Apr 2013 02:50:46 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-20-servidores-linux/</guid>
+      <description>Está atrasado mas o importante é que está no ar mais um episódio do Opencast. Não liguem para a minha voz(Ivan), eu estava no auge da gripe no dia da gravação. Neste episódio recebemos a visita do Tiago do site ubuntu-br-sc e do Aprígio Simões. Vocês vão notar a ausência do Rudinei, que foi atingido por uma falha massiva da OI devido ao rompimento de fibra ótica em três pontos do sul do país.</description>
+    </item>
+    
+    <item>
+      <title>Participe do Flisol 2013</title>
+      <link>http://ubuntero.com.br/participe-do-flisol-2013/</link>
+      <pubDate>Wed, 27 Mar 2013 18:10:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/participe-do-flisol-2013/</guid>
+      <description>O Festival Latino-americano de Instalação de Software Livre (FLISoL) é o maior evento de divulgação de Software Livre da América Latina. Ele é realizado desde o ano de 2005, e desde 2008 sua realização acontece no 4º sábado de abril de cada ano.
+Seu principal objetivo é promover o uso de Software Livre, mostrando ao público em geral sua filosofia, abrangência, avanços e desenvolvimento.
+Para alcançar estes objetivos, diversas comunidades locais de Software Livre, organizam simultaneamente eventos em que se instala, de maneira gratuita e totalmente legal, Software Livre nos computadores dos participantes.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #8</title>
+      <link>http://ubuntero.com.br/opencast-8/</link>
+      <pubDate>Sat, 24 Mar 2012 18:57:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-8/</guid>
+      <description>Depois de muitas tentativas e parecer que o mundo estava conspirando contra a gravação do episódio #8 do Opencast, finalmente conseguimos finalizar a gravação e enfim fazer a publicação.
+Neste episódio apenas eu(Ivan) e Diego nos juntamos novamente e conversamos um pouco sobre o que aconteceu no mundo do software livre. Neste episódio você não ouvirá música de fundo durante o episódio, apenas na abertura. Isto é para que vocês possam votar melhor na enquete que está rolando no Facebook.</description>
+    </item>
+    
+    <item>
+      <title>FLISOL – Arapiraca</title>
+      <link>http://ubuntero.com.br/flisol-arapiraca/</link>
+      <pubDate>Wed, 06 Apr 2011 11:23:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/flisol-arapiraca/</guid>
+      <description>Este ano nós faremos o FLISOL no SENAC, na rua São Francisco. Na ocasião, serão apresentadas algumas palestras sobre Software Livre e Cultura Livre.
+Teremos o apoio da OFICINA LIVRE, que é Ubuntu Partner em Alagoas e está autorizada a ministrar os cursos oficiais Ubuntu no estado.
+Para quem não sabe ainda, FLISOL é o Festival Latinoamericano de Instalação de Software Livre. Isso significa que você pode levar seu computador lá e instalaremos gratuitamente softwares livres.</description>
+    </item>
+    
+    <item>
+      <title>Flisol!</title>
+      <link>http://ubuntero.com.br/flisol/</link>
+      <pubDate>Fri, 18 Mar 2011 11:00:04 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/flisol/</guid>
+      <description>Muitas pessoas estão contribuindo para a realização desta edição do FLISOL em Porto Alegre. Sempre há espaço para interessados em se juntar a este grupo.
+A edição deste ano, conta com a colaboração direta destas pessoas: Alexandre Rigotti, Camila Ayres, Felipe Groos, Felipe Santos, Gabriel Engel, Leandro Nunes, Luiz Guaraldo, Luiz Rauber, Miguel Grazziotin, Moisés Lima e Rodrigo Warzak.
+Responsável: Leandro Nunes
+O evento em 2011
+•Quando? 09 de Abril de 2011 &amp;#8211; entrada a partir das 13:00</description>
+    </item>
+    
+  </channel>
+</rss>

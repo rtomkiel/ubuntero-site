@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inicio on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/inicio/</link>
+    <description>Recent content in Inicio on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 26 Jun 2006 23:36:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/inicio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Começando</title>
+      <link>http://ubuntero.com.br/comecando/</link>
+      <pubDate>Mon, 26 Jun 2006 23:36:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comecando/</guid>
+      <description>Estou começando agora com este blog. Espero ter muito o que escrever.
+Aqui você vai encontrar pouca coisa sobre mim. Vou escrever mais sobre as coisas que faço no computador. Os assuntos mais normais serão relacionados com linux, mais especificamente sobre Ubuntu Linux.
+Daqui a pouco eu posto alguma coisa. Acho que vou começar com as minhas impressões sobre o Ubuntu 6.06. Também pretendo falar sobre a comunidade Ubuntu-br que está fazendo um grande trabalho na tradução de todas as versões do Ubuntu e vem mantendo um Wiki muito bom totalmente em português .</description>
+    </item>
+    
+  </channel>
+</rss>

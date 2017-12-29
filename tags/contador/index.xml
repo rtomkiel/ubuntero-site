@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contador on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/contador/</link>
+    <description>Recent content in Contador on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 29 Mar 2012 13:41:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/contador/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coloque o contador oficial para o lançamento do 12.04 em seu site</title>
+      <link>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</link>
+      <pubDate>Thu, 29 Mar 2012 13:41:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</guid>
+      <description>Está ansioso para o lançamento da 12.04? Acompanhe quanto tempo falta pra o lançamento adicionando um contador no seu site. Um concurso foi realizado para escolher o contador oficial para a próxima versão e os ganhadores foram estes que você está vendo abaixo:
+ Para usar eles insira os códigos respectivos abaixo(na ordem de exibição acima). Primeiro &amp;lt;a href=&#34;http://www.ubuntu.com/&#34;&amp;gt; &amp;lt;img src=&#34;http://www.ubuntu.com/countdown/banner1.png&#34; border=&#34;0&#34; width=&#34;180&#34; height=&#34;150&#34; alt=&#34;The next version of Ubuntu is coming soon&#34;</description>
+    </item>
+    
+    <item>
+      <title>Contadores para o Ubuntu 11.04</title>
+      <link>http://ubuntero.com.br/contadores-para-o-ubuntu-11-04/</link>
+      <pubDate>Mon, 11 Apr 2011 17:05:49 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/contadores-para-o-ubuntu-11-04/</guid>
+      <description>Estamos a poucos dias do lançamento do Ubuntu 11.04 e você já pode botar um contador para o grande dia do lançamento.
+Para esta versão temos três opções de contadores que poderão ser colocados em seu site conforme os códigos que estão logo abaixo do contador.
+Opção 1:
+
+&amp;lt;a href=&#34;http://www.ubuntu.com/&#34;&amp;gt; &amp;lt;img src=&#34;http://www.ubuntu.com/countdown/banner1.png&#34; border=&#34;0&#34; width=&#34;180&#34; height=&#34;150&#34; alt=&#34;The next version of Ubuntu is coming soon&#34;&amp;gt; &amp;lt;/a&amp;gt; Opção 2:
+
+&amp;lt;a href=&#34;http://www.ubuntu.com/&#34;&amp;gt; &amp;lt;img src=&#34;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>13.04 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/13.04/</link>
+    <description>Recent content in 13.04 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 01 May 2014 19:05:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/13.04/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fim da linha para o Ubuntu 12.10</title>
+      <link>http://ubuntero.com.br/fim-da-linha-para-o-ubuntu-12-10/</link>
+      <pubDate>Thu, 01 May 2014 19:05:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/fim-da-linha-para-o-ubuntu-12-10/</guid>
+      <description>Está na hora de quem ainda utiliza o Ubuntu 12.10 fazer a migração para uma versão mais nova do sistema. Como já tivemos o lançamento do Ubuntu 14.04 LTS, nem preciso dizer para qual eu recomendo a migração. A data limite das atualizações da versão 12.10 é o dia 16 de maio, tempo suficiente para você fazer o seu backup e proceder com os passos para se atualizar. O diferencial é que você terá que passar pela versão 13.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 13.10: Wallpapers, Firefox, correções gráficas e apps do Touch</title>
+      <link>http://ubuntero.com.br/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</link>
+      <pubDate>Tue, 03 Sep 2013 11:22:11 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-13-10-wallpapers-firefox-correcoes-graficas-e-apps-do-touch/</guid>
+      <description>Veja em vídeo, os wallpapers da nova versão do Ubuntu, correções na aparência de aplicativos GNOME 3, aplicativos do Ubuntu Touch rodado no Desktop, e o Firefox como navegador padrão do Ubuntu.
+ Assistir no Youtube Este vídeo é uma parceria entre o site Ubuntero e o LinuxVlog.</description>
+    </item>
+    
+    <item>
+      <title>Área de Trabalho mostrando arquivos da pasta pessoal</title>
+      <link>http://ubuntero.com.br/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</link>
+      <pubDate>Tue, 20 Aug 2013 14:32:11 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</guid>
+      <description>Ainda não encontrei o que gerou o problema, mas eu estava com minha área de trabalho mostrando os arquivos e pastas da pastas pessoal. Isto aconteceu após voltar o Ubuntu da versão 13.10 para a 13.04 mantendo a mesma partição home que também havia sido utilizada pelo Elementary OS(não estou dizendo que a culpa é do Elementary OS).
+Uma breve busca pelos arquivos de configuração do sistema e o problema foi resolvido.</description>
+    </item>
+    
+    <item>
+      <title>Atualizações do Ubuntu 13.04 em fases</title>
+      <link>http://ubuntero.com.br/atualizacoes-do-ubuntu-13-04-em-fases/</link>
+      <pubDate>Wed, 14 Aug 2013 14:08:06 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/atualizacoes-do-ubuntu-13-04-em-fases/</guid>
+      <description>Se você está usando o Ubuntu 13.04, já está utilizando o novo método de atualização do Ubuntu e nada precisa ser feito. Agora as atualizações não são disponibilizadas para todos os usuários &amp;#8220;imediatamente&amp;#8221;, mas em fases.
+Sempre que uma atualização sair, 10% dos usuários a receberão. Se dentro de 6 horas nenhum erro for reportado, mais 10% dos usuários receberão as atualizações e assim por diante até que todos recebam. Caso algum erro seja reportado, as atualizações serão abortadas até que o mesmo seja corrigido e o processo é retomado.</description>
+    </item>
+    
+    <item>
+      <title>Skype Call Recorder no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-13-04/</link>
+      <pubDate>Mon, 03 Jun 2013 16:27:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-call-recorder-no-ubuntu-13-04/</guid>
+      <description>Se você ainda usa o Skype Call Recorder para gravar as chamadas feitas ou recebidas no Skype, já deve ter percebido que o PPA que passamos aqui em outro artigo não está funcionando.
+O programa continua funcionando, inclusive na versão mais nova do Skype, mas é necessário fazer uma pequena alteração nos repositórios. Se você ainda não adicionou o PPA, adicione com o seguinte comando no terminal:
+sudo apt-add-repository ppa:dajhorn/skype-call-recorder Agora vá nas Configurações do sistema.</description>
+    </item>
+    
+    <item>
+      <title>Flisol Chapecó 2013</title>
+      <link>http://ubuntero.com.br/flisol-chapeco-2013/</link>
+      <pubDate>Tue, 30 Apr 2013 12:25:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/flisol-chapeco-2013/</guid>
+      <description>No dia 27 de abril aconteceu o Flisol 2013 por toda a América Latina e o local mais próximo da minha humilde residência foi Chapecó &amp;#8211; SC, mas este não foi o único motivo pelo qual estive no evento.
+Este ano palestrei juntamente com o Patrick Kaminski sobre a Comunidade Ubuntu-BR e o Ubuntu 13.04. Na parte da tarde tivemos o tradicional install fest onde algumas pessoas puderam ver e tocar o tão desejado Ubuntu Touch comprado com aquela vakinha que ainda está em andamento.</description>
+    </item>
+    
+    <item>
+      <title>Resolvendo problema com bumblebee no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</link>
+      <pubDate>Fri, 26 Apr 2013 13:01:31 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</guid>
+      <description>Artigo enviado por Flavio Brandão (@airdumb)
+Se você está enfrentando problemas ao utilizar o bumblebee no Ubuntu 13.04, saiba que já existem duas soluções para este problema. A mais difícil por N motivos é fazer o downgrade do Xorg, porém, existe outro método que você pode aplicar. Na nova versão do Ubuntu, arquivo de configuração do drive vem sem a informação do BusID, logo, quando você tenta rodar o bumblebee, ele diz que a placa de vídeo não existe e da o erro abaixo:</description>
+    </item>
+    
+    <item>
+      <title>Lançado o Ubuntu 13.04 Raring Ringtail</title>
+      <link>http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/</link>
+      <pubDate>Thu, 25 Apr 2013 12:18:17 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/</guid>
+      <description>A melhor versão já lançada desde o lançamento do Unity está disponível.
+A principal mudança em relação a versão 12.10 está na performance que foi absurdamente melhorada. O suporte desta versão, por ser uma interim, é de 9 meses, diferente das outras versões interim que tinham suporte por 18 meses.
+Para fazer o download do Ubuntu 13.04 use os links abaixo
+Download direto  Ubuntu Desktop 32 bits Ubuntu Desktop 64 bits Ubuntu Server 32 bits Ubuntu Server 64 bits  Torrent  Ubuntu Desktop 32 bits Ubuntu Desktop 64 bits Ubuntu Server 32 bits Ubuntu Server 64 bits  Se quiser dar uma olhada em todas as imagens lançadas, entre no endereço releases.</description>
+    </item>
+    
+    <item>
+      <title>Corrigindo problema ao instalar Chrome no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</link>
+      <pubDate>Mon, 15 Apr 2013 17:54:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/corrigindo-problema-ao-instalar-chrome-no-ubuntu-13-04/</guid>
+      <description>É público que não uso o Google Chrome como navegador, tenho meus motivos, mas hoje resolvi instalar para ver como ele estava e para minha surpresa não consegui instalar de primeira por problema de dependências. Este problema está ocorrendo no Ubuntu 13.04 que ainda está em versão Beta. Uma rápida pesquisa e a solução foi encontrada.
+Se você utiliza o Ubuntu 13.04 de 32 bits, baixe este arquivo:
+ libudev0 para 32bit  Se você utiliza o Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #29 – Ubuntu 13.04 Beta 1</title>
+      <link>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</link>
+      <pubDate>Mon, 18 Mar 2013 11:00:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</guid>
+      <description>É com um papelão do OpenSuse que começamos este VideoCast. Esta semana iria falar e mostrar um pouco do OpenSuse, mas ele resolveu que não queria funcionar comigo e me deixou na mão. Por isso este VideoCast dá uma rápida olhada em algumas novidades do Ubuntu 13.04 Beta 1 (na verdade único beta).
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>Skype no Ubuntu 13.04 64 bits</title>
+      <link>http://ubuntero.com.br/skype-no-ubuntu-13-04-64-bits/</link>
+      <pubDate>Fri, 15 Mar 2013 23:52:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-no-ubuntu-13-04-64-bits/</guid>
+      <description>Estes passos não são mais necessários, basta instalar e usar o skype. 
+Se você não aguenta esperar sair a versão final do Ubuntu 13.04 e já instalou no seu computador de produção e ainda por cima depende do Skype para alguma função, parece que entramos na mesma fria. Tudo funcionando após a instalação, velocidade legal, nem parece uma versão alpha, mas o último aplicativo que você instala e abre é o Skype e ele simplesmente não abre.</description>
+    </item>
+    
+    <item>
+      <title>Novo Atualizador de programas no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/novo-atualizador-de-programas-no-ubuntu-13-04/</link>
+      <pubDate>Fri, 25 Jan 2013 10:40:31 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/novo-atualizador-de-programas-no-ubuntu-13-04/</guid>
+      <description>Atualização fresquinha de hoje mostra nova interface do Atualizador de programas do Ubuntu 13.04 &amp;#8211; Raring Ringtail. Entre as mudanças o que mais chama a atenção, e eu gostei bastante, é a categorização das atualizações.
+O que dá para ver por enquanto, até que saiam mais atualizações e eu possa analisar melhor, é isto.
+E aí, gostaram desta atualização? Fiquem ligados que logo damos mais detalhes.</description>
+    </item>
+    
+  </channel>
+</rss>

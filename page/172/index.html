@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/beagle-search/" title="Beagle Search">Beagle Search</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Não quero deixar o blog parado mas como isso é inevitável neste final de semana vou &#8220;plagiar&#8221; um post do meu amigo <a title="Mundo Andre" href="http://mundoandre.blogspot.com/" target="_blank">Andre</a>.</p>
+
+<p>Hoje vou falar sobre o Beagle, aplicativo que permite fazer buscas em seu computador sem a necessidade de varrer todo o HD toda vez que se quer procurar alguma coisa.</p>
+
+<p>A idéia do Beagle é a mesma do Google Desktop. O Beagle indexa os arquivos, emails, histórico do navegador e tudo que você tem no computador que pode ser identificado por alguma palavra. Com esses índices prontos, não é necessário sair varrendo o HD toda vez que se quer procurar alguma coisa pois tudo já está pronto esperando por ser procurado, como em um banco de dados.</p>
+
+<p>A instalação padrão do Ubuntu não traz o Beagle instalado mas os pacotes estão disponíveis nos repositórios. Não vou passar comandos de shell para que você instale o Beagle. Já que inventaram o Synaptic, não custa nada abrir ele e clicar no botão de procurar e fazer a busca pelo pacote. Assim é muito mais simples e intuitivo.</p>
+
+<p>Para rodar o daemon de indexação do beagle, entre no terminal e digite como usuário nomal, não use o root.</p>
+
+<p>$ beagled</p>
+
+<p>O deamon irá gerar um log com o progresso da indexação em ~/.beagle/Log.</p>
+
+<p>Seguindo os passos que encontrei no site do Beagle, descobri algo que me surpreendeu. Ao executar o comando:</p>
+
+<p>$ beagled &#8211;fg &#8211;debug &#8211;replace</p>
+
+<p>As primeiras linhas de resultado me reportaram o seguinte:</p>
+
+<p>$ Debug: Starting Beagle Daemon (version 0.2.6)</p>
+
+<p>$ Debug: Running on Mono 1.1.13.6</p>
+
+<p>Traduzindo: o Beagle é feito em .Net. Mais precisamente em Mono.</p>
+
+<p>Isso acima foi só uma curiosidade. Voltando ao Beagle, agora você deve estar se perguntando como começar a indexação? A indexação começou no momento em que foi digitado o comando &#8220;beagled&#8221;. Por padrão, tudo será indexado em seu computador. Como você pode não gostar desta idéia, existe uma interface de indexação &#8220;beagle-settings&#8221; para que você posso escolher o que deve e não deve ser indexado.</p>
+
+<p>A indexação será feita aos poucos sem nenhuma interferência no que você estiver fazendo. Quando o processador estiver &#8220;vago&#8221; o beagle aproveita o tempo para fazer o seu trabalho. Existe a opção de forçar a indexação completa do seu computador(isso consome bastante recursos). Para forçar a indexação, depois de rodar o beagle, execute o seguinde comando no terminal:</p>
+
+<p>$ export BEAGLE_EXERCISE_THE_DOG=1</p>
+
+<p>Existe também a possibilidade de gerar índices estáticos. Estes índices podem ser feitos para dados que não são modificados com frequência como partições NTFS e FAT32. Não vou entrar em detalhes sobre isso.</p>
+
+<p>Depois desse monte de configuração que não deve ter sido interessante para muita gente(até parece que o blog é super visitado) , vamos utilizar de verdade o Beagle. Pelo menos no meu Ubuntu não foi criado nenhum atalho no menu para facilitar a inicialização do programa. Para iniciar o Beagle Search pressione Alt+F2 e digite o comando &#8220;beagle-search&#8221;. Pronto, agora você pode começar suas buscas com muito mais eficiência.</p>
+
+<p>Antes que eu me esqueça, existe um plugin do Beagle para o firefox que pode ser encontrado em <a title="Firefox Extension" href="http://beagle-project.org/Firefox_Extension" target="_blank"><a href="http://beagle-project.org/Firefox_Extension">http://beagle-project.org/Firefox_Extension</a></a>.</p>
+
+<p>Para quem não tinha o que escrever acho que já escrevi muito por hoje. Abaixo seguem as tradicionais screenshots, dessa vez do Beagle Search.</p>
+
+<p>&nbsp;</p>
+
+<div style="text-align: center;">
+  <a class="imagelink" title="Beagle Search" href="http://fuzzer.com.br/ubuntero/wp-content/uploads/2006/07/Desktop%20Search.png"><img id="image20" alt="Beagle Search" src="http://fuzzer.com.br/ubuntero/wp-content/uploads/2006/07/Desktop%20Search.thumbnail.png" /></a><a class="imagelink" title="Beagle Search 1" href="http://fuzzer.com.br/ubuntero/wp-content/uploads/2006/07/Desktop%20Search%201.png"><img id="image23" alt="Beagle Search 1" src="http://fuzzer.com.br/ubuntero/wp-content/uploads/2006/07/Desktop%20Search%201.thumbnail.png" /></a>
+</div>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/.net">.net</a>,   <a href="/tags/beagle">beagle</a>,   <a href="/tags/google-desktop">google desktop</a>,   <a href="/tags/indexar-arquivos">indexar arquivos</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/mono">mono</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 7 de Jul de 2006 | <a href="http://ubuntero.com.br/beagle-search/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fbeagle-search%2f&url=http%3a%2f%2fubuntero.com.br%2fbeagle-search%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fbeagle-search%2f&t=Beagle%20Search" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fbeagle-search%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/internet-explorer-no-linux/" title="Internet Explorer no Linux">Internet Explorer no Linux</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Acredito que muitos já tenham tentado instalar algum programa para Windows em seus computadores com o auxílio do Wine. Muitos dos programas mais simples funcionam sem nenhum problema, no entantanto, alguns pedem que outros recursos sejam instalandos anteriormente. A lista de recursos vai desde fontes utilizadas pelo windows, passando por dll&#8217;s de systema ou de terceiros, até alguns programas como o famoso, e cheio de falhas, Internet Explorer.</p>
+
+<p>Instalar e já sair usando o Internet Explorer no linux não é tão simples como parece. Isso é muito raro de acontecer, mas acontece. Eu tive muitas dificuldades para fazer isso acontecer. Se não me falha a memória, só consegui este feito duas vezes desde que tomei conhecimento de que isso era possível.</p>
+
+<p>Como é lindo o mundo do software livre. Um cidadão chamado Sérgio Lopes(Brasileiro com todo o orgulho) fez um script que instala e configura tudo o que for preciso para que 3 versões do IE funcionem perfeitamente em seu linux.</p>
+
+<p>Não vou postar o tutorial para baixar e rodar o script, até porque não fui eu quem fiz o tutorial nem o script. Se você se interessou em saber como baixar e instalar esse script, vá em <a title="ies4linux" href="http://www.tatanka.com.br/ies4linux/index-pt.html" target="_blank">www.tatanka.com.br/ies4linux/index-pt.html</a> e tenha tudo facilmente instalado.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/ie">IE</a>,   <a href="/tags/ies4linux">ies4linux</a>,   <a href="/tags/iesforlinux">iesforlinux</a>,   <a href="/tags/internet-explorer">internet explorer</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/s%C3%A9rgio-lopes">sérgio lopes</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/windows">Windows</a>,   <a href="/tags/wine">wine</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 5 de Jul de 2006 | <a href="http://ubuntero.com.br/internet-explorer-no-linux/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2finternet-explorer-no-linux%2f&url=http%3a%2f%2fubuntero.com.br%2finternet-explorer-no-linux%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2finternet-explorer-no-linux%2f&t=Internet%20Explorer%20no%20Linux" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2finternet-explorer-no-linux%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/nada-importante/" title="Nada importante">Nada importante</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Nenhuma novidade para postara hoje, então vou falar de coisas inúteis.</p>
+
+<p>Primeiro: pesso desculpa para quem tem paciência para acessar este blog. A navegação está muito lenta. Pode ficar tranquilo que o problema não é com a sua conexão, muito menos com a do servidor. O grande problema é que o servidor não é uma brastemp. Este servidor é um computador que não teria nenhuma função no mundo além de ocupar espaço. Para não deixar ele apenas ocupando espaço, um amigo resolveu me doar a máquina e eu então a transformei em um servidor.</p>
+
+<p>Segundo: Por incrível que pareça, meu Ubuntu travou. Foi quando eu navegava no firefox com algumas abas abertas e uma destas abas tinha que ter um flash aberto. Instalei os plugins para o firefox apartir do &#8220;Automatix&#8221; e pelo jeito não deu muito certo. Os flashs não estão sendo executados de maneira correta, não há sincronismo entre a animação e o som. Durante a semana eu tento ver este problema e reporto qualquer solução que eu venha a encontrar.</p>
+
+<p>Terceiro: o bot de indexação do google já andou passando pelo Ubuntero :D. Veja alista das estatísticas de acesso do site:</p>
+
+<table width="510" border="2" cellspacing="1" cellpadding="1">
+  <tr>
+    <td align="center">
+      <span><strong>21</strong></span>
+    </td>
+    
+    <td align="right">
+      <span><strong>2</strong></span>
+    </td>
+    
+    <td align="right">
+      <span>0.28%</span>
+    </td>
+    
+    <td align="right">
+      <span><strong>1</strong></span>
+    </td>
+    
+    <td align="right">
+      <span>0.20%</span>
+    </td>
+    
+    <td align="right">
+      <span><strong></strong></span>
+    </td>
+    
+    <td align="right">
+      <span>0.01%</span>
+    </td>
+    
+    <td align="right">
+      <span><strong>1</strong></span>
+    </td>
+    
+    <td align="right">
+      <span>0.97%</span>
+    </td>
+    
+    <td align="left">
+      <span>crawl-66-249-72-235.googlebot.com</span>
+    </td>
+  </tr>
+</table>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/flash">flash</a>,   <a href="/tags/google">Google</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/servidor">Servidor</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 4 de Jul de 2006 | <a href="http://ubuntero.com.br/nada-importante/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fnada-importante%2f&url=http%3a%2f%2fubuntero.com.br%2fnada-importante%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fnada-importante%2f&t=Nada%20importante" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fnada-importante%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/" title="Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Neste aspecto o Ubuntu me fez um usuário muito feliz no primeiro momento. A algumas versões anteriores venho tentando fazer minha placa de vídeo ATI Radeon 9600 Pro funcionar. Até esta nova versão só tinha conseguido fazer o backup do xorg.conf e restaurar após não ter sucesso.</p>
+
+<p>Nesta nova versão resolvi instalar os drivers novamente, mesmo achando que não ia dar certo e eu teria que voltar ao rotineiro backup do xorg.conf. Após baixar os pacotes necessários via apt-get(Synaptic), vi que nada de errado havia acontecido. Fiquei desconfiado e não contente com o sistema ainda rodando, reiniciei o computador pra ter certeza de que não estava ficando louco. Para minha surpresa a máquina continuava rodando perfeitamente. Abri o arquivo xorg.conf pra ver se realmente tinham sido feitas as alterações necessárias para que os drivers estivessem sendo utilizados. Pelo menos alguma coisa tinha continuado como em todas as outras versões. Alterei a linha que indicava o driver a ser utilizado e reiniciei o X. Agora sim, mais um usuário feliz no mundo. Minha placa de vídeo está funcionando perfeitamente e rodando muitos jogos que antes não passavam de sonho(agora estou testando o ubuntu-games com jogos windows e linux rodando, lógicamente, no linux) .</p>
+
+<p>Como nem tudo são rosas. Lembrei que eu tinha uma placa de captura de TV que funcionava muito bem no windows e que também nunca tinha conseguido fazer funcionar no linux. Passei um final de semana inteiro navegando por fórums de discução tentando encontrar alguma maneira de fazer a tal placa funcionar. Depois de muitas horas e muitas tentativas, resolvi fazer a última tentativa antes de dormir. Foi nessa última tentativa que consegui fazer a placa funcionar. Como já era muito tarde, anotei o link do fórum que pensei ter a solução para os meus problemas para no dia seguinte poder fazer tudo novamente caso fosse necessário.</p>
+
+<p>Ao acordar no dia seguinte, vim muito feliz para frente do computador e a primeira coisa que tentei foi utilizar minha placa de TV. Para minha infelicidade, apesar de já esperado, ela não deu sinal de vida. Como eu tinha sido esperto, fui ao link que parecia ter sido a solução para todos os meus problemas e repeti todos os passos listados nele. Infelizmente não eram somente aqueles passos os necessários para a placa funcionar. Estou a mais de uma semana sem tentar fazer a placa funcionar. Espero que no dia que eu tentar novamente, isso seja muito mais fácil que a primeira tentativa.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/6.06">6.06</a>,   <a href="/tags/9600">9600</a>,   <a href="/tags/ati">ATI</a>,   <a href="/tags/dapper-drake">Dapper Drake</a>,   <a href="/tags/hardware">hardware</a>,   <a href="/tags/jogos">Jogos</a>,   <a href="/tags/radeon">Radeon</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/ubuntugames">ubuntugames</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 3 de Jul de 2006 | <a href="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fimpressoeshardware-ubuntu-linux-606-dapper-drake%2f&url=http%3a%2f%2fubuntero.com.br%2fimpressoeshardware-ubuntu-linux-606-dapper-drake%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fimpressoeshardware-ubuntu-linux-606-dapper-drake%2f&t=Impress%c3%b5es%28hardware%29%20Ubuntu%20Linux%206.06%20%e2%80%93%20Dapper%20Drake" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fimpressoeshardware-ubuntu-linux-606-dapper-drake%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/skype-13-beta/" title="Skype 1.3 Beta">Skype 1.3 Beta</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Foi lançado no dia 28 de junho, uma versão beta do mensageiro instantâneo que também permite fazer ligações para telefones convencionais, <strong>Skype</strong>.</p>
+
+<p>Até o momento testei muito pouco esta nova versão. A principal mudança, e que acho que muitos vão gostar, é que agora o Skype dá a opção de se utilizar OSS ou ALSA como sistema de som.</p>
+
+<p>Se tinha uma coisa que eu odiava no Skype para linux era exatamente este negócio de usar apenas OSS. Para quem não sabe, OSS &#8220;tranca&#8221; a placa de som e não deixa nenhum outro aplicativo a utilizar enquanto o programa que requisitou a placa de som não liberar este recurso.</p>
+
+<p>No meu caso ainda era pior. Quando eu acabava uma ligação com o Skype, só tinha a placa de som liberada quando fechava o Skype, o que não acontece mais com essa nova versão(desde que se esteja utilizando o sistema de som ALSA).</p>
+
+<p>Continuando o &#8220;para quem não sabe&#8221;, o sistema de som ALSA cria um &#8220;servidor de som&#8221; onde as aplicações enviam seus streams e este servidor encaminha o som para a placa sempre que possível, desta maneira você pode ouvir mais de um som ao mesmo tempo.</p>
+
+<p>A mudança do som foi a mais radical desta nova versão. Usuários de linux ainda não podem iniciar uma conferência mas, como nas versões anteriores, podem ser convidados a participar de uma conferência iniciada por um usuário que esteja utilizando o Skype no Windows.</p>
+
+<p>Acompanhando a lista de discução do Ubuntu durante o dia, vi algumas mensagens de pessoas que tiveram problemas nesse nova versão com o microfone. Estas pessoas tiveram que dar algumas voltas até conseguir fazer com que o microfone funcionasse.</p>
+
+<p>Mesmo com poucas mudanças, e alguns problemas com o microfone, ainda acho uma boa atualizar para a nova versão, mesmo sendo beta.</p>
+
+<p>Não temos novidade no visual do Skype mas mesmo assim, segue logo abaixo duas telas do meu skype.</p>
+
+<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2006/07/sype1.jpg" title="Lista de contatos Skype 1.3"><img id="image15" alt="Lista de contatos Skype 1.3" src="http://www.ubuntero.com.br/wp-content/uploads/2006/07/sype1.thumbnail.jpg" /></a>{.imagelink} <a href="http://www.ubuntero.com.br/wp-content/uploads/2006/07/sype2.jpg" title="Opções Skype 1.3"><img id="image16" alt="Opções Skype 1.3" src="http://www.ubuntero.com.br/wp-content/uploads/2006/07/sype2.thumbnail.jpg" /></a>{.imagelink}</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/beta">beta</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/skype">Skype</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 2 de Jul de 2006 | <a href="http://ubuntero.com.br/skype-13-beta/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fskype-13-beta%2f&url=http%3a%2f%2fubuntero.com.br%2fskype-13-beta%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fskype-13-beta%2f&t=Skype%201.3%20Beta" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fskype-13-beta%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/171/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">172</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/173/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

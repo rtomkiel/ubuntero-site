@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celular on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/celular/</link>
+    <description>Recent content in Celular on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 04 Jan 2013 11:20:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/celular/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vaquinha para compra de um Galaxy X</title>
+      <link>http://ubuntero.com.br/vaquinha-para-compra-de-um-galaxy-x/</link>
+      <pubDate>Fri, 04 Jan 2013 11:20:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/vaquinha-para-compra-de-um-galaxy-x/</guid>
+      <description>Mudança nos planos, se conseguirmos dinheiro para comprar dois aparelhos, um será sorteado entre os doadores.
+Querem ver o Ubuntu rodando no celular? Eu também quero e quero mostrar isto para vocês através dos reviews sinceros que já estão acostumados a assistir no Youtube, mas para isso eu preciso de uma ajuda financeira para comprar o único aparelho confirmado para receber uma rom dos sistema.
+Eu vou tirar do meu bolso R$ 500,00, mas preciso da ajuda para completar o restante do valor.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu começa bem o ano</title>
+      <link>http://ubuntero.com.br/ubuntul-comeca-bem-o-ano/</link>
+      <pubDate>Wed, 02 Jan 2013 18:31:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntul-comeca-bem-o-ano/</guid>
+      <description>Primeiro dia útil do ano e somos surpreendidos por um contador no site do Ubuntu. Vários blogs levantaram qual seria o grande lançamento que estava por vir.
+ Assistir no Youtube Agora sabemos que o grande anúncio é o Ubuntu Phone OS. Assim como já havíamos mostrado no Ubuntu for Android, o Ubuntu Phone precisa de um hardware moderno para rodar totalmente. Um processador ARM A9 e 1 GB de memória são necessários para rodar o sistema de maneira mais básica, mas um processador Quad-Core e 2 GB de memória são necessários para rodar em sua plenitude.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu em telefones, tablets, TV’s e qualquer lugar</title>
+      <link>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</link>
+      <pubDate>Tue, 01 Nov 2011 10:48:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</guid>
+      <description>Em seu blog, Mark Shuttleworth, fundador da Canonical que por sua vez é a empresa por trás do Ubuntu, fala sobre o futuro do Ubuntu e promete que o nosso pinguim estará disponível em todo tipo de dispositivo até 2014.
+Além disso, já nos premia com a data da próxima versão LTS após a 12.04. No artigo ele já confirma que a versão 12.04 será LTS.
+Como já havia falado em um artigo no lançamento do Ubuntu 11.</description>
+    </item>
+    
+  </channel>
+</rss>

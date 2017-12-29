@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amigo on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/amigo/</link>
+    <description>Recent content in Amigo on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 04 Nov 2011 00:05:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/amigo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R.I.P. André Gondim</title>
+      <link>http://ubuntero.com.br/r-i-p-andre-gondim/</link>
+      <pubDate>Fri, 04 Nov 2011 00:05:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/r-i-p-andre-gondim/</guid>
+      <description>Este ano não está sendo nada bom para o mundo da tecnologia. Grandes gênios partiram do nosso mundo e deixarão muitas saudades e boas lembranças de seus feitos.
+Hoje escrevo para falar de uma grande pessoa que faz parte do mundo do software livre e do Ubuntu. Uma pessoa, que embora eu não tenha falado pessoalmente, que sei que é amigo e batalhador. Lutou contra uma doença com todas as forças que tinha.</description>
+    </item>
+    
+  </channel>
+</rss>

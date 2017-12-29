@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solidário on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/solid%C3%A1rio/</link>
+    <description>Recent content in Solidário on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 21 Dec 2010 11:29:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/solid%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revista BrOffice.org – Natal Solidário</title>
+      <link>http://ubuntero.com.br/revista-broffice-org-natal-solidario/</link>
+      <pubDate>Tue, 21 Dec 2010 11:29:41 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/revista-broffice-org-natal-solidario/</guid>
+      <description>Uma edição especial de natal que destaca algumas ações que compartilham alegrias e esperança. Uma delas, o Natal Livre, um evento que acontece no estado do Ceará, outra, Ação Xavier e Parceiros, do Pará e ainda o blog Nossos Poetas das Casas André Luiz, em São Paulo, cujo conteúdo é de responsabilidade de pessoas para lá de especiais. Iniciamos nessa edição uma série de entrevistas com desenvolvedores do LibreOffice. A primeira delas traça o perfil de Norbert Thiébaud.</description>
+    </item>
+    
+  </channel>
+</rss>

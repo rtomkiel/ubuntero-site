@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Como Ganhar Dinheiro on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/como-ganhar-dinheiro/</link>
+    <description>Recent content in Como Ganhar Dinheiro on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 03 Mar 2011 12:57:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/como-ganhar-dinheiro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast episódio #1</title>
+      <link>http://ubuntero.com.br/opencast-episodio-1/</link>
+      <pubDate>Thu, 03 Mar 2011 12:57:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-episodio-1/</guid>
+      <description>Está no ar mais um episódio do Opencast, o podcast sobre software livre. Neste episódio eu(Ivan), Marcos Lucas, Marcos Zin e Diego Tumelero falamos um pouco sobre como ganhar dinheiro com software livre tanto para um novo empreendedor como para empresas que já estão no mercado.
+Uma pequena correção sobre o livro de Shell Script, ele não está disponível na íntegra na internet, apenas algumas partes estão disponíveis e o link está na seção de links do podcast.</description>
+    </item>
+    
+  </channel>
+</rss>

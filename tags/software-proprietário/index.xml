@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Proprietário on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/software-propriet%C3%A1rio/</link>
+    <description>Recent content in Software Proprietário on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 26 Feb 2011 17:41:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/software-propriet%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast, episódio zero</title>
+      <link>http://ubuntero.com.br/opencast-episodio-zero/</link>
+      <pubDate>Sat, 26 Feb 2011 17:41:53 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-episodio-zero/</guid>
+      <description>Depois de muito tempo discutindo com os amigos aqui está nosso primeiro podcast, o Opencast.
+O Opencast terá como tema principal o Software Livre. O objetivo do Opencast será de trazer informações sobre o mundo do software livre, sendo boas ou más notícias, sempre faremos nossos comentários pessoais e técnicos sobre os assuntos.
+Ao contrário do que fazemos no grupo Caudilho Livre, aqui comentaremos as intervenções políticas que envolvam software livre tanto no Brasil quanto no mundo.</description>
+    </item>
+    
+    <item>
+      <title>Caixa preta</title>
+      <link>http://ubuntero.com.br/caixa-preta/</link>
+      <pubDate>Thu, 29 Jun 2006 16:26:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/caixa-preta/</guid>
+      <description>Sei que prometi que este post seria sobre minhas impressões sobre o Ubuntu 6.06(Dapper Drake). Infelizmente para uns, felizmente para outros, não podemos mandar no que pensamos. Vamos logo ao texto.
+Duas caixas estão sendo oferecidas no mercado(você precisa ter uma delas). Qual você escolheria?
+ Uma é preta, como as caixas pretas de aviões. Totalmente blindada e protegida, essa caixa só deve ser aberta pelos proprietários do avião ou por autoridades devidamente munidas de autorizações judiciais.</description>
+    </item>
+    
+  </channel>
+</rss>

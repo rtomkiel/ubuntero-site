@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linus on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/linus/</link>
+    <description>Recent content in Linus on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 13 Jul 2012 02:03:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/linus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baixe já sua Linux Magazine 92 Community Edition!</title>
+      <link>http://ubuntero.com.br/baixe-ja-sua-linux-magazine-92-community-edition/</link>
+      <pubDate>Fri, 13 Jul 2012 02:03:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/baixe-ja-sua-linux-magazine-92-community-edition/</guid>
+      <description>Já está no ar a Linux Magazine 92 Community Edition.
+Confira nesta edição os principais assuntos da Linux Magazine de julho (Virtualização) e aprenda a criar sistemas de arquivos virtuais baseados em uma árvore de diretório e integre-o a outros programas com o cmdfs. Saiba como explorar as falhas de segurança da sua rede usando o MetaSploit, conjunto de ferramentas para testes de invasão e exploração de vulnerabilidade. Na revista é ensinado como você pode criar seu próprio servidor Git, o sistema de controle de versão desenvolvido por Linus Torvalds, e são mostradas duas formas de organizar trabalhos em grupo com a ferramenta.</description>
+    </item>
+    
+    <item>
+      <title>Nvidia perde venda de 10 milhões de GPU’s</title>
+      <link>http://ubuntero.com.br/nvidia-perde-venda-de-10-milhoes-de-gpus/</link>
+      <pubDate>Fri, 29 Jun 2012 19:19:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/nvidia-perde-venda-de-10-milhoes-de-gpus/</guid>
+      <description>A resposta de Linus Torvalds sobre os drivers da NVIDIA para Linux fez bastante estrago. A empresa perdeu uma venda de 10 milhões de GPU&amp;#8217;s para o governo Chinês que tomou conhecimento da declaração de Linux. A empresa espera perder algo em entre $ 200 e $ 500 milhões por causa deste suporte ruim.
+O governo Chinês até se ofereceu para dar uma olhada no código fonte dos drivers da NVIDIA para tentar ajudar em algo, mas a empresa se negou a abrir sua propriedade intelectual e um acordo passou a não ser possível.</description>
+    </item>
+    
+  </channel>
+</rss>

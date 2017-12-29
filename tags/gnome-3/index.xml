@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gnome 3 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/gnome-3/</link>
+    <description>Recent content in Gnome 3 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 24 Jun 2013 20:57:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/gnome-3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>XFCE, LXDE e Gnome 3 rodando no MIR</title>
+      <link>http://ubuntero.com.br/xfce-lxde-e-gnome-3-rodando-no-mir/</link>
+      <pubDate>Mon, 24 Jun 2013 20:57:52 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/xfce-lxde-e-gnome-3-rodando-no-mir/</guid>
+      <description>Está ansioso para usar o Mir como servidor gráfico padrão no seu Ubuntu? Mesmo que não esteja, veja estas imagens onde é possível ver o XFCE, LXDE e Gnome 3 rodando diretamente no Mir.
+XFCE  LXDE  GNOME 3  Você não verá o KDE rodando ainda por motivo de problema em um arquivo, não do Mir, segundo os desenvolvedores, mas em breve novas imagens mostrando o KDE no Mir estarão disponíveis.</description>
+    </item>
+    
+    <item>
+      <title>12° Tema – Old Ambiance</title>
+      <link>http://ubuntero.com.br/12-tema-old-ambiance/</link>
+      <pubDate>Tue, 08 Nov 2011 18:25:12 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/12-tema-old-ambiance/</guid>
+      <description>Olá a todos. Após um longo tempo sem postar os temas por falta de notebook e desktop com Ubuntu, tentarei trazer a série de volta a todo vapor toda segunda ou terça. O tema de hoje é para Gnome Shell, então fica óbvio que precisa de aceleração gráfica.
+Antes de começar Para poder fazer as seguintes modificações de temas, precisará, instalar o Gnome Tweak Tool, e uma extensão para poder alterar os temas do Gnome Shell.</description>
+    </item>
+    
+    <item>
+      <title>Gnome Shell no Ubuntu 11.10</title>
+      <link>http://ubuntero.com.br/gnome-shell-no-ubuntu-11-10/</link>
+      <pubDate>Thu, 20 Oct 2011 00:06:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/gnome-shell-no-ubuntu-11-10/</guid>
+      <description>O Unity continua tendo seus amantes e seus odiadores. Para os que odeiam, ou apenas querem conhecer mais uma opção, mostramos aqui como instalar o Gnome Shell no Ubuntu 11.10.
+Para dificultar um pouco, abra o terminal pressionado a tecla Super e digitando terminal, ou pressionando as teclas Ctrl+Alt+t e digite o seguinte comando:
+sudo apt-get install gnome-shell gnome-themes-standard gnome-sushi gnome-contacts gnome-tweak-tool Não, não é brincadeira, apenas isso é preciso. Depois de instalado é só encerrar a sessão e na tela de login clicar na engrenagem e selecionar GNOME, digitar sua senha e entrar no Gnome Shell.</description>
+    </item>
+    
+  </channel>
+</rss>

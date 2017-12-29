@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/3d/</link>
+    <description>Recent content in 3d on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 22 Aug 2013 01:31:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #26 – Arte em 3D com Blender</title>
+      <link>http://ubuntero.com.br/opencast-26-arte-em-3d-com-blender/</link>
+      <pubDate>Thu, 22 Aug 2013 01:31:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-26-arte-em-3d-com-blender/</guid>
+      <description>Após mais uma pequena pausa, voltamos com mais um episódio do Opencast e neste episódio eu(Ivan), Aprígio Simões, Diego, Og Maciel e o convidado e especialista em Blender Razgriz falamos sobre esta fantástica ferramenta para criação e animação em 3D chamada Blender.
+Links do episódio  Loja do Ubuntero Blender.org Licença do Blender Blender na wikipedia Renderizador YafaRay Renderizador Cycles Filme totalmente feito em Blender Cria Livre Blender para todos Promoção do DVD do Blender Cogitas 3D Blender Guru El Diablo Criativo Blender Brasil Adventures in Blender Castalio Podcast  Se você preferir, pode assistir ao vídeo da gravação do Opencast.</description>
+    </item>
+    
+    <item>
+      <title>Lançado Blender 2.67</title>
+      <link>http://ubuntero.com.br/lancado-blender-2-67/</link>
+      <pubDate>Thu, 09 May 2013 13:05:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-blender-2-67/</guid>
+      <description>O Blender é um sotware de criação 3D usado para modelagem, animação, pós-produção e o que mais puder ser feito com um objeto 3D. Além de usar seu próprio formato, é compatível com formatos mais &amp;#8220;famosos&amp;#8221; como 3D Studio.
+O Blender está em constante evolução e lança várias atualizações com a inclusão de muitos novos recursos. Nesta versão 2.67 temos estas novas implementações(entre outras):
+ Novo motor de renderização de fotos não realistas, permitindo a criação de linhas 2D em cenas 3D Melhorada a precisão e velocidade do Motion Tracker Adicionado plugin para facilitar a impressão 3D Melhorado o suporte a UTF-8 Várias correções de bugs  Para se manter atualizado com a última versão do Blender, abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:</description>
+    </item>
+    
+  </channel>
+</rss>

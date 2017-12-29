@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fenalivre on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/fenalivre/</link>
+    <description>Recent content in Fenalivre on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 09 May 2013 11:53:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/fenalivre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Festival Nacional de Cultura Livre (Fenalivre)</title>
+      <link>http://ubuntero.com.br/festival-nacional-de-cultura-livre-fenalivre/</link>
+      <pubDate>Thu, 09 May 2013 11:53:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/festival-nacional-de-cultura-livre-fenalivre/</guid>
+      <description>O Festival Nacional de Cultura Livre (Fenalivre) é um evento organizado por um grupo de voluntários e entusiastas do software livre para divulgar e compartilhar a cultura livre em todas as áreas do conhecimento.
+O evento acontece semestralmente, na cidade de Passo Fundo, e conta com palestrantes e profissionais da área de TI que ministram oficinas voluntariamente para compartilhar seu conhecimento.
+Para que o evento sempre mantenha sua ideologia original, foram criados cinco princípios que norteiam a organização do evento.</description>
+    </item>
+    
+  </channel>
+</rss>

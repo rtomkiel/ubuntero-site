@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecad on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/ecad/</link>
+    <description>Recent content in Ecad on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 24 Mar 2012 18:57:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/ecad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #8</title>
+      <link>http://ubuntero.com.br/opencast-8/</link>
+      <pubDate>Sat, 24 Mar 2012 18:57:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-8/</guid>
+      <description>Depois de muitas tentativas e parecer que o mundo estava conspirando contra a gravação do episódio #8 do Opencast, finalmente conseguimos finalizar a gravação e enfim fazer a publicação.
+Neste episódio apenas eu(Ivan) e Diego nos juntamos novamente e conversamos um pouco sobre o que aconteceu no mundo do software livre. Neste episódio você não ouvirá música de fundo durante o episódio, apenas na abertura. Isto é para que vocês possam votar melhor na enquete que está rolando no Facebook.</description>
+    </item>
+    
+  </channel>
+</rss>

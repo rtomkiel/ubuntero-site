@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensuse on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/opensuse/</link>
+    <description>Recent content in Opensuse on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 12 Mar 2014 23:32:06 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/opensuse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #32 – Hardening</title>
+      <link>http://ubuntero.com.br/opencast-32-hardenig/</link>
+      <pubDate>Wed, 12 Mar 2014 23:32:06 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-32-hardenig/</guid>
+      <description>Voltamos com o Opencast depois de uma boa parada para espairecer. Neste episódio Ivan, Aprígio Simões, Diego e Og Maciel falam sobre o processo de &amp;#8220;endurecimento&amp;#8221; de um sistema. Na verdade o episódio é quase um monólogo do Aprígio que foi quem sugeriu a pauta e também foi o especialista &amp;#8220;convidado&amp;#8221;.
+Excepcionalmente, mas pode se tornar o padrão, não teremos a versão em vídeo no youtube. O motivo é bem simples, é muito trabalho e isto acabaria prejudicando a periodicidade do Videocast e provavelmente a do Opencast também (mais do que já é prejudicada).</description>
+    </item>
+    
+    <item>
+      <title>Videocast #29 – Ubuntu 13.04 Beta 1</title>
+      <link>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</link>
+      <pubDate>Mon, 18 Mar 2013 11:00:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-29-ubuntu-13-04-beta-1/</guid>
+      <description>É com um papelão do OpenSuse que começamos este VideoCast. Esta semana iria falar e mostrar um pouco do OpenSuse, mas ele resolveu que não queria funcionar comigo e me deixou na mão. Por isso este VideoCast dá uma rápida olhada em algumas novidades do Ubuntu 13.04 Beta 1 (na verdade único beta).
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>Ubuntu, único servidor web que mostra crescimento</title>
+      <link>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</link>
+      <pubDate>Mon, 10 Oct 2011 22:47:21 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-unico-servidor-web-que-mostra-crescimento/</guid>
+      <description>Segundo dados divulgados pela W3techs, o Ubuntu Server é a única distribuição que mantém crescimento contínuo entre os servidores web no último ano. Depois de ultrapassar o Suse e o Fedora no ano passado, o Ubuntu Server passou o RHEL em julho, ficando atras apenas de Debian e CentOS. Isto mostra que a confiança no Ubuntu entre os servidores também cresce junto com o Desktop. O Ubuntu não é apenas um sistema com uma interface fácil de utilizar no Desktop, é também robusto e seguro o suficiente para servir a web.</description>
+    </item>
+    
+  </channel>
+</rss>

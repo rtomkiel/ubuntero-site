@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jono on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/jono/</link>
+    <description>Recent content in Jono on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 24 Apr 2012 22:43:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/jono/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Realizações Ubuntu</title>
+      <link>http://ubuntero.com.br/realizacoes-ubuntu/</link>
+      <pubDate>Tue, 24 Apr 2012 22:43:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/realizacoes-ubuntu/</guid>
+      <description>Ainda está no princípio do desenvolvimento mas eu achei a aplicação bem interessante. A ideia é &amp;#8220;recompensar&amp;#8221; por realizações relativas ao Ubuntu, como por exemplo assinar o código de conduta.
+Para instalar e usar o programa você precisa estar usando o Ubuntu 12.04 e ter uma conta no UbuntuOne. Se você atende a estas especificações, execute os seguintes comandos no terminal para instalar o programa.
+sudo add-apt-repository ppa:ubuntu-accomplishments-admins/daily sudo apt-get update sudo apt-get install ubuntu-community-accomplishments accomplishments-daemon accomplishments-viewer Para rodar o programa execute o seguinte comando(o terminal ficará bloqueado):</description>
+    </item>
+    
+  </channel>
+</rss>

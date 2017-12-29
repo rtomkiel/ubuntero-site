@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instalação on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/instala%C3%A7%C3%A3o/</link>
+    <description>Recent content in Instalação on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 20 May 2013 12:50:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/instala%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #35 – Primeiros passos no Ubuntu – 3</title>
+      <link>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-3/</link>
+      <pubDate>Mon, 20 May 2013 12:50:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-3/</guid>
+      <description>Neste terceiro vídeo da séria &amp;#8220;Primeiros passos no Ubuntu&amp;#8220;, mostramos como é a instalação do sistema em dual boot com o Windows 7. Não mostramos nenhuma configuração mais avançada para não confundir, apenas ajudar quem está começando. Futuramente mostraremos como é o processo de particionamento avançado, mas isso acontecerá quando estiverem mais bem ambientado ao sistema. No próximo vídeo mostraremos as principais &amp;#8220;peças&amp;#8221; do Unity, a interface gráfica padrão do Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Voluntários para instalação do Ubuntu</title>
+      <link>http://ubuntero.com.br/voluntarios-para-instalacao-do-ubuntu/</link>
+      <pubDate>Wed, 03 Oct 2012 15:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/voluntarios-para-instalacao-do-ubuntu/</guid>
+      <description>Está com tempo livre e vontade de ajudar novos usuários a utilizar o Ubuntu? Uma ótima maneira é cadastrar o nome nesta wiki e divulgar para que todos saibam onde procurar ajuda.
+A ideia deste espaço é manter uma lista de pessoas de boa vontade que podem dispensar um pouco de seu tempo para instalar o Ubuntu em computadores de pessoas que não sabem fazer esta tarefa.
+Acredito muito nesta iniciativa, pois quem pergunta como instalar o Ubuntu, geralmente precisa que alguém instale e ensine a usar, se isto não fosse necessário, a pessoa já tinha encontrado a maneira e instalado por conta.</description>
+    </item>
+    
+    <item>
+      <title>Gerar pendrive para instalação do Ubuntu</title>
+      <link>http://ubuntero.com.br/gerar-pendrive-para-instalacao-do-ubuntu/</link>
+      <pubDate>Mon, 14 Feb 2011 11:36:01 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/gerar-pendrive-para-instalacao-do-ubuntu/</guid>
+      <description>Acompanhando a lista de discussão e o fórum do Ubuntu vejo que muita gente tem dúvida sobre como gerar um pendrive com a instalação do Ubuntu. Confesso que fiquei surpreso, pois o processo é muito simples.
+Para sanar esta dúvida de vez, criei o screencast abaixo que mostra todo o processo sem cortes.
+Música: Already There &amp;#8211; Josh Woodward ( http://www.joshwoodward.com/ )</description>
+    </item>
+    
+  </channel>
+</rss>

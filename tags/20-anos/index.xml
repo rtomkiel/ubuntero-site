@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>20 Anos on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/20-anos/</link>
+    <description>Recent content in 20 Anos on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 15 Apr 2011 13:31:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/20-anos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Celebrando o aniversário dos 20 anos do Linux!</title>
+      <link>http://ubuntero.com.br/celebrando-o-aniversario-dos-20-anos-do-linux/</link>
+      <pubDate>Fri, 15 Apr 2011 13:31:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/celebrando-o-aniversario-dos-20-anos-do-linux/</guid>
+      <description>Segue um vídeo bem interessante sobre os 20 anos do Linux, vale a pena conferir.
+Meu blog: http://freelinux-br.blogspot.com
+Meu Twitter: @renatobluesboy</description>
+    </item>
+    
+  </channel>
+</rss>

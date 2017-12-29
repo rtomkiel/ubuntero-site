@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Declaração 2011 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/declara%C3%A7%C3%A3o-2011/</link>
+    <description>Recent content in Declaração 2011 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 02 Mar 2011 00:44:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/declara%C3%A7%C3%A3o-2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imposto de Renda 2011</title>
+      <link>http://ubuntero.com.br/imposto-de-renda-2011/</link>
+      <pubDate>Wed, 02 Mar 2011 00:44:48 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/imposto-de-renda-2011/</guid>
+      <description>Para quem tem problemas ao instalar o programa da Receita Federal em arquitetura amd64, aparece a seguinte mensagem no Central de Programas Ubuntu:
+Para solucionar esse problema, abra o terminal
+navegue até a pasta onde esá instalado o IRPF2011v1.0.deb
+# por exmplo : cd /home/user/Downloads/
+esecute o seguinte comando :
+sudo dpkg -i --force-architecture IRPF2011v1.0.deb pedirá a senha de superusuário e instalará sem problemas .
+O programa criará um link no menu aplicativos.</description>
+    </item>
+    
+  </channel>
+</rss>

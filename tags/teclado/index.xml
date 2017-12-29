@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teclado on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/teclado/</link>
+    <description>Recent content in Teclado on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 07 Aug 2015 21:03:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/teclado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tecla “?” no Lenovo E431</title>
+      <link>http://ubuntero.com.br/tecla-no-lenovo-e431/</link>
+      <pubDate>Fri, 07 Aug 2015 21:03:29 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/tecla-no-lenovo-e431/</guid>
+      <description>Tem coisa mais chata do que pressionar uma tecla no teclado e nada aparecer na tela? Para piorar você procura uma segunda opção no teclado e não encontra? Pois é, passei por isso ao reinstalar o Ubuntu no meu Lenovo E431, com os caracterres &amp;#8220;?&amp;#8221; e &amp;#8220;/&amp;#8221;, mas não foi difícil encontrar a solução.
+A solução para este problema, para quem utiliza Ubuntu e outras distribuições baseadas no Debian, é simples e pelo que pesquisei se aplica a vários outros modelos da Lenovo vendidos no Brasil.</description>
+    </item>
+    
+    <item>
+      <title>Solução para problema de teclado que perde configuração durante inicialização</title>
+      <link>http://ubuntero.com.br/solucao-para-problema-de-teclado-que-perde-configuracao-durante-inicializacao/</link>
+      <pubDate>Fri, 21 Feb 2014 15:06:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/solucao-para-problema-de-teclado-que-perde-configuracao-durante-inicializacao/</guid>
+      <description>Em uma ajuda no IRC me deparei com um problema de o teclado perder a configuração padrão sempre que o computador era iniciado. O que acontecia era que o teclado ignorava a configuração e passava a utilizar o layout inglês, mesmo este não estando configurado explicitamente no sistema.
+A solução é bem simples. Clique no ícone do teclado e vá na opção &amp;#8220;Configurações de entrada de texto&amp;#8221;.
+
+Marque a opção &amp;#8220;Permitir fontes diferentes para cada janela&amp;#8221; e depois &amp;#8220;Novas janelas usam a fonte padrão&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Usando atalhos, economizando tempo.</title>
+      <link>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</link>
+      <pubDate>Fri, 28 Jan 2011 16:38:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</guid>
+      <description>Segundo um famoso dicionário eletrônico, atalho significa Caminho fora da estrada principal, pelo qual se encurtam distâncias.
+Bem, como podemos incluir a palavra atalho no nosso meio? Ou seja, como podemos falar de atalho na área da informática?
+Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários de Sistemas Operacionais utilizam atalhos. Seja na forma de ícones na área de trabalho ou simplesmente usando combinações de teclas.</description>
+    </item>
+    
+  </channel>
+</rss>

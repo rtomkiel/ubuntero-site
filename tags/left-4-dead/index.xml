@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Left 4 Dead on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/left-4-dead/</link>
+    <description>Recent content in Left 4 Dead on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 May 2013 03:05:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/left-4-dead/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #33 – Ultrabook Inspiron 14z</title>
+      <link>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</link>
+      <pubDate>Mon, 06 May 2013 03:05:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-33-ultrabook-inspiron-14z/</guid>
+      <description>Depois do Flisol, voltamos a nossa programação normal e gravamos mais um Videocast. Neste episódio tive a feliz surpresa de ter um Ultrabook Inspiron 14z dando sopa por um pouco mais de 24 horas em minhas mãos e não perdi a oportunidade de rodar o Ubuntu 13.04 nele.
+Depois da gravação do review pude notar que o que gera o aquecimento e pouca duração da bateria é a ausência do driver da placa de vídeo ATI/AMD, no sistema operacional que vem com o computador o aquecimento também ocorre até que o driver de vídeo específico seja instalado, aí o sistema passa a rodar lisinho sem superaquecimento.</description>
+    </item>
+    
+    <item>
+      <title>Steam no Ubuntu 12.04</title>
+      <link>http://ubuntero.com.br/steam-no-ubuntu-12-04/</link>
+      <pubDate>Tue, 17 Jul 2012 12:04:46 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/steam-no-ubuntu-12-04/</guid>
+      <description>Não é mais novidade para ninguém que a Valve irá trazer sua loja de jogos para o Linux, no entanto, na da era oficial até ontem quando a empresa divulgou um post em seu blog.
+Na postagem é falado que os servidores da empresa já utilizam Ubuntu 64 bits a algum tempo. Em 2011 a empresa deu um passo maior e criou esforços para lançar uma versão oficial do seu cliente para o pinguim e o primeiro jogo onde trabalhariam no port seria o Left 4 Dead.</description>
+    </item>
+    
+  </channel>
+</rss>

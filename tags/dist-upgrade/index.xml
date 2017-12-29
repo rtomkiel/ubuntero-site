@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dist Upgrade on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/dist-upgrade/</link>
+    <description>Recent content in Dist Upgrade on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 21 Jun 2015 13:35:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/dist-upgrade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apt-get upgrade ou dist-upgrade?</title>
+      <link>http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/</link>
+      <pubDate>Sun, 21 Jun 2015 13:35:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/</guid>
+      <description>Para quem utiliza o terminal, mesmo que já tenha alguma experiência, a palavra dist-upgrade ainda gera bastante confusão e, ao contrário do que muita gente imagina, não vai atualizar sua distribuição para uma versão mais nova como por exemplo da 14.10 para a 15.04.
+Para auxiliar nesta explicação, vou apelar para o manual do comando(man apt-get):
+ upgrade
+upgrade é usado para instalar as versões mais recentes de todos os pacotes presentemente instalados no sistema a partir das fontes enumeradas em /etc/apt/sources.</description>
+    </item>
+    
+  </channel>
+</rss>

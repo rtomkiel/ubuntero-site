@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trisquel on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/trisquel/</link>
+    <description>Recent content in Trisquel on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 25 Mar 2013 11:00:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/trisquel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #30 – Trisquel 6.0</title>
+      <link>http://ubuntero.com.br/videocast-30-trisquel-6-0/</link>
+      <pubDate>Mon, 25 Mar 2013 11:00:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-30-trisquel-6-0/</guid>
+      <description>Continuando nossa peregrinação por várias distribuições Linux, hoje mostro um pouco do Trisquel 6.0, uma distribuição considerada realmente Open Source. Esta distribuição é baseada no Ubuntu 12.04 e tem como interface gráfica principal o Gnome Classic, e não utiliza os mesmos repositórios do Ubuntu.
+Divirtam-se com mais uma alternativa do mundo do software livre.
+ Assistir no Youtube </description>
+    </item>
+    
+    <item>
+      <title>FLISOL – Arapiraca</title>
+      <link>http://ubuntero.com.br/flisol-arapiraca/</link>
+      <pubDate>Wed, 06 Apr 2011 11:23:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/flisol-arapiraca/</guid>
+      <description>Este ano nós faremos o FLISOL no SENAC, na rua São Francisco. Na ocasião, serão apresentadas algumas palestras sobre Software Livre e Cultura Livre.
+Teremos o apoio da OFICINA LIVRE, que é Ubuntu Partner em Alagoas e está autorizada a ministrar os cursos oficiais Ubuntu no estado.
+Para quem não sabe ainda, FLISOL é o Festival Latinoamericano de Instalação de Software Livre. Isso significa que você pode levar seu computador lá e instalaremos gratuitamente softwares livres.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comunidade on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/comunidade/</link>
+    <description>Recent content in Comunidade on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 07 Mar 2014 01:18:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/comunidade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comunidade internacional quer saber sua opinião sobre o Ubuntu</title>
+      <link>http://ubuntero.com.br/comunidade-internacional-quer-saber-sua-opiniao-sobre-o-ubuntu/</link>
+      <pubDate>Fri, 07 Mar 2014 01:18:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comunidade-internacional-quer-saber-sua-opiniao-sobre-o-ubuntu/</guid>
+      <description>Quer dar sua opinião sobre o Ubuntu, Unity e aplicativos padrões da distro? Então responda a Pesquisa 2014 da Comunidade!
+Desde 2011 a Comunidade internacional do Ubuntu organiza uma pesquisa para reunir opiniões, tendências e preferências dos usuários.
+A pesquisa é simples, leva menos de 3 minutos para responder e abrange vários temas como: qual seu principal sistema operacional, qual ambiente gráfico que você prefere, se você gosta dos papéis de parede do Ubuntu, o que você acha do Unity, qual seu navegador preferido, etc&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>UbuntuVoice, seja a voz dos Usuários Ubuntu</title>
+      <link>http://ubuntero.com.br/ubuntuvoice-seja-a-voz-dos-usuarios-ubuntu/</link>
+      <pubDate>Tue, 10 Sep 2013 13:56:21 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntuvoice-seja-a-voz-dos-usuarios-ubuntu/</guid>
+      <description>O que acha de participar de pesquisas para moldar e melhorar a experiência de uso do Ubuntu? Se isto lhe interessa, a Canonical anunciou hoje um projeto para quem está afim de participar nesta tarefa.
+Quem participar receberá emails periódicos a cada 2 meses com informações sobre o trabalho do time de designers e como o resultado das pesquisas está sendo usado. Algumas pesquisas terão recompensas, que não dizem quais serão, mas isto não deve ser o motivo para você entrar para o time, pelo menos assim eu acredito.</description>
+    </item>
+    
+    <item>
+      <title>R.I.P. André Gondim</title>
+      <link>http://ubuntero.com.br/r-i-p-andre-gondim/</link>
+      <pubDate>Fri, 04 Nov 2011 00:05:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/r-i-p-andre-gondim/</guid>
+      <description>Este ano não está sendo nada bom para o mundo da tecnologia. Grandes gênios partiram do nosso mundo e deixarão muitas saudades e boas lembranças de seus feitos.
+Hoje escrevo para falar de uma grande pessoa que faz parte do mundo do software livre e do Ubuntu. Uma pessoa, que embora eu não tenha falado pessoalmente, que sei que é amigo e batalhador. Lutou contra uma doença com todas as forças que tinha.</description>
+    </item>
+    
+    <item>
+      <title>Festa de lançamento do Ubuntu 11.04 Natty Narwhal</title>
+      <link>http://ubuntero.com.br/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</link>
+      <pubDate>Sun, 17 Apr 2011 03:41:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/festa-de-lancamento-do-ubuntu-11-04-natty-narwhal/</guid>
+      <description>No dia 28 de abril o Ubuntu 11.04 Natty Narwhal deve estar no ar, que tal fazer uma reunião? A proposta é se juntar, conhecer, discutir, debater, conversar ou mesmo só beber, isso mesmo.
+Esta versão terá como o shell padrão o Unity e isso vai dar muito o que conversar, já que será um impacto muito grande para o usuário final que está acostumado com uma modelo de usar o Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Opencast episódio #2 – Comunidade Ubuntu-BR</title>
+      <link>http://ubuntero.com.br/opencast-episodio-2-comunidade-ubuntu-br/</link>
+      <pubDate>Thu, 17 Mar 2011 12:22:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-episodio-2-comunidade-ubuntu-br/</guid>
+      <description>Está no ar o episódio de número dois do Opencast. Neste episódio temos como convidados André Gondim, Claiton Sega e Marcos Zin.
+Diferentemente dos outros dois episódios, neste foi feita uma espécie de entrevista com o André Gondim sobre a comunidade Ubuntu-BR e como as pessoas podem contribuir com o Ubuntu, também foi comentada a participação, ou não, da Canonical na comunidade brasileira e terminamos falando um pouco sobre o Ubuntu 11.</description>
+    </item>
+    
+    <item>
+      <title>Começando</title>
+      <link>http://ubuntero.com.br/comecando/</link>
+      <pubDate>Mon, 26 Jun 2006 23:36:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comecando/</guid>
+      <description>Estou começando agora com este blog. Espero ter muito o que escrever.
+Aqui você vai encontrar pouca coisa sobre mim. Vou escrever mais sobre as coisas que faço no computador. Os assuntos mais normais serão relacionados com linux, mais especificamente sobre Ubuntu Linux.
+Daqui a pouco eu posto alguma coisa. Acho que vou começar com as minhas impressões sobre o Ubuntu 6.06. Também pretendo falar sobre a comunidade Ubuntu-br que está fazendo um grande trabalho na tradução de todas as versões do Ubuntu e vem mantendo um Wiki muito bom totalmente em português .</description>
+    </item>
+    
+  </channel>
+</rss>

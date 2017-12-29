@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revisa Es on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/revisa-es/</link>
+    <description>Recent content in Revisa Es on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 12 Jul 2012 11:00:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/revisa-es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revista Espírito Livre na Central de programas do Ubuntu</title>
+      <link>http://ubuntero.com.br/revista-espirito-livre-na-central-de-programas-do-ubuntu/</link>
+      <pubDate>Thu, 12 Jul 2012 11:00:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/revista-espirito-livre-na-central-de-programas-do-ubuntu/</guid>
+      <description>As primeiras edições da Revista Espírito Livre já estão na Central de programas do Ubuntu, em breve as demais edições também estarão disponíveis.
+ Para quem gosta de acompanhar publicações com conteúdos de qualidade sobre Tecnologia e Software Livre, a Revista Espírito Livre é leitura obrigatória.
+A revista é uma publicação digital, distribuída de forma gratuita via internet em formato PDF, destinada aos usuários envolvidos com tecnologia, software livre, cultura digital e outros assuntos relacionados a liberdade e compartilhamento do conhecimento.</description>
+    </item>
+    
+  </channel>
+</rss>

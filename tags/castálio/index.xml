@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castálio on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/cast%C3%A1lio/</link>
+    <description>Recent content in Castálio on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 05 Sep 2013 01:47:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/cast%C3%A1lio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
+      <link>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
+    </item>
+    
+    <item>
+      <title>Resumo semanal 02</title>
+      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
+Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
+    </item>
+    
+  </channel>
+</rss>

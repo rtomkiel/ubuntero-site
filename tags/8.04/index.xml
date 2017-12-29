@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8.04 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/8.04/</link>
+    <description>Recent content in 8.04 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 22 Mar 2008 02:08:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/8.04/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 8.04 Hardy Heron Beta</title>
+      <link>http://ubuntero.com.br/ubuntu-804-hardy-heron-beta/</link>
+      <pubDate>Sat, 22 Mar 2008 02:08:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-804-hardy-heron-beta/</guid>
+      <description>Saiu a primeira versão Beta da próxima versão do Ubuntu 8.04 Hardy Heron. Estou utilizando as versões Alpha e sempre mantenho meu Ubuntu atualizado mas mesmo assim irei fazer novamente uma instalação limpa para me assegurar que não tenho nenhum lixo nas minhas configurações.
+Após a nova instalação estarei novamente postando minhas impressões sobre todas as novidades. Posso adiantar que o Firefox 3 beta 4 não está mais com o problema com o plugin de estatísticas do wordpress e que o transmission não está se mostrando satisfatório quando atrás de um firewall(estou utilizando o Azureus).</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 8.04 Alpha 5, primeiras impressões</title>
+      <link>http://ubuntero.com.br/ubuntu-804-alpha-5-primeiras-impressoes/</link>
+      <pubDate>Fri, 29 Feb 2008 14:44:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-804-alpha-5-primeiras-impressoes/</guid>
+      <description>Comecei a fazer testes mais sérios com esta alpha da próxima versão do Ubuntu e já posso começar a tirar minhas conclusões.
+A nova versão virá com boas mudanças como a adoção do Brasero como programa padrão de gravação de CD/DVD.
+Xorg 7.3 que tende a facilitar &amp;#8220;acidentes&amp;#8221; onde o usuário é remetido para o shell. Passei por esta infeliz situação e tive uma feliz e infeliz constatação. Ao cair no shell me foram dadas 3 opções e entre elas estava o &amp;#8220;Tentar corrigir o X&amp;#8221;, onde o sistema tenta corrigir seu xorg.</description>
+    </item>
+    
+  </channel>
+</rss>

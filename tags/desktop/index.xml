@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desktop on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/desktop/</link>
+    <description>Recent content in Desktop on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 30 Dec 2013 12:57:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/desktop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu trará a verdadeira convergência antes da Microsoft</title>
+      <link>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</link>
+      <pubDate>Mon, 30 Dec 2013 12:57:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</guid>
+      <description>A convergência já deve chegar no Ubuntu 14.10 ou mais tardar na versão 15.04, aonde a mesma base de código (sistema operacional) irá rodar nos smartphones, tablets e desktops.
+Em entrevista concedida a PCPro o diretor da Canonical, Mark Shuttleworth falou sobre os planos de convergência para o Ubuntu, aonde o atual ciclo de atualizações poderá ser abandonado e sendo liberadas automaticamente &amp;#8220;sempre&amp;#8221; que estiverem prontas.
+Essa não seria a primeira vez que o ciclo de atualizações do Ubuntu seria alterada, recentemente o período de suporte das versões interim (versões não LTS) passou de 18 para 9 meses, cogitando-se até que nas próximas versões o Ubuntu poderá se tornar uma pseudo &amp;#8220;rolling release&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Adicionar repositórios estando atras de um firewall</title>
+      <link>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</link>
+      <pubDate>Thu, 20 Jan 2011 11:05:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
+      <description>Artigo retirado e traduzido do site OMGUbuntu, tradução livre.
+Tendo problemas com o Ubuntu na Universidade? MadnessRed tem a solução.
+Um grande número de empresas e universidades bloqueiam todas as portas desconhecidas. Isto inclui as portas usadas para adicionar repositórios.
+Este problema pode ser manobrado utilizando a porta 80 para adquirir a chave, MadnessRed escreveu um script para fazer isto, mas este script tenta outras portas primeiro ao utilizar o comando apt-add-repository e isto pode levar alguns anos até falhar.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 11.04 Alpha 1</title>
+      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-1/</link>
+      <pubDate>Mon, 06 Dec 2010 03:31:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-1/</guid>
+      <description>Este artigo foi escrito diretamente da primeira versão Alpha do Ubuntu 11.04. Para melhor testar a próxima versão do sistema não fiz uma instalação em uma máquina virtual. Estou utilizando o mesmo notebook onde instalei a primeira versão do Ubuntu.
+Como em todas as versões do Ubuntu, me surpreendo com a melhora de desempenho que faz com que computadores mais modestos continuem a ser utilizados. Claro que não posso fazer coisas extremamente pesadas como edição de vídeo ou modelagem 3D, mas isto eu nunca consegui fazer neste computador, mas as tarefas normais, até algum desenvolvimento, continuo a fazer como se estivesse utilizando o mesmo sistema de alguns anos atras, e ainda de quebra com todas as inovações das novas versões do sistema operacional.</description>
+    </item>
+    
+    <item>
+      <title>Disco cheio sem motivo aparente</title>
+      <link>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</link>
+      <pubDate>Sat, 27 Nov 2010 22:19:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/disco-cheio-sem-motivo-aparente/</guid>
+      <description>Hoje a tarde liguei meu computador e recebi a mensagem de que minha partição home estava totalmente cheia. Achei muito estranho porque até o último desligamento eu tinha mais de 100 GB livre.
+Investigando o problema encontrei um arquivo de log(.xsession-errors) ocupando todo o espaço livre do disco. Analisando o conteúdo do arquivo pude ver a seguinte mensagem sendo repetida inúmeras vezes:
+(nautilus:1882): GConf-CRITICAL **: gconf_value_free: assertion `value != NULL&#39; failed</description>
+    </item>
+    
+  </channel>
+</rss>

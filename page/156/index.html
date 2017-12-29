@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/virtualbox-utilizando-interface-do-hospedeiro/" title="VirtualBox utilizando “Interface do Hospedeiro”">VirtualBox utilizando “Interface do Hospedeiro”</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><img src='http://www.ubuntero.com.br/wp-content/uploads/2008/02/logo_vbox.png' alt='logo_vbox.png' align="left" />Desde que comecei a utilizar o VirtualBox como solução doméstica para virtualização tenho tentado fazer minhas máquinas virtuais se comunicarem com os demais computadores da rede, até hoje não tinha tido sucesso. Sempre tentei fazer a coisa da maneira mais difícil possível. Tentando sem ler documentação não consegui chegar nem perto da solução desejada. Ontem em uma inspirada madrugada resolvi ler a documantação do VirtualBox e lá estava um capítulo explicando como fazer isto no Ubuntu e outras distribuições Linux.</p>
+
+<p>Vamos aos passos para fazer tudo funcionar.</p>
+
+<p>A primeira coisa a fazer é instalar o pacote bridge-utils</p>
+
+<p>$ sudo apt-get install bridge-utils</p>
+
+<p>Depois você deve adicionar uma entrada no arquivo /etc/network/interfaces que descreva a &#8220;ponte&#8221;. Abaixo um exemplo de uma ponte chamada br0.</p>
+
+<p>auto br0</p>
+
+<p>iface br0 inet dhcp</p>
+
+<p>bridge_ports eth0</p>
+
+<p>No exemplo temos uma rede com endereçamento IP dinâmico mas nada impede que você defina um endereço IP fixo.</p>
+
+<p>Reinicie os serviços de rede com o seguinte comando:</p>
+
+<p>$ sudo /etc/init.d/networking restart</p>
+
+<p>Com isso a ponte será iniciada mesmo reiniciando o sistema.</p>
+
+<p>Agora siga os seguintes passos que são específicos para sistemas Ubuntu e Debian:</p>
+
+<p>$ sudo apt-get install uml-utilities</p>
+
+<p>Para que o VirtualBox tenha acesso a interface, o usuário que rodará a máquina virtual deve ser adicionado ao grupo uml-net. Execute o comando abaixo substituindo <user> pelo usuário que executará a máquina virtual:</p>
+
+<p>$ sudo gpasswd -a <user> uml-net</p>
+
+<p>Será necessário logar novamente para que as permissões sejam aplicadas.</p>
+
+<p>Agora você deve descrever uma entrada TAP no arquivo /etc/network/interfaces como abaixo:</p>
+
+<p>auto tap0</p>
+
+<p>iface tap0 inet manual</p>
+
+<p>up ifconfig $IFACE 0.0.0.0 up</p>
+
+<p>down ifconfig $IFACE down</p>
+
+<p>tunctl_user <user></p>
+
+<p>Novamente substitua <user> pelo usuário que executará a máquina virtual. Altere também a linha onde está escrito &#8220;bridge_ports eth0&#8221; para que fique &#8220;bridge_ports eth0 tap0&#8221; sem as aspas.</p>
+
+<p>Reinicie os serviços de rede e a mágica estará feita.</p>
+
+<p>Como esta empreitada foi realizada durante a madrugada, podem haver algumas falhas neste tutorial. Não exite em reportar meus esquecimentos nos comentários.</p>
+
+<p>Querendo conhecer mais um pouco sobre o VirtualBox, temos um bom tutorial no blog do <a href="http://leandrosan.wordpress.com/2008/02/09/utilizando-a-caixa-virtual-a-seu-favor/">Leandro Santiago</a>.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 7 de Feb de 2008 | <a href="http://ubuntero.com.br/virtualbox-utilizando-interface-do-hospedeiro/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fvirtualbox-utilizando-interface-do-hospedeiro%2f&url=http%3a%2f%2fubuntero.com.br%2fvirtualbox-utilizando-interface-do-hospedeiro%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fvirtualbox-utilizando-interface-do-hospedeiro%2f&t=VirtualBox%20utilizando%20%e2%80%9cInterface%20do%20Hospedeiro%e2%80%9d" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fvirtualbox-utilizando-interface-do-hospedeiro%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/ajuda-para-escolher-sua-distribuicao-linux/" title="Ajuda para escolher sua distribuição Linux">Ajuda para escolher sua distribuição Linux</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Recebi o link por email mas apaguei antes de pensar em postá-lo. O site faz algumas perguntas e no final indica a melhor distribuição baseada nas respostas fornecidas.</p>
+
+<p>O link para o teste é <a href="http://www.zegeniestudios.net/ldc/index.php">http://www.zegeniestudios.net/ldc/index.php</a> e o questionário pode ser feito em vários idiomas, incluindo o Português.</p>
+
+<p><strong>OBS:</strong> Tenho um novo tutorial no forno quase pronto para sair.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 31 de Jan de 2008 | <a href="http://ubuntero.com.br/ajuda-para-escolher-sua-distribuicao-linux/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fajuda-para-escolher-sua-distribuicao-linux%2f&url=http%3a%2f%2fubuntero.com.br%2fajuda-para-escolher-sua-distribuicao-linux%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fajuda-para-escolher-sua-distribuicao-linux%2f&t=Ajuda%20para%20escolher%20sua%20distribui%c3%a7%c3%a3o%20Linux" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fajuda-para-escolher-sua-distribuicao-linux%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/canon-pixma-ip1800-no-ubuntu-gutsy/" title="Canon PIXMA iP1800 no Ubuntu">Canon PIXMA iP1800 no Ubuntu</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><strong>Artigo alterado devido a problemas com o download dos pacotes do site da canon.</strong></p>
+
+<p><strong>Testado nas versões 7.10, 8.04 e 8.10</strong></p>
+
+<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2008/01/p1013159.png" title="p1013159.png"><img src='http://www.ubuntero.com.br/wp-content/uploads/2008/01/p1013159.thumbnail.png' alt='p1013159.png' align="left" /></a>Neste final de semana ganhei uma impressora Canon PIXMA iP 1800 e tive que realizar alguns passos para que tudo funcionasse perfeitamente. Para variar um pouco, entre os drivers disponíveis no CD não estava uma versão para Linux. Tive que procurar um pouco pela internet até encontrar um tutorial que descrevesse os passos de instalação. No final da empreitada encontrei um tutorial em inglês no endereço <a href="http://ibr94.blogspot.com/2007/08/canon-pixma-ip1880-printer-in-ubuntu.html">http://ibr94.blogspot.com/2007/08/canon-pixma-ip1880-printer-in-ubuntu.html</a>.</p>
+
+<p>Veja abaixo uma tradução livre deste artigo:</p>
+
+<p>O primeiro passo é fazer o download dos seguintes pacotes:</p>
+
+<!--download id="15"-->
+
+<!--download id="16"-->
+
+<p>Agora é hora de instalar os pacotes baixados:</p>
+
+<p>sudo dpkg -i cnijfilter-common_2.70-1_i386.deb</p>
+
+<p>sudo dpkg -i cnijfilter-ip1800series_2.70-1_i386.deb</p>
+
+<p>cd /usr/lib/</p>
+
+<p>sudo ln -s ./libtiff.so.4.2.1 ./libtiff.so.3</p>
+
+<p>sudo apt-get install libpng3</p>
+
+<p>Para finalizar basta conectar os cabos da impressora no computador e ligar a impressora. O Ubuntu se encarregará de detectar a impressora e irá configurar tudo automaticamente.</p>
+
+<p>Veja a página de teste já impressa na foto abaixo.</p>
+
+<p><center>
+  <a href='http://www.ubuntero.com.br/wp-content/uploads/2008/01/p1013160.png' title='p1013160.png'><img src='http://www.ubuntero.com.br/wp-content/uploads/2008/01/p1013160.thumbnail.png' alt='p1013160.png' /></a>&nbsp;<a href='http://www.ubuntero.com.br/wp-content/uploads/2008/01/p1013161.png' title='p1013161.png'><img src='http://www.ubuntero.com.br/wp-content/uploads/2008/01/p1013161.thumbnail.png' alt='p1013161.png' /></a>
+</center></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/canon">canon</a>,   <a href="/tags/gutsy">gutsy</a>,   <a href="/tags/impressora">impressora</a>,   <a href="/tags/ip1800">ip1800</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/pixma">pixma</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 5 de Jan de 2008 | <a href="http://ubuntero.com.br/canon-pixma-ip1800-no-ubuntu-gutsy/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fcanon-pixma-ip1800-no-ubuntu-gutsy%2f&url=http%3a%2f%2fubuntero.com.br%2fcanon-pixma-ip1800-no-ubuntu-gutsy%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fcanon-pixma-ip1800-no-ubuntu-gutsy%2f&t=Canon%20PIXMA%20iP1800%20no%20Ubuntu" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fcanon-pixma-ip1800-no-ubuntu-gutsy%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/agradeco-por-ser-brasileiro/" title="Agradeço por ser brasileiro">Agradeço por ser brasileiro</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Em tempos em que a política só nos tras decepção, algumas notícias do governo nos fazem ter alguma esperança de que as coisas podem melhorar.</p>
+
+<p>No mundo da informática recebo uma ótima notícia, &#8220;<a href="http://idgnow.uol.com.br/computacao_corporativa/2007/12/14/idgnoticia.2007-12-14.7421326619/">Plenário do TSE aprova Linux nas urnas eletrônicas já em 2008</a>&#8220;.</p>
+
+<p>&#8220;A Secretaria de Tecnologia da Informação (STI) sugeriu a adoção de um sistema baseado em software livre, adaptado para a urna eletrônica, para facilitar a certificação de confiabilidade e segurança do software usado pelos terminais.&#8221;</p>
+
+<p>Esta é uma boa notícia pra começar o ano com um belo sorriso no rosto, principalemente porque eu sou mesário e tenho que conviver um ou dois dias, a cada dois anos, com as urnas eletrônicas. Quando eu ligava as urnas e via aquele Windows iniciando sempre me dava um calafrio, agora fico muito mais tranquilo.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 23 de Dec de 2007 | <a href="http://ubuntero.com.br/agradeco-por-ser-brasileiro/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fagradeco-por-ser-brasileiro%2f&url=http%3a%2f%2fubuntero.com.br%2fagradeco-por-ser-brasileiro%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fagradeco-por-ser-brasileiro%2f&t=Agrade%c3%a7o%20por%20ser%20brasileiro" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fagradeco-por-ser-brasileiro%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/final-dos-tempos/" title="Final dos tempos">Final dos tempos</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>É comum ver em fórums reclamações de usuários que não conseguem fazer algum hardware funcionar no Linux. Lendo a InfoExame deste mês tenho uma feliz surpresa. A &#8220;Bronca do Mês&#8221;, espaço onde usuários reclamam sobre algum hardware ou fabricante, tras nada mais nada menos que um problema com uma placa de TV que funciona no Linux mas não funciona no Windows. Veja a reclamação do usuário e a resposta da Pinnacle.</p>
+
+<p><strong>Reclamação</strong></p>
+
+<p>&#8220;Comprei um sintonizador de TV externo, o Pinnacle PCTV Pro USB. Não consigo fazer funcionar direito no meu micro com Windows XP, somente no que tem <strong>Linux Kubuntu 7.04</strong>. Entrei em contato com o suporte mas, depois que descobriram que o produto funcionava em outro PC, recomendaram que eu procurasse o suporte do Windows. Para tentar resolver o problema, abri uma chamada no suporte da empresa no dia 1º de outubro, que foi encerrada por eles independentemente dos meus protestos.&#8221; <strong>Guilherme Gomes Santos</strong></p>
+
+<p><strong>Resposta</strong></p>
+
+<p>&#8220;O PCTV Pro USB é totalmente compatível com o Windows XP, tanto que atualmente é usado em mais de 3 mil computadores com esse sistema. Acreditamos que o problema possa ser solucionado com a reinstalação ou atualização do Windows, já que o produto em si não apresentou defeito e funcionou corretamente em outras máquinas. Para resolver seu problema definitivamente, gostaríamos de convidá-lo a comparecer à nossa Assistência Técnica para que possamos analisar melhor o seu sistema.&#8221;</p>
+
+<p>Aos poucos os papéis estão se invertendo com um grande diferencial. Se o hardware tem driver pra linux, ele vai funcionar, nem que para isso seja necessária alguma configuração especial. Jamais você irá ver a dica &#8220;reinstale o seu linux&#8221; para que um problema destes seja resolvido.</p>
+
+<p>Achei muito interessante a InfoExame mostrar este tipo de reclamação já que sempre se mostrou tendenciosa para empresas que patrocinam a revista. Aí está mais uma boa divulgação da nossa maravilhosa distribuição Linux.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 17 de Dec de 2007 | <a href="http://ubuntero.com.br/final-dos-tempos/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ffinal-dos-tempos%2f&url=http%3a%2f%2fubuntero.com.br%2ffinal-dos-tempos%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ffinal-dos-tempos%2f&t=Final%20dos%20tempos" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ffinal-dos-tempos%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/155/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">156</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/157/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

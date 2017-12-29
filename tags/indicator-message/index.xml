@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indicator Message on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/indicator-message/</link>
+    <description>Recent content in Indicator Message on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 06 Oct 2011 14:12:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/indicator-message/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como remover os ícones de notificação no Ubuntu 11.04</title>
+      <link>http://ubuntero.com.br/como-remover-os-icones-de-notificacao-no-ubuntu-11-04/</link>
+      <pubDate>Thu, 06 Oct 2011 14:12:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-remover-os-icones-de-notificacao-no-ubuntu-11-04/</guid>
+      <description>Para alguns estes dois ícones da imagem são muito úteis, para outros nem tanto e estão ali só para ocupar espaço. Se você está na lista de pessoas que gostaria de remover um dos ícones ou até mesmo os dois, siga estes simples passos:
+Abra o terminal pressionando a tecla Super(logotipo do windows), digite &amp;#8220;terminal&amp;#8221; e pressione Enter.
+Para remover apenas o primeiro ícone digite o comando:
+sudo apt-get remove indicator-message   Para remover apenas o segundo ícone, digite o comando: sudo apt-get remove indicator-me  Para remover os dois de uma vez só digite o comando: sudo apt-get remove indicator-me indicator-messages  &amp;nbsp;  Fonte: Short IT recipes.</description>
+    </item>
+    
+  </channel>
+</rss>

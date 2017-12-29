@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global Jam on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/global-jam/</link>
+    <description>Recent content in Global Jam on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 20 Mar 2013 00:31:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/global-jam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #19 – Mir, Ubuntu Touch e Global Jam</title>
+      <link>http://ubuntero.com.br/opencast-19-mir-ubuntu-touch-e-global-jam/</link>
+      <pubDate>Wed, 20 Mar 2013 00:31:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-19-mir-ubuntu-touch-e-global-jam/</guid>
+      <description>Voltamos enfim para mais um episódio do Opencast. Neste episódio falamos sobre o servidor gráfico da Canonical, o Mir, Ubuntu Touch Developer Preview e Ubuntu Global Jam Brazil 2013. Vamos tentar deixar o episódio sem música, além da abertura, e sem transições entre os assuntos e vocês nos dizem o que acharam.
+Não se acostumem, os episódios irão ao ar quinzenalmente nas quartas-feiras, apenas hoje saiu na terça.
+Links do episódio  Novo Servidor Gráfico para o Ubuntu Servidor Gráfico do Android &amp;#8211; SurfaceFinger Gnome considera acelerar suporte ao Wayland Ubuntu Touch Developer Preview Videocast 26 &amp;#8211; Galaxy X e Ubuntu Phone Vakinha para compra de um Galaxy X Ubuntu Touch pela equipe do Ubuntu-BR-SC Imagens diárias para o Ubuntu Touch Ubuntu Touch portado para novos aparelhos Site Ubuntued Canal do Youtube com hangouts do Ubuntu SDK e outros vídeos também.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Global Jam Brazil 2013</title>
+      <link>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013-2/</link>
+      <pubDate>Thu, 07 Mar 2013 11:59:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013-2/</guid>
+      <description>Como anunciado anteriormente, o Ubuntu Global Jam Brazil 2013 foi realizado no dia 02 de março de 2013. O evento aconteceu com transmissão pelo Google Hangout que permite a transmissão ao vivo pelo Youtube e perguntas puderam ser feitas pelo canal #ubuntu-br no IRC.
+A audiência foi de aproximadamente 500 pessoas pelo Youtube e 100 pessoas pelo IRC. Se você perdeu alguma apresentação, assista a gravação.
+ [conselhobrasil] Introduction to Ubuntu Global Jam Brazil 2013 [ivanbrasil] How to use IRC?</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Global Jam Brazil 2013</title>
+      <link>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013/</link>
+      <pubDate>Thu, 28 Feb 2013 15:04:38 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013/</guid>
+      <description>Neste fim de semana será realizada mais uma edição do Ubuntu Global Jam Brazil. O evento será on-line e transmitido via YouTube, acessível através da página abaixo, e os espectadores poderão se comunicar com os palestrantes através do canal #ubuntu-br na rede Freenode do IRC. O objetivo do evento é fortalecer os trabalhos da comunidade Ubuntu no país.
+Acessar página do Ubuntu Global Jam Brazil
+O Global Jam será realizado no dia 02 de março de 2013 e terá início às 09:00, no horário de Brasília, com previsão de término às 17:00, sendo que teremos intervalo de uma hora para o almoço e algumas pausas entre as apresentações 🙂</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nautilus on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/nautilus/</link>
+    <description>Recent content in Nautilus on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 25 Aug 2013 13:34:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/nautilus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #42 – Primeiros passos no Ubuntu – Vídeo 6</title>
+      <link>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</link>
+      <pubDate>Sun, 25 Aug 2013 13:34:20 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-42-primeiros-passos-no-ubuntu-video-6/</guid>
+      <description>Algo que leio bastante por fórums e listas é a dificuldade em se compartilhar pastas na rede utilizando o Ubuntu, o que realmente não consigo entender. Para facilitar a vida de todos, este vídeo mostra a maneira simples de se acessar e fazer compartilhamento. Não é necessário fazer configurações mirabolantes no samba, isso é coisa para compartilhamentos avançados e não para simples compartilhamentos.
+ Assistir no Youtube Viu como é fácil e não precisa nem abrir o terminal?</description>
+    </item>
+    
+    <item>
+      <title>Área de Trabalho mostrando arquivos da pasta pessoal</title>
+      <link>http://ubuntero.com.br/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</link>
+      <pubDate>Tue, 20 Aug 2013 14:32:11 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/area-de-trabalho-mostrando-arquivos-da-pasta-pessoal/</guid>
+      <description>Ainda não encontrei o que gerou o problema, mas eu estava com minha área de trabalho mostrando os arquivos e pastas da pastas pessoal. Isto aconteceu após voltar o Ubuntu da versão 13.10 para a 13.04 mantendo a mesma partição home que também havia sido utilizada pelo Elementary OS(não estou dizendo que a culpa é do Elementary OS).
+Uma breve busca pelos arquivos de configuração do sistema e o problema foi resolvido.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #17 – Notícias</title>
+      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
+Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
+    </item>
+    
+    <item>
+      <title>Mais funções para o menu “Pasta pessoal”</title>
+      <link>http://ubuntero.com.br/mais-funcoes-para-o-menu-pasta-pessoal/</link>
+      <pubDate>Mon, 31 Oct 2011 10:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/mais-funcoes-para-o-menu-pasta-pessoal/</guid>
+      <description>O Menu Pasta pessoal, aquele que abre o gerenciador de arquivos, tem uma única função que não é sempre a mais útil. Neste botão do lançador do Unity apenas uma pasta pode ser aberta, mas repetidas vezes precisamos abrir outras pastas que estão na pasta pessoal.
+Para resolver este pequeno problema, adicionando as pastas, Vídeos, Imagens, Documentos e Downloads abra o terminal pressionando as teclas Ctrl+Alt+t e colando o conteúdo abaixo e pressionando Enter.</description>
+    </item>
+    
+    <item>
+      <title>Pré-visualização de arquivos</title>
+      <link>http://ubuntero.com.br/pre-visualizacao-de-arquivos/</link>
+      <pubDate>Sat, 29 Oct 2011 13:54:02 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/pre-visualizacao-de-arquivos/</guid>
+      <description>Uma coisa que ficou de fora tanto do Gnome Shell quanto do Unity é a pré-visualização dos arquivos. Esta é uma função muito importante, pois podemos ver o conteúdo de textos, imagens, vídeos e músicas sem precisar abrir o programa específico para cada tipo de arquivo.
+Para termos esta função novamente a dica é bem simples. Abra o terminal pressionando as teclas Ctrl+Alt+t e digitando o comando abaixo:
+sudo apt-get install gnome-sushi Agora sempre que quiser visualizar o conteúdo de um arquivo sem abrir ele, basta selecionar o arquivo e pressionar a barra de espaço.</description>
+    </item>
+    
+    <item>
+      <title>Usando atalhos, economizando tempo.</title>
+      <link>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</link>
+      <pubDate>Fri, 28 Jan 2011 16:38:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/usando-atalhos-economizando-tempo/</guid>
+      <description>Segundo um famoso dicionário eletrônico, atalho significa Caminho fora da estrada principal, pelo qual se encurtam distâncias.
+Bem, como podemos incluir a palavra atalho no nosso meio? Ou seja, como podemos falar de atalho na área da informática?
+Essa pergunta é fácil de ser respondida. Acredito que a maioria dos usuários de Sistemas Operacionais utilizam atalhos. Seja na forma de ícones na área de trabalho ou simplesmente usando combinações de teclas.</description>
+    </item>
+    
+  </channel>
+</rss>

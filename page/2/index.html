@@ -1,0 +1,499 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/" title="Apt-get upgrade ou dist-upgrade?">Apt-get upgrade ou dist-upgrade?</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Para quem utiliza o terminal, mesmo que já tenha alguma experiência, a palavra dist-upgrade ainda gera bastante confusão e, ao contrário do que muita gente imagina, não vai atualizar sua distribuição para uma versão mais nova como por exemplo da 14.10 para a 15.04.</p>
+
+<p>Para auxiliar nesta explicação, vou apelar para o manual do comando(man apt-get):</p>
+
+<blockquote>
+<p>upgrade</p>
+
+<p>upgrade é usado para instalar as versões mais recentes de todos os pacotes presentemente instalados no sistema a partir das fontes enumeradas em /etc/apt/sources.list. Os pacotes presentemente instalados com versões novas são obtidos e instalados; em nenhumas circunstâncias os pacotes presentemente instalados serão removidos, nem pacotes já  instalados serão obtidos e instalados.Os pacotes presentemente instalados com novas versões e que não possam ser atualizados sem alterarem o estado da instalação de outro pacote serão deixados na versão presente. Deve ser executado primeiro um update para que o apt-get fique a saber que estão disponíveis novas versões de pacotes.</p>
+
+<p>dist-upgrade</p>
+
+<p>dist-upgrade adicionalmente a executar a função do upgrade, também lida inteligentemente com as alterações de dependências com as novas versões de pacotes; o apt-get tem um sistema de resolução de conflitos &#8216;inteligente&#8217;, que irá tentar atualizar os pacotes mais importantes a custo dos pacotes menos importantes, caso necessário. Portanto, o comando dist-upgrade pode remover alguns pacotes. O ficheiro /etc/apt/sources.list contém uma lista de localizações de onde obter os ficheiros de pacotes desejados. Veja também apt_preferences(5) para um mecanismo para sobrepor as definições gerais em pacotes individuais.</p>
+</blockquote>
+
+<p>Resumindo: Os dois comandos irão atualizar os pacotes já instalados no seu sistema, porém o dist-upgrade é mais completo e inteligente. Provavelmente você terá menos problemas futuros se utilizar o dist-upgrade ao invés de utilizar apenas o upgrade.</p>
+
+<p>Ainda ficou alguma dúvida sobre as duas opções do comando apt-get? Mande sua pergunta nos comentários que responderemos assim que possível.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/apt-get">apt-get</a>,   <a href="/tags/dist-upgrade">dist-upgrade</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/terminal">terminal</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/upgrade">upgrade</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 21 de Jun de 2015 | <a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fapt-get-upgrade-ou-dist-upgrade%2f&url=http%3a%2f%2fubuntero.com.br%2fapt-get-upgrade-ou-dist-upgrade%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fapt-get-upgrade-ou-dist-upgrade%2f&t=Apt-get%20upgrade%20ou%20dist-upgrade%3f" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fapt-get-upgrade-ou-dist-upgrade%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/videos-h-265-no-ubuntu/" title="Vídeos H.265 no Ubuntu">Vídeos H.265 no Ubuntu</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2015/05/vídeo-h.265-no-ubuntu.png"><img class="aligncenter size-medium wp-image-6892" src="http://www.ubuntero.com.br/wp-content/uploads/2015/05/vídeo-h.265-no-ubuntu-300x253.png" alt="vídeo h.265 no ubuntu" width="300" height="253" /></a></p>
+
+<p>Olá pessoal, estavam com saudades? Aos poucos a vida se arruma, eu tomo vergonha na cara e voltamos as atividades normais.</p>
+
+<p>Como o tempo é sempre curto, nunca consigo acompanhar minhas séries favoritas nos horários em que são exibidas na televisão e como não sou nenhum magnata para pagar televisão a cabo e netflix, acabo que tenho que encontrar alternativas para assistir ao conteúdo que gosto. Em uma destas alternativas acabei esbarrando em alguns episódios codificados em H.265, dizem as más linguas que será o sucessor do h.264, e claro que não foi automático para meu Ubuntu 14.04 dar play no vídeo, apenas o áudio funcionou.</p>
+
+<p>Como não sou de me conformar, fui para a internet e encontrei um PPA que resolveu meu problema. Veja abaixo como adicionar o suporte a H.265 no seu Ubuntu também.</p>
+
+<p>Para sermos mais práticos(dá para fazer só usando a interface gráfica, mas no terminal é mais rápido) abra o terminal pressionando as teclas Ctrl+Alt+t.</p>
+
+<p>Com o terminal aberto, digite os seguintes comandos(sempre dando Enter no final de cada linha):</p>
+
+<pre class="brush:shell">sudo apt-add-repository ppa:strukturag/libde265
+sudo apt-get update
+sudo apt-get install gstreamer0.10-libde265 gstreamer1.0-libde265 vlc-plugin-libde265</pre>
+
+<p>Pronto, agora é só curtir o seu vídeo em H.265, simples assim.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/codec">codec</a>,   <a href="/tags/h265">h265</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/v%C3%ADdeo">Vídeo</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 31 de May de 2015 | <a href="http://ubuntero.com.br/videos-h-265-no-ubuntu/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fvideos-h-265-no-ubuntu%2f&url=http%3a%2f%2fubuntero.com.br%2fvideos-h-265-no-ubuntu%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fvideos-h-265-no-ubuntu%2f&t=V%c3%addeos%20H.265%20no%20Ubuntu" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fvideos-h-265-no-ubuntu%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/tarefa-cancelada-fim-dos-trabalhos/" title="[Tarefa cancelada] Fim dos trabalhos">[Tarefa cancelada] Fim dos trabalhos</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Se o título não foi o bastante, vou deixar mais claro. O fim dos trabalhos do <a href="http://tecnologiaaberta.com.br/">tecnologiaaberta.com.br</a> e <a href="http://ubuntero.com.br">ubuntero.com.br</a> foi cancelado. Isto foi possível graças a todos que gostam do conteúdo que já foi criado e que ainda será criado para os sites.</p>
+
+<p>Minha intenção com a última postagem não era pedir dinheiro para manter o site, por isso já escrevi pedindo para alguém assumir eles e botei os valores para que todos soubessem o quanto custava manter os sites(claro que ainda tem o custo to tempo para manter tudo em ordem).</p>
+
+<p>Várias pessoas entraram em contato oferecendo algum tipo de ajuda e todos receberão suas respostas, mas o mais importante é todos saberem que tudo permanecerá no ar e o Opencast, voltará a ser publicado. Teremos a estreia de fato da Tecnologia Aberta TV e nossas postagens também voltarão.</p>
+
+<p>Fiquem de olho que a partir da próxima semana estaremos de volta.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 16 de Apr de 2015 | <a href="http://ubuntero.com.br/tarefa-cancelada-fim-dos-trabalhos/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ftarefa-cancelada-fim-dos-trabalhos%2f&url=http%3a%2f%2fubuntero.com.br%2ftarefa-cancelada-fim-dos-trabalhos%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ftarefa-cancelada-fim-dos-trabalhos%2f&t=%5bTarefa%20cancelada%5d%20Fim%20dos%20trabalhos" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ftarefa-cancelada-fim-dos-trabalhos%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/fim-dos-trabalhos/" title="Fim dos trabalhos">Fim dos trabalhos</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Olá a todos.</p>
+
+<p>Muitos devem estar se perguntando o que está acontecendo que não temos mais postagens no site ou por que o Opencast parou de ser publicado.</p>
+
+<p>Até tentamos marcar algumas gravações do Opencast durante este tempo parado, mas acabamos não conseguindo conciliar nossas agendas.</p>
+
+<p>O que acontece é que estou passando por instabilidade financeira e não tenho como gastar nem 10 reais para manter os sites no ar, mesmo sem atualizações.</p>
+
+<p>Por isso, assim que terminar a vigência das mensalidades já pagas para manter o site(também estão vencendo as anuidades dos domínios), os dois sairão do ar.</p>
+
+<p>Antes de simplesmente sair, estou deixando a disposição os dois sites para quem tiver a disponibilidade de mantê-los não só com conteúdo, mas com dinheiro também.</p>
+
+<p>O custo para manter o site é de R$ 23,90 mensais + R$ 30,00 anuais pela mensalidade de hospedagem e anuidade do domínio, respectivamente, para o tecnologiaaberta.com.br.</p>
+
+<p>Para o ubuntero.com.br o custo é de R$ 20,00 mensais + R$ 30,00 anuais pela mensalidade de hospedagem e anuidade do domínio, respectivamente.</p>
+
+<p>Pode parecer pouco, mas no momento é bastante para mim. Já tentamos manter o site com a venda de produtos pela loja <a href="http://www.vitrinepix.com.br/ubuntero">www.vitrinepix.com.br/ubuntero</a> mas o retorno foi praticamente zero.</p>
+
+<p>Até logo e obrigado pelos peixes.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 2 de Apr de 2015 | <a href="http://ubuntero.com.br/fim-dos-trabalhos/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ffim-dos-trabalhos%2f&url=http%3a%2f%2fubuntero.com.br%2ffim-dos-trabalhos%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ffim-dos-trabalhos%2f&t=Fim%20dos%20trabalhos" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ffim-dos-trabalhos%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/fim-do-opencast/" title="Fim do Opencast">Fim do Opencast</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Calma, este é o fim do Opencast no site Ubuntero. Como já avisamos tantas outras vezes, o Opencast será publicado única e exclusivamente no site <a href="http://tecnologiaaberta.com.br/category/opencast/">Tecnologia Aberta</a>.</p>
+
+<p>Corre para lá que tem episódio novo.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/end">end</a>,   <a href="/tags/fim">fim</a>,   <a href="/tags/opencast">Opencast</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 7 de Nov de 2014 | <a href="http://ubuntero.com.br/fim-do-opencast/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ffim-do-opencast%2f&url=http%3a%2f%2fubuntero.com.br%2ffim-do-opencast%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ffim-do-opencast%2f&t=Fim%20do%20Opencast" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ffim-do-opencast%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">2</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/3/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

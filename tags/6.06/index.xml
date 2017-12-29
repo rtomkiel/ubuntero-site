@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6.06 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/6.06/</link>
+    <description>Recent content in 6.06 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 03 Jul 2006 11:00:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/6.06/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</title>
+      <link>http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/</link>
+      <pubDate>Mon, 03 Jul 2006 11:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/</guid>
+      <description>Neste aspecto o Ubuntu me fez um usuário muito feliz no primeiro momento. A algumas versões anteriores venho tentando fazer minha placa de vídeo ATI Radeon 9600 Pro funcionar. Até esta nova versão só tinha conseguido fazer o backup do xorg.conf e restaurar após não ter sucesso.
+Nesta nova versão resolvi instalar os drivers novamente, mesmo achando que não ia dar certo e eu teria que voltar ao rotineiro backup do xorg.</description>
+    </item>
+    
+    <item>
+      <title>Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</title>
+      <link>http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</link>
+      <pubDate>Sat, 01 Jul 2006 00:28:52 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/</guid>
+      <description>Começando um pouco atrasado mas começando.
+Dia primeiro de junho foi lançada a nova versão do Ubuntu Linux 6.06 Dapper Drake. Desde este dia estou usando esta versão que conseguiu me surpreender.
+A primeira grande mudança desta versão já aparece na hora de instalar o Ubuntu. Desta vez não temos mais uma versão &amp;#8220;Live CD&amp;#8221; separada da versão de instalação. Um ícone no desktop começaa todo o processo de instalação que também está muito mais simplificado e intuitivo.</description>
+    </item>
+    
+    <item>
+      <title>Caixa preta</title>
+      <link>http://ubuntero.com.br/caixa-preta/</link>
+      <pubDate>Thu, 29 Jun 2006 16:26:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/caixa-preta/</guid>
+      <description>Sei que prometi que este post seria sobre minhas impressões sobre o Ubuntu 6.06(Dapper Drake). Infelizmente para uns, felizmente para outros, não podemos mandar no que pensamos. Vamos logo ao texto.
+Duas caixas estão sendo oferecidas no mercado(você precisa ter uma delas). Qual você escolheria?
+ Uma é preta, como as caixas pretas de aviões. Totalmente blindada e protegida, essa caixa só deve ser aberta pelos proprietários do avião ou por autoridades devidamente munidas de autorizações judiciais.</description>
+    </item>
+    
+    <item>
+      <title>Começando</title>
+      <link>http://ubuntero.com.br/comecando/</link>
+      <pubDate>Mon, 26 Jun 2006 23:36:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comecando/</guid>
+      <description>Estou começando agora com este blog. Espero ter muito o que escrever.
+Aqui você vai encontrar pouca coisa sobre mim. Vou escrever mais sobre as coisas que faço no computador. Os assuntos mais normais serão relacionados com linux, mais especificamente sobre Ubuntu Linux.
+Daqui a pouco eu posto alguma coisa. Acho que vou começar com as minhas impressões sobre o Ubuntu 6.06. Também pretendo falar sobre a comunidade Ubuntu-br que está fazendo um grande trabalho na tradução de todas as versões do Ubuntu e vem mantendo um Wiki muito bom totalmente em português .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravação De Chamadas on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-de-chamadas/</link>
+    <description>Recent content in Gravação De Chamadas on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 18 Jan 2011 12:00:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-de-chamadas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como gravar suas conversas do skype</title>
+      <link>http://ubuntero.com.br/como-gravar-suas-conversas-do-skype/</link>
+      <pubDate>Tue, 18 Jan 2011 12:00:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-gravar-suas-conversas-do-skype/</guid>
+      <description>Pensando em algumas novidades para o Ubuntero, fui atras de alguns programas para gravação de conversas pelo skype. A procura não foi difícil, logo na primeira página de busca encontrei o que eu desejava, e o melhor, encontrei um PPA. O programa se chama &amp;#8220;Skype Call Recorder&amp;#8221;.
+Para instalar abra o terminal e digite, ou copie e cole os comandos abaixo:
+sudo add-apt-repository ppa:dajhorn/skype-call-recorder sudo apt-get update sudo apt-get install skype-call-recorder Para utilizar o programa esteja com o Skype aberto e vá no menu Aplicativos -&amp;gt; Internet -&amp;gt; Skype Call Recorder.</description>
+    </item>
+    
+  </channel>
+</rss>

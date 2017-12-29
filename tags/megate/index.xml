@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megate on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/megate/</link>
+    <description>Recent content in Megate on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 18 Jan 2011 19:15:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/megate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clonando o ubuntu</title>
+      <link>http://ubuntero.com.br/clonado-o-ubuntu/</link>
+      <pubDate>Tue, 18 Jan 2011 19:15:53 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/clonado-o-ubuntu/</guid>
+      <description>As vezes migrar/clonar é o caminho, seja por problemas de hardware, invasões, corrompimento de sistema de arquivos, um &amp;#8220;rm -rf&amp;#8221; mal feito(kkk).. etc
+É claro os pacotes, são só os pacotes, temos os dados e as configurações, não é o caso, retrataremos aqui, apenas a seleção de pacotes, mas torcemos pela integridade dos seus backups ;).
+pre-requisito:
+1- S.O. origem/destino identicos, versão, arquitetura, etc
+2- Mesma lista de Repositórios e é claro sudo apt-get update</description>
+    </item>
+    
+  </channel>
+</rss>

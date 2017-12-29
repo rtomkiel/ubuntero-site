@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apport on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/apport/</link>
+    <description>Recent content in Apport on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Jul 2012 17:00:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/apport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desabilitar o notificador de bugs</title>
+      <link>http://ubuntero.com.br/desabilitar-o-notificador-de-bugs/</link>
+      <pubDate>Mon, 02 Jul 2012 17:00:26 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/desabilitar-o-notificador-de-bugs/</guid>
+      <description>A dica deste artigo deve ser usada em casos bem específicos, já que o mínimo que se espera de alguém que usa um sistema gratuito é que os problemas que venham a acontecer sejam relatados aos desenvolvedores. Um caso onde a dica até deve ser utilizada é durante a presentações de palestras ou aulas.
+Para desabilitar a notificação de bugs é necessário editar um arquivo e para isto tecle Alt+F2 e digite o seguinte comando:</description>
+    </item>
+    
+  </channel>
+</rss>

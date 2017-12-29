@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminário on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/semin%C3%A1rio/</link>
+    <description>Recent content in Seminário on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 21 Aug 2013 11:29:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/semin%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013</title>
+      <link>http://ubuntero.com.br/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</link>
+      <pubDate>Wed, 21 Aug 2013 11:29:36 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/seminario-de-tecnologia-em-software-livre-tchelinux-caxias-do-sul-2013/</guid>
+      <description>O grupo Tchelinux, em parceria com a FTEC Caxias do Sul, tem o prazer de convidar a comunidade, independente do nível de conhecimento e experiência com a tecnologia, software livre e áreas afins, para participarem do Seminário de Tecnologia em Software Livre Tchelinux Caxias do Sul 2013.
+Inscrições Com o objetivo de estimular a caridade e a boa vontade, o Tchelinux tradicionalmente não cobra um valor monetário para admissão em seus eventos, mas sim pede que cada participante doe 2kg de alimentos não perecíveis (exceto sal), que serão recolhidos no ato do credenciamento e doados a uma instituição local a ser definida.</description>
+    </item>
+    
+    <item>
+      <title>Aberta chamada de trabalhos para o Seminário Tchelinux em Erechim</title>
+      <link>http://ubuntero.com.br/aberta-chamada-de-trabalhos-para-o-seminario-tchelinux-em-erechim/</link>
+      <pubDate>Tue, 01 Mar 2011 11:00:56 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/aberta-chamada-de-trabalhos-para-o-seminario-tchelinux-em-erechim/</guid>
+      <description>Está aberta a chamada de trabalhos para o Seminário Tchelinux em Erechim. O evento será realizado no dia 30 de abril de 2011 nas dependências do Senac.
+Os interessados em apresentar palestras devem preencher o formulário disponível no Google Forms.
+No dia do evento teremos disponíveis computadores e projetores para a apresentação das palestras. Caso precise de algum material específico, nos informe no formulário no campo apropriada para tentarmos disponibilizar tal material.</description>
+    </item>
+    
+  </channel>
+</rss>

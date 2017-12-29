@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gibon on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/gibon/</link>
+    <description>Recent content in Gibon on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 12 Mar 2008 17:11:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/gibon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CD’s Ubuntu Server</title>
+      <link>http://ubuntero.com.br/cds-ubuntu-server/</link>
+      <pubDate>Wed, 12 Mar 2008 17:11:08 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/cds-ubuntu-server/</guid>
+      <description>Algo muito estranho aconteceu hoje. Cheguei no trabalho e me entregaram um pacote da Canonical contendo 10 CD&amp;#8217;s do Ubuntu Server 7.10. Os CD&amp;#8217;s foram enviados para o endereço da empresa onde trabalho e no meu nome, até o telefone da empresa eles informaram corretamente. O que há de estranho nisso? Eu jamais pedi estes CD&amp;#8217;s e muito menos informei o endereço da empresa onde trabalho, muito menos o telefone.</description>
+    </item>
+    
+  </channel>
+</rss>

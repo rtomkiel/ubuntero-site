@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showdown on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/showdown/</link>
+    <description>Recent content in Showdown on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 04 Oct 2013 12:22:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/showdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vencedores do concurso para desenvolvedores</title>
+      <link>http://ubuntero.com.br/vencedores-do-concurso-para-desenvolvedores/</link>
+      <pubDate>Fri, 04 Oct 2013 12:22:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/vencedores-do-concurso-para-desenvolvedores/</guid>
+      <description>Lembam do concurso para desenvolvedores lançado pela Canonical no início de agosto? Já temos os vencedores.
+Teve de tudo na submissão de aplicativos, de jogos a softwares de produtividade. Alguns aplicativos foram ports de outras plataformas, mas a grande maioria foram aplicativos novos desenvolvidos especificamente para o Ubuntu Touch. Todos os aplicativos estão disponíveis para download e instalação na nova loja para dispositivos móveis, Click, e podem ser testados por quem tem um dispositivo Nexus com o Ubuntu Touch instalado.</description>
+    </item>
+    
+  </channel>
+</rss>

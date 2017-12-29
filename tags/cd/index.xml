@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cd on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/cd/</link>
+    <description>Recent content in Cd on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Apr 2012 18:12:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/cd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Divulgada a arte dos CD’s do Ubuntu 12.04</title>
+      <link>http://ubuntero.com.br/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</link>
+      <pubDate>Sun, 01 Apr 2012 18:12:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/divulgada-a-arte-dos-cds-do-ubuntu-12-04/</guid>
+      <description>Seguindo o mesmo padrão da versão anterior, aí está a arte das capas do Ubuntu 12.04 e da impressão nos CD&amp;#8217;s.
+   Fonte: OMG Ubuntu </description>
+    </item>
+    
+    <item>
+      <title>O fim do shipit como o conhecemos</title>
+      <link>http://ubuntero.com.br/o-fim-do-shipit-como-o-conhecemos/</link>
+      <pubDate>Tue, 05 Apr 2011 19:15:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/o-fim-do-shipit-como-o-conhecemos/</guid>
+      <description>Shipit chega ao fim É com algum pesar que estamos anunciando o fim do programa Shipit e do programa de distribuição do CD. Quando começamos em 2005 o ShipIt, a banda larga ainda era uma promessa de marketing, mesmo nos países mais conectados e mais desenvolvidos. Sabíamos que isso representava um bloco significativo de obstáculo para a adoção de uma nova tecnologia como o Ubuntu. Então, nós investimos em fazer o CD gratuitamente e livremente entregues em qualquer lugar do mundo.</description>
+    </item>
+    
+    <item>
+      <title>Como gravar uma imagem .iso?</title>
+      <link>http://ubuntero.com.br/como-gravar-uma-imagem-iso/</link>
+      <pubDate>Mon, 03 Jan 2011 15:43:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-gravar-uma-imagem-iso/</guid>
+      <description>Ao contrário do que algumas pessoas imaginam, um arquivo com a extensão iso não deve ser descompactada como um simples arquivo zip ou rar. Embora os programas de compactação consigam abrir arquivos .iso, estes arquivos não são simples arquivos compactados e não devem ser tratados com tal.
+Um arquivo .iso é uma imagem de CD/DVD e deve ser gravada na mídia adequada com as ferramentas disponibilizadas por um programa de gravação.</description>
+    </item>
+    
+    <item>
+      <title>DVD riscado e seu drive não consegue mais ler?</title>
+      <link>http://ubuntero.com.br/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</link>
+      <pubDate>Mon, 03 Jan 2011 02:37:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</guid>
+      <description>Neste final de semana passei por esta situação com um DVD importante para seu proprietário. Os dados no DVD eram muito importante e uma cópia de segurança era extremamente necessária, no entanto a cópia não foi feita a tempo e a mídia já estava totalmente riscada.
+Como solução imediata pensei no comando &amp;#8220;dd&amp;#8221; no terminal, mas para minha surpresa eu conseguia copiar apenas 4.9 MB de dados antes de receber a mensagem de que a mídia estava com defeito.</description>
+    </item>
+    
+    <item>
+      <title>CD’s Ubuntu Server</title>
+      <link>http://ubuntero.com.br/cds-ubuntu-server/</link>
+      <pubDate>Wed, 12 Mar 2008 17:11:08 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/cds-ubuntu-server/</guid>
+      <description>Algo muito estranho aconteceu hoje. Cheguei no trabalho e me entregaram um pacote da Canonical contendo 10 CD&amp;#8217;s do Ubuntu Server 7.10. Os CD&amp;#8217;s foram enviados para o endereço da empresa onde trabalho e no meu nome, até o telefone da empresa eles informaram corretamente. O que há de estranho nisso? Eu jamais pedi estes CD&amp;#8217;s e muito menos informei o endereço da empresa onde trabalho, muito menos o telefone.</description>
+    </item>
+    
+  </channel>
+</rss>

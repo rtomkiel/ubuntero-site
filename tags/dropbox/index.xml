@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dropbox on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/dropbox/</link>
+    <description>Recent content in Dropbox on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 04 Nov 2013 18:02:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/dropbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ícone do Dropbox no Ubuntu 13.10</title>
+      <link>http://ubuntero.com.br/icone-do-dropbox-no-ubuntu-13-10/</link>
+      <pubDate>Mon, 04 Nov 2013 18:02:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/icone-do-dropbox-no-ubuntu-13-10/</guid>
+      <description>Não utilizo o Dropbox por dois motivos, apenas 2 GB de armazenamento e por ter o UbuntuOne com 6 GB disponíveis para mim. Mesmo assim, sei que muitos de vocês são usuários dele e muitos estão com problema no Ubuntu 13.10. O problema é que o ícone não aparece na bandeja do sistema.
+Haters vão dizer:
+&amp;#8220;Viu como o Ubuntu é bugado?!&amp;#8221;
+Sinto informar que o bug é exclusivo do Dropbox que não adiciona uma dependência em seu pacote.</description>
+    </item>
+    
+  </channel>
+</rss>

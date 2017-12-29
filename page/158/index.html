@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/firebird-154-cs-e-ubuntu/" title="Firebird 1.5 CS e Ubuntu">Firebird 1.5 CS e Ubuntu</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><strong>Artigo alterado: versão atual do firebird é 1.5.5, então o artigo teve esta informação atualizada.</strong></p>
+
+<p>A alguns dias atras tive um grande problema com os pacotes do SGBD Firebird 1.5 Classic Server disponíveis nos repositórios do Ubuntu. A instalação dos pacotes ocorria perfeitamente sem nenhuma mensagem de erro. Antes de instalar o Firebird, já tinha instalado o xinetd para que os processos fossem lançados da maneira correta. Os scripts eram eram gerados corretamente e o xinetd era iniciado, no entanto os processos do firebird não iniciavam.</p>
+
+<p>Passei um dia inteiro encima deste problema até que consegui a ajuda de duas almas caridosas. Pedi a um amigo(Piccoli) se ele tinha alguma idéia e ele pediu ajuda a uma lista de discussão a qual ele participa e de lá veio a solução.</p>
+
+<p>Meu salvador foi Eduardo Jedliczka que sugeriu o seguinte:</p>
+
+<ul>
+<li>Baixar o pacote RPM do <a href="http://www.firebirdsql.org/index.php?op=files&amp;id=engine_155">site do Firebird</a></li>
+<li>apt-get install ssh xinetd libstdc++5 alien rpm</li>
+<li>useradd firebird (com senha firebird)</li>
+<li>alien firebirdcs-1.5.5.4926-1.i386.rpm &#8211;scripts</li>
+<li>dpkg –i firebirdcs-1.5.5.4926-1.i386.deb</li>
+<li>cd /opt/firebird/bin</li>
+<li>./CSrestoreRootRunUser.sh</li>
+<li>./changeDBAPassword.sh</li>
+</ul>
+
+<p>Estes passos foram testados e funcionaram perfeitamente no servidor em questão.</p>
+
+<p>Se vocês está se perguntando porque eu fazia questão de instalar a versão Classic Server, a versão Classic Server inicia um processo para cada conexão feita ao banco. Isto faz com que conexões demoradas não tomem o processador todo para si, repartindo tempos de processador com outras conexões, ao contrário da versão Super Server que tem um único processo que apesar de executar mais rápido, trava o processador até concluir a execução da conexão.</p>
+
+<p>No caso do sistema desenvolvido pela empresa onde trabalho, existem alguns relatórios que são muito demorados e que ficam alguns minutos sendo processados. A versão Super Server tornaria o trabalho dos outros usuários um inferno(isso já foi testado). A maior vantagem do Super Server é a facilidade de instalação, o que não é mais problema depois deste &#8220;mini-manual&#8221;.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 6 de Dec de 2007 | <a href="http://ubuntero.com.br/firebird-154-cs-e-ubuntu/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ffirebird-154-cs-e-ubuntu%2f&url=http%3a%2f%2fubuntero.com.br%2ffirebird-154-cs-e-ubuntu%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ffirebird-154-cs-e-ubuntu%2f&t=Firebird%201.5%20CS%20e%20Ubuntu" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ffirebird-154-cs-e-ubuntu%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/drivers-ati/" title="Drivers ATI">Drivers ATI</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Os resultados da liberação da especificação das placas de vídeo da ATI começam a dar seus primeiros frutos. Uma primeira versão do driver já está disponível. As funcionalidades básicas das placas foram implementadas mas ainda não temos aceleração 2D ou 3D.</p>
+
+<p>As primeiras funcionalidades implementadas são:</p>
+
+<ul>
+<li>Capacidade de gerenciar múltiplos monitores</li>
+<li>Suporte para VGA, DVI, DMS-59 e laptop panels</li>
+<li>Suporte a detecção de monitor hotplug, DDC, e reconfiguração dinâmica</li>
+<li>Compatibilidade completa com RandR 1.2</li>
+<li>Suporte a AtomBIOS para inicialização, tabelas de dados, etc</li>
+<li>Suporte as mais novas proprietades do RandR 1.3</li>
+<li></li>
+</ul>
+
+<p>Infelizmente este driver está sendo escrito somente para os modelos mais novos da ATI e a minha Radeon 9600 Pro não está nesta lista.</p>
+
+<p>Abaixo a lista das placas suportadas:</p>
+
+<ul>
+<li>RV505: Radeon X1550, X1550 64bit</li>
+<li>RV515: Radeon X1300, X1550, X1600; FireGL V3300, V3350</li>
+<li>RV516: Radeon X1300, X1550, X1550 64-bit, X1600; FireMV 2250</li>
+<li>R520: Radeon X1800; FireGL V5300, V7200, V7300, V7350</li>
+<li>RV530: Radeon X1300 XT, X1600, X1600 Pro, X1650; FireGL V3400, V5200</li>
+<li>RV535: Radeon X1300, X1650</li>
+<li>RV550: Radeon X2300 HD</li>
+<li>RV560: Radeon X1650</li>
+<li>RV570: Radeon X1950, X1950 GT; FireGL V7400</li>
+<li>R580: Radeon X1900, X1950; AMD Stream Processor</li>
+<li>R600: Radeon HD 2900 GT/Pro/XT; FireGL V7600/V8600/V8650</li>
+<li>RV610: Radeon HD 2350, HD 2400 Pro/XT, HD 2400 Pro AGP; FireGL V4000</li>
+<li>V630: Radeon HD 2600 LE/Pro/XT, HD 2600 Pro/XT AGP; Gemini RV630; FireGL V3600/V5600</li>
+<li>M52: Mobility Radeon X1300</li>
+<li>M54: Mobility Radeon X1400; M54-GL</li>
+<li>M56: Mobility Radeon X1600; Mobility FireGL V5200</li>
+<li>M58: Mobility Radeon X1800, X1800 XT; Mobility FireGL V7100, V7200</li>
+<li>M62: Mobility Radeon X1350</li>
+<li>M64: Mobility Radeon X1450, X2300</li>
+<li>M66: Mobility Radeon X1700, X1700 XT; FireGL V5250</li>
+<li>M68: Mobility Radeon X1900</li>
+<li>M71: Mobility Radeon HD 2300</li>
+<li>M72: Mobility Radeon HD 2400; Radeon E2400</li>
+<li>M74: Mobility Radeon HD 2400 XT</li>
+<li>M76: Mobility Radeon HD 2600; (Gemini ATI) Mobility Radeon HD 2600 XT</li>
+<li>RS690: Radeon X1200, X1250, X1270</li>
+</ul>
+
+<p>Onde obter o driver? Você pode baixa o arquivo compactado no endereço <a href="ftp://ftp.freedesktop.org/pub/individual/driver">ftp://ftp.freedesktop.org/pub/individual/driver</a>. O nome do arquivo segue o padrão xf86-video-radeonhd-<versão>.tar.bz2.</p>
+
+<p>Para instalar o driver, descompacte o arquivo baixado e execute o comando ./autogen.sh dentro do diretório onde o driver foi descompactado. Logo enseguida digite make e logo depois make install.</p>
+
+<p>Quem utiliza o X.Org versão 7, ainda são necessários os seguintes comandos:</p>
+
+<p>$ xmkmf -a</p>
+
+<p>$ make EXTRA_INCLUDES=&#8221;-I/usr/include/xorg&#8221; all</p>
+
+<p>$ make install</p>
+
+<p>Para finalizar digite estes comandos:</p>
+
+<p>$ mkdir _b &amp;&amp; cd _b</p>
+
+<p>$ ../autogen.sh</p>
+
+<p>$ make</p>
+
+<p>$ make install</p>
+
+<p>Estas informações foram fornecidas pelo site <a href="http://wiki.x.org/wiki/radeonhd">http://wiki.x.org/wiki/radeonhd</a> e não foram testadas pelo site Ubuntero.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 5 de Dec de 2007 | <a href="http://ubuntero.com.br/drivers-ati/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fdrivers-ati%2f&url=http%3a%2f%2fubuntero.com.br%2fdrivers-ati%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fdrivers-ati%2f&t=Drivers%20ATI" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fdrivers-ati%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/google-revolucao-ou-problema/" title="Google, revolução ou problema?">Google, revolução ou problema?</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>O Google agrega vários serviços em seus servidores. Entre os mais populares podemos citar o sitema de buscas, Orkut, youtube, Gmail, Google Earth e Google Talk.</p>
+
+<p>Você já parou para pensar em quanta informação sobre você o Google tem? Tudo o que você disponibiliza no Orkut, o Google sabe. Tudo o que você recebe e envia de email, o Google sabe. Tudo o que você conversa atravéz de mensagens instantâneas, o Google sabe. As coisas que você tem interesse e procura na internet, o Google sabe. Com o Google Earth o Google pode saber até onde você está no planeta.</p>
+
+<p>O uso bem feito destes recursos é um bom conjunto de ferramentas, mas temos que pensar que o ser humano é cheio de defeitos e a ganância está entre os principais defeitos. Isso nos leva a pensar que o jogo pode virar e o Google pode usar toda essa informação para o seu próprio bem.</p>
+
+<p></p>
+
+<p>Vamos analizar um pouco as ferramentas do google. Começamos pelo sistema de relacionamento Orkut. O artigo 11.1 do Termo de Serviço do Google diz o seguinte:</p>
+
+<p>&#8220;11.1. Retém direitos de reprodução e quaisquer outros direitos que já detenha no Conteúdo por si submetido, endereçado ou visualizado nos ou através dos Serviços. Ao submeter, endereçar ou visualizar o conteúdo dá à Google uma licença perpétua, irrevogável, mundial, isenta de direitos, e não exclusiva para reproduzir, adaptar, modificar, traduzir, publicar, utilizar publicamente, visualizar publicamente e distribuir qualquer Conteúdo por si submetido, endereçado ou visualizado nos ou através dos Serviços. Esta licença é para o único propósito de permitir à Google visualizar, distribuir e promover os Serviços e pode ser revogada para certos Serviços tal como definidos nos Termos Adicionais desses Serviços.&#8221;</p>
+
+<p>Isso dá a entender que o google pode e irá fazer o que bem entender com as informações fornecidas por seus usuários. No orkut as pessoas deixam bem claro quem são seus amigos ou pelo menos as pessoas que cada um conhece, exclua deste cenário os profiles falsos e os que lutam para parecerem ser os mais populares. Você deixa fotos suas, recados para seus amigos, diz quem você admira marcando como fã, você até informa o quanto acha a pessoa sexy, legal ou confiável. Vários detalhes da sua vida particular e profissional são anotados no sistema, mesmo que você opte por não divulgar para os outros integrantes dos sistema.</p>
+
+<p>A idéia principal ainda é de melhorar o serviço disponibilizando opções mais específicas para cada usuário utilizando as informações fornecidas por cada um. Isto não impede que estas informações sejam utilizadas de outras formas.</p>
+
+<p>O segundo serviço que me chamou a atenção quanto ao contrato de adesão foi o Gmail. Veja estre trecho que fala sobre privacidade:</p>
+
+<ol>
+<li>Privacidade. Como uma condição à utilização do Serviço, você concorda com os termos da Política de privacidade Privacidade do Gmail conforme ela possa ser atualizada periodicamente. O Google entende que a privacidade é importante para você. Entretanto, você concorda que o Google pode monitorar, editar ou divulgar suas informações pessoais, incluindo o conteúdo de seus e-mails, se solicitado a fazê-lo para obedecer a processos legais ou solicitações governamentais (como um mandado de busca, intimação, lei ou ordem judicial), ou como indicado nesses Termos de Uso e na Política de Privacidade do Gmail. As informações pessoais coletadas pelo Google podem ser armazenadas e processadas nos Estados Unidos ou em qualquer país em que a Google Inc. ou seus agentes mantenham instalações. Ao usar o Gmail, você concorda com qualquer dessas transferências de informações que ocorra para fora de seu país.</li>
+</ol>
+
+<p>Se o Orkut já tinha uma clausula que não me agradava, o Gmail tem esta que me desagrada mais ainda. É por isso que baixo todas as minha mensagens recebidas e esvazio a lixeira periodicamente. Ok, você pode dizer que a cláusula é bem clara ao dizer que os emails serão lidos somente se solicitados para obedecer a procesos legais ou solicitações governamentais, mas eu fico com o pé bem atras quanto a possibilidade de meus emails serem lidos. Sei também que isto é possível de ser feito por qualquer administrador de qualquer servidor de emails, no entanto eles não fazem questão de deixar isso escrito em contrato.</p>
+
+<p>Acredito que estes dois serviços citados acima são os mais importantes de serem comentados já que detem mais informações, em um só lugar, do que outras ferramentas como GoogleTalk, youtube e Google Earth.</p>
+
+<p>Agora imagine sua empresa hospedando seus emails com o Google. O Google ve que sua empresa é muito promissora e passa a monitorar estes emails. Você está tranquilo, pois acredita que o Google não vai invadir a sua privacidade e a de seus funcionários a menos que o poder judiciário assim o deseje. O Google tem ótimos engenheiros e não precisa copiar seus projetos, apenas suas idéias, e então desenvolve a sua idéia em menos tempo que sua empresa, graças aos quase infinitos recursos financeiros, e você acabou de perder as enormes possibilidades e os recursos já investidos antes Google saber do seu produto.</p>
+
+<p>Algumas pessoas podem achar que esta idéia é totalmente absurda. Estas pessoas provavelmente não leram o termo de compromisso, citado acima, que deve ser aceito ao entrar para o sistema de relacionamentos Orkut. O termo é bem claro ao dizer que toda informação disponibilizada no Orkut pode ser utilizada da maneira que o Google achar melhor. Isto inclui códigos fontes postados nos diversos fórums sobre linguagens de programação.</p>
+
+<p>Muitas pessoas ainda acreditam que as informações contidas no Orkut estão livres de &#8220;comércio&#8221;. Para essas pessoas vai minha pergunta. Como o Google ganha dinheiro com o Orkut se não é com as informações disponibilizadas pelos usuários cadastrados?</p>
+
+<p>Com certeza existe uma ótima ferramenta de mineração de dados rodando por tras desta grande ferramenta de marketing que é o Orkut.</p>
+
+<p>Esta &#8220;teoria da conspiração&#8221; parece exagerada mas é totalmente possível de acontecer. Sabemos que hoje a política do Google é comprar empresas promissoras para torná-las ainda mais promissoras, mas esta política pode mudar dependendo apenas dos maiores acionistas da empresa.</p>
+
+<p>O que gostaria que todos pensasem não é que o Google é o grande vilão dos novos tempos, mas que ele tem todas as armas para se tornar um grande vilão e nós temos que tomar nossos cuidados ao utilizar os serviços oferecidos gratuitamente pelo Google.</p>
+
+<p>O bem mais precioso para qualquer entidade é a informação. Grande parte da informação que trafega pela internet, passa pelos servidores do Google e essa concentração de informação tem seu lado positivo mas tem, também, seu lado negativo.</p>
+
+<p>Aos &#8220;Google fan boys&#8221;, critiquem este artigo com inteligência. Não quero ver comentários agressivos simplesmente por ter levantando algumas dúvidas quanto ao Google ser ou não o mocinho da história recente da web. Estou louco por comentários que possam tirar estas minhas dúvidas e incertezas, mas quero isso sem fanatismo. 😉</p>
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 27 de Nov de 2007 | <a href="http://ubuntero.com.br/google-revolucao-ou-problema/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fgoogle-revolucao-ou-problema%2f&url=http%3a%2f%2fubuntero.com.br%2fgoogle-revolucao-ou-problema%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fgoogle-revolucao-ou-problema%2f&t=Google%2c%20revolu%c3%a7%c3%a3o%20ou%20problema%3f" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fgoogle-revolucao-ou-problema%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/54-das-empresas-com-linxu-usam-ubuntu/" title="54% das empresas com Linux usam Ubuntu">54% das empresas com Linux usam Ubuntu</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Matéria divulgada no <a href="http://info.abril.com.br/aberto/infonews/112007/26112007-15.shl">Plantão Info</a> diz que Ubuntu marca presença em 54% das empresas segundo pesquisa da Linux Foundation. As informações prévias divulgadas mostram que a família Red Hat aparece em segundo lugar, com 50,2%, pouco atrás dos 54% do Ubuntu. A SUSE, da Novell, é a terceira distro mais adotada entre as empresas, presente em 35,2% das corporações. A conta fecha em mais de 100% porque boa parte das companhias utiliza mais de uma versão de Linux em seus desktops.</p>
+
+<p>A pesquisa também mostra que as empresas que mais utilizam Linux em seus desktops são as que tem entre 1 e 100 computadores. Este percentual cai drasticamente em empresas maiores.</p>
+
+<p>A pesquisa oficial da Linux Foundation será divulgada no próximo dia 30 de novembro. Em 2007, sua terceira edição, ela ouviu 20 mil empresas.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 27 de Nov de 2007 | <a href="http://ubuntero.com.br/54-das-empresas-com-linxu-usam-ubuntu/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f54-das-empresas-com-linxu-usam-ubuntu%2f&url=http%3a%2f%2fubuntero.com.br%2f54-das-empresas-com-linxu-usam-ubuntu%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f54-das-empresas-com-linxu-usam-ubuntu%2f&t=54%25%20das%20empresas%20com%20Linux%20usam%20Ubuntu" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f54-das-empresas-com-linxu-usam-ubuntu%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/ubuntu-chega-ao-brasil/" title="Ubuntu chega oficialmente ao Brasil">Ubuntu chega oficialmente ao Brasil</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>“No Brasil, as estimativas para este ano são de que as vendas de computadores para usuários domésticos vão superar as de televisores”, destaca Filho. “Nossa estratégia será fechar parcerias com fabricantes para oferecer o Ubuntu pré-instalado e pré-configurado, faturando com suporte, serviços, segurança e atualização”.</p>
+
+<p>Estas são as palavras de Fábio Filho, gerente de desenvolvimento de negócios da Canonical para a América Latina.</p>
+
+<p>Empresas que antes relutavam em adotar Linux por não saber ou não confiar a quem recorrer em caso de necessidade de suporte ou outros serviços, agora não terão este argumento na hora de pensar em migrar seus desktops para uma solução melhor.</p>
+
+<p>Fonte: <a href="http://www.baguete.com.br/noticiasDetalhes.php?id=20893">Baguete</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 23 de Nov de 2007 | <a href="http://ubuntero.com.br/ubuntu-chega-ao-brasil/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fubuntu-chega-ao-brasil%2f&url=http%3a%2f%2fubuntero.com.br%2fubuntu-chega-ao-brasil%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fubuntu-chega-ao-brasil%2f&t=Ubuntu%20chega%20oficialmente%20ao%20Brasil" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fubuntu-chega-ao-brasil%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/157/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">158</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/159/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

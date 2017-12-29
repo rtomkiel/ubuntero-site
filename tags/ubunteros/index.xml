@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubunteros on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/ubunteros/</link>
+    <description>Recent content in Ubunteros on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 24 Aug 2012 22:48:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/ubunteros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubunteros no Brasil</title>
+      <link>http://ubuntero.com.br/ubunteros-no-brasil/</link>
+      <pubDate>Fri, 24 Aug 2012 22:48:46 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubunteros-no-brasil/</guid>
+      <description>Existem Ubunteros espalhados por todo o Brasil. Agora está na hora de encontrar todos eles.
+Faça o cadastro nesse formulário e nos ajude a atualizar a página Ubunteros no Brasil.
+Formulário: http://bit.ly/NLjF3O
+Ajude a Divulgar.</description>
+    </item>
+    
+  </channel>
+</rss>

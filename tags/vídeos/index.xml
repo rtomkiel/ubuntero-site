@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vídeos on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/v%C3%ADdeos/</link>
+    <description>Recent content in Vídeos on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 09 Aug 2013 12:28:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/v%C3%ADdeos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kdenlive: Efeito simples com movimento e opacidade</title>
+      <link>http://ubuntero.com.br/kdenlive-efeito-simples-com-movimento-e-opacidade/</link>
+      <pubDate>Fri, 09 Aug 2013 12:28:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/kdenlive-efeito-simples-com-movimento-e-opacidade/</guid>
+      <description>Começamos uma nova parceria e agora os vídeos do canal do youtube LinuxVlog também serão exibidos aqui no Ubuntero.
+O tão esperado tutorial de Kdenlive chegou, bem enxuto, mas quem assistir já vai conseguir fazer muita coisa legal. Como ficou bem curto e simples, decidi fazer mais nas próximas semanas, num formato mais screencast mesmo, só para mostrar os efeitos que faço nos vídeos.
+ Assistir no Youtube </description>
+    </item>
+    
+  </channel>
+</rss>

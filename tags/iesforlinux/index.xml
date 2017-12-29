@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iesforlinux on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/iesforlinux/</link>
+    <description>Recent content in Iesforlinux on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 05 Jul 2006 11:00:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/iesforlinux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Internet Explorer no Linux</title>
+      <link>http://ubuntero.com.br/internet-explorer-no-linux/</link>
+      <pubDate>Wed, 05 Jul 2006 11:00:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/internet-explorer-no-linux/</guid>
+      <description>Acredito que muitos já tenham tentado instalar algum programa para Windows em seus computadores com o auxílio do Wine. Muitos dos programas mais simples funcionam sem nenhum problema, no entantanto, alguns pedem que outros recursos sejam instalandos anteriormente. A lista de recursos vai desde fontes utilizadas pelo windows, passando por dll&amp;#8217;s de systema ou de terceiros, até alguns programas como o famoso, e cheio de falhas, Internet Explorer.
+Instalar e já sair usando o Internet Explorer no linux não é tão simples como parece.</description>
+    </item>
+    
+  </channel>
+</rss>

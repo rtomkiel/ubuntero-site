@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aceleração 3d on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/acelera%C3%A7%C3%A3o-3d/</link>
+    <description>Recent content in Aceleração 3d on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 13 Feb 2011 13:43:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/acelera%C3%A7%C3%A3o-3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unity 2D em placa sem aceleração 3D</title>
+      <link>http://ubuntero.com.br/unity-2d-em-placa-sem-aceleracao-3d/</link>
+      <pubDate>Sun, 13 Feb 2011 13:43:22 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/unity-2d-em-placa-sem-aceleracao-3d/</guid>
+      <description>Primeiramente olá a todos, eu me chamo Anderson Henrique e esse é o meu primeiro post aqui no Ubuntero. Essa é uma dica que a meu ver pode ser bastante útil a vários donos de notebook com placas problemáticas, por exemplo SiS (como é o meu caso) ou VIA, onde o desempenho é demasiado baixo ou nulo.
+É algo muito simples de se fazer, então se você está com vontade de testar a nova interface, mas não tem um hardware bom, então isso vai te ajudar.</description>
+    </item>
+    
+  </channel>
+</rss>

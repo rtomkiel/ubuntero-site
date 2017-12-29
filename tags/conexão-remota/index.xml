@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conexão Remota on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/conex%C3%A3o-remota/</link>
+    <description>Recent content in Conexão Remota on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Sep 2013 14:16:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/conex%C3%A3o-remota/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conexão remota com o VNC</title>
+      <link>http://ubuntero.com.br/conexao-remota-com-o-vnc/</link>
+      <pubDate>Mon, 02 Sep 2013 14:16:18 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/conexao-remota-com-o-vnc/</guid>
+      <description>Pode parecer simples, mas há maneiras diferentes de fazer uma conexão VNC para suporte remoto e a que eu mais gosto é a conexão reversa. Já mostramos no site como configurar o computador que vai dar o suporte, mas ficou faltando dizer como fazer a conexão do outro lado quando o computador é Linux.
+Para começo de conversa, abra a Central de Programas do Ubuntu e procure por &amp;#8220;x11vnc&amp;#8221;, sem as aspas, e clique em instalar.</description>
+    </item>
+    
+  </channel>
+</rss>

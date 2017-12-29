@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amd64 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/amd64/</link>
+    <description>Recent content in Amd64 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 19 Apr 2011 23:13:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/amd64/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AMD64?</title>
+      <link>http://ubuntero.com.br/amd64/</link>
+      <pubDate>Tue, 19 Apr 2011 23:13:38 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/amd64/</guid>
+      <description>Uma dúvida que muito vi pela lista de discussão do Ubuntu e hoje apareceu novamente no twitter é sobre a compatibilidade da imagem AMD64 com processadores Intel.
+A confusão é de se entender, já que as duas empresas são concorrentes e o que funciona para uma pode não funcionar para outra, ainda mais quando uma imagem vem com o nome de apenas uma das empresas.
+Este artigo serve para sanar esta dúvida e será bem curto.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traduções on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/tradu%C3%A7%C3%B5es/</link>
+    <description>Recent content in Traduções on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 07 Mar 2013 11:59:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/tradu%C3%A7%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu Global Jam Brazil 2013</title>
+      <link>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013-2/</link>
+      <pubDate>Thu, 07 Mar 2013 11:59:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-global-jam-brazil-2013-2/</guid>
+      <description>Como anunciado anteriormente, o Ubuntu Global Jam Brazil 2013 foi realizado no dia 02 de março de 2013. O evento aconteceu com transmissão pelo Google Hangout que permite a transmissão ao vivo pelo Youtube e perguntas puderam ser feitas pelo canal #ubuntu-br no IRC.
+A audiência foi de aproximadamente 500 pessoas pelo Youtube e 100 pessoas pelo IRC. Se você perdeu alguma apresentação, assista a gravação.
+ [conselhobrasil] Introduction to Ubuntu Global Jam Brazil 2013 [ivanbrasil] How to use IRC?</description>
+    </item>
+    
+  </channel>
+</rss>

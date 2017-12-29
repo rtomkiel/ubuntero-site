@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makeitopen on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/makeitopen/</link>
+    <description>Recent content in Makeitopen on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 24 Jun 2011 13:57:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/makeitopen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make It Open</title>
+      <link>http://ubuntero.com.br/make-it-open/</link>
+      <pubDate>Fri, 24 Jun 2011 13:57:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/make-it-open/</guid>
+      <description>Tem um projeto de Software Livre mas está com dificuldades de encontrar patrocínio para tocá-lo adiante? Este é um problema muito comum para quem começa um projeto de Sofware Livre. Para tentar resolver este problema agora os desenvolvedores podem contar com a iniciativa do site &amp;#8220;Make It Open&amp;#8220;.
+Como desenvolvedor/criador de um projeto você pode cadastrá-lo no makeITopen. Ao fazer isso você permite que outros usuários forneçam apoio financeiro para seu projeto em troca de recompensas definidas por você e da disponibilização de seu software para download na plataforma do site com uma licença compatível com a filosofia OpenSource.</description>
+    </item>
+    
+  </channel>
+</rss>

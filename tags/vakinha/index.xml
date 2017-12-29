@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vakinha on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/vakinha/</link>
+    <description>Recent content in Vakinha on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 06 Jan 2013 20:51:50 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/vakinha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #25 – Lubuntu 12.10</title>
+      <link>http://ubuntero.com.br/videocast-25-lubuntu-12-10/</link>
+      <pubDate>Sun, 06 Jan 2013 20:51:50 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-25-lubuntu-12-10/</guid>
+      <description>Ainda estou sem internet, mas novamente consegui ajuda para postar mais um vídeo.
+Aí está o review do Lubuntu 12.10 com minhas considerações, apenas opiniões sobre o que o sistema oferece ou deixa de oferecer.
+Aproveitando o lançamento do Ubuntu for phones, estamos realizando uma vakinha para comprar o aparelho usado para fazer uma demonstração do sistema. Veja este artigo que fala como vai funcionar.
+ Assistir no Youtube Doações podem ser feitas por Paypal ou PagSeguro para quem não quiser usar o sistema do site vakinha.</description>
+    </item>
+    
+  </channel>
+</rss>

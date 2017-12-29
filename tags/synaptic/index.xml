@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synaptic on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/synaptic/</link>
+    <description>Recent content in Synaptic on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 24 Jun 2011 13:22:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/synaptic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 11.10 sem Synaptic</title>
+      <link>http://ubuntero.com.br/ubuntu-11-10-sem-synaptic/</link>
+      <pubDate>Fri, 24 Jun 2011 13:22:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-11-10-sem-synaptic/</guid>
+      <description>Se você é da antiga deve gostar de usar o Synaptic e não a Central de Programas do Ubuntu. Para você tenho uma má notícia, o Ubuntu 11.10 não trará o Synaptic em sua instalação padrão.
+No lugar teremos apenas a Central de Programas do Ubuntu, que deve ser redesenhada e as funções do Synaptic, que ainda não estão presentes na Central de Programas, devem ser implementadas para.
+Se mesmo assim você não se acostumar a usar a Central de Programas, não fique triste, o Synaptic continuará disponível nos repositórios e poderá ser instalada via &amp;#8220;apt-get install synaptic&amp;#8221; ou pela próprioa Central de Programas do Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Post 4 em 1</title>
+      <link>http://ubuntero.com.br/post-4-em-1/</link>
+      <pubDate>Tue, 05 Apr 2011 16:18:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/post-4-em-1/</guid>
+      <description>É isso mesmo que está escrito no título, hoje o post é 4 em 1. Ao invés de postar várias dicas ao longo dos dias, resolvi fazer esse &amp;#8220;pacote&amp;#8221;. São duas dicas com relação ao VLC e outra será a apresentação, para os que não conhecem, do Kazam.
+Assistindo DVD com menu no VLC A situação foi a seguinte, há alguns meses atrás, comprei o DVD de UP &amp;#8211; Altas Aventuras (filme bacana, quem não assistiu assista) e hoje resolvi assistir novamente pois estava com insônia.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar game 0 Ad no Ubuntu</title>
+      <link>http://ubuntero.com.br/como-instalar-game-0-ad-no-ubuntu/</link>
+      <pubDate>Thu, 10 Feb 2011 15:26:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-instalar-game-0-ad-no-ubuntu/</guid>
+      <description>Olá a todos!
+Esse é o meu primeiro post aqui no Ubuntero. Essa dica é como instalar de forma fácil o jogo oad, um jogo parecido com Age os Empires.
+O jeito facilitado para instalar, sem precisas compilar, é utilizar o getdeb, que como a descrição do site diz &amp;#8221; prover os últimos lançamento Open Source e Freeware&amp;#8221;.
+Fiz um screencast, não sei se ficou muito bom , pois é a primeira vez que utilizo essa ferramenta.</description>
+    </item>
+    
+  </channel>
+</rss>

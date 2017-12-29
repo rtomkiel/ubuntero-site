@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aula on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/aula/</link>
+    <description>Recent content in Aula on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 13 May 2013 11:10:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/aula/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #34 – Primeiros passos no Ubuntu – 2</title>
+      <link>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-2/</link>
+      <pubDate>Mon, 13 May 2013 11:10:26 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-34-primeiros-passos-no-ubuntu-2/</guid>
+      <description>Neste vídeo explico como funciona a configuração da BIOS para que seja possível fazer a inicialização do computador por um CD/DVD ou Pendrive. Como cada BIOS é diferente da outra e existem particularidades, neste vídeo mostro apenas uma BIOS e explico o que pode acontecer, cabe a você adaptar estes conhecimentos a sua BIOS.
+ Assistir no Youtube Outros vídeos  Videocast #32 &amp;#8211; Primeiros passos no Ubuntu  .</description>
+    </item>
+    
+  </channel>
+</rss>

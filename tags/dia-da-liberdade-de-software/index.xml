@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dia Da Liberdade De Software on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/dia-da-liberdade-de-software/</link>
+    <description>Recent content in Dia Da Liberdade De Software on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 27 Jun 2012 13:54:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/dia-da-liberdade-de-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dia da Liberdade de Software 2012 – Novo Hamburgo</title>
+      <link>http://ubuntero.com.br/dia-da-liberdade-de-software-2012-novo-hamburgo/</link>
+      <pubDate>Wed, 27 Jun 2012 13:54:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dia-da-liberdade-de-software-2012-novo-hamburgo/</guid>
+      <description>O Dia da Liberdade de Software 2012 é um evento global sobre Software Livre, cujo objetivo é comemorar e informar ao público sobre os benefícios de usar Software Livre.
+O grupo de usuários SoftwareLivreVS, com o apoio da Feevale, realizará a edição local do evento em Novo Hamburgo / RS, no Campus II da Feevale, no Salão de Exposições do Prédio Arenito, das 13h às 17h, no dia 15 de setembro de 2012.</description>
+    </item>
+    
+  </channel>
+</rss>

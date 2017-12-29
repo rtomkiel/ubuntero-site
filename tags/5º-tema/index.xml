@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5º Tema on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/5%C2%BA-tema/</link>
+    <description>Recent content in 5º Tema on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 26 Mar 2011 21:16:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/5%C2%BA-tema/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5º Tema – Elementary</title>
+      <link>http://ubuntero.com.br/5%C2%BA-tema-elementary/</link>
+      <pubDate>Sat, 26 Mar 2011 21:16:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/5%C2%BA-tema-elementary/</guid>
+      <description>Essa semana não tive tempo algum para planejar um tema bem elaborado, mas não foi algo necessariamente ruim, já que o post de hoje, é destinado completamente à instalação do Elementary, que é, sem sombra de dúvidas um dos temas mais usados como base para outros, se esse não for o mais. Mas convenhamos, se já o instalou, sabe bem do que falo, é simplesmente incrível. Com seus tons cinzas, e alguns pontos mais escuros, fazem do mesmo, uma das melhores alternativas para temas.</description>
+    </item>
+    
+  </channel>
+</rss>

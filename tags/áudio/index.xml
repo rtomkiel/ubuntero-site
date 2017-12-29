@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Áudio on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/%C3%A1udio/</link>
+    <description>Recent content in Áudio on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 13 Mar 2013 13:32:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/%C3%A1udio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FF-Multi Converter – Uma boa dica para converter arquivos</title>
+      <link>http://ubuntero.com.br/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</link>
+      <pubDate>Wed, 13 Mar 2013 13:32:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ff-multi-converter-uma-boa-dica-para-converter-arquivos/</guid>
+      <description>Olá pessoal, hoje trago uma dica legal para converter arquivos, o FF-Multi Converter.
+Ele possui uma interface bem simples e consegue converter arquivos de áudio, vídeo, imagens e documentos, o que o torna bem completo para a maioria das utilizações.
+Confira os formatos suportados:
+Áudio/Vídeo:
+ aac, ac3, afc, aiff, amr, asf, au, avi, dvd, flac, flv, mka, mkv, mmf, mov, mp3, mp4, mpg, ogg, ogv, psp, rm, spx, vob, wav, webm, wma, wmv e qualquer outro formato suportado pelo ffmpeg.</description>
+    </item>
+    
+  </channel>
+</rss>

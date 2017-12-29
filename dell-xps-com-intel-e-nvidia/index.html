@@ -1,0 +1,528 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Dell XPS com Intel e Nvidia - Ubuntero</title>
+<meta name="description" content="Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Dell XPS com Intel e Nvidia - Ubuntero" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+<meta property="article:author" content=""/>
+<meta property="article:tag" content="bumblebee, hibrida, intel, Linux, nvidia, optimus, Ubuntu">
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Dell XPS com Intel e Nvidia - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Dell XPS com Intel e Nvidia - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Dell XPS com Intel e Nvidia" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+	<div id="content" >
+		<div class="entry post">
+			<div class="adstop">
+
+<script type="text/javascript" language="javascript">
+	lmd_source="25569110";
+	lmd_si="33338950";
+	lmd_pu="22227150";
+	lmd_c="BR";
+	lmd_wi="468";
+	lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+			<h1><a href="http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/" title="Dell XPS com Intel e Nvidia">Dell XPS com Intel e Nvidia</a></h1>
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/bumblebee">bumblebee</a>,   <a href="/tags/hibrida">hibrida</a>,   <a href="/tags/intel">intel</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/nvidia">nvidia</a>,   <a href="/tags/optimus">optimus</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2012/04/images.jpeg"><img class="alignnone size-full wp-image-3427" title="images" src="http://www.ubuntero.com.br/wp-content/uploads/2012/04/images.jpeg" alt="" width="193" height="261" /></a>
+</p>
+
+<p>Usuários de notebooks com placas de vídeo híbridas Intel e Nvidia tem enfrentado graves problemas referentes a má utilização do hardware devido a baixa qualidade dos drivers disponíveis para Linux. Além de a mudança entre as placas não ser feita, os usuários sofrem também com o superaquecimento de seus equipamentos, nem preciso dizer que isto reduz a vida útil do computador e das baterias.</p>
+
+<p>Para resolver este problema, em um notebook Dell XPS os seguintes passos resolveram:</p>
+
+<p>Instalar a última versão dos drivers de vídeo. Abra o terminal pressionando Ctrl+Alt+t e digite os seguintes comandos:</p>
+
+<pre class="brush:shell">sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
+sudo apt-get update
+sudo apt-get upgrade</pre>
+
+<p>Agora ative o gerenciamento de energia.</p>
+
+<pre class="brush:shell">sudo gedit /etc/default/grub</pre>
+
+<p>Procure a linha:</p>
+
+<pre class="brush:shell">GRUB_CMDLINE_LINUX_DEFAULT=”quiet splash"</pre>
+
+<p>E substitua pela seguinte:</p>
+
+<pre class="brush:shell">GRUB_CMDLINE_LINUX_DEFAULT=”quiet splash pcie_aspm=force”</pre>
+
+<p>Atualize o grub para que as mudanças passem a valer:</p>
+
+<pre class="brush:shell">sudo update-grub</pre>
+
+<p>Instale e configure o bumblebee:</p>
+
+<pre class="brush:shell">sudo add-apt-repository ppa:bumblebee/stable
+sudo apt-get update
+sudo apt-get install bumblebee
+sudo apt-get install acpi-call-tools</pre>
+
+<p>Depois de instalar, você precisa adicionar você mesmo ao bumblebee. Substitua o &#8220;seuusuario&#8221; para o usuário que usa para entrar no sistema.</p>
+
+<pre class="brush:shell">sudo usermod -a -G bumblebee seuusuario</pre>
+
+<p>Abra o arquivo bumblebee.conf</p>
+
+<pre class="brush:shell">sudo gedit /etc/bumblebee/bumblebee.conf</pre>
+
+<p>Procure pelas duas linhas abaixo e tenha certeza de que no final está com Y marcado</p>
+
+<pre class="brush:shell">STOP_SERVICE_ON_EXIT=Y
+ENABLE_POWER_MANAGEMENT=Y</pre>
+
+<p>Abra o arquivo xorg.conf.nvidia</p>
+
+<pre class="brush:shell">sudo gedit /etc/bumblebee/xorg.conf.nvidia</pre>
+
+<p>Tenha certeza de que se parece com isto:</p>
+
+<pre class="brush:shell">Section "ServerLayout"
+Identifier "Layout0" **YOUR'S MAYBE DIFFERENT DO NOT CHANGE**
+Option "AutoAddDevices" "false"
+EndSection
+Section "Files"
+ModulePath "/usr/lib/nvidia-current/xorg,/usr/lib/xorg/modules"
+EndSection
+
+Section "Device"
+Identifier "Device1" **YOUR'S MAYBE DIFFERENT DO NOT CHANGE**
+Driver "nvidia"
+VendorName "NVIDIA Corporation"
+BusID "01:00:0" **YOUR'S MAYBE DIFFERENT DO NOT CHANGE**
+Option "NoLogo" "true"
+Option "UseEDID" "false"
+Option "ConnectedMonitor" "DFP-0" **YOUR'S MAYBE DIFFERENT DO NOT CHANGE**
+EndSection</pre>
+
+<p>Agora você terá que encontrar o comando &#8220;call on&#8221; e &#8220;call off&#8221; corretos para a sua placa. Utilize este site(<a href="http://hybrid-graphics-linux.tuxfamily.org/index.php?title=ACPI_calls">http://hybrid-graphics-linux.tuxfamily.org/index.php?title=ACPI_calls</a>) para encontrar o seu. No exemplo abaixo vamos utilizar um computador Dell L502X com uma placa GT540M.</p>
+
+<p>Crie o arquivo cardoff com o segundo comando:</p>
+
+<pre class="brush:shell">sudo gedit /etc/bumblebee/cardoff</pre>
+
+<p>Copie os dados que coletou no site acima que no nosso caso é:</p>
+
+<pre class="brush:shell">\_SB.PCI0.PEG0.PEGP._DSM {0xF8,0xD8,0x86,0xA4,0xDA,0x0B,0x1B,0x47,0xA7,0x2B,0x60,0x42,0xA6,0xB5,0xBE,0xE0} 0x100 0x1A {0x1,0x0,0x0,0x3}
+\_SB.PCI0.PEG0.PEGP._PS3</pre>
+
+<p>Crie o arquivo cardon co o seguinte comando:</p>
+
+<pre class="brush:shell">sudo gedit /etc/bumblebee/cardon</pre>
+
+<p>Copie os dados que coletou no site que no nosso caso é:</p>
+
+<pre class="brush:shell">\_SB.PCI0.PEG0.PEGP._PS0</pre>
+
+<p class="brush:shell">
+  Agora seu computador estará configurado para o &#8220;Optimus&#8221;. Quando quiser abrir um programa usando a placa de vídeo Nvidia, utilize o comando do programa com a palavra optirun na frente como no exemplo onde abrimos o gedit utilizando a placa de vídeo Nvidia.
+</p>
+
+<pre class="brush:shell">optirun gedit</pre>
+
+<p class="brush:shell">
+  <strong>Este artigo foi enviado para a lista de usuários de software livre <a href="http://tchelinux.org/site/doku.php">Tchelinux</a> e teve sua publicação autorizada por André Mazzoti Moreira.</strong>
+</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p align="right">Publicado em 2 de Apr de 2012 | <a href="http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/">Deixe um comentário </a></p>
+			</div>
+
+			<div class="share">
+				<span style="margin-top:8px;">Compartilhe</span>
+				<span><a href="http://twitter.com/intent/tweet?text=Dell%20XPS%20com%20Intel%20e%20Nvidia&url=http%3a%2f%2fubuntero.com.br%2fdell-xps-com-intel-e-nvidia%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//images/ubuntero/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fdell-xps-com-intel-e-nvidia%2f&t=Dell%20XPS%20com%20Intel%20e%20Nvidia" title="Compartilhar no Facebook" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//images/ubuntero/icon-facebook.png" alt="Curtir" width="24"/>
+				</a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fdell-xps-com-intel-e-nvidia%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//images/ubuntero/icon-googleplus.png" alt="Google Plus" width="24" /></a></span>
+				<span><iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fubuntero.com.br%2fdell-xps-com-intel-e-nvidia%2f&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:85px; height:20px; margin-top:7px;"></iframe></span>
+				<span style="margin-top:7px;">
+				<script type="text/javascript">
+					window.___gcfg = {lang: 'pt-BR'};
+					(function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					})();
+					</script>
+					<g:plusone size="medium"></g:plusone>
+				</span>
+			</div>
+
+			<div class="autor">
+				<img src="http://ubuntero.com.br//images/author/Ivan%20Brasil%20Fuzzer.jpg" width="80" alt="Ivan Brasil Fuzzer" class="autorimg" />
+				<p><a href="/author/ivan-brasil-fuzzer" title="Mais Publicações do autor Ivan Brasil Fuzzer">Ivan Brasil Fuzzer</a></p>
+				
+				
+				<p>Faço parte do grupo Tchelinux(http://www.tchelinux.org). O Tchelinux é um grupo de voluntários que trabalha com software livre e ainda acredita que boas coisas podem ser feitas nesta comunidade; desde que saibamos repassar aos que estão iniciando que Software Livre é um aprender e repassar o conhecimento incessante. Sou líder do Ubuntu-BR-RS juntamente com a Marta Vuelma. Tentamos divulgar a distribuição e auxiliar novos usuários por todo o estado do Rio Grande do Sul, as vezes em outros estados também. Sou um amante incondicional de software livre. Vivo apaixonado pelo Ubuntu.</p>
+				
+				<p><a class="left autorsocial autortwitter" href="" title="Twitter"></a> <a class="left autorsocial autorfacebook" href="" title="Facebook"></a> <a class="left autorsocial autorgoogleplus" href="?rel=author" target="_blank" title="Google Plus"></a> <span class="right">
+					<a href="/author/ivan-brasil-fuzzer" alt="Ivan Brasil Fuzzer" >Mais posts do autor</a> </span></p>
+			</div>
+
+			<div class="adsbottom">
+
+<script type="text/javascript" language="javascript">
+	lmd_source="25569110";
+	lmd_si="33338950";
+	lmd_pu="22227150";
+	lmd_c="BR";
+	lmd_wi="468";
+	lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+
+&lt;?php
+/*
+$sorteio = rand(1,2);
+if ($sorteio == 1){
+	_e('
+
+<script type="text/javascript" language="javascript">
+	lmd_source="25569110";
+	lmd_si="33338950";
+	lmd_pu="22227150";
+	lmd_c="BR";
+	lmd_wi="468";
+	lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+');
+}
+elseif ($sorteio == 2){
+	_e('<a href="#" target="_blank" rel="nofollow" title="Publicidade"><img src="') . bloginfo('template_directory') . _e('/images/publicidade.jpg" alt="Publicidade 1" /></a>');
+}
+*/
+?>
+</div>
+
+
+					<div class="related-posts">
+						<h3>Posts relacionados</h3>
+					
+						<div class="related">
+							<a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/" rel="bookmark" title="Passada a black friday, porque não participamos?"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Passada a black friday, porque não participamos?</p></a>
+						</div>
+						
+						<div class="related">
+							<a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/" rel="bookmark" title="Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</p></a>
+						</div>
+						
+						<div class="related">
+							<a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/" rel="bookmark" title="Resolvendo problemas ao enviar arquivos para a lixeira"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Resolvendo problemas ao enviar arquivos para a lixeira</p></a>
+						</div>
+						
+						<div class="related">
+							<a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/" rel="bookmark" title="Smartphone com Ubuntu já pode ser comprado por brasileiros"><img src="http://ubuntero.com.br//images/ubuntero/ubuntero_144.png" width="120" alt="Ubuntero - Dicas e Tutoriais sobre Ubuntu"/><p>Smartphone com Ubuntu já pode ser comprado por brasileiros</p></a>
+						</div>
+						
+						<div class="clear"></div>
+					</div>
+		</div>
+
+ 
+ <div id="disqus_thread"></div>
+<script>
+    (function() {  
+        var d = document, s = d.createElement('script');
+
+        
+        s.src = 'https://ubuntero.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
+        comments powered by Disqus.
+    </a>
+</noscript>
+
+	</div>
+
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Dell XPS com Intel e Nvidia">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="/categories/ubuntu">Ubuntu</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

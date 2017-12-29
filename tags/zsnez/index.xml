@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zsnez on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/zsnez/</link>
+    <description>Recent content in Zsnez on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 23 Jul 2011 12:03:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/zsnez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ZSNES – Super Nintendo no Linux</title>
+      <link>http://ubuntero.com.br/zsnes-super-nintendo-no-linux/</link>
+      <pubDate>Sat, 23 Jul 2011 12:03:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/zsnes-super-nintendo-no-linux/</guid>
+      <description>Está com saudade dos jogos do Super Nintendo? Street Fighter, Mario, Rock`n`Roll Racing? E quer jogar no Ubuntu? OK! Aqui vai a dica.   Aqui eu já havia dado um passo-a-passo mostrando detalhadamente como rodar o Counter Strike, poderoso e famoso jogo de tiro &amp;#8211; o qual, aliás, curto muito.   &amp;lt;p&amp;gt; Vamos ao passo-a-passo. Ubuntu Natty. Pressione a tecla super (ou &amp;amp;#8220;Windows&amp;amp;#8221;) do seu micro e na caixa de pesquisa procure por &amp;amp;#8220;programas&amp;amp;#8221;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expolivre on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/expolivre/</link>
+    <description>Recent content in Expolivre on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 05 Apr 2013 02:50:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/expolivre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #20 – Servidores Linux</title>
+      <link>http://ubuntero.com.br/opencast-20-servidores-linux/</link>
+      <pubDate>Fri, 05 Apr 2013 02:50:46 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-20-servidores-linux/</guid>
+      <description>Está atrasado mas o importante é que está no ar mais um episódio do Opencast. Não liguem para a minha voz(Ivan), eu estava no auge da gripe no dia da gravação. Neste episódio recebemos a visita do Tiago do site ubuntu-br-sc e do Aprígio Simões. Vocês vão notar a ausência do Rudinei, que foi atingido por uma falha massiva da OI devido ao rompimento de fibra ótica em três pontos do sul do país.</description>
+    </item>
+    
+    <item>
+      <title>ExpoLivre 2013: 1ª Exposição Brasileira de Software Livre</title>
+      <link>http://ubuntero.com.br/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</link>
+      <pubDate>Thu, 04 Apr 2013 13:02:48 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/expolivre-2013-1a-exposicao-brasileira-de-software-livre/</guid>
+      <description>É com grande prazer que o time do blog Ubuntu-BR-SC convida a todos para a primeira edição da ExpoLivre, a primeira exposição brasileira de software livre.
+O evento irá ocorrer nos dias 26 e 27 de julho e terá como palco a Universidade Federal de Santa Catarina em Joinville, a cidade mais populosa de Santa Catarina, com cerca de 526 mil habitantes.
+Mais informações podem ser vistas no site do evento em www.</description>
+    </item>
+    
+  </channel>
+</rss>

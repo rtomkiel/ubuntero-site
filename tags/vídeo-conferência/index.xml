@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vídeo Conferência on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/v%C3%ADdeo-confer%C3%AAncia/</link>
+    <description>Recent content in Vídeo Conferência on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 14 Mar 2008 13:43:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/v%C3%ADdeo-confer%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skype 2.0</title>
+      <link>http://ubuntero.com.br/skype-20/</link>
+      <pubDate>Fri, 14 Mar 2008 13:43:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/skype-20/</guid>
+      <description>Demora mas o desenvolvimento do Skype para Linux anda. Saiu a versão 2.0 do Skype com algumas melhorias, muitas correções de bugs e adição da funcionalidade de vídeo conferência.
+Segundo o changelog desta versão as novidades são:
+ Vídeo Opção para auto atendimento de chamadas Login por linha de comando Mostrar quando alguém está falando durante uma chamada Shift+Enter ativa ação contrária a padrão(se a ação padrão é iniciar uma chamada então irá abrir tela de conversa por mensagens) Adicionado custo da chamada por minuto Novas opções de privacidade Ícone indicando que um contato está conectado por um dispositivo móvel Funcionalidades menores e muitas correções de erros  A tradução para português do Brasil está muito ruim, parece que foi feita usando alguma ferramenta de tradução automática.</description>
+    </item>
+    
+  </channel>
+</rss>

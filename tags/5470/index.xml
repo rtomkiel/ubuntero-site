@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5470 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/5470/</link>
+    <description>Recent content in 5470 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 05 Mar 2014 13:23:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/5470/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #53 – Dell Vostro 5470</title>
+      <link>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</link>
+      <pubDate>Wed, 05 Mar 2014 13:23:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-53-dell-vostro-5470/</guid>
+      <description>O carnaval atrapalhou a postagem do Videocast, pequenos problemas com DNS e com a conexão lá no meio do mato onde eu estava. No episódio de hoje mostro o Dell Vostro 5479. Ele não é um Ultrabook, mas pode brigar com eles se você não se importar com a qualidade do som. O notebook é muito leve e rápido. Como bônus, consegui ele na versão com e sem Touch Screen e mostro os dois com Ubuntu, mesmo eles não vindo com Linux de fábrica.</description>
+    </item>
+    
+  </channel>
+</rss>

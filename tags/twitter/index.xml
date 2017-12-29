@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/twitter/</link>
+    <description>Recent content in Twitter on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 18 Nov 2013 17:50:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resolvendo problema ao abrir o cliente de twitter Polly</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</link>
+      <pubDate>Mon, 18 Nov 2013 17:50:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-ao-abrir-o-cliente-de-twitter-polly/</guid>
+      <description>Após uma atualização do cliente de Twitter Polly, não consegui mais abrir o programa. Fui notar isso só alguns dias após fazer a atualização devido ao feriadão onde não tinha internet disponível para acessar o programa.
+O erro que estava sendo mostrado é o seguinte:
+Polly 0.93.11 (pre-alpha 3.11) Copyright (C) 2011 Marcelo Hashimoto cache path: /home/ivan/.cache/polly config path: /home/ivan/.config/polly data home: /home/ivan/.local/share/polly Traceback (most recent call last): File &#34;/usr/bin/polly&#34;, line 241, in &amp;lt;module&amp;gt; from polly import setting, gui File &#34;</description>
+    </item>
+    
+    <item>
+      <title>Resumo semanal 02</title>
+      <link>http://ubuntero.com.br/resumo-semanal-02/</link>
+      <pubDate>Sun, 04 Dec 2011 18:18:44 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resumo-semanal-02/</guid>
+      <description>Segundo episódio do Resumo Semanal no ar. Ainda estou testando posicionamento da câmera, espero que este tenha ficado melhor. A iluminação utilizada é natural então não tenho muito o que fazer para melhorar por enquanto.
+Por enquanto este quadro está sendo chamado de Resumo Semanal, mas quero a opinião de vocês. Até segunda-feira teremos uma enquete no facebook para escolher o nome definitivo. Sugestões de nomes são muito bem vindas.</description>
+    </item>
+    
+    <item>
+      <title>Resumo semanal 01</title>
+      <link>http://ubuntero.com.br/resumo-semanal-01/</link>
+      <pubDate>Mon, 28 Nov 2011 17:33:33 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resumo-semanal-01/</guid>
+      <description>Neste domingo estamos estreando uma nova sessão no site onde eu(Ivan) vou falar um pouco sobre o que aconteceu no mundo do software livre durante a semana e o que pode estar por vir.
+Se tiver algum evento para divulgar, por favor, envie por email para ubuntero@ubuntero.com.br até a sexta-feira anterior ao domingo em que o programa vai ao ar.
+A sessão ainda não tem nome e então está lançada aí chamada para sugestões de nomes.</description>
+    </item>
+    
+    <item>
+      <title>Primeia promoção do site Ubuntero</title>
+      <link>http://ubuntero.com.br/primeia-promocao-do-site-ubuntero/</link>
+      <pubDate>Sun, 02 Oct 2011 19:07:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/primeia-promocao-do-site-ubuntero/</guid>
+      <description>[][1]sorteio Está no ar a primeira promoção do site Ubuntero, com a parceria de todos que acessam o site e fazem compras através dos links disponibilizados no site e nas páginas Store e Ajude.
+Para saber os detalhes da promoção, acesse a página da promoção em http://www.ubuntero.com.br/sorteio.
+Lembro a todos que novas promoções podem surgir conforme os rendimentos do site forem surgindo. O dinheiro arrecadado com o site sempre retornará para os leitores de alguma maneira.</description>
+    </item>
+    
+    <item>
+      <title>Mudança de data do Tchelinux em Erechim, mudança do logotipo no planeta-ubuntu-br e Opencast</title>
+      <link>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</link>
+      <pubDate>Fri, 11 Mar 2011 11:47:32 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/mudanca-de-data-do-tchelinux-em-erechim-mudanca-do-logotipo-no-planeta-ubuntu-br-e-opencast/</guid>
+      <description>Queremos dar algumas pequenas mas importantes informações sobre o site e sobre o Seminário Tchelinux em Erechim.
+Vamos começar pela notícia mais importante. A data de realização do Seminário Tchelinux em Erechim precisou sofrer alteração devido ao calendário de eventos da cidade que estará cheio de alternativas no dia 30 de abril. A nova data será no dia 14 de maio, o que acarreta em mais tempo para organizarmos o evento e mais tempo para que todos submetam suas palestras no formulário que já disponibilizamos em outro post.</description>
+    </item>
+    
+    <item>
+      <title>Twitter @ubunterobr</title>
+      <link>http://ubuntero.com.br/twitter-ubunterobr/</link>
+      <pubDate>Tue, 04 Jan 2011 16:12:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/twitter-ubunterobr/</guid>
+      <description>Por algum tempo utilizei minha conta pessoal do twitter para divulgar novidades do site Ubuntero, mas pensando melhor no público do site resolvi criar uma conta exclusiva para o site, esta conta é @ubunterobr.
+A conta ubuntero já está cadastrada para alguma pessoa de lingua espanhola, por isto preste atenção para adicionar o Ubuntero correto, a conta do site ubuntero.com.br é @ubunterobr, preste bastante atenção no BR no final.
+Esta conta está disponível para todos que queiram tirar dúvidas, dar sugestões ou até mesmo reclamar sobre alguma coisa do site, além de sempre avisar quando um novo artigo for publicado.</description>
+    </item>
+    
+  </channel>
+</rss>

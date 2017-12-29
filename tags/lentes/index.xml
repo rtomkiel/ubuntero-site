@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lentes on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/lentes/</link>
+    <description>Recent content in Lentes on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 21 Oct 2013 16:21:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/lentes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como desabilitar a lente da Amazon no Ubuntu 13.10</title>
+      <link>http://ubuntero.com.br/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</link>
+      <pubDate>Mon, 21 Oct 2013 16:21:02 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-desabilitar-a-lente-da-amazon-no-ubuntu-13-10/</guid>
+      <description>Se você não gosta da lente da Amazon e está usando o Ubuntu 13.10, já deve ter percebido que não adianta desinstalar o pacote unity-lens-shopping como era feito na versão 13.04. O procedimento agora é um pouco diferente.
+Para desabilitar a lente abra o Dash e clique na lente Aplicativos.
+
+Abra o sistema de filtros e selecione &amp;#8220;Dash plugins&amp;#8220;.
+
+Clique em Amazon e clique no botão Desabilitar.
+  Isto funciona para qualquer opção que estiver nos plugins do Dash.</description>
+    </item>
+    
+    <item>
+      <title>Lente Ask Ubuntu</title>
+      <link>http://ubuntero.com.br/lente-ask-ubuntu/</link>
+      <pubDate>Fri, 08 Jun 2012 11:00:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lente-ask-ubuntu/</guid>
+      <description>Falamos em outro artigo sobre as lentes do Unity e hoje vamos mostrar como instalar uma nova lente, a lente que dá acesso direto ao Ask Ubuntu.
+Para instalar é só abrir o terminal pressionando as teclas Ctrl+Alt+t e digitar os seguintes comandos:
+sudo add-apt-repository ppa:askubuntu-tools/ppa sudo apt-get update sudo apt-get install unity-lens-askubuntu É necessário encerrar a sessão e entrar no sistema de novo para ter acesso a lente do Ask Ubuntu e então começar a buscar no site sem entrar no site.</description>
+    </item>
+    
+    <item>
+      <title>Lentes do Unity</title>
+      <link>http://ubuntero.com.br/lentes-do-unity/</link>
+      <pubDate>Mon, 04 Jun 2012 16:28:11 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lentes-do-unity/</guid>
+      <description>Você sabe o que são as lentes, ou lenses, do Unity? Vou assumir que você já saiba o que é o Dash, caso não saiba, assista ao VideoCast #13 que tudo se explicará.
+As lentes são uma espécie de &amp;#8220;aba&amp;#8221; com adição de funcionalidades no Dash do Unity. Como dito, estas &amp;#8220;abas&amp;#8221; adicionam funções ao Dash como listar e procurar conteúdos em sites específicos, acessar arquivos e aplicativos tanto instalados como disponíveis para instalação, entre tantas outras funções.</description>
+    </item>
+    
+  </channel>
+</rss>

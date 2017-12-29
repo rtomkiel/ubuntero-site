@@ -1,0 +1,569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/" title="Resolução correta no Ubuntu 11.04 em placas SiS 671/672/771, e solução de possível desempenho ruim">Resolução correta no Ubuntu 11.04 em placas SiS 671/672/771, e solução de possível desempenho ruim</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				
+
+<p>Notícia muito boa aos proprietários de placas SiS que assim como eu, ficaram sem o Unity 3D, mas que não perdem a esperança de um dia conseguir poder utilizar o Compiz em nossos computadores ou notebooks.</p>
+
+<p>Mas antes da solução final, uma pequena história. Na manhã do dia 28 &#8211; quinta-feira &#8211; amanheci com um ar de animação, o novo Ubuntu estava por vir, melhor do que nunca &#8211; sim, sou do time que apoia o Unity. Chequei alguns sites sobre Ubuntu por volta das seis da manhã, e nenhum continha informações sobre a versão atual. Como todas as manhãs de segunda à sexta, me arrumei para ir para a escola, e sete em ponto eu estava lá. Durante o intervalo da 2ª para a 3º aula, peguei me celular para checar se já houvera o lançamento do Ubuntu 11.04 e vi que havia ocorrido.</p>
+
+<p>Chegando em casa, por volta das 11:30, tentei colocar pra baixar, mas como a internet estava muito ruim, esperei pela hora do almoço na casa de minha vó para poder baixar, já que &#8211; é exatamente da casa dela onde redigo esse texto &#8211; aqui a rede é muito boa. Fui almoçar e deixei baixando, quando retornei restavam apenas 2 horas e 40 minutos, então, fui para casa, sai, fui para o reforço de matemática, fui no comércio comprar uns DVDs pra fazer o backup, e quando cheguei na casa de minha avó por volta de cinco da tarde, salvei tudo o que tinha pra salvar e então instalei.</p>
+
+<p>Lá vou eu todo ansioso pra testar o Ubuntu na sua versão final &#8211; venho testando desde o alpha 2 e sabia exatamente o que fazer ao iniciar pela primeira vez. Coloquei o driver sismedia &#8211; que mostrarei como fazer daqui a pouco &#8211; mas encontrei um grande problema, o sistema estava muito lento, quase impossível de utilizar, mas aí encontrei a solução em algo que não tinha nada haver com o assunto.</p>
+
+<p>O que fiz foi seguir alguns passos pra corrigir o plymouth e voilà o sistema estava muito rápido. Não sei se vai funcionar na sua máquina, mas é bem possível que sim. Mas agora, vamos à instalação do driver sismedia, para o qual eu criei um script para facilitar tudo.</p>
+
+<blockquote>
+<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/07/Driver-sismedia-11.04-e-10.10.sh_.tar.gz"><strong>Download do script</strong></a> (atualizado)</p>
+</blockquote>
+
+<p>Basta que baixe, descompacte e rode pelo terminal</p>
+
+<p>Vamos agora corrigir o desempenho. Faça isso:</p>
+
+<p>1 &#8211; No <strong>Terminal</strong>, digite:</p>
+
+<pre class="brush:shell">sudo gedit /etc/default/grub</pre>
+
+<p>2 -Localize a linha &#8220;<strong>#GRUB_GFXMODE=640&#215;480</strong>&#8221; e, abaixo dela, adicione a seguinte:</p>
+
+<blockquote>
+<p>GRUB_GFXPAYLOAD_LINUX=1280&#215;800</p>
+</blockquote>
+
+<p>4 &#8211; Atualize as configurações do Grub e gere uma nova imagem initramfs:</p>
+
+<pre class="brush:shell">sudo update-grub2 && sudo update-initramfs -u</pre>
+
+<p>5 &#8211; Reinicie o sistema.</p>
+
+<p>Fácil não?</p>
+
+<h5 id="ps-o-tema-sairá-sim-fiquem-frios-mais-tardar-amanhã-e-eu-também-vou-trazer-um-aviso-com-relação-aos-temas">PS: O tema sairá sim, fiquem frios, mais tardar amanhã e eu também vou trazer um aviso com relação aos temas.</h5>
+
+<p>Até mais, abraço a todos.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/11.04">11.04</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/natty">natty</a>,   <a href="/tags/sis">sis</a>,   <a href="/tags/sismedia">sismedia</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/unity">Unity</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/anderson-henrique" title="Mais posts de /author/anderson-henrique">Anderson Henrique</a> em 1 de May de 2011 | <a href="http://ubuntero.com.br/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fresolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim%2f&url=http%3a%2f%2fubuntero.com.br%2fresolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fresolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim%2f&t=Resolu%c3%a7%c3%a3o%20correta%20no%20Ubuntu%2011.04%20em%20placas%20SiS%20671%2f672%2f771%2c%20e%20solu%c3%a7%c3%a3o%20de%20poss%c3%advel%20desempenho%20ruim" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fresolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/lancado-o-ubuntu-11-04-natty-narwhal/" title="Lançado o Ubuntu 11.04 Natty Narwhal">Lançado o Ubuntu 11.04 Natty Narwhal</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/04/narwhal.jpg"><img class="alignleft size-thumbnail wp-image-2052" title="natty narwhal" src="http://www.ubuntero.com.br/wp-content/uploads/2011/04/narwhal-131x150.jpg" alt="Imagem de um Natty Narwhal" width="131" height="150" /></a>Está no ar o Ubuntu 11.04 Natty Narwhal.</p>
+
+<p>Como previsto no <a href="https://wiki.ubuntu.com/NattyReleaseSchedule">calendário</a>, a versão 11.04 foi lançada hoje com muitas mudanças se compararmos com a versão anterior. A principal mudança, que chegou a causar alguma polêmica, é a mudança do shell padrão que agora deixa de ser o gnome-panel para ser o Unity.</p>
+
+<p>O motivo da polêmica foi uma entrevista onde Mark diz que o Unity ainda não está do jeito que ele queria, mas que na versão 11.10 isto será resolvido. Na mesma entrevista ele também menciona que a interface clássica do Gnome ainda estará disponível nesta versão, o que não poderia garantir para a 11.10. Estas foram as informações passadas na entrevista, mas alguns sites ou pessoas que não sabem ler em inglês divulgaram que o Unity não seria a interface padrão no Ubuntu 11.04 e isto causou muitas discussões pelo twitter e até a falsa informação chegou a ser publicada em grandes sites como o br-linux.</p>
+
+<p>Fica aqui um &#8220;desabafo&#8221; e recado para esse tipo de pessoa. Gere acessos ao seu site com conteúdo verdadeiro e de qualidade e não com falsas informações.</p>
+
+<p>Mas o Ubuntu 11.04 não tem apenas a nova interface, temos outras mudanças como:</p>
+
+<ul>
+<li>Firefox 4</li>
+<li>Substituição do Rhythmbox pelo Banshee</li>
+<li>Avaliações na Central de Programas do Ubuntu</li>
+<li>Kernel 2.6.38 com o patch mágico de 200 linhas</li>
+<li>Shotwell para gerenciamento de fotos</li>
+<li>Controle de volume do microfone no applet de volume(apenas em chamadas do skype)</li>
+<li>Novo instalador que permite atualizar a versão mesmo sem precisar da versão alternate</li>
+<li>e muitas outras</li>
+</ul>
+
+<p>Se você já está usando a versão Beta, precisará só manter o sistema atualizado que já terá a última versão amanhã.</p>
+
+<p>Se quiser conhecer um pouco mais sobre o Unity, não deixe de acessar a <a href="http://wiki.ubuntu-br.org/Unity">wiki</a>.</p>
+
+<p>Caso queira fazer uma instalação nova ou atualizar utilizando o CD de instalação, abaixo seguem os links para download:</p>
+
+<ul>
+<li><img src="http://cdimage.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-alternate-amd64+mac.iso">ubuntu-11.04-alternate-amd64+mac.iso</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-alternate-amd64+mac.iso.torrent">ubuntu-11.04-alternate-amd64+mac.iso.torrent</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-desktop-amd64+mac.iso">ubuntu-11.04-desktop-amd64+mac.iso</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-desktop-amd64+mac.iso.torrent">ubuntu-11.04-desktop-amd64+mac.iso.torrent</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-dvd-amd64.iso">ubuntu-11.04-dvd-amd64.iso</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-dvd-amd64.iso.torrent">ubuntu-11.04-dvd-amd64.iso.torrent</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-dvd-i386.iso">ubuntu-11.04-dvd-i386.iso</a></li>
+<li><img src="http://cdimage.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://cdimage.ubuntu.com/releases/natty/release/ubuntu-11.04-dvd-i386.iso.torrent">ubuntu-11.04-dvd-i386.iso.torrent</a></li>
+<li><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://releases.ubuntu.com/11.04/ubuntu-11.04-desktop-amd64.iso">ubuntu-11.04-desktop-amd64.iso</a></li>
+<li><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://releases.ubuntu.com/11.04/ubuntu-11.04-desktop-amd64.iso.torrent">ubuntu-11.04-desktop-amd64.iso.torrent</a></li>
+<li><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://releases.ubuntu.com/11.04/ubuntu-11.04-desktop-i386.iso">ubuntu-11.04-desktop-i386.iso</a></li>
+<li><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://releases.ubuntu.com/11.04/ubuntu-11.04-desktop-i386.iso.torrent">ubuntu-11.04-desktop-i386.iso.torrent</a></li>
+<li><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /><a href="http://releases.ubuntu.com/11.04/ubuntu-11.04-server-amd64.iso">ubuntu-11.04-server-amd64.iso</a></li>
+<li><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /><a href="http://releases.ubuntu.com/11.04/ubuntu-11.04-server-amd64.iso.torrent">ubuntu-11.04-server-amd64.iso.torrent</a></li>
+</ul>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/11.04">11.04</a>,   <a href="/tags/lan%C3%A7amento">Lançamento</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/natty">natty</a>,   <a href="/tags/natty-narwhal">natty narwhal</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 28 de Apr de 2011 | <a href="http://ubuntero.com.br/lancado-o-ubuntu-11-04-natty-narwhal/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-11-04-natty-narwhal%2f&url=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-11-04-natty-narwhal%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-11-04-natty-narwhal%2f&t=Lan%c3%a7ado%20o%20Ubuntu%2011.04%20Natty%20Narwhal" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2flancado-o-ubuntu-11-04-natty-narwhal%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/lojas-de-aplicativos/" title="Lojas de aplicativos">Lojas de aplicativos</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Quantas vezes você já ouviu ou leu sobre as &#8220;inovadoras&#8221; lojas de aplicativos? Apple tem a sua, android também e a até a Microsoft tem a sua. A única explicação do porque estas lojas de aplicativos serem famosas é o simples fato de elas venderem aplicativos exclusivos para seus dispositivos.</p>
+
+<p>Você deve estar se perguntando qual a relação destas lojas com o software livre e o Ubuntu? A resposta é tão simples que pode até parecer forçação de barra, mas o Linux basicamente criou a ideia de lojas de aplicativos, mas nunca vendeu os aplicativos lá disponíveis.</p>
+
+<p>Explico. Há muito tempo atras, quando você entrava em algum gerenciador de pacotes como o Synaptic, o que você via? Um monte de aplicativos prontos para serem selecionados para instalação. Você não pagava nada por isto, mas preste muita atenção, você já tinha milhares de aplicativos, com descrições, prontos para serem instalados no seu computador. Esta não é a ideia de uma loja de aplicativos?</p>
+
+<p>Para os que vão argumentar que uma loja de verdade tem que vender aplicativos, caso contrário não seria uma loja, eu digo que esta é a evolução natural. O próprio Ubuntu vende aplicativos, poucos mas vende, na Central de Programas do Ubuntu. Desculpem minha possível ignorância, mas acredito que a Central de Programas do Ubuntu seja o único gerenciador de pacotes que realmente vende aplicações, além de disponibilizar as milhares de aplicações gratuitamente.</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2011/04/Captura_de_tela2.png"><img class="alignnone size-thumbnail wp-image-2152" title="Central de programas do Ubuntu" src="http://www.ubuntero.com.br/wp-content/uploads/2011/04/Captura_de_tela2-150x93.png" alt="Central de programas do Ubuntu" width="150" height="93" /></a> <a href="http://www.ubuntero.com.br/wp-content/uploads/2011/04/Captura_de_tela-1.png"><img class="alignnone size-thumbnail wp-image-2153" title="Aplicação paga na Central de Programas do Ubuntu" src="http://www.ubuntero.com.br/wp-content/uploads/2011/04/Captura_de_tela-1-150x93.png" alt="Aplicação paga na Central de Programas do Ubuntu" width="150" height="93" /></a>
+</p>
+
+<p style="text-align: left;">
+  Antes de causar qualquer polêmica, não condeno a venda de aplicativos em lojas de aplicativos, apenas quero deixar os créditos da ideia para quem realmente merece. Posso estar errado também e a ideia dos gerenciadores de pacotes terem vindos de outro lugar, mas aí é só me notificarem que eu altero o artigo.
+</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/app-store">app store</a>,   <a href="/tags/gerenciador-de-programas">gerenciador de programas</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 27 de Apr de 2011 | <a href="http://ubuntero.com.br/lojas-de-aplicativos/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2flojas-de-aplicativos%2f&url=http%3a%2f%2fubuntero.com.br%2flojas-de-aplicativos%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2flojas-de-aplicativos%2f&t=Lojas%20de%20aplicativos" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2flojas-de-aplicativos%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/lancado-o-livro-libreoffice-para-leigos/" title="Lançado o livro LibreOffice Para Leigos">Lançado o livro LibreOffice Para Leigos</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Desde o final do ano passado, estava escrevendo o livro, aproveitando as férias de janeiro e momentos de folga durante a semana e finais de semana. Mas finalmente ficou pronto minha primeira obra, <strong>LibreOffice Para Leigos</strong>.</p>
+
+<p>Enquanto estava escrevendo o livro, ocorreram diversas alterações como a logomarca, mudança do nome, lançamento de versões e extinção da ONG, mas depois de algumas correções e diagramação, segue o link para vocẽs fazerem download.</p>
+
+<p class="button">
+  <a href="http://goo.gl/5W41j" target="_blank" rel="nofollow">http://goo.gl/5W41j</a>
+</p>
+
+<p>Peço também que a comunidade, se encontrar erros, reporte para meu email, klaibson@gmail.com</p>
+
+<p>Me adicionem também no twitter: <a href="http://twitter.com/klaibsonn" target="_blank" rel="nofollow">@klaibsonn</a> e facebook: <a href="http://www.facebook.com/klaibsonn" target="_blank" rel="nofollow">klaibsonn</a></p>
+
+<p>Boa leitura.</p>
+
+<p><strong>Fonte: <a title="LibreOffice Para Leigos" href="http://www.libreofficeparaleigos.com/lancado-o-livro-libreoffice-para-leigos/" target="_blank" rel="nofollow">libreofficeparaleigos.com</a></strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/broffice">broffice</a>,   <a href="/tags/e-book">e-book</a>,   <a href="/tags/libreoffice">LibreOffice</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/livro">livro</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 26 de Apr de 2011 | <a href="http://ubuntero.com.br/lancado-o-livro-libreoffice-para-leigos/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2flancado-o-livro-libreoffice-para-leigos%2f&url=http%3a%2f%2fubuntero.com.br%2flancado-o-livro-libreoffice-para-leigos%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2flancado-o-livro-libreoffice-para-leigos%2f&t=Lan%c3%a7ado%20o%20livro%20LibreOffice%20Para%20Leigos" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2flancado-o-livro-libreoffice-para-leigos%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/linux-vs-windows-jogos/" title="Linux vs Windows – Jogos">Linux vs Windows – Jogos</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Ao contrário do que alguns falaram nos comentários do artigo anterior, a licença do Windows 7 que comprei não serve apenas para que eu possa falar mal do sistema, não sou louco para fazer isto.</p>
+
+<p>Como no primeiro artigo, onde falei da instalação dos dois sistemas, o Windows 7 perdeu de lavada para o Ubuntu 11.04, neste artigo irei falar de um campo onde o Windows ganha de lavada do Ubuntu e outros Linux.</p>
+
+<p>Embora o Linux já tenha uma boa quantidade de jogos para serem instalados, estes não tem o apelo comercial de títulos desenvolvidos para Windows. A &#8220;grife&#8221; destes jogos já é o suficiente para que muitos usuários nem pensem em migrar para Linux. Não tiro a razão destes usuários, afinal, para jogos o que interessa são os gráficos e a diversão. Neste caso não é a produtividade ou segurança que deve ser analisada.</p>
+
+<p>Para Windows temos uma variedade de títulos enorme,seria impossível listar todos ou até o número disponível. Os gêneros também são mais completos que no mundo do Pinguim. Por exemplo, eu nunca vi um bom jogo de futebol para Linux.</p>
+
+<p>Se você tem o computador apenas para jogar, eu ainda recomendo que utilize o Windows, afinal, como sistema operacional ele é um ótimo videogame.</p>
+
+<p>Para Linux temos pessoas como o Carlos Donizete que faz um bom trabalho de divulgação com o site <a href="http://www.ubuntugames.org/">Ubuntu Games.</a></p>
+
+<p>Não estou dizendo aqui que o Linux não tem bons jogos, apenas os jogos mais conhecidos no mercado não estão disponíveis nativamente para a plataforma do Pinguim. Temos opções como tentar rodar jogos através do Wine.</p>
+
+<p>O Wine quebra o galho mas não é a solução definitiva para termos 100% dos jogos do Windows rodando no Linux. Por ser um projeto que trabalha com engenharia reversa para implementar as bibliotecas do Windows, é difícil até de exigir que este funcione com todo e qualquer jogo desenvolvido para uma plataforma diferendo do Linux.</p>
+
+<p>Acredito que não preciso falar que a maioria dos jogos para Windows precisam ser comprados e só podem ser instalados em um computador. Nada de piratear programas e jogos.</p>
+
+<p>Mais sobre jogos no Linux você poderá conferir em breve no novo episódio do Opencast que está no forno e por motivos de falta de tempo ainda não foi ao ar.</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/jogos">Jogos</a>,   <a href="/tags/linuz">linuz</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/windows">Windows</a>,   <a href="/tags/wine">wine</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 25 de Apr de 2011 | <a href="http://ubuntero.com.br/linux-vs-windows-jogos/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2flinux-vs-windows-jogos%2f&url=http%3a%2f%2fubuntero.com.br%2flinux-vs-windows-jogos%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2flinux-vs-windows-jogos%2f&t=Linux%20vs%20Windows%20%e2%80%93%20Jogos" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2flinux-vs-windows-jogos%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/107/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">108</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/109/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

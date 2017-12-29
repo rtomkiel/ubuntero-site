@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firewall on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/firewall/</link>
+    <description>Recent content in Firewall on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 20 Jan 2011 11:05:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/firewall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adicionar repositórios estando atras de um firewall</title>
+      <link>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</link>
+      <pubDate>Thu, 20 Jan 2011 11:05:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
+      <description>Artigo retirado e traduzido do site OMGUbuntu, tradução livre.
+Tendo problemas com o Ubuntu na Universidade? MadnessRed tem a solução.
+Um grande número de empresas e universidades bloqueiam todas as portas desconhecidas. Isto inclui as portas usadas para adicionar repositórios.
+Este problema pode ser manobrado utilizando a porta 80 para adquirir a chave, MadnessRed escreveu um script para fazer isto, mas este script tenta outras portas primeiro ao utilizar o comando apt-add-repository e isto pode levar alguns anos até falhar.</description>
+    </item>
+    
+  </channel>
+</rss>

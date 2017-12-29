@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12.1 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/12.1/</link>
+    <description>Recent content in 12.1 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 01 May 2014 19:05:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/12.1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fim da linha para o Ubuntu 12.10</title>
+      <link>http://ubuntero.com.br/fim-da-linha-para-o-ubuntu-12-10/</link>
+      <pubDate>Thu, 01 May 2014 19:05:25 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/fim-da-linha-para-o-ubuntu-12-10/</guid>
+      <description>Está na hora de quem ainda utiliza o Ubuntu 12.10 fazer a migração para uma versão mais nova do sistema. Como já tivemos o lançamento do Ubuntu 14.04 LTS, nem preciso dizer para qual eu recomendo a migração. A data limite das atualizações da versão 12.10 é o dia 16 de maio, tempo suficiente para você fazer o seu backup e proceder com os passos para se atualizar. O diferencial é que você terá que passar pela versão 13.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #23 – Ubuntu 12.10</title>
+      <link>http://ubuntero.com.br/videocast-23-ubuntu-12-10/</link>
+      <pubDate>Fri, 16 Nov 2012 23:36:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-23-ubuntu-12-10/</guid>
+      <description>Eu avisei que não teríamos vídeos nos próximos 15 dias, mas consegui uma brecha e gravei um vídeo, até porque agora o tempo é indeterminado como explico neste episódio.
+Ainda não falarei do Lubuntu, mas o próximo episódio será sobre ele, com toda a certeza. Neste episódio falo um pouco sobre as qualidades e defeitos do Ubuntu 12.10, com a interface Unity.
+ Assistir no Youtube Links  Problemas com vídeos MP4 no totem Webapps no Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>Vídeocast #22 – Xubuntu 12.10</title>
+      <link>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</link>
+      <pubDate>Sat, 10 Nov 2012 22:12:43 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-22-xubuntu-12-10/</guid>
+      <description>Mais um review muito esperado segundo os comentários nas redes sociais durante a semana. Desta vez falo um pouco sobre o Xubuntu 12.10.
+A grande promessa do sistema é ser mais leve que os &amp;#8220;concorrentes&amp;#8221; e o sistema cumpre com o prometido, ele realmente é mais leve e em geral bem responsivo. Não testei em computadores mais antigos, o teste foi feito no mesmo computador que os últimos reviews, um Intel Core i3 com 4 GB de memória e VGA Intel.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #21 – Kubuntu 12.10</title>
+      <link>http://ubuntero.com.br/videocast-21-kubuntu-12-10/</link>
+      <pubDate>Tue, 06 Nov 2012 01:10:46 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-21-kubuntu-12-10/</guid>
+      <description>Demorou e foi difícil fazer esta gravação do desktop do Kubuntu. Nenhum gravador de tela está funcionando perfeitamente nos 12.10. Somando a vez que tudo deu certo, foram 5 vezes que gravei este episódio. Talvez por isso eu tenha focado mais nos problemas do que nas coisas boas do Kubuntu. Aproveitei o episódio para corrigir uma gafe sobre a não existência de um programa ao estilo central de programas no Ubuntu Gnome Remix 12.</description>
+    </item>
+    
+    <item>
+      <title>Videocast 20 – Ubuntu Gnome Remix 12.10</title>
+      <link>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</link>
+      <pubDate>Mon, 29 Oct 2012 12:43:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-20-ubuntu-gnome-remix-12-10/</guid>
+      <description>Passada uma semana de uso com o Ubuntu Gnome Remix 12.10, aqui está o vídeo que mostra as minhas impressões sobre o sistema. Em resumo posso dizer que a equipe que fez o trabalho estava com muita preguiça de adicionar o mínimo de qualidade ao sistema. Por padrão o sistema não tem nenhum programa gerenciador de pacotes instalado e precisei instalar muito software básico para poder trabalhar, nem falo dos programas específicos, estes todos sabemos que temos que instalar.</description>
+    </item>
+    
+    <item>
+      <title>Como atualizar o Ubuntu 12.04 para 12.10</title>
+      <link>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-12-10/</link>
+      <pubDate>Fri, 19 Oct 2012 19:37:17 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-atualizar-o-ubuntu-12-04-para-12-10/</guid>
+      <description>Se a última versão do Ubuntu que você instalou era uma LTS, por exemplo a 12.04, a atualização para a 12.10 não deve ter aparecido no gerenciador de atualizações, mesmo que utilize o comando &amp;#8220;update-manager -d&amp;#8221;. Isto acontece porque as versões LTS são configuradas para só serem atualizadas para outras versões LTS, o que só vai acontecer em 2014(se o mundo não acabar).
+Para resolver este &amp;#8220;problema&amp;#8221;, abra a central de programas do ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Faça sua capa para o DVD do Ubuntu 12.10</title>
+      <link>http://ubuntero.com.br/faca-sua-capa-para-o-dvd-do-ubuntu-12-10/</link>
+      <pubDate>Sun, 14 Oct 2012 16:51:41 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/faca-sua-capa-para-o-dvd-do-ubuntu-12-10/</guid>
+      <description>Está disponível na wiki do Ubuntu a arte para você imprimir a capa oficial do Ubuntu 12.10. Nesta wiki você pode inclusive encontrar as capas para as versões mais antigas, é só baixar, imprimir e dobrar. Uma informação que eu não gostei de ver foi que a arte foi criada com o Adobe Ilustrator, como se não houvesse alternativa livre para fazer o mesmo trabalho.
+ Desta maneira fica mais fácil distribuir uma cópia do Ubuntu de maneira mais profissional e sem gastar muito dinheiro.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #19</title>
+      <link>http://ubuntero.com.br/videocast-19/</link>
+      <pubDate>Sun, 14 Oct 2012 05:17:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-19/</guid>
+      <description>Aproveito este Videocast para esclarecer alguns pontos sobre o Opencast, agradecer aos votos para o prêmio TopBlog Brasil 2012 e comentar sobre a crítica que fiz sobre as webapps do Ubuntu 12.10.</description>
+    </item>
+    
+    <item>
+      <title>Webapps no Ubuntu 12.10</title>
+      <link>http://ubuntero.com.br/webapps-no-ubuntu-12-10/</link>
+      <pubDate>Tue, 02 Oct 2012 20:38:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/webapps-no-ubuntu-12-10/</guid>
+      <description>&amp;nbsp;
+Depois de usar por um longo tempo as tais webapps eu finalmente me sinto tranquilo para falar o que achei desta &amp;#8220;grande&amp;#8221; novidade do Ubuntu 12.10.
+A conclusão pode se resumir a duas palavras: Sem sentido.
+Exatamente isso, não estou exagerando. As webapps foram conclamadas como uma grande revolução, imaginem, apps que integrariam sites ao sistema de notificações e os usuários poderiam fazer várias coisas por elas. Usei a webapp do youtube, google docs, google+ e launchpad e a única real alteração notada foi uma pequena travada no navegador na primeira vez que entro em cada um dos serviços.</description>
+    </item>
+    
+    <item>
+      <title>Videocast 17 – Ubuntu 12.10 Beta 1</title>
+      <link>http://ubuntero.com.br/videocast-17-ubuntu-12-10-beta-1/</link>
+      <pubDate>Sat, 22 Sep 2012 20:40:57 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-17-ubuntu-12-10-beta-1/</guid>
+      <description>Enfim consegui fazer a gravação do vídeo do Ubuntu 12.10 Beta 1. No início do vídeo eu faço a correção de uma informação que dei sobre o Unity 2D no Ubuntu 12.04 e na sequencia mostro as novidades visuais do Ubuntu 12.10 Beta 1.
+Sim eu estava com o nariz congestionado, não é problema de gravação.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #17 – Notícias</title>
+      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
+Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
+    </item>
+    
+    <item>
+      <title>Foi dada a largada para as traduções do Ubuntu 12.10</title>
+      <link>http://ubuntero.com.br/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</link>
+      <pubDate>Tue, 07 Aug 2012 17:33:57 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/foi-dada-a-largada-para-as-traducoes-do-ubuntu-12-10/</guid>
+      <description>Notícia saída fresquinha do blog do Fábio Nogueira.
+Chegou a hora de ajudar nas traduções da futura versão do Ubuntu: Ubuntu Quantal 12.10!
+A equipe de tradução do Ubuntu está esperando pelo seu apoio! Para isso, basta acessar o nossa wiki (http://wiki.ubuntu-br.org/TimeDeTraducao) e começar a fazer parte do time. A lista de todos os pacotes do Ubuntu Quantal a serem traduzidos estão em https://translations.launchpad.net/ubuntu/quantal/+lang/pt_BR.
+Contamos com o apoio de todos para deixar a nossa querida distribuição 100% em português.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 12.10 sem Unity 2D instalado por padrão?</title>
+      <link>http://ubuntero.com.br/ubuntu-12-10-sem-unity-2d-instalado-por-padrao/</link>
+      <pubDate>Thu, 10 May 2012 02:30:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-12-10-sem-unity-2d-instalado-por-padrao/</guid>
+      <description>Em sessão do UDS(Ubuntu Developer Summit) foi decidido que o Ubuntu 12.10 não terá mais o Unity 2D instalado na instalação padrão. Isto significa que a Canonical deixará de dar atenção a versão do Unity para computadores mais modestos.
+O que me preocupa neste caso é que a versão mais acessível do Unity é exatamente a versão 2D, o que me faz torcer com todas as forças que a promessa de concentração no desenvolvimento do Unity 3D sejam realmente cumpridas.</description>
+    </item>
+    
+    <item>
+      <title>Quantal Quetzal</title>
+      <link>http://ubuntero.com.br/quantal-quetzal/</link>
+      <pubDate>Tue, 24 Apr 2012 00:05:58 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/quantal-quetzal/</guid>
+      <description>Nem lançaram o Ubuntu 12.04 mas as conversas já estão sendo realizadas para o desenvolvimento da 12.10, e o nome já foi escolhido. Quantal Quetzal será o codinome da segunda versão do Ubuntu a ser lançada neste ano.
+Segundo o próprio Mark Shuttleworth, a versão 12.10 vai servir para redesenhar a cara do Ubuntu, por isto esta ave foi escolhida para dar nome a esta versão.</description>
+    </item>
+    
+  </channel>
+</rss>

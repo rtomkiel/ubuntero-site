@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/google-earth-no-ubuntu-10-10/" title="Google Earth no Ubuntu 10.10">Google Earth no Ubuntu 10.10</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/10/Google-Earth-Logo-200x200.png"><img class="alignnone size-full wp-image-1122" title="Google-Earth-Logo-200x200" src="http://www.ubuntero.com.br/wp-content/uploads/2010/10/Google-Earth-Logo-200x200.png" alt="" width="200" height="200" /></a>
+</p>
+
+<p>Se existia um software de terceiros que eu já tinha desistido de utilizar, este software era o Google Earth. Esta desistência não tinha relação com outros perrengues que havia passado com a empresa desenvolvedora, o fato era que o software era, desculpem a palavra, ridículo quando os efeitos do compiz estavam habilitados.</p>
+
+<p>Na versão 10.10 do Ubuntu, este problema foi resolvido e agora sou mais um utilizador deste software, embora prefira utilizar o site <maps.google.com> quando preciso verificar ou traçar rotas.</p>
+
+<p>O milagre, ao que parece, está no fato de ser gerado um pacote específico para o seu computador, pelo menos é o que eu estou deduzindo. Veja abaixo como instalar o Google Earth no Ubuntu 10.10(a maneira mais fácil é utilizar o terminal :</p>
+
+<p>Abra o terminal pelo menu Aplicativos -&gt; Acessórios -&gt; Terminal</p>
+
+<p>No terminal digite o seguinte comando:</p>
+
+<pre class="brush:shell">sudo apt-get install googleearth-package lsb-core</pre>
+
+<p>Após o download do pacote digite o seguintes comandos e aguarde:</p>
+
+<pre class="brush:shell">make-googleearth-package --force
+sudo dpkg -i googleearth_5.2.1.1588+0.5.7-1_i386.deb</pre>
+
+<p>Obs: verifique o nome do pacote &#8220;googleearth_&#8221; que pode variar.</p>
+
+<p>Concluído o processo disparado pelos comandos acima, você terá o Google Earth diponível pelo menu Aplicativos -&gt; Internet -&gt; Google Earth (sem tela piscando).</p>
+
+<p style="text-align: center;">
+  <a href="http://www.ubuntero.com.br/wp-content/uploads/2010/10/Captura_de_tela.png"><img class="alignnone size-thumbnail wp-image-1132" title="Captura_de_tela" src="http://www.ubuntero.com.br/wp-content/uploads/2010/10/Captura_de_tela-150x88.png" alt="" width="150" height="88" /></a>
+</p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/google-earth">google earth</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 19 de Oct de 2010 | <a href="http://ubuntero.com.br/google-earth-no-ubuntu-10-10/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fgoogle-earth-no-ubuntu-10-10%2f&url=http%3a%2f%2fubuntero.com.br%2fgoogle-earth-no-ubuntu-10-10%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fgoogle-earth-no-ubuntu-10-10%2f&t=Google%20Earth%20no%20Ubuntu%2010.10" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fgoogle-earth-no-ubuntu-10-10%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/lancado-ubuntu-10-10-maverick-meerkat-2/" title="Lançado Ubuntu 10.10 Maverick Meerkat">Lançado Ubuntu 10.10 Maverick Meerkat</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Dizem as más línguas de que o Ubuntu 10.10 foi lançado hoje as 10:10:10. Como não tenho condições de confirmar esta informação, irei apenas anunciar o lançamento da nova versão do Ubuntu na data prevista, 10/10/2010. Esta versão teve seu lançamento adiantado em 3 semanas para termos o que a Canonical chamou de &#8220;perfect 10&#8221;.</p>
+
+<p>Para fazer o download da nova versão, escolha um dos arquivos abaixo:</p>
+
+<p><strong>Ubuntu 10.10 Maverick Meerkat</strong></p>
+
+<p><a href="http://releases.ubuntu.com/releases/10.10/ubuntu-10.10-desktop-i386.iso.torrent" target="_blank">i386 Desktop Torrent</a></p>
+
+<p><a href="http://releases.ubuntu.com/releases/10.10/ubuntu-10.10-alternate-i386.iso.torrent" target="_blank">i386 Alternate Torrent</a></p>
+
+<p><a href="http://releases.ubuntu.com/releases/10.10/ubuntu-10.10-server-i386.iso.torrent" target="_blank">i386 Server Torrent</a></p>
+
+<p><a href="http://releases.ubuntu.com/releases/10.10/ubuntu-10.10-alternate-amd64.iso.torrent" target="_blank">AMD64 Alternate Torrent</a></p>
+
+<p><a href="http://releases.ubuntu.com/releases/10.10/ubuntu-10.10-server-amd64.iso.torrent" target="_blank">AMD64 Server Torrent</a></p>
+
+<p><strong>Lubuntu 10.10 Maverick Meerkat</strong></p>
+
+<p><a title="Lubuntu" href="http://people.ubuntu.com/%7Egilir/lubuntu-10.10.iso.torrent" target="_blank">Lubuntu i386 ISO</a>  ****</p>
+
+<p><strong>Kubuntu 10.10 Maverick Meerkat</strong></p>
+
+<p><a href="http://releases.ubuntu.com/kubuntu/10.10/kubuntu-10.10-alternate-i386.iso.torrent" target="_blank">Kubuntu i386 DVD Desktop Torrent</a></p>
+
+<p><a href="http://releases.ubuntu.com/kubuntu/10.10/kubuntu-10.10-alternate-amd64.iso.torrent" target="_blank">Kubuntu amd64 DVD Desktop Torrent</a></p>
+
+<p><strong>Xubuntu 10.10 Maverick Meerkat</strong></p>
+
+<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/10.10/release/xubuntu-10.10-desktop-i386.iso.torrent" target="_blank">Xubuntu i386 Desktop Torrent</a></p>
+
+<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/10.10/release/xubuntu-10.10-alternate-i386.iso.torrent" target="_blank">Xubuntu i386 Alternate Torrent</a></p>
+
+<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/10.10/release/xubuntu-10.10-desktop-amd64.iso.torrent" target="_blank">Xubuntu amd64 Desktop Torrent</a></p>
+
+<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/10.10/release/xubuntu-10.10-alternate-amd64.iso.torrent" target="_blank">Xubuntu amd64 Alternate Torrent</a>  ****</p>
+
+<p><strong>Edubuntu 10.10 Maverick Meerkat</strong></p>
+
+<p><a href="http://cdimage.ubuntu.com/edubuntu/releases/10.10/release/edubuntu-10.10-dvd-i386.iso.torrent" target="_blank">Edubuntu i386 Torrent</a></p>
+
+<p><a href="http://cdimage.ubuntu.com/edubuntu/releases/10.10/release/edubuntu-10.10-dvd-amd64.iso.torrent" target="_blank">Edubuntu amd64 Torrent</a></p>
+
+<p><strong>Mythbuntu 10.10 Maverick Meerkat</strong></p>
+
+<p><a href="http://cdimage.ubuntu.com/mythbuntu/releases/10.10/release/mythbuntu-10.10-desktop-i386.iso.torrent" target="_blank">Mythbuntu i386 Torrennt</a></p>
+
+<p><a href="http://cdimage.ubuntu.com/mythbuntu/releases/10.10/release/mythbuntu-10.10-desktop-amd64.iso.torrent" target="_blank">Mythbuntu amd64 Torrent</a></p>
+
+<p><strong>Ubuntu Studio</strong></p>
+
+<p><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/10.10/release/ubuntustudio-10.10-alternate-i386.iso.torrent" target="_blank">Ubuntu Stutio Alternate i386 </a></p>
+
+<p><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/10.10/release/ubuntustudio-10.10-alternate-amd64.iso.torrent" target="_blank">Ubuntu Studio Alternate AMD64</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 11 de Oct de 2010 | <a href="http://ubuntero.com.br/lancado-ubuntu-10-10-maverick-meerkat-2/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2flancado-ubuntu-10-10-maverick-meerkat-2%2f&url=http%3a%2f%2fubuntero.com.br%2flancado-ubuntu-10-10-maverick-meerkat-2%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2flancado-ubuntu-10-10-maverick-meerkat-2%2f&t=Lan%c3%a7ado%20Ubuntu%2010.10%20Maverick%20Meerkat" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2flancado-ubuntu-10-10-maverick-meerkat-2%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/1110/" title="Iniciativa “nós somos mais que 1%” quer provar que Linux é maior do que se pensa">Iniciativa “nós somos mais que 1%” quer provar que Linux é maior do que se pensa</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Tradução livre do post em <a href="http://www.omgubuntu.co.uk/">Omg! Ubuntu!</a></p>
+
+<blockquote>
+<p><strong>Uma nova iniciativa de &#8216;contador de Linux&#8217; que tenciona desmentir as afirmações da imprensa que o Linux é usado por menos que 1% dos usuários de computadores desktop do mundo acaba de ser lançada.</strong></p>
+
+<p><a name="more"></a></p>
+
+<p>Estimativas correntes do uso mundial do Linux pelo <a href="http://gs.statcounter.com/">StatCounter</a> marca uma <a href="http://gs.statcounter.com/#os-ww-monthly-200910-201009-bar">fatia de 0.77%</a> nos últimos 12 meses, e um modesto número de <a href="http://gs.statcounter.com/#os-ww-monthly-200807-201010-bar">0.75% desde que começaram a contar.</a></p>
+
+<p>Estranhamente, <strong>Steve Ballmer</strong> da Microsoft tem contestado esta visão declarando que ele suspeita que <a href="http://www.osnews.com/story/21035/Ballmer_Linux_Bigger_Competitor_than_Apple">a fatia de mercado do Linux market <strong>maior</strong> que a do Mac OS X</a>.</p>
+
+<p><strong>Independentemente da verdade, você pode desejar unir sua voz ao nobre projeto em</strong> <a href="http://www.dudalibre.com/gnulinuxcounter"><strong>dudalibre.com/gnulinuxcounter</strong></a></p>
+</blockquote>
+
+<p>Fonte: <a href="http://ubuntex.blogspot.com/2010/10/iniciativa-nos-somos-mais-que-1-quer.html">Ubuntex</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 7 de Oct de 2010 | <a href="http://ubuntero.com.br/1110/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f1110%2f&url=http%3a%2f%2fubuntero.com.br%2f1110%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f1110%2f&t=Iniciativa%20%e2%80%9cn%c3%b3s%20somos%20mais%20que%201%25%e2%80%9d%20quer%20provar%20que%20Linux%20%c3%a9%20maior%20do%20que%20se%20pensa" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f1110%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/1108/" title=""></a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<div style="text-align: center;">
+  <img title="Revista Espírito Livre - Ed. #018 - Setembro 2010" src="http://revista.espiritolivre.org/img/REL018_Capa.jpg" alt="Revista Espírito Livre - Ed. #018 - Setembro 2010" width="269" height="359" />
+</div>
+
+<p style="text-align: center;">
+  <code>&lt;a title="Baixado 211 vezes" href="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=18">&lt;img src="http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/img/download.gif" alt="Revista Espírito Livre - Ed. n #018 - Setembro 2010" />&lt;/a></code>
+</p>
+
+<p>Caro leitor, trazemos mais uma nova edição que, para não ser diferente, foi gerada depois de muito trabalho de uma equipe batalhadora, e que merece todo o respeito. Procuramos disponibilizá-la no menor tempo possível, entretanto a falta de certos recursos inviabilizaram o processo. Mesmo assim, estamos aqui como a edição do mês de setembro. Tivemos a oportunidade de estar frente a frente com Linus    Torvalds, criador do Linux, o popular kernel que habita em diversos de nossos computadores. Ele esbanjou simpatia ao nos receber em uma longa entrevista durante a LinuxCon, em São Paulo. Não somente a entrevista, mas juntamente com o fato de que ainda não havíamos tido uma capa sobre o tão falado pinguim, além de sua popularidade já comprovada, foram os responsáveis pela escolha deste tema. Apesar do bate-papo ter sido longo, preferimos publicá-lo na íntegra, sem cortes, onde Torlvalds, assim como em várias de suas declarações, divide opiniões por onde passa. O que se constata é que, kernel após kernel, o Linux se fundamenta como uma solução viável entre os mais diversos usuários. Isto graças, não somente a Torvalds, mas a uma comunidade atuante e sempre em evolução. Quanto a entrevista, agradecimento especial a Kemel Zaidan, que esteve no evento representando a Revista Espírito Livre.</p>
+
+<p>Além da entrevista, contamos ainda com a colaboração de diversos outros parceiros, que fundamentaram bem o tema de capa. Ricardo Ogliari faz uma análise do pinguim nos dispositivos móveis, mais especificamente nos celulares, enquanto Rodrigo Carvalho foca o seu uso no Android, o sistema operacional baseado em Linux, que vem se popularizando rapidamente entre as empresas que produzem aparelhos de celular e seus respectivos usuários, que por diversas vezes, se apresentam como fãs da plataforma. Jomar Silva faz uma pergunta interessante sobre os usuários linux: “Quem não usa Linux?”, afinal muitos usam sem saber! Alexandre Oliva avalia pontos polêmicos que envolvem o este famoso kernel e levanta várias questões que merecem ser analisadas.</p>
+
+<p>Em paralelo a isso tudo, os outros colaboradores também enriqueceram a edição com suas matérias: Marco Passos destaca a dificuldade de coordenar projetos colaborativos enquanto Jamerson Tiossi afirma que o usuário doméstico é a fronteira final quanto a adoção do software livre no desktop. André Déo e Aécio Pires descrevem como gerenciar redes com o Zabbix e prometem continuar com outros artigos a respeito. Alexandre A. Borba levanta questões de reflexão sobre a recente criação da suite LibreOffice.</p>
+
+<p>Além destes, outros também contribuiram e o meu sentimento é de muita gratidão com todos, entre estes os nossos parceiros das promoções, sorteios e brindes.</p>
+
+<p>Estamos pipocando de promoções e desta vez batemos o recorde entre todas as edições. São promoções para todos os gostos. Cursos, maratonas, eventos, livros, kits e muito mais. Convidamos os leitores a sempre visitarem o site oficial da revista, pois algumas promoções acabam sendo feitas somente através do site, de nossas redes sociais, parceiros, etc. Vale ressaltar ainda que, se você já participou de uma promoção, pode se inscrever nas demais promoções, sem problema. Só não há necessidade de se inscrever numa mesma promoção várias vezes, já que os registros duplicados são excluídos. É torcer e ficar atentos às novidades!</p>
+
+<p>Um forte abraço a todos nossos leitores, que mês após mês, nos revigora com mensagens de conforto e garra, muito importantes para que nos fortalecer e mantermos nosso compromisso de ler informação de qualidade e credibilidade, a custo zero ao leitor. Reforço a chamada por diagramadores e aproveito ainda para me desculpar pelos artigos que ainda não foram publicados. Já estão na lista de tarefas. Até a próxima!</p>
+
+<p><strong>Fonte: <a href="http://http://www.revista.espiritolivre.org/?p=693">http://www.revista.espiritolivre.org/?p=693</a></strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 30 de Sep de 2010 | <a href="http://ubuntero.com.br/1108/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f1108%2f&url=http%3a%2f%2fubuntero.com.br%2f1108%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f1108%2f&t=" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f1108%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/ubuntu-10-10-maverick-meerkat-release-candidate/" title="Ubuntu 10.10 (Maverick Meerkat) Release Candidate">Ubuntu 10.10 (Maverick Meerkat) Release Candidate</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Faltando 10 dias para o lançamento do Ubuntu 10.10 (Maverick Meerkat) hoje foi lançada a candidata a versão final do Ubuntu 10.10.</p>
+
+<p>Várias mudanças foram feitas no sistema, mas estas serão mostradas em vídeos que divulgaremos a partir de amanhã. Caso queira se aventurar e testar esta versão candidata, abaixo seguem os links para download:</p>
+
+<p><strong>Esta versão não é estável e não deve ser utilizada em computadores de produção.</strong></p>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-alternate-i386.iso">ubuntu-10.10-rc-alternate-i386.iso</a></pre>
+
+<pre><a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-alternate-i386.iso.torrent"><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /> ubuntu-10.10-rc-alternate-i386.iso.torrent</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-desktop-amd64.iso">ubuntu-10.10-rc-desktop-amd64.iso</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-desktop-amd64.iso.torrent">ubuntu-10.10-rc-desktop-amd64.iso.torrent</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-desktop-i386.iso">ubuntu-10.10-rc-desktop-i386.iso</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-desktop-i386.iso.torrent">ubuntu-10.10-rc-desktop-i386.iso.torrent</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-netbook-i386.iso">ubuntu-10.10-rc-netbook-i386.iso</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-netbook-i386.iso.torrent">ubuntu-10.10-rc-netbook-i386.iso.torrent</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-server-amd64.iso">ubuntu-10.10-rc-server-amd64.iso</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-server-amd64.iso.torrent">ubuntu-10.10-rc-server-amd64.iso.torrent</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/iso.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-server-i386.iso">ubuntu-10.10-rc-server-i386.iso</a></pre>
+
+<pre><img src="http://releases.ubuntu.com/cdicons/torrent.png" alt="[   ]" width="22" height="22" /> <a href="http://releases.ubuntu.com/maverick/ubuntu-10.10-rc-server-i386.iso.torrent">ubuntu-10.10-rc-server-i386.iso.torrent</a></pre>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 30 de Sep de 2010 | <a href="http://ubuntero.com.br/ubuntu-10-10-maverick-meerkat-release-candidate/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fubuntu-10-10-maverick-meerkat-release-candidate%2f&url=http%3a%2f%2fubuntero.com.br%2fubuntu-10-10-maverick-meerkat-release-candidate%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fubuntu-10-10-maverick-meerkat-release-candidate%2f&t=Ubuntu%2010.10%20%28Maverick%20Meerkat%29%20Release%20Candidate" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fubuntu-10-10-maverick-meerkat-release-candidate%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/127/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">128</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/129/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+

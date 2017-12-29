@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libreoffice Magazine on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/libreoffice-magazine/</link>
+    <description>Recent content in Libreoffice Magazine on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 06 May 2014 11:48:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/libreoffice-magazine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chamada para colaboração LibreOffice Magazine 11</title>
+      <link>http://ubuntero.com.br/chamada-para-colaboracao-libreoffice-magazina-11/</link>
+      <pubDate>Tue, 06 May 2014 11:48:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/chamada-para-colaboracao-libreoffice-magazina-11/</guid>
+      <description>A próxima edição da revista eletrônica LibreOffice Magazine será lançada no mês de junho de 2014. Se você tem interesse em escrever para a revista sobre os temas LibreOffice, ODF ou temas relacionados a softwares de código aberto, envie o seu texto por e-mail até o dia 30 de maio de 2014 para o endereço: redacao@libreoffice.org O formato do arquivo texto a ser enviado deve estar em formato aberto (ODF) e o mesmo deve conter a foto e o minicurrículo do autor.</description>
+    </item>
+    
+    <item>
+      <title>Disponível LibreOffice Magazine #7</title>
+      <link>http://ubuntero.com.br/disponivel-libreoffice-magazine-7/</link>
+      <pubDate>Tue, 29 Oct 2013 10:00:58 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/disponivel-libreoffice-magazine-7/</guid>
+      <description>O mês de outubro é uma festa para a TDF e para todos que apostaram no projeto LibreOffice. Foi em outubro de 2010 que algumas pessoas resolveram mudar o rumo das coisas, que na época estavam paradas e sob as ordens de uma grande empresa, levando o projeto para um grupo que abraçou a causa e revolveu seguir sob a tutela de uma fundação. O grupo recebeu o apoio de pessoas de todo o mundo e deu nisso: 3 anos de LibreOffice.</description>
+    </item>
+    
+    <item>
+      <title>Disponível LibreOffice Magazine edição 4</title>
+      <link>http://ubuntero.com.br/disponivel-libreoffice-magazine-edicao-4/</link>
+      <pubDate>Mon, 22 Apr 2013 22:26:21 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/disponivel-libreoffice-magazine-edicao-4/</guid>
+      <description>Nesses últimos dias corre pelas comunidades de Software Livre e nas redes sociais brasileiras, notícias de retrocesso de um estado do Brasil no uso de formatos abertos de documentos. Ao mesmo tempo, nesta edição vamos mostrar um texto onde é possível perceber como resistir as essas investidas, pensando e planejando cuidadosamente a migração para Software Livre.
+Há ainda, nesta edição, um artigo sobre o Consegi que esta se tornando “uma arena para a troca de experiências e construção de acordos de cooperação utilizando tecnologias livres”, segundo seus organizadores, além da entrevista com um de seus idealizadores.</description>
+    </item>
+    
+  </channel>
+</rss>

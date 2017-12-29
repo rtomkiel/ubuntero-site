@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drm on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/drm/</link>
+    <description>Recent content in Drm on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 29 May 2014 02:30:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/drm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #34 – FISL 15 E DRM</title>
+      <link>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</link>
+      <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</guid>
+      <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #21 – Mandou para o espaço e virou satélite, jogos e DRM</title>
+      <link>http://ubuntero.com.br/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</link>
+      <pubDate>Wed, 22 May 2013 03:07:06 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-21-mandou-para-o-espaco-e-virou-satelite-jogos-e-drm/</guid>
+      <description>Por motivos de força maior demos mais uma parada no Opencast, mas estamos de volta mais forte. A partir de agora, nosso casting aumentou e teremos vários participantes em todos os episódios. Nossa ideia é ter representação das mais diversas comunidades e regiões.
+Neste episódio, Ivan, Diego, Og Maciel, Tiago conversamos sobre vários assuntos, entre eles estão Jogos, DRM, Linux na estação espacial, impressoras 3D, LibreOffice no Android e muitas outras coisas.</description>
+    </item>
+    
+  </channel>
+</rss>

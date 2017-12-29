@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customizer on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/customizer/</link>
+    <description>Recent content in Customizer on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 11 Oct 2011 14:16:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/customizer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customizando o gerenciador de inicialização</title>
+      <link>http://ubuntero.com.br/customizando-o-gerenciador-de-inicializacao/</link>
+      <pubDate>Tue, 11 Oct 2011 14:16:36 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/customizando-o-gerenciador-de-inicializacao/</guid>
+      <description>Já precisou fazer alterações no GRUB( gerenciador de inicialização) e ficou perdido no meio dos arquivos de configuração?
+Muita gente sente a necessidade de fazer pequenas alterações na inicialização do sistema e se depara com os amedrontadores arquivos de configuração tradicionais do Linux. Estes arquivos são maravilhosos quando se domina a configuração de algo, mas quando se quer fazer coisas simples e não tem tempo de conhecer um aplicativo a fundo, estes arquivos se tornam apenas um bom motivo para se falar mal do sistema todo.</description>
+    </item>
+    
+  </channel>
+</rss>

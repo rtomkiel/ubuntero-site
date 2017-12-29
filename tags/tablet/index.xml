@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tablet on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/tablet/</link>
+    <description>Recent content in Tablet on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 30 Dec 2013 12:57:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/tablet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu trará a verdadeira convergência antes da Microsoft</title>
+      <link>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</link>
+      <pubDate>Mon, 30 Dec 2013 12:57:34 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-trara-a-verdadeira-convergencia-antes-da-microsoft/</guid>
+      <description>A convergência já deve chegar no Ubuntu 14.10 ou mais tardar na versão 15.04, aonde a mesma base de código (sistema operacional) irá rodar nos smartphones, tablets e desktops.
+Em entrevista concedida a PCPro o diretor da Canonical, Mark Shuttleworth falou sobre os planos de convergência para o Ubuntu, aonde o atual ciclo de atualizações poderá ser abandonado e sendo liberadas automaticamente &amp;#8220;sempre&amp;#8221; que estiverem prontas.
+Essa não seria a primeira vez que o ciclo de atualizações do Ubuntu seria alterada, recentemente o período de suporte das versões interim (versões não LTS) passou de 18 para 9 meses, cogitando-se até que nas próximas versões o Ubuntu poderá se tornar uma pseudo &amp;#8220;rolling release&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu para tablets</title>
+      <link>http://ubuntero.com.br/ubuntu-para-tablets/</link>
+      <pubDate>Tue, 19 Feb 2013 16:29:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-para-tablets/</guid>
+      <description>Desde ontem tínhamos mais um contador no site do Ubuntu, mas desta vez já sabíamos que seria um lançamento relacionado a tablets, só faltava saber o que seria. Eu imaginava que seria um tablet com Ubuntu pré-instalado, mas o que foi lançado foi o Ubuntu para tablets.
+No mesmo modelo do lançamento do Ubuntu para telefones, nada foi realmente lançado, apenas anunciado. Como não temos nada palpável para mostrar, apenas o que está escrito no site, fique com o vídeo onde Mark Shuttleworth mostra o Ubuntu for tablets.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu em telefones, tablets, TV’s e qualquer lugar</title>
+      <link>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</link>
+      <pubDate>Tue, 01 Nov 2011 10:48:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-em-telefones-tablets-tvs/</guid>
+      <description>Em seu blog, Mark Shuttleworth, fundador da Canonical que por sua vez é a empresa por trás do Ubuntu, fala sobre o futuro do Ubuntu e promete que o nosso pinguim estará disponível em todo tipo de dispositivo até 2014.
+Além disso, já nos premia com a data da próxima versão LTS após a 12.04. No artigo ele já confirma que a versão 12.04 será LTS.
+Como já havia falado em um artigo no lançamento do Ubuntu 11.</description>
+    </item>
+    
+  </channel>
+</rss>

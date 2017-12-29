@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Música on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/m%C3%BAsica/</link>
+    <description>Recent content in Música on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 10 Feb 2011 12:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/m%C3%BAsica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SoulSeek no Linux? É possível! Conheça o Nicotine&#43;</title>
+      <link>http://ubuntero.com.br/soulseek-no-linux-e-possivel-conheca-o-nicotine/</link>
+      <pubDate>Thu, 10 Feb 2011 12:18:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/soulseek-no-linux-e-possivel-conheca-o-nicotine/</guid>
+      <description>Há algum tempo eu buscava alguma alternativa aos downloads convencionais para minhas músicas. Foi aí que eu me lembrei do SoulSeek. Mas peraí, agora eu não usava mais o velho Windows e deveria achar uma solução para baixar músicas na rede do SoulSeek, então comecei minha saga por algum aplicativo alternativo.
+Nicotine Plus (Nicotine+) Eis que surge no meu caminho depois de algumas buscas no Google, o Nicotine+, fork do Nicotine.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 11.04, atualizações até o dia 22/01/2011</title>
+      <link>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</link>
+      <pubDate>Mon, 24 Jan 2011 10:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-11-04-atualizacoes-ate-o-dia-22012011/</guid>
+      <description>Continuando os Screencasts sobre o Ubuntu 11.04, agora mostramos as mudanças ocorridas na versão até o dia 22/01/2011.
+O vídeo mostra a mudança no comportamento das teclas Super+E, menu do Unity, LibreOffice, Banshee no lugar do Rhythmbox, barra auto ocultável agora é padrão, Firefox 4 e Ubuntu One.
+ Assistir no Youtube Na próxima semana provavelmente não teremos um vídeo, estarei de férias e não posso prometer que conseguirei fazer um screencast até a data da viagem, mas farei o possível para isto.</description>
+    </item>
+    
+  </channel>
+</rss>

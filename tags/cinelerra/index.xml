@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cinelerra on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/cinelerra/</link>
+    <description>Recent content in Cinelerra on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 24 Nov 2011 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/cinelerra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cinelerra, edição profissional de vídeo no Linux</title>
+      <link>http://ubuntero.com.br/cinelerra-edicao-profissional-de-video-no-linux/</link>
+      <pubDate>Thu, 24 Nov 2011 10:00:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/cinelerra-edicao-profissional-de-video-no-linux/</guid>
+      <description>Não sou nenhum profissional de edição de vídeo, mas sempre que eu ouço alguém falar de edição profissional de vídeos no Linux o programa mencionado é o Cinelerra. Algumas pessoas me perguntaram como instalar o Cinelerra no Ubuntu, já que o mesmo não está presente no repositório oficial do Ubuntu. Veja como fazer isto nos passos a seguir:
+Abra o terminal, pressionando a tecla Ctrl+Alt+t e digite os seguintes comandos:</description>
+    </item>
+    
+  </channel>
+</rss>

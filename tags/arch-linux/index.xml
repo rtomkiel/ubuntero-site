@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch Linux on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/arch-linux/</link>
+    <description>Recent content in Arch Linux on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 27 Aug 2012 04:02:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #16 – Distribuições Linux</title>
+      <link>http://ubuntero.com.br/opencast-16-distribuicoes-linux/</link>
+      <pubDate>Mon, 27 Aug 2012 04:02:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-16-distribuicoes-linux/</guid>
+      <description>Neste episódio, eu (Ivan), Diego, Rudinei e Og Maciel falamos um pouco sobre o mundo de distribuições Linux existentes no mundo. Escolhemos algumas distribuições para falar um pouco mais como Ubuntu, incluindo uma polêmica, Red Hat, Slackware também entraram na discussão. Conversamos também um pouco sobre ser ou não ser bom ter este número gigantesco de distribuições.
+Não deixe de votar no Ubuntero para o Prêmio TopBlog Brasil 2012.</description>
+    </item>
+    
+    <item>
+      <title>Review semanal 07 – Arch Linux e Ubuntu Business</title>
+      <link>http://ubuntero.com.br/review-semanal-07-arch-linux-e-ubuntu-business/</link>
+      <pubDate>Mon, 13 Feb 2012 10:43:58 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/review-semanal-07-arch-linux-e-ubuntu-business/</guid>
+      <description>Problemas de energia marcaram meu final de semana e atrasaram a edição do review e a gravação do Opencast que vai atrasa em mais uma semana.
+No review desta semana mostro a difícil tarefa de instalar a distribuição Arch Linux e um pouco do recém lançado Ubuntu Business Desktop Remix.
+ Assistir no Youtube Links do episódio  Arch Linux Ubuntu Business Desktop Remix  Instalação do Arch Linux</description>
+    </item>
+    
+  </channel>
+</rss>

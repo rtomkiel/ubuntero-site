@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emesene on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/emesene/</link>
+    <description>Recent content in Emesene on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 19 Feb 2011 19:50:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/emesene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu é mais social</title>
+      <link>http://ubuntero.com.br/ubuntu-e-mais-social/</link>
+      <pubDate>Sat, 19 Feb 2011 19:50:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-e-mais-social/</guid>
+      <description>Mais do que nunca estamos conectados, a internet vive a febre da rede social e o Ubuntu está preparado para tudo isso.
+Hoje é comum encontrarmos em vários computadores ferramentas para Twitter e Faceebook e também sempre um messenger para conectar no MSN, o protocolo mais utilizado no Brasil.
+Twitter e Facebook
+O Ubuntu vem pronto para este mundo das redes sociais, imediatamente após a instalação do Ubuntu você já pode utilizar o Gwibber a ferramenta para redes sociais como o Twitter e Facebook além de várias outras redes.</description>
+    </item>
+    
+  </channel>
+</rss>

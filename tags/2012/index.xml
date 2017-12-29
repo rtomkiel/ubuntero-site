@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/2012/</link>
+    <description>Recent content in 2012 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 07 Mar 2012 11:00:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Declaração do imposto de renda no Ubuntu</title>
+      <link>http://ubuntero.com.br/declaracao-do-imposto-de-renda-no-ubuntu/</link>
+      <pubDate>Wed, 07 Mar 2012 11:00:05 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/declaracao-do-imposto-de-renda-no-ubuntu/</guid>
+      <description>Estamos naquele período do ano em que o Governo quer saber onde foi que gastamos nosso dinheiro, já não bastasse pegar boa parte dele para não fazer nada. Até o ano passado, usuários Linux tinham que, por muitas vezes, dar algumas voltas até conseguir instalar os dois programas necessários para fazer a declaração e enviar a mesma.
+Este ano o Governo foi mais bonzinho e resolveu disponibilizar pacotes bin, RPM e DEB para facilitar um bom bocado a nossa vida.</description>
+    </item>
+    
+  </channel>
+</rss>

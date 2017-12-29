@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnologia Aberta on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/tecnologia-aberta/</link>
+    <description>Recent content in Tecnologia Aberta on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 29 May 2014 02:30:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/tecnologia-aberta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #34 – FISL 15 E DRM</title>
+      <link>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</link>
+      <pubDate>Thu, 29 May 2014 02:30:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-34-fisl-15-e-drm/</guid>
+      <description>Parece que agora vai. Neste episódio tivemos problemas com uma obra em cima do apartamento do Ivan e uma galera fazendo aquela bagunça próximo ao Og, mas o papo estava bom e mesmo com um pouco de barulho o episódio foi gravado. Ivan, Diego e Og conversaram sobre o FISL 15, Firefox e o suporte a DRM, Popcorn Time, eleição da mesa diretora do GNOME, alternativa livre ao Hangout e o emulador de iOS para Android.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #33 – Firefox 29 e Ubuntu 14.04</title>
+      <link>http://ubuntero.com.br/opencast-33-firefox-29-e-ubuntu-14-04/</link>
+      <pubDate>Wed, 14 May 2014 23:43:48 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-33-firefox-29-e-ubuntu-14-04/</guid>
+      <description>Voltamos, sei que já está cansativa esta história, mas o que importa é que estamos de volta e com ânimo renovado. Neste episódio falamos um pouco sobre algumas notícias que julgamos importantes e também respondemos a algumas perguntas dos ouvintes que estavam assistindo a gravação ao vivo. Os participantes deste episódio foram Ivan, Diego, Rudinei(com o som muito melhor) e Og Maciel.
+Links do episódio  Lançado o Ubuntu 14.</description>
+    </item>
+    
+    <item>
+      <title>Videocast #58 – Tecnologia Aberta</title>
+      <link>http://ubuntero.com.br/videocast-58-tecnologia-aberta/</link>
+      <pubDate>Mon, 12 May 2014 13:32:13 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-58-tecnologia-aberta/</guid>
+      <description> 
+Voltando com o Videocast após problemas que são explicados no vídeo, falo um pouco sobre a placa mãe Gigabyte B75M-D3H que substituiu a minha falecida. Também falo sobre um novo projeto onde convido todos a participar.
+ Assistir no Youtube Links do episódio  Tecnologia aberta Twitter Tecnologia aberta Facebook Tecnologia aberta Google+ Tecnologia aberta Canal no youtube Tecnologia aberta  </description>
+    </item>
+    
+  </channel>
+</rss>

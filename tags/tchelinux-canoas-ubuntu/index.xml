@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tchelinux Canoas Ubuntu on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/tchelinux-canoas-ubuntu/</link>
+    <description>Recent content in Tchelinux Canoas Ubuntu on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 01 Oct 2007 18:01:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/tchelinux-canoas-ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1º Seminário de Software Livre Tchelinux Canoas</title>
+      <link>http://ubuntero.com.br/1%C2%BA-seminario-de-software-livre-tchelinux-canoas/</link>
+      <pubDate>Mon, 01 Oct 2007 18:01:22 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/1%C2%BA-seminario-de-software-livre-tchelinux-canoas/</guid>
+      <description>Antes de mais nada quero pedir desculpas pelo blog ter ficado fora do ar durante o final de semana. O servidor teve um pequeno problema de falta de energia não superado pelo nobreak e não voltou a ligar normalmente logo que a energia se reestabeleceu.
+No dia 29 de setembro foi realizado mais um Seminário Tchelinux. Desta vez o evento foi realizado em Canoas e contou com a presença de aproximadamente 200 pessoas.</description>
+    </item>
+    
+  </channel>
+</rss>

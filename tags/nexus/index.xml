@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nexus on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/nexus/</link>
+    <description>Recent content in Nexus on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 26 Feb 2014 16:47:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/nexus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Novo concurso de aplicativos para o Ubuntu</title>
+      <link>http://ubuntero.com.br/novo-concurso-de-aplicativos-para-o-ubuntu/</link>
+      <pubDate>Wed, 26 Feb 2014 16:47:20 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/novo-concurso-de-aplicativos-para-o-ubuntu/</guid>
+      <description>Começou o terceiro concurso de aplicativos para o Ubuntu. O concurso durará 6 semanas, começando no dia 26 de fevereiro de 2014 e terminando no dia 9 de abril de 2014. Os participantes devem publicar seus aplicativos utilizando a SDK do Ubuntu. Desta vez, todo tipo de aplicação pode participar, seja ela um port, ou uma aplicação nova e original.
+As categorias nas quais as aplicações podem participar são:</description>
+    </item>
+    
+    <item>
+      <title>Apenas Nexus 4 e Nexus 7 (razor) terão suporte oficial do Ubuntu Touch</title>
+      <link>http://ubuntero.com.br/apenas-nexus-4-e-nexus-7-razor-terao-suporte-oficial-do-ubuntu-touch/</link>
+      <pubDate>Mon, 13 Jan 2014 15:02:37 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/apenas-nexus-4-e-nexus-7-razor-terao-suporte-oficial-do-ubuntu-touch/</guid>
+      <description>Uma péssima notícia foi divulgada hoje por e-mail. Proprietários do Galaxy Nexus(eu) e tablets Nexus que não sejam o último modelo de Nexus 7 polegadas, não terão mais suporte oficial a imagens do Ubuntu Touch. Além disso, também foi anunciado que não teremos uma imagem para o Nexus 5, pelo menos em um curto espaço de tempo, talvez tenhamos alguma coisa depois do lançamento do Ubuntu 14.04.
+Além desta má notícia, tivemos também a notícia de que os engenheiros da Canonical estão investindo bastante tempo para transformar o emulador do Ubuntu Touch na melhor plataforma de desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Imagem do Ubuntu phone será disponibilizada na próxima semana</title>
+      <link>http://ubuntero.com.br/imagem-do-ubuntu-phone-sera-disponibilizada-na-proxima-semana/</link>
+      <pubDate>Fri, 15 Feb 2013 18:06:18 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/imagem-do-ubuntu-phone-sera-disponibilizada-na-proxima-semana/</guid>
+      <description>Agora sim que todos ficam mais ansiosos. Foi anunciado pela Canonical a data do lançamento da imagem, para desenvolvedores, do Ubuntu for phones e será no dia 21 de fevereiro.
+A maior surpresa é que serão lançadas duas imagens, uma para o Galaxy Nexus e outra para o Galaxy Nexus 4, sendo assim, teremos como testar em um equipamento de entrada que não usaria a dock (Galaxy Nexus) e em um smartphone mais smart (Nexus 4).</description>
+    </item>
+    
+  </channel>
+</rss>

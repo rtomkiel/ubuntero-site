@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creative Commons on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/creative-commons/</link>
+    <description>Recent content in Creative Commons on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 26 Feb 2011 17:41:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/creative-commons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast, episódio zero</title>
+      <link>http://ubuntero.com.br/opencast-episodio-zero/</link>
+      <pubDate>Sat, 26 Feb 2011 17:41:53 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-episodio-zero/</guid>
+      <description>Depois de muito tempo discutindo com os amigos aqui está nosso primeiro podcast, o Opencast.
+O Opencast terá como tema principal o Software Livre. O objetivo do Opencast será de trazer informações sobre o mundo do software livre, sendo boas ou más notícias, sempre faremos nossos comentários pessoais e técnicos sobre os assuntos.
+Ao contrário do que fazemos no grupo Caudilho Livre, aqui comentaremos as intervenções políticas que envolvam software livre tanto no Brasil quanto no mundo.</description>
+    </item>
+    
+    <item>
+      <title>Buscamos colaboradores</title>
+      <link>http://ubuntero.com.br/buscamos-colaboradores/</link>
+      <pubDate>Tue, 25 Jan 2011 12:00:09 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/buscamos-colaboradores/</guid>
+      <description>Em nossa nova fase, estamos procurando colaboradores para fazer parte do grupo de colunistas. No momento estamos procurando por todo o tipo de conteúdo, seguindo apenas duas regras:
+ Todo o conteúdo publicado no site estará sobre uma licença Creative Commons Todo o conteúdo tem que estar relacionado a distribuição Linux Ubuntu  Novos colaboradores terão seus artigos revisados antes de serem autorizados a serem divulgados no site. Seguindo as duas regras básicas, escrito em bom português e não contendo palavras de baixo calão, todos os artigos serão liberados e os créditos serão dados ao colaborador que o escreveu.</description>
+    </item>
+    
+  </channel>
+</rss>

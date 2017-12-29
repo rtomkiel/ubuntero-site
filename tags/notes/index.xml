@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/notes/</link>
+    <description>Recent content in Notes on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 Feb 2012 16:03:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes será retirado da interface web do Ubuntu One</title>
+      <link>http://ubuntero.com.br/notes-sera-retirado-da-interface-web-do-ubuntu-one/</link>
+      <pubDate>Mon, 06 Feb 2012 16:03:49 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/notes-sera-retirado-da-interface-web-do-ubuntu-one/</guid>
+      <description>Uma notícia muito importante saiu no blog do Ubuntu One sobre o serviço Notes.
+No dia 28 de fevereiro o serviço Notes será retirado da interface web por um simples motivo, não funcionar como era esperado. Se você usa este serviço, não tem mais o que fazer, ele não estará mais disponível via navegador, apenas via Tomboy notas no desktop.
+Pelo que pude entender, uma nova ferramenta está em desenvolvimento, mas nenhum detalhe foi divulgado.</description>
+    </item>
+    
+  </channel>
+</rss>

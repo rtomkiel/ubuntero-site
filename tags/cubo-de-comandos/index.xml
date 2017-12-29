@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cubo De Comandos on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/cubo-de-comandos/</link>
+    <description>Recent content in Cubo De Comandos on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 14 May 2011 13:26:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/cubo-de-comandos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cubo de comandos Linux, versão Ubuntero</title>
+      <link>http://ubuntero.com.br/cubo-de-comandos-linux-versao-ubuntero/</link>
+      <pubDate>Sat, 14 May 2011 13:26:53 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/cubo-de-comandos-linux-versao-ubuntero/</guid>
+      <description>Ontem, nas minhas andanças pela blogosfera brasileira, vi no Ubuntu Dicas, um cubo de comandos do nosso querido Linux, que um usuário da lista de discussão do Inkscape postou e o Tittao resolveu customizar com as cores e logo do seu blog&amp;#8230; e resolvi fazer isso com as cores e o logo daqui do Ubuntero, vejam como ficou .
+Aos que quiserem obter o cubo, clique nesse link para obter a imagem em .</description>
+    </item>
+    
+  </channel>
+</rss>

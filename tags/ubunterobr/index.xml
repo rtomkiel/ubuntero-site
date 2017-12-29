@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubunterobr on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/ubunterobr/</link>
+    <description>Recent content in Ubunterobr on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 04 Jan 2011 16:12:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/ubunterobr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitter @ubunterobr</title>
+      <link>http://ubuntero.com.br/twitter-ubunterobr/</link>
+      <pubDate>Tue, 04 Jan 2011 16:12:51 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/twitter-ubunterobr/</guid>
+      <description>Por algum tempo utilizei minha conta pessoal do twitter para divulgar novidades do site Ubuntero, mas pensando melhor no público do site resolvi criar uma conta exclusiva para o site, esta conta é @ubunterobr.
+A conta ubuntero já está cadastrada para alguma pessoa de lingua espanhola, por isto preste atenção para adicionar o Ubuntero correto, a conta do site ubuntero.com.br é @ubunterobr, preste bastante atenção no BR no final.
+Esta conta está disponível para todos que queiram tirar dúvidas, dar sugestões ou até mesmo reclamar sobre alguma coisa do site, além de sempre avisar quando um novo artigo for publicado.</description>
+    </item>
+    
+  </channel>
+</rss>

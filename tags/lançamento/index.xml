@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lançamento on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/lan%C3%A7amento/</link>
+    <description>Recent content in Lançamento on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 17 Apr 2014 22:42:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/lan%C3%A7amento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lançado o Ubuntu 14.04 LTS</title>
+      <link>http://ubuntero.com.br/lancado-o-ubuntu-14-04-lts/</link>
+      <pubDate>Thu, 17 Apr 2014 22:42:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-ubuntu-14-04-lts/</guid>
+      <description>O tão aguardado Ubuntu 14.04 LTS, codinome Trusty Tahr (Cabra selvagem Fiel) foi liberado para download hoje 17&amp;frasl;04.
+Se você não acompanhou o desenvolvimento do Ubuntu 14.04 não deverá notar grandes mudanças nessa nova versão. O ciclo atual de desenvolvimento foi focado em melhorias de performance, segurança e confiabilidade, concentrando os trabalhos &amp;#8220;em baixo do capô&amp;#8221; com poucas mudanças no visual.
+Algumas novidades do Ubuntu 14.04 LTS &amp;#8211; Foram removidas as bordas das janelas, que receberam uma suavização com cantos superiores arredondados;</description>
+    </item>
+    
+    <item>
+      <title>Lançado o Ubuntu 13.04 Raring Ringtail</title>
+      <link>http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/</link>
+      <pubDate>Thu, 25 Apr 2013 12:18:17 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-ubuntu-13-04-raring-ringtail/</guid>
+      <description>A melhor versão já lançada desde o lançamento do Unity está disponível.
+A principal mudança em relação a versão 12.10 está na performance que foi absurdamente melhorada. O suporte desta versão, por ser uma interim, é de 9 meses, diferente das outras versões interim que tinham suporte por 18 meses.
+Para fazer o download do Ubuntu 13.04 use os links abaixo
+Download direto  Ubuntu Desktop 32 bits Ubuntu Desktop 64 bits Ubuntu Server 32 bits Ubuntu Server 64 bits  Torrent  Ubuntu Desktop 32 bits Ubuntu Desktop 64 bits Ubuntu Server 32 bits Ubuntu Server 64 bits  Se quiser dar uma olhada em todas as imagens lançadas, entre no endereço releases.</description>
+    </item>
+    
+    <item>
+      <title>Evento de lançamento do produto Ubuntu</title>
+      <link>http://ubuntero.com.br/evento-de-lancamento-do-produto-ubuntu/</link>
+      <pubDate>Wed, 02 Jan 2013 16:03:04 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/evento-de-lancamento-do-produto-ubuntu/</guid>
+      <description>Quem entrou no site do Ubuntu hoje, ou nos acompanha pelo Twitter, Facebook ou Google+, sabe que hoje teremos o lançamento de algo pelo Ubuntu, mas ninguém sabe o que será.
+O que sabemos por enquanto é que terá um Hangout sobre este novo produto e você pode assistir acompanhando o blog do Benjamin Kerensa.
+Acompanhe pelo blog ou fique de olho nas redes sociais que também postaremos quando o Hangout estiver no ar.</description>
+    </item>
+    
+    <item>
+      <title>Coloque o contador oficial para o lançamento do 12.04 em seu site</title>
+      <link>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</link>
+      <pubDate>Thu, 29 Mar 2012 13:41:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/coloque-o-contador-oficial-para-o-lancamento-do-12-04-em-seu-site/</guid>
+      <description>Está ansioso para o lançamento da 12.04? Acompanhe quanto tempo falta pra o lançamento adicionando um contador no seu site. Um concurso foi realizado para escolher o contador oficial para a próxima versão e os ganhadores foram estes que você está vendo abaixo:
+ Para usar eles insira os códigos respectivos abaixo(na ordem de exibição acima). Primeiro &amp;lt;a href=&#34;http://www.ubuntu.com/&#34;&amp;gt; &amp;lt;img src=&#34;http://www.ubuntu.com/countdown/banner1.png&#34; border=&#34;0&#34; width=&#34;180&#34; height=&#34;150&#34; alt=&#34;The next version of Ubuntu is coming soon&#34;</description>
+    </item>
+    
+    <item>
+      <title>Lançado o Ubuntu 11.04 Natty Narwhal</title>
+      <link>http://ubuntero.com.br/lancado-o-ubuntu-11-04-natty-narwhal/</link>
+      <pubDate>Thu, 28 Apr 2011 11:37:17 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/lancado-o-ubuntu-11-04-natty-narwhal/</guid>
+      <description>Está no ar o Ubuntu 11.04 Natty Narwhal.
+Como previsto no calendário, a versão 11.04 foi lançada hoje com muitas mudanças se compararmos com a versão anterior. A principal mudança, que chegou a causar alguma polêmica, é a mudança do shell padrão que agora deixa de ser o gnome-panel para ser o Unity.
+O motivo da polêmica foi uma entrevista onde Mark diz que o Unity ainda não está do jeito que ele queria, mas que na versão 11.</description>
+    </item>
+    
+  </channel>
+</rss>

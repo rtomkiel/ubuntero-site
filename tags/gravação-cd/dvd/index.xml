@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravação Cd/Dvd on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-cd/dvd/</link>
+    <description>Recent content in Gravação Cd/Dvd on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 03 Jan 2011 15:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/grava%C3%A7%C3%A3o-cd/dvd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como gravar uma imagem .iso?</title>
+      <link>http://ubuntero.com.br/como-gravar-uma-imagem-iso/</link>
+      <pubDate>Mon, 03 Jan 2011 15:43:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-gravar-uma-imagem-iso/</guid>
+      <description>Ao contrário do que algumas pessoas imaginam, um arquivo com a extensão iso não deve ser descompactada como um simples arquivo zip ou rar. Embora os programas de compactação consigam abrir arquivos .iso, estes arquivos não são simples arquivos compactados e não devem ser tratados com tal.
+Um arquivo .iso é uma imagem de CD/DVD e deve ser gravada na mídia adequada com as ferramentas disponibilizadas por um programa de gravação.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nvidia on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/nvidia/</link>
+    <description>Recent content in Nvidia on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 10 Oct 2013 02:59:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #29 – SteamOS e a pérola da TechNet</title>
+      <link>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</link>
+      <pubDate>Thu, 10 Oct 2013 02:59:41 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</guid>
+      <description>Neste episódio do Opencast, Ivan, Aprígio Simões, Diego e Rudinei comentam alguns dos principais acontecimentos que viraram notícia no mundo do software e hardware livre. Nossa conversa começa com a pérola da Technet &amp;#8220;provando&amp;#8221; que o Windows é melhor que o Software Livre, passamos pelas novidades da Valve com o SteamOS e seus hardwares, liberação de especificação de placas de vídeo, Xmir, Raspberry Pi e o investimento da IBM no Linux.</description>
+    </item>
+    
+    <item>
+      <title>Resolvendo problema com driver 310 da Nvidia</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-com-driver-310-da-nvidia/</link>
+      <pubDate>Mon, 26 Aug 2013 11:00:45 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-com-driver-310-da-nvidia/</guid>
+      <description>Artigo enviado por Wagner (Gplus, Facebook e twitter)
+Ao efetuar uma atualização do sistema, houve um problema com o driver 310 da NVIDIA(VGA GeForce GT 220) no qual estava usando no kernel anterior ao que foi atualizado. Ao ligar o PC o Ubuntu 12.04.2 LTS não iniciava o seu ambiente desktop. Não houve kernel panic mas o X não subiu depois desta atualização. Executei o seguinte procedimento para remontar a raiz do sistema em modo de leitura e escrita, no modo de recuperação e para minha felicidade funcionou e pude então remover o driver bugado e instalar o mais novo que foi disponibilizado nos repositórios do Ubuntu 12.</description>
+    </item>
+    
+    <item>
+      <title>Resolvendo problema com bumblebee no Ubuntu 13.04</title>
+      <link>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</link>
+      <pubDate>Fri, 26 Apr 2013 13:01:31 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolvendo-problema-com-bumblebee-no-ubuntu-13-04/</guid>
+      <description>Artigo enviado por Flavio Brandão (@airdumb)
+Se você está enfrentando problemas ao utilizar o bumblebee no Ubuntu 13.04, saiba que já existem duas soluções para este problema. A mais difícil por N motivos é fazer o downgrade do Xorg, porém, existe outro método que você pode aplicar. Na nova versão do Ubuntu, arquivo de configuração do drive vem sem a informação do BusID, logo, quando você tenta rodar o bumblebee, ele diz que a placa de vídeo não existe e da o erro abaixo:</description>
+    </item>
+    
+    <item>
+      <title>Opencast #17 – Notícias</title>
+      <link>http://ubuntero.com.br/opencast-17-noticias/</link>
+      <pubDate>Tue, 11 Sep 2012 00:37:19 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-17-noticias/</guid>
+      <description>Estamos de volta com mais um episódio do Opencast e voltamos a comentar as notícias que julgamos mais importantes. No episódio falamos sobre o Ubuntu 12.10 Beta 1, fork do Nautilus no Linux Mint, Miguel de Icaza, drivers NVIDIA, Steam para Linux, repositório f-droid, site opencores.org e MySQL.
+Links do episódio  ScriptKernel Ubuntu 12.10 Beta 1 Editor gráfico do grub 2 pode chegar ao Ubuntu 12.10 Fork do nautilus no Linux Mint Miguel de Icaza diz que o desktop Linux falhou Tecnologia Optimus da NVIDIA começa a ter driver desenvolvido para Linux Beta do steam para Linux FirefoxOS marketplace Repositório F-Droid Repositório opencores.</description>
+    </item>
+    
+    <item>
+      <title>Nvidia perde venda de 10 milhões de GPU’s</title>
+      <link>http://ubuntero.com.br/nvidia-perde-venda-de-10-milhoes-de-gpus/</link>
+      <pubDate>Fri, 29 Jun 2012 19:19:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/nvidia-perde-venda-de-10-milhoes-de-gpus/</guid>
+      <description>A resposta de Linus Torvalds sobre os drivers da NVIDIA para Linux fez bastante estrago. A empresa perdeu uma venda de 10 milhões de GPU&amp;#8217;s para o governo Chinês que tomou conhecimento da declaração de Linux. A empresa espera perder algo em entre $ 200 e $ 500 milhões por causa deste suporte ruim.
+O governo Chinês até se ofereceu para dar uma olhada no código fonte dos drivers da NVIDIA para tentar ajudar em algo, mas a empresa se negou a abrir sua propriedade intelectual e um acordo passou a não ser possível.</description>
+    </item>
+    
+    <item>
+      <title>Dell XPS com Intel e Nvidia</title>
+      <link>http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/</link>
+      <pubDate>Mon, 02 Apr 2012 16:30:40 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dell-xps-com-intel-e-nvidia/</guid>
+      <description>Usuários de notebooks com placas de vídeo híbridas Intel e Nvidia tem enfrentado graves problemas referentes a má utilização do hardware devido a baixa qualidade dos drivers disponíveis para Linux. Além de a mudança entre as placas não ser feita, os usuários sofrem também com o superaquecimento de seus equipamentos, nem preciso dizer que isto reduz a vida útil do computador e das baterias.
+Para resolver este problema, em um notebook Dell XPS os seguintes passos resolveram:</description>
+    </item>
+    
+    <item>
+      <title>Review semanal 03</title>
+      <link>http://ubuntero.com.br/review-semanal-03/</link>
+      <pubDate>Tue, 20 Dec 2011 00:44:16 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/review-semanal-03/</guid>
+      <description>Último resumo semanal, agora com o nome de Review Semanal, do ano no ar com bastante atraso, mas aí está ele.
+Os assuntos abordados neste episódio vão desde java, OpenJDK, passando incrivelmente pela microsoft e terminando com um rápido review da distribuição, baseada no Ubuntu, Bodhi.
+Links do episódio  TecLand Chapecó Canonical removerá Java do Ubuntu Oracla usará OpenJDK como base para desenvolvimento do Java 7 (inglês) MSN Messenger com suporte a XMPP Nvidia libera código do compilador da CUDA, baseado no LLVM The Humble Indie Bundle GNU Telephony in 2012 [Bodhi Linux   ]8</description>
+    </item>
+    
+  </channel>
+</rss>

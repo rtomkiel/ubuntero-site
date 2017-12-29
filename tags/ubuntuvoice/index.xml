@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntuvoice on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/ubuntuvoice/</link>
+    <description>Recent content in Ubuntuvoice on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 10 Sep 2013 13:56:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/ubuntuvoice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UbuntuVoice, seja a voz dos Usuários Ubuntu</title>
+      <link>http://ubuntero.com.br/ubuntuvoice-seja-a-voz-dos-usuarios-ubuntu/</link>
+      <pubDate>Tue, 10 Sep 2013 13:56:21 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntuvoice-seja-a-voz-dos-usuarios-ubuntu/</guid>
+      <description>O que acha de participar de pesquisas para moldar e melhorar a experiência de uso do Ubuntu? Se isto lhe interessa, a Canonical anunciou hoje um projeto para quem está afim de participar nesta tarefa.
+Quem participar receberá emails periódicos a cada 2 meses com informações sobre o trabalho do time de designers e como o resultado das pesquisas está sendo usado. Algumas pesquisas terão recompensas, que não dizem quais serão, mas isto não deve ser o motivo para você entrar para o time, pelo menos assim eu acredito.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backup on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/backup/</link>
+    <description>Recent content in Backup on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 22 Nov 2011 10:55:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ferramenta de cópia de segurança Déjà Dup</title>
+      <link>http://ubuntero.com.br/ferramenta-de-copia-de-seguranca-deja-dup/</link>
+      <pubDate>Tue, 22 Nov 2011 10:55:52 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ferramenta-de-copia-de-seguranca-deja-dup/</guid>
+      <description>O Ubuntu 11.10 trouxe uma ótima ferramenta de backup chamada Déjà Dup. O Déjà Dup, embora difícil de se escrever, é um programa nada complicado. Os backups podem ser armazenados em HD externo, algum diretório no próprio sistema de arquivos ou no seu espaço no Ubuntu One.
+Para configurar o sistema de backup, pressiona a tecla Super e digite &amp;#8220;deja dup&amp;#8221; e pressione Enter.
+ Na tela inicial do programa você escolhe se irá restaurar um backup já feito ou se irá configurar uma nova tarefa.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasta Pessoal on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/pasta-pessoal/</link>
+    <description>Recent content in Pasta Pessoal on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 31 Oct 2011 10:00:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/pasta-pessoal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mais funções para o menu “Pasta pessoal”</title>
+      <link>http://ubuntero.com.br/mais-funcoes-para-o-menu-pasta-pessoal/</link>
+      <pubDate>Mon, 31 Oct 2011 10:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/mais-funcoes-para-o-menu-pasta-pessoal/</guid>
+      <description>O Menu Pasta pessoal, aquele que abre o gerenciador de arquivos, tem uma única função que não é sempre a mais útil. Neste botão do lançador do Unity apenas uma pasta pode ser aberta, mas repetidas vezes precisamos abrir outras pastas que estão na pasta pessoal.
+Para resolver este pequeno problema, adicionando as pastas, Vídeos, Imagens, Documentos e Downloads abra o terminal pressionando as teclas Ctrl+Alt+t e colando o conteúdo abaixo e pressionando Enter.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comerciais on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/comerciais/</link>
+    <description>Recent content in Comerciais on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 29 Jun 2012 12:00:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/comerciais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comerciais utilizando Blender</title>
+      <link>http://ubuntero.com.br/comerciais-utilizando-blender/</link>
+      <pubDate>Fri, 29 Jun 2012 12:00:20 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comerciais-utilizando-blender/</guid>
+      <description>Já parou para pensar como são feitas as propagandas que você vê todos os dias na televisão? Muitos enchem a boca para dizer que estes comerciais só são possíveis em plataformas e programas proprietário. Por este motivo eu adoro a ignorância, deem uma olhada no vídeo abaixo onde os comerciais foram totalmente feitos no blender, sim, ferramenta de código aberto.
+E antes que eu esqueça, a empresa que desenvolveu estes comerciais é brasileira.</description>
+    </item>
+    
+  </channel>
+</rss>

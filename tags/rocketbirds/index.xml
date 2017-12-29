@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rocketbirds on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/rocketbirds/</link>
+    <description>Recent content in Rocketbirds on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 04 Nov 2013 15:30:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/rocketbirds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ganhe o game RocketBirds: Hardboiled Chicken</title>
+      <link>http://ubuntero.com.br/ganhe-o-game-rocketbirds-hardboiled-chicken/</link>
+      <pubDate>Mon, 04 Nov 2013 15:30:20 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ganhe-o-game-rocketbirds-hardboiled-chicken/</guid>
+      <description>Na última semana foi sorteado o Jogo Brutal Legend e nesta semana o jogo a ser sorteado é RocketBirds.
+ Para participar do sorteio deste game, acesse esse link e veja os detalhes. Lembrando que todos os jogos sorteados estão disponíveis para Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

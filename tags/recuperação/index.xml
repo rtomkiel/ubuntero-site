@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recuperação on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/recupera%C3%A7%C3%A3o/</link>
+    <description>Recent content in Recuperação on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 18 Apr 2013 02:10:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/recupera%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recupere arquivos e até partições com o TestDisk</title>
+      <link>http://ubuntero.com.br/recupere-arquivos-e-ate-particoes-com-o-testdisk/</link>
+      <pubDate>Thu, 18 Apr 2013 02:10:42 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/recupere-arquivos-e-ate-particoes-com-o-testdisk/</guid>
+      <description>Você está instalando o Ubuntu e seleciona uma partição, escolhe um tipo de sistema de arquivos e marca para formatar. Começa o processo de instalação do sistema e você lembra que aquela não era a partição que você queria formatar. Alguns palavrões passam pela cabeça, outros são ditos mas o que prevalece é o desespero ao lembrar dos arquivos que você perdeu. Calma, não se apavore. Assim que terminar sua instalação, volte ao seu live CD ou pendrive, ou ainda plugue o HD em outro computador com Ubuntu e comece a restauração com o programa TestDisk.</description>
+    </item>
+    
+    <item>
+      <title>DVD riscado e seu drive não consegue mais ler?</title>
+      <link>http://ubuntero.com.br/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</link>
+      <pubDate>Mon, 03 Jan 2011 02:37:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/dvd-riscado-e-seu-drive-nao-consegue-mais-ler/</guid>
+      <description>Neste final de semana passei por esta situação com um DVD importante para seu proprietário. Os dados no DVD eram muito importante e uma cópia de segurança era extremamente necessária, no entanto a cópia não foi feita a tempo e a mídia já estava totalmente riscada.
+Como solução imediata pensei no comando &amp;#8220;dd&amp;#8221; no terminal, mas para minha surpresa eu conseguia copiar apenas 4.9 MB de dados antes de receber a mensagem de que a mídia estava com defeito.</description>
+    </item>
+    
+  </channel>
+</rss>

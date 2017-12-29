@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gwibber on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/gwibber/</link>
+    <description>Recent content in Gwibber on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 19 Feb 2011 19:50:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/gwibber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu é mais social</title>
+      <link>http://ubuntero.com.br/ubuntu-e-mais-social/</link>
+      <pubDate>Sat, 19 Feb 2011 19:50:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-e-mais-social/</guid>
+      <description>Mais do que nunca estamos conectados, a internet vive a febre da rede social e o Ubuntu está preparado para tudo isso.
+Hoje é comum encontrarmos em vários computadores ferramentas para Twitter e Faceebook e também sempre um messenger para conectar no MSN, o protocolo mais utilizado no Brasil.
+Twitter e Facebook
+O Ubuntu vem pronto para este mundo das redes sociais, imediatamente após a instalação do Ubuntu você já pode utilizar o Gwibber a ferramenta para redes sociais como o Twitter e Facebook além de várias outras redes.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 11.04 alpha 2 com atualizações até 15/02/2011</title>
+      <link>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</link>
+      <pubDate>Wed, 16 Feb 2011 23:35:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-11-04-alpha-2-com-atualizacoes-ate-15022011/</guid>
+      <description>Este vídeo mostra algumas mudanças já realizadas na próxima versão do Ubuntu que ainda está em fase alpha.
+Desde o último vídeo temos poucas mudanças como o menu do Unity, menu de aplicações, repaginada no Ubuntu One, Firefox 4 beta 11 e o menu de arquivos.
+Alguns aplicativos como a Central de Programas do Ubuntu e Gwibber ainda não estão rodando.
+ Assistir no Youtube </description>
+    </item>
+    
+  </channel>
+</rss>

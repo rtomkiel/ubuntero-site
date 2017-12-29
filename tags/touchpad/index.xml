@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Touchpad on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/touchpad/</link>
+    <description>Recent content in Touchpad on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 19 Dec 2011 22:25:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/touchpad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Touchpad HP Pavilion dv5</title>
+      <link>http://ubuntero.com.br/touchpad-hp-pavilion-dv5/</link>
+      <pubDate>Mon, 19 Dec 2011 22:25:55 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/touchpad-hp-pavilion-dv5/</guid>
+      <description>Artigo enviado por Jean Quenehen(@Jean_7)
+Muitos usuários que migram do SO azul para o Ubuntu acabam encontrando algumas dificuldades devido aos seus hardwares. Foi o meu caso. Tenho um HP Pavilion dv5 e ao instalar o Ubuntu constatei que o touchpad não funcionava corretamente, sem botão direito e problemas ao clicar e arrastar.
+Como todo novato, recorri ao google e fóruns de linux em busca da solução para o problema. Especificamente sobre esse problema (touchpad no HP) eu não encontrei muita coisa e as poucas informações e sugestões de solução não funcionavam.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hortolândia on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/hortol%C3%A2ndia/</link>
+    <description>Recent content in Hortolândia on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 20 Oct 2014 15:23:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/hortol%C3%A2ndia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu Day Hortolândia 2014</title>
+      <link>http://ubuntero.com.br/ubuntu-day-hortolandia-2014/</link>
+      <pubDate>Mon, 20 Oct 2014 15:23:43 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-day-hortolandia-2014/</guid>
+      <description>Dia 29 de novembro acontecerá em Hortolândia o Ubuntu Day Hortolândia 2014, realizado pela comunidade oficial Ubuntu no Estado de São Paulo (LoCo Team Ubuntu São Paulo). O evento tem como objetivo a troca de informações e partilha de conhecimento de forma livre e aberta a todos.
+A primeira edição do evento foi no ano de 2013 na sede social do Sport Club Corinthias, na cidade de São Paulo, o Ubuntu Day marcou a reestruturação da comunidade Ubuntu com as demais comunidades de Software Livre e Open Source.</description>
+    </item>
+    
+  </channel>
+</rss>

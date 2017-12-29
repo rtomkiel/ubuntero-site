@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wallpaper on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/wallpaper/</link>
+    <description>Recent content in Wallpaper on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 18 Feb 2014 18:40:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/wallpaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concurso para escolher os papeis de parede do Ubuntu 14.04</title>
+      <link>http://ubuntero.com.br/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</link>
+      <pubDate>Tue, 18 Feb 2014 18:40:12 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/concurso-para-escolher-os-papeis-de-parade-do-ubuntu-14-04/</guid>
+      <description>Artistas digitais e fotógrafos, agora é a vez da colaboração de vocês para o Ubuntu 14.04 LTS com suas fotos ou criações digitais.
+Todos estão livres para criar, não existe um tema definido, apenas algumas recomendações como simplicidade, um único ponto de foco, ter relação com o design do Unity e resolução mínima de 2560 x 1600. Além disso, as imagens devem estar disponíveis sobre a licença Creative Commons ShareAlike 3.</description>
+    </item>
+    
+  </channel>
+</rss>

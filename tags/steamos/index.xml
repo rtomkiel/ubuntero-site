@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steamos on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/steamos/</link>
+    <description>Recent content in Steamos on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 24 Dec 2013 21:03:06 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/steamos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #50 – Dell Inspiron 14, um notebook para jogos?</title>
+      <link>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</link>
+      <pubDate>Tue, 24 Dec 2013 21:03:06 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-50-dell-inspiron-14-um-notebook-para-jogos/</guid>
+      <description>Este é o último episódio deste ano e enfim caiu em minhas mãos um notebook que é bom para jogos no Linux. O notebook é o Dell Inspiron 14 que vem equipado com uma placa de vídeo Nvidia GT625M, processador Intel Core i5-3337U, 6GB de memória e HD de 1 TB.
+Antes de qualquer coisa, feliz natal e um ótimo ano novo para todos.
+ Assistir no Youtube Antes de ver como habilitar a placa de vídeo Nvidia, passa no site da Dell e compra o computador por nosso link, assim ajuda o site e fica com uma super máquina para jogar.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #30 – SteamOS e FixUbuntu</title>
+      <link>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</link>
+      <pubDate>Wed, 20 Nov 2013 20:02:00 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-30-steamos-e-fixubuntu/</guid>
+      <description>Mesmo com a sabotagem do Google, conseguimos gravar mais um episódio do Opencast. Não é desta vez que o episódio será sobre openSUSE, mas logo este episódio estará no ar.
+Neste episódio Aprígio Simões, Diego, Ivan e Og Maciel bateram um papo totalmente sem pauta discutida previamente. Começamos falando sobre o codec H264, passamos pela retirada dos servidores de DNS do Google do Brasil, fim do suporte ao formato antigo do Microsoft Office, polêmica em torno do site fixubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Opencast #29 – SteamOS e a pérola da TechNet</title>
+      <link>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</link>
+      <pubDate>Thu, 10 Oct 2013 02:59:41 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-29-steamos-e-a-perola-da-technet/</guid>
+      <description>Neste episódio do Opencast, Ivan, Aprígio Simões, Diego e Rudinei comentam alguns dos principais acontecimentos que viraram notícia no mundo do software e hardware livre. Nossa conversa começa com a pérola da Technet &amp;#8220;provando&amp;#8221; que o Windows é melhor que o Software Livre, passamos pelas novidades da Valve com o SteamOS e seus hardwares, liberação de especificação de placas de vídeo, Xmir, Raspberry Pi e o investimento da IBM no Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

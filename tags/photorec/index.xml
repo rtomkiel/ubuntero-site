@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photorec on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/photorec/</link>
+    <description>Recent content in Photorec on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 20 Apr 2013 15:58:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/photorec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recuperando arquivos apagados com o PhotoRec</title>
+      <link>http://ubuntero.com.br/recuperando-arquivos-apagados-com-o-photorec/</link>
+      <pubDate>Sat, 20 Apr 2013 15:58:12 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/recuperando-arquivos-apagados-com-o-photorec/</guid>
+      <description>Em um artigo anterior mostrei como recuperar partições usando o programa TestDisk, mas o título dizia que também era possível recuperar arquivos e é isto que mostrarei neste artigo. Juntamente com o TestDisk, o PhotoRec é instalado e é ele quem pode te salvar depois de ter apagado arquivos importantes. O mais importante neste processo é evitar utilizar o disco ou pendrive que contém os dados a ser recuperados para evitar que os dados sejam sobrescritos e a recuperação seja impossível.</description>
+    </item>
+    
+  </channel>
+</rss>

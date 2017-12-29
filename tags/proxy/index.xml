@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proxy on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/proxy/</link>
+    <description>Recent content in Proxy on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 21 Feb 2011 11:00:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como instalar e configurar o TOR para navegar anônimo no Ubuntu</title>
+      <link>http://ubuntero.com.br/como-instalar-e-configurar-o-tor-para-navegar-anonimo-no-ubuntu/</link>
+      <pubDate>Mon, 21 Feb 2011 11:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/como-instalar-e-configurar-o-tor-para-navegar-anonimo-no-ubuntu/</guid>
+      <description>Inspirado no assunto do momento, o Wikileaks, eu no meu segundo post aqui no Ubuntero resolvi falar sobre como navegar na internet no anonimato. O que é o TOR e o que tem a ver com o Wikileaks? Ultimamente, vários arquivos sigilosos foram divulgados na internet através do Wikileaks e desde que saiu o escândalo, uma das primeiras coisas que me deixou intrigado foi sobre como esses arquivos foram publicados e por que essas pessoas que divulgaram esses arquivos não foram rastreadas, lembrando que estamos falando a nível CIA, FBI e NSA.</description>
+    </item>
+    
+    <item>
+      <title>Adicionar repositórios estando atras de um firewall</title>
+      <link>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</link>
+      <pubDate>Thu, 20 Jan 2011 11:05:27 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/adicionar-repositorios-estando-atras-de-um-firewall/</guid>
+      <description>Artigo retirado e traduzido do site OMGUbuntu, tradução livre.
+Tendo problemas com o Ubuntu na Universidade? MadnessRed tem a solução.
+Um grande número de empresas e universidades bloqueiam todas as portas desconhecidas. Isto inclui as portas usadas para adicionar repositórios.
+Este problema pode ser manobrado utilizando a porta 80 para adquirir a chave, MadnessRed escreveu um script para fazer isto, mas este script tenta outras portas primeiro ao utilizar o comando apt-add-repository e isto pode levar alguns anos até falhar.</description>
+    </item>
+    
+    <item>
+      <title>Autenticação Squid com base em Tabelas MySql</title>
+      <link>http://ubuntero.com.br/autenticacao-squid-com-base-em-tabelas-mysql/</link>
+      <pubDate>Fri, 28 Mar 2008 00:16:23 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/autenticacao-squid-com-base-em-tabelas-mysql/</guid>
+      <description>&lt;p&gt;Um assunto muito recorrente, para quem trabalha com administração de proxy&amp;#8217;s, é a necessidade de se fazer autenticação dos usuários com base em uma determinada lista de acesso. Geralmente, é questão apenas de fazer a configuração correta do Squid, definir alguns arquivos texto com as informações e pronto. Porém, no caso de empresas grandes, é desejável que esta informação seja reutilizada a partir de alguma já existente, geralmente em forma de dados em tabelas de um banco de dados qualquer.&lt;/p&gt;
+
+&lt;p&gt;Utilizo em algumas empresas um script bem simples, que eu mesmo desenvolvi, para esta tarefa. Qual não foi minha surpresa, ao saber que fazer isto é uma dúvida bastante buscada na Internet por outras pessoas e, quase sempre, não resolvida. A maioria utiliza alguns projetos complicados, outros já recomendam partir para alguma solução mais rebuscada (e, talvez, até mais correta) como LDAP e outros.&lt;/p&gt;
+
+&lt;p&gt;Porém, basta um script e uma ou outra configuração e a questão está resolvida. Decidi então compartilhar, aqui, o script que instalo nas máquinas que administro. Seu uso é bem simples. Na verdade, se você pegar e simplesmente seguir os passos aqui descritos, verás que é algo trivial. Porém, para manter a qualidade dos artigos aqui publicados, este serve também como um tutorial para que você entenda um pouco mais do funcionamento dos mecanismos de autenticação do Squid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sobre este tutorial:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Baseado na distribuição Ubuntu 7.10 Server&lt;/li&gt;
+&lt;li&gt;Dificuldade de execução: Fácil&lt;/li&gt;
+&lt;li&gt;Nivel de conhecimento: Avançado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Pré-requisitos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conhecimentos básicos sobre o proxy Squid&lt;/li&gt;
+&lt;li&gt;Conhecimentos básicos sobre o banco de dados MySql&lt;/li&gt;
+&lt;li&gt;Entendimento prévio do que se pretende fazer&lt;/li&gt;
+&lt;li&gt;Servidor Linux já instalado e configurado&lt;/li&gt;
+&lt;li&gt;Banco de dados MySql e Squid já instalados e configurados&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

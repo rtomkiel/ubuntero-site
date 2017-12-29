@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duckduckgo on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/duckduckgo/</link>
+    <description>Recent content in Duckduckgo on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 05 Sep 2013 01:47:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/duckduckgo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #27 – A verdade sobre o trojan para Linux e o fracasso do Ubuntu Edge</title>
+      <link>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</link>
+      <pubDate>Thu, 05 Sep 2013 01:47:47 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-27-a-verdade-sobre-o-trojan-para-linux-e-o-fracasso-do-ubuntu-edge/</guid>
+      <description>Neste episódio do Opencast Ivan, Aprígio Simões, Diego, Og Maciel e Guilherme Razgriz falam sobre acontecimentos importantes do mundo do software livre. Nosso papo começa com uma boa discussão sobre o fracasso ou não fracasso do Ubuntu Edge e o que isso significou para a Canonical. Falamos sobre a mudança do google para o duckduckgo como motor de busca padrão no projeto Gnome. O envelhecimento dos desenvolvedores do Kernel e como atrair novas pessoas para este e outros projetos de software livre.</description>
+    </item>
+    
+  </channel>
+</rss>

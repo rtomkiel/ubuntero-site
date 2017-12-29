@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sismedia on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/sismedia/</link>
+    <description>Recent content in Sismedia on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 May 2011 00:14:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/sismedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resolução correta no Ubuntu 11.04 em placas SiS 671/672/771, e solução de possível desempenho ruim</title>
+      <link>http://ubuntero.com.br/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</link>
+      <pubDate>Sun, 01 May 2011 00:14:15 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/resolucao-correta-no-ubuntu-11-04-em-placas-sis-671672771-e-solucao-de-possivel-desempenho-ruim/</guid>
+      <description>Notícia muito boa aos proprietários de placas SiS que assim como eu, ficaram sem o Unity 3D, mas que não perdem a esperança de um dia conseguir poder utilizar o Compiz em nossos computadores ou notebooks.
+Mas antes da solução final, uma pequena história. Na manhã do dia 28 &amp;#8211; quinta-feira &amp;#8211; amanheci com um ar de animação, o novo Ubuntu estava por vir, melhor do que nunca &amp;#8211; sim, sou do time que apoia o Unity.</description>
+    </item>
+    
+  </channel>
+</rss>

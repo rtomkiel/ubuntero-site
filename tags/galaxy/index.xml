@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxy on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/galaxy/</link>
+    <description>Recent content in Galaxy on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 23 Feb 2013 23:09:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/galaxy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Videocast #26 – Galaxy X e Ubuntu for Phones</title>
+      <link>http://ubuntero.com.br/videocast-26-galaxy-x-e-ubuntu-for-phones/</link>
+      <pubDate>Sat, 23 Feb 2013 23:09:01 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/videocast-26-galaxy-x-e-ubuntu-for-phones/</guid>
+      <description>Enfim volto ao mundo online plenamente e recomeçamos os trabalhos com um VideoCast mostrando o Ubuntu for Phones rodando no Galaxy X, modelo brasileiro do Galaxy Nexus. Na primeira parte do vídeo mostro o Galaxy rodando o Android atualizado com a rom da Samsung, 4.1. Na Segunda parte mostro o Ubuntu for Phone rodando no mesmo aparelho. Não precisaria, mas prefiro destacar. Esta versão do Ubuntu for Phone não deve ser usada em produção, ela é extremamente limitada e voltada para desenvolvedores de aplicativos.</description>
+    </item>
+    
+    <item>
+      <title>Imagem do Ubuntu phone será disponibilizada na próxima semana</title>
+      <link>http://ubuntero.com.br/imagem-do-ubuntu-phone-sera-disponibilizada-na-proxima-semana/</link>
+      <pubDate>Fri, 15 Feb 2013 18:06:18 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/imagem-do-ubuntu-phone-sera-disponibilizada-na-proxima-semana/</guid>
+      <description>Agora sim que todos ficam mais ansiosos. Foi anunciado pela Canonical a data do lançamento da imagem, para desenvolvedores, do Ubuntu for phones e será no dia 21 de fevereiro.
+A maior surpresa é que serão lançadas duas imagens, uma para o Galaxy Nexus e outra para o Galaxy Nexus 4, sendo assim, teremos como testar em um equipamento de entrada que não usaria a dock (Galaxy Nexus) e em um smartphone mais smart (Nexus 4).</description>
+    </item>
+    
+    <item>
+      <title>Vaquinha para compra de um Galaxy X</title>
+      <link>http://ubuntero.com.br/vaquinha-para-compra-de-um-galaxy-x/</link>
+      <pubDate>Fri, 04 Jan 2013 11:20:59 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/vaquinha-para-compra-de-um-galaxy-x/</guid>
+      <description>Mudança nos planos, se conseguirmos dinheiro para comprar dois aparelhos, um será sorteado entre os doadores.
+Querem ver o Ubuntu rodando no celular? Eu também quero e quero mostrar isto para vocês através dos reviews sinceros que já estão acostumados a assistir no Youtube, mas para isso eu preciso de uma ajuda financeira para comprar o único aparelho confirmado para receber uma rom dos sistema.
+Eu vou tirar do meu bolso R$ 500,00, mas preciso da ajuda para completar o restante do valor.</description>
+    </item>
+    
+  </channel>
+</rss>

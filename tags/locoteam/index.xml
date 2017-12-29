@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locoteam on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/locoteam/</link>
+    <description>Recent content in Locoteam on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 05 Apr 2011 19:15:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/locoteam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O fim do shipit como o conhecemos</title>
+      <link>http://ubuntero.com.br/o-fim-do-shipit-como-o-conhecemos/</link>
+      <pubDate>Tue, 05 Apr 2011 19:15:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/o-fim-do-shipit-como-o-conhecemos/</guid>
+      <description>Shipit chega ao fim É com algum pesar que estamos anunciando o fim do programa Shipit e do programa de distribuição do CD. Quando começamos em 2005 o ShipIt, a banda larga ainda era uma promessa de marketing, mesmo nos países mais conectados e mais desenvolvidos. Sabíamos que isso representava um bloco significativo de obstáculo para a adoção de uma nova tecnologia como o Ubuntu. Então, nós investimos em fazer o CD gratuitamente e livremente entregues em qualquer lugar do mundo.</description>
+    </item>
+    
+  </channel>
+</rss>

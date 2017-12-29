@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Earth on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/google-earth/</link>
+    <description>Recent content in Google Earth on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 19 Oct 2010 22:33:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/google-earth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Earth no Ubuntu 10.10</title>
+      <link>http://ubuntero.com.br/google-earth-no-ubuntu-10-10/</link>
+      <pubDate>Tue, 19 Oct 2010 22:33:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/google-earth-no-ubuntu-10-10/</guid>
+      <description>Se existia um software de terceiros que eu já tinha desistido de utilizar, este software era o Google Earth. Esta desistência não tinha relação com outros perrengues que havia passado com a empresa desenvolvedora, o fato era que o software era, desculpem a palavra, ridículo quando os efeitos do compiz estavam habilitados.
+Na versão 10.10 do Ubuntu, este problema foi resolvido e agora sou mais um utilizador deste software, embora prefira utilizar o site  quando preciso verificar ou traçar rotas.</description>
+    </item>
+    
+  </channel>
+</rss>

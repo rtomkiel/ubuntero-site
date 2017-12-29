@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiki on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/wiki/</link>
+    <description>Recent content in Wiki on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 03 Oct 2012 15:00:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voluntários para instalação do Ubuntu</title>
+      <link>http://ubuntero.com.br/voluntarios-para-instalacao-do-ubuntu/</link>
+      <pubDate>Wed, 03 Oct 2012 15:00:03 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/voluntarios-para-instalacao-do-ubuntu/</guid>
+      <description>Está com tempo livre e vontade de ajudar novos usuários a utilizar o Ubuntu? Uma ótima maneira é cadastrar o nome nesta wiki e divulgar para que todos saibam onde procurar ajuda.
+A ideia deste espaço é manter uma lista de pessoas de boa vontade que podem dispensar um pouco de seu tempo para instalar o Ubuntu em computadores de pessoas que não sabem fazer esta tarefa.
+Acredito muito nesta iniciativa, pois quem pergunta como instalar o Ubuntu, geralmente precisa que alguém instale e ensine a usar, se isto não fosse necessário, a pessoa já tinha encontrado a maneira e instalado por conta.</description>
+    </item>
+    
+    <item>
+      <title>ubuntu-br.org fora</title>
+      <link>http://ubuntero.com.br/ubuntu-br-org-fora/</link>
+      <pubDate>Thu, 13 Jan 2011 00:49:14 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/ubuntu-br-org-fora/</guid>
+      <description>Artigo de utilidade pública retirado do blog do André Gondim
+No dia 31 de dezembro de 2010 foi identificado que o domínio não estava disponível. Porém imaginou-se tratar de algo passageiro e foi aberto um ticket de verificação junto aos sysadmin da Canonical.
+Inicialmente parecia tratar-se de problema onde uma simples reinicialização de máquina resolveria, como já ocorreu em outras
+oportunidades. Ao ser investigado mais a fundo, foi constatado, ainda sem explicação do porque, que houve uma perda na zona do DNS do ubuntu-br.</description>
+    </item>
+    
+    <item>
+      <title>Começando</title>
+      <link>http://ubuntero.com.br/comecando/</link>
+      <pubDate>Mon, 26 Jun 2006 23:36:24 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/comecando/</guid>
+      <description>Estou começando agora com este blog. Espero ter muito o que escrever.
+Aqui você vai encontrar pouca coisa sobre mim. Vou escrever mais sobre as coisas que faço no computador. Os assuntos mais normais serão relacionados com linux, mais especificamente sobre Ubuntu Linux.
+Daqui a pouco eu posto alguma coisa. Acho que vou começar com as minhas impressões sobre o Ubuntu 6.06. Também pretendo falar sobre a comunidade Ubuntu-br que está fazendo um grande trabalho na tradução de todas as versões do Ubuntu e vem mantendo um Wiki muito bom totalmente em português .</description>
+    </item>
+    
+  </channel>
+</rss>

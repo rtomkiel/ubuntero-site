@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>14.1 on Ubuntero</title>
+    <link>http://ubuntero.com.br/tags/14.1/</link>
+    <description>Recent content in 14.1 on Ubuntero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 23 Oct 2014 20:18:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://ubuntero.com.br/tags/14.1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast #39 – Netflix e Android Pirulito</title>
+      <link>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</link>
+      <pubDate>Thu, 23 Oct 2014 20:18:04 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/opencast-39-netflix-e-android-pirulito/</guid>
+      <description>Olá galera, o Opencast está de volta mais uma vez e agora temos algumas novidades. Se tudo der certo, e é o que parece porque estou postando este episódio, o Opencast passará a ser semanal mas com o tempo reduzido.
+Neste tempo que ficamos em um hiato, eu(Ivan) não fiquei parado e dei uma estudada na edição e consegui acelerar bastante o processo.
+Vamos logo ao episódio. Neste episódio Ivan, Diego e Og Maciel falamos um pouco sobre o Netflix e sua chegada ao Linux de vez, mesmo nos obrigando a utilizar o Google Chrome, mais uma cidade Alemã que migrou para Linux, Ubuntu 14.</description>
+    </item>
+    
+    <item>
+      <title>Divulgado calendário do Ubuntu 14.10</title>
+      <link>http://ubuntero.com.br/divulgado-calendario-do-ubuntu-14-10/</link>
+      <pubDate>Wed, 30 Apr 2014 12:58:35 +0000</pubDate>
+      
+      <guid>http://ubuntero.com.br/divulgado-calendario-do-ubuntu-14-10/</guid>
+      <description>Como prometido, aqui está o calendário da próxima versão do Ubuntu 14.10.
+Como muitas pessoas tem dificuldade em interpretar a tabela abaixo, as principais informações são:
+ Alpha 1 &amp;#8211; 26 de junho Alpha 2 – 24 de julho Congelamento de funcionalidades — 21 de agosto Beta 1 – 28 de agosto UI Freeze — 11 de setembro Beta Final – 25 de setembro Congelamento do Kernel — 2 de outubro Candidato a versão final – 9 de outubro Lançamento da versão final – 16 de outubro  &amp;nbsp;</description>
+    </item>
+    
+  </channel>
+</rss>

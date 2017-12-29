@@ -1,0 +1,746 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Ubuntero - Tudo sobre o sistema operacional GNU/Linux</title>
+<meta name="description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"/>
+<base href="http://ubuntero.com.br/"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link href="http://ubuntero.com.br/index.xml" rel="alternate" type="application/rss+xml" title="Ubuntero"/>
+<link href="http://ubuntero.com.br/index.xml" rel="feed" type="application/rss+xml" title="Ubuntero"/>
+
+<meta name="robots" content="all,follow"/>
+<meta name="googlebot" content="index,follow,snippet,archive"/>
+<link rel="canonical" href="http://ubuntero.com.br/" />
+<meta property="og:locale" content="" />
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:description" content="Tudo sobre o sistema operacional GNU/Linux" />
+<meta property="og:url" content="http://ubuntero.com.br/" />
+<meta property="og:site_name" content="Ubuntero BR" />
+<meta property="og:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+ 
+
+<meta property="fb:admins" content="#"/>
+<meta property="fb:app_id" content="#"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Ubuntero - Tudo sobre o sistema operacional GNU/Linux" />
+<meta name="twitter:title" content="Ubuntero - Ubuntero BR" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:image" content="https://scontent.fpoa2-1.fna.fbcdn.net/v/t1.0-9/10259788_793549110664581_7463998053528546478_n.jpg?oh=9ae2c93fa0b4974a44465491aaf6cf7c&oe=5AC57BC0"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" href="http://ubuntero.com.br//dist/style.css" />
+
+
+</head>
+<body>
+<div id="pagewrap">
+
+	<div id="header">
+
+		<div id="menu">
+			<ul>
+				
+				<li><a href="/">Home</a></li>
+				
+				<li><a href="/downloads/">Downloads</a></li>
+				
+				<li><a href="/ajude/">Quer ajudar?</a></li>
+				
+				<li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+				
+				<li><a href="/store/">Store</a></li>
+				
+			</ul>
+		</div>
+
+		<p class="logo"><a href="http://ubuntero.com.br/" title="Ubuntero - Tudo sobre o sistema operacional GNU/Linux"><img src="http://ubuntero.com.br//dist/images/logo-ubuntero.png" alt="Ubuntero" /></a><span>Tudo sobre o sistema operacional GNU/Linux</span></p>
+
+
+	</div>
+
+
+	<div id="content">
+		
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/5%C2%BA-tema-elementary/" title="5º Tema – Elementary">5º Tema – Elementary</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><!--        @page { margin: 2cm }       P { margin-bottom: 0.21cm } -->Essa semana não tive tempo algum para planejar um tema bem elaborado, mas não foi algo necessariamente ruim, já que o post de hoje, é destinado completamente à instalação do Elementary, que é, sem sombra de dúvidas um dos temas mais usados como base para outros, se esse não for o mais. Mas convenhamos, se já o instalou, sabe bem do que falo, é simplesmente incrível. Com seus tons cinzas, e alguns pontos mais escuros, fazem do mesmo, uma das melhores alternativas para temas. Mas sabem o melhor de tudo isso? O Elementary tem um repositório, fazendo que sempre tenhas as últimas melhorias para o tema. A instalação do tema é bastante simples, e após instalado, basta que selecione nas</p>
+
+<p><em>Preferências de Aparência.</em> Para realizar a instalação basta que tenha terminal aberto <span style="font-size: x-small;">(</span><span style="font-size: x-small;"><em><strong>Aplicações → Acessórios → Terminal</strong></em></span><span style="font-size: x-small;"><em>). </em></span></p>
+
+<p lang="pt-BR">
+  <span style="font-size: small;">Antes de instalarmos o tema, quero frisar que há duas opções para o tema, a instalação simples, que somente instala o tema GTK, pacotes de ícones e alguns wallpapers. Por outro lado, temos a instalação completa do tema, com tudo o que vem no tema simples, mais funcionalidades para o Nautilus. </span><span style="font-size: small;">Caso queira somente a instalação simples, digite:</span>
+</p>
+
+<p lang="pt-BR">
+  <span style="font-size: small;"></p> 
+  
+
+<p><pre class="brush:shell">sudo add-apt-repository ppa:elementaryart &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install elementary-theme elementary-icon-theme elementary-wallpapers</pre></p>
+
+<p><p>
+    </span>Mas caso deseje a versão completa do tema, rode o seguinte no terminal aberto:
+  </p></p>
+
+<p><p lang="pt-BR">
+    <pre class="brush:shell">sudo add-apt-repository ppa:am-monkeyd/nautilus-elementary-ppa &amp;&amp; sudo add-apt-repository ppa:elementaryart &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install elementary-theme elementary-icon-theme elementary-wallpapers &amp;&amp; sudo apt-get upgrade &amp;&amp; nautilus -q</pre></p>
+
+<pre><code>&lt;p&gt;
+  Feito isso já terá o tema instalado em vossa máquina. Para por o tema pronto para funcionar em sua máquina basta ir nas Preferências de Aparência e selecionar o Elementary &lt;span style=&quot;font-size: x-small;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;em&gt;&lt;strong&gt;Sistema → Preferência → Aparência). &lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p lang=&quot;pt-BR&quot;&gt;
+  &lt;span style=&quot;font-size: small;&quot;&gt;Creio que o seu sistema irá tentar selecionar o tema de ícones &lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;em&gt;Elementary Dark, &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;mas o mesmo acaba retornando um erro informando não est&lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;ar&lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt; instalado, para isso selecione o ícone de nome &lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;em&gt;Elementary. &lt;/em&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p lang=&quot;pt-BR&quot;&gt;
+  &lt;span style=&quot;font-size: small;&quot;&gt;Agora, vamos instalar a AWN, uma excelente dock. O processo de instalação é simples, vá no terminal e digite:&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p lang=&quot;pt-BR&quot;&gt;
+  &lt;span style=&quot;font-size: small;&quot;&gt;&lt;/p&gt; 
+
+  &lt;pre class=&quot;brush:shell&quot;&gt;sudo add-apt-repository ppa:awn-testing/ppa &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install avant-window-navigator-trunk&lt;/pre&gt;
+
+  &lt;p&gt;
+    &lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;span style=&quot;font-size: small;&quot;&gt;Feito isso, terá ela instalada em seu sistema. Se for de seu gosto, substitua o painel do Gnome pela dock, para isso, vá no terminal e digite o seguinte:&lt;/span&gt;
+  &lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;
+      &lt;span style=&quot;font-size: small;&quot;&gt;gconf-editor&lt;/span&gt;
+    &lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;
+    &lt;span style=&quot;font-size: small;&quot;&gt;Vá em &lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;em&gt;Desktop, Session, gnome &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;e lá altere o valor de nome &lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;em&gt;gnome-panel &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;por &lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;&lt;em&gt;avant-window-navigator&lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;. Antes de fechar a sessão para que seja efetuada a retirada do painel, é recomendado que abra a AWN. Adicione um novo dock, movendo-o para cima e adicione mini aplicações para substituir o painel do Gnome. São ele o AWN Main Menu, File Browser Launcher, o Sistray e o Indicator Applet. Depois coloque a AWN para arrancar com o sistema. &lt;/span&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Pronto, agora basta usufruir de um dos mais belos temas já criados. Até semana que vem e fiquem abaixo com um print da minha tela. &lt;/span&gt;
+  &lt;/p&gt;&lt;figure id=&quot;attachment_1970&quot; style=&quot;max-width: 547px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+
+  &lt;a href=&quot;http://www.ubuntero.com.br/wp-content/uploads/2011/03/5º-tema.png&quot;&gt;&lt;img class=&quot;size-large wp-image-1970  &quot; title=&quot;Tema Elementary&quot; src=&quot;http://www.ubuntero.com.br/wp-content/uploads/2011/03/5º-tema-1024x614.png&quot; alt=&quot;&quot; width=&quot;547&quot; height=&quot;327&quot; /&gt;&lt;/a&gt;&lt;figcaption class=&quot;wp-caption-text&quot;&gt;*Clique na imagem para ampliar*&lt;/figcaption&gt;&lt;/figure&gt;
+</code></pre>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/5%C2%BA-tema">5º tema</a>,   <a href="/tags/elementary">elementary</a>,   <a href="/tags/s%C3%A9rie-de-temas">série de temas</a>,   <a href="/tags/tema">tema</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/anderson-henrique" title="Mais posts de /author/anderson-henrique">Anderson Henrique</a> em 26 de Mar de 2011 | <a href="http://ubuntero.com.br/5%C2%BA-tema-elementary/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f5%25C2%25BA-tema-elementary%2f&url=http%3a%2f%2fubuntero.com.br%2f5%25C2%25BA-tema-elementary%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f5%25C2%25BA-tema-elementary%2f&t=5%c2%ba%20Tema%20%e2%80%93%20Elementary" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f5%25C2%25BA-tema-elementary%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/compartilhando-arquivos-entre-linux-e-windows-usando-o-samba/" title="Compartilhando arquivos entre Linux e Windows usando o SAMBA">Compartilhando arquivos entre Linux e Windows usando o SAMBA</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<div>
+  Muitas vezes precisamos compartilhar arquivos em uma rede onde o servidor (ou mesmo uma estação) é Linux e o &#8220;cliente&#8221; é Windows. Fiquei pensando se havia uma maneira fácil, com modo gráfico, para fazê-lo. E tem. Mas primeiro vamos utilizar o Terminal para fazer uma instalação e, depois, uma configuração.
+</div>
+
+<p>1)Abra um terminal e digite:</p>
+
+<pre class="brush:shell">sudo apt-get install system-config-samba</pre>
+
+<p>Isso irá instalar a interface gráfica do samba no seu Ubuntu.</p>
+
+<p>2)Agora vamos alterar o nome do seu grupo de trabalho. No terminal, digite:</p>
+
+<pre class="brush:shell">sudo gedit /etc/samba/smb.conf</pre>
+
+<p>Em &#8220;global&#8221;, altere o workgroup para o grupo de trabalho desejado (considerando-se ser uma rede doméstica). Salve e feche o arquivo. Reinicie o samba com o comando:</p>
+
+<pre class="brush:shell">sudo /etc/init.d/smb restart</pre>
+
+<div>
+  Percebi, em experiência realizada entre dois notebooks em rede doméstica, que se colocarmos o Windows no mesmo grupo de trabalho que o Linux (o mesmo workgroup do arquivo smb.conf) as coisas ficam &#8220;facilitadas&#8221;. No máximo irá pedir usuário e senha (acessando a partir do Windows). Esse login e essa senha são definidos dentro do Ubuntu em &#8220;Sistema > administração > SAMBA&#8221;.<br /> Encontrei o vídeo abaixo (em Inglês) muito interessante sobre compartilhamento de arquivos entre Linux e Windows, vale a pena conferir.<br /> <a href="http://www.youtube.com/watch?v=89hjWOb8qmY">File Sharing With Ubuntu 9.04 Using Samba</a>
+</div>
+
+<div>
+  Publiquei anteriormente dois posts a respeito de redes AD-HOC, <a href="http://freelinux-br.blogspot.com/2011/02/rede-ad-hoc-entre-ubuntu-e-windows.html">você pode lê-los aqui.</a><br /> Fiquem todos com Deus.
+</div>
+
+<p>Meu Twitter: <a href="http://twitter.com/renatobluesboy">@renatobluesboy</a></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags: </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/renato" title="Mais posts de /author/renato">Renato</a> em 26 de Mar de 2011 | <a href="http://ubuntero.com.br/compartilhando-arquivos-entre-linux-e-windows-usando-o-samba/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fcompartilhando-arquivos-entre-linux-e-windows-usando-o-samba%2f&url=http%3a%2f%2fubuntero.com.br%2fcompartilhando-arquivos-entre-linux-e-windows-usando-o-samba%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fcompartilhando-arquivos-entre-linux-e-windows-usando-o-samba%2f&t=Compartilhando%20arquivos%20entre%20Linux%20e%20Windows%20usando%20o%20SAMBA" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fcompartilhando-arquivos-entre-linux-e-windows-usando-o-samba%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/biblioteca-digital-desenvolvida-em-software-livre/" title="Biblioteca digital desenvolvida em software livre">Biblioteca digital desenvolvida em software livre</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<div class="separator" style="clear: both; text-align: justify;">
+  <a href="https://lh5.googleusercontent.com/-SdlBHpGcTbY/TYei_PrFEoI/AAAAAAAAA9w/s1TVkfh84kc/s1600/Dom%25C3%25ADnio+p%25C3%25BAblico.gif"><img class="aligncenter" src="https://lh5.googleusercontent.com/-SdlBHpGcTbY/TYei_PrFEoI/AAAAAAAAA9w/s1TVkfh84kc/s1600/Dom%25C3%25ADnio+p%25C3%25BAblico.gif" border="0" alt="" width="273" height="60" /></a>
+</div>
+
+<div style="text-align: justify;">
+  O &#8220;Portal Domínio Público&#8221;, lançado em novembro de 2004 (com um acervo inicial de 500 obras), propõe o compartilhamento de conhecimentos de forma equânime, colocando à disposição de todos os usuários da rede mundial de computadores &#8211; Internet &#8211; uma biblioteca virtual que deverá se constituir em referência para professores, alunos, pesquisadores e para a população em geral.
+</div>
+
+<div style="text-align: justify;">
+  Este portal constitui-se em um ambiente virtual que permite a coleta, a integração, a preservação e o compartilhamento de conhecimentos, sendo seu principal objetivo o de promover o amplo acesso às obras literárias, artísticas e científicas (na forma de textos, sons, imagens e vídeos), já em domínio público ou que tenham a sua divulgação devidamente autorizada, que constituem o patrimônio cultural brasileiro e universal.
+</div>
+
+<div style="text-align: justify;">
+  Desta forma, também pretende contribuir para o desenvolvimento da educação e da cultura, assim como, possa aprimorar a construção da consciência social, da cidadania e da democracia no Brasil. Adicionalmente, o &#8220;Portal Domínio Público&#8221;, ao disponibilizar informações e conhecimentos de forma livre e gratuita, busca incentivar o aprendizado, a inovação e a cooperação entre os geradores de conteúdo e seus usuários, ao mesmo tempo em que também pretende induzir uma ampla discussão sobre as legislações relacionadas aos direitos autorais &#8211; de modo que a &#8220;preservação de certos direitos incentive outros usos&#8221; -, e haja uma adequação aos novos paradigmas de mudança tecnológica, da produção e do uso de conhecimentos.
+</div>
+
+<div style="text-align: justify;">
+  Fernando Haddad
+</div>
+
+<div>
+  <em>Ministro de Estado da Educação</em>&nbsp;</p> 
+  
+  <p>
+    <strong>O que poderá ser encontrado?</strong>
+  </p>
+  
+  <div style="text-align: center;">
+    <img src="http://www.dominiopublico.gov.br/img/icones/revista.gif" alt="" />
+  </div>
+  
+
+<p><div style="text-align: center;">
+    <a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=1&skip=0&ds_titulo=Plano%20de%20Desenvolvimento%20da%20Educa&co_autor=&no_autor=&co_categoria=44&pagina=1&select_action=Submit&co_midia=2&co_obra=&co_idioma=&colunaOrdenar=null&ordem=null">Plano de Desenvolvimento da Educação</a>
+  </div></p>
+
+<p><div style="text-align: center;">
+    <img src="http://www.dominiopublico.gov.br/img/icones/livros.gif" alt="" />
+  </div></p>
+
+<p><div style="text-align: center;">
+    <a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=50&skip=0&ds_titulo=&co_autor=&no_autor=&co_categoria=33&pagina=1&select_action=Submit&co_midia=2&co_obra=&co_idioma=1&colunaOrdenar=null&ordem=null">Literatura Infantil em português</a>
+  </div></p>
+
+<p><div style="text-align: center;">
+    <img src="http://www.dominiopublico.gov.br/img/icones/publicacoes.gif" alt="" />
+  </div></p>
+
+<p><div style="text-align: center;">
+    <a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=50&skip=0&ds_titulo=&co_autor=&no_autor=&co_categoria=44&pagina=1&select_action=Submit&co_midia=2&co_obra=&co_idioma=&colunaOrdenar=null&ordem=null"><span style="color: black;"> </span></a><a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=50&skip=0&ds_titulo=&co_autor=&no_autor=&co_categoria=44&pagina=1&select_action=Submit&co_midia=2&co_obra=&co_idioma=&colunaOrdenar=null&ordem=null">Publicações sobre educação</a>
+  </div>
+</div></p>
+
+<div style="text-align: justify;">
+  <div>
+    <span style="color: black; font-family: Arial, Helvetica, sans-serif; font-size: xx-small; text-decoration: none;"><br /> </span>
+  </div>
+</div>
+
+<p>Entre outros arquivos nas mais diversas áreas da educação.</p>
+
+<div>
+  <strong>Sobre os critérios de pesquisa (pesquisa básica)</strong>
+</div>
+
+<div>
+  <strong><br /> </strong>
+</div>
+
+<div>
+  No &#8220;Portal Domínio Público&#8221; na página inicial, a filtragem de arquivos é feita da seguinte forma:
+</div>
+
+<div>
+  <ul>
+    <li>
+      Tipo de mídia <ul>
+        <li>
+          Imagem
+        </li>
+        <li>
+          Som
+        </li>
+        <li>
+          Texto
+        </li>
+        <li>
+          Vídeo
+        </li>
+      </ul>
+    </li>
+    
+    <li>
+      Categoria
+    </li>
+    <li>
+      Autor
+    </li>
+    <li>
+      Título
+    </li>
+    <li>
+      Idioma
+    </li>
+  </ul>
+</div>
+
+<div>
+  <strong>Pesquisa por conteúdo</strong>
+</div>
+
+<div>
+  <strong><br /> </strong>
+</div>
+
+<div>
+  O portal oferece também a <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaConteudoForm.jsp">busca por conteúdo</a>, onde a pesquisa é feita por palavra chave dentro dos documentos do acervo digital.
+</div>
+
+<div>
+  <strong>Pesquisa por Teses e Dissertações</strong>
+</div>
+
+<div>
+  <strong><br /> </strong>
+</div>
+
+<p>Outra opção é a <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaPeriodicoForm.jsp">pesquisa por teses e dissertações</a>. Os critérios de filtragem para a busca de documentos desse tipo é feita assim:</p>
+
+<div>
+  <ul>
+    <li>
+      Área do conhecimento
+    </li>
+    <li>
+      Autor
+    </li>
+    <li>
+      Título
+    </li>
+    <li>
+      Nível (doutorado e mestrado)
+    </li>
+    <li>
+      Ano de Tese
+    </li>
+    <li>
+      Palavras chave
+    </li>
+    <li>
+      Instituição de Ensino
+    </li>
+  </ul>
+  
+  <p>
+    <strong>Pesquisa por nome de autor</strong>
+  </p>
+  
+  <p>
+    Busque as obras através do índice com o  <a href="http://www.dominiopublico.gov.br/pesquisa/PesquisaAutorForm.do?select_action=">nome dos autores</a> que estão na biblioteca virtual. Autores de A a Z.
+  </p>
+</div>
+
+<div>
+  Veja estatísticas do portal: <a href="http://www.dominiopublico.gov.br/Indicadores/Estatisticas.jsp">http://www.dominiopublico.gov.br/Indicadores/Estatisticas.jsp</a>
+</div>
+
+<div>
+  <p>
+    &nbsp;
+  </p>
+  
+  <p>
+    Para alunos, professores, para qualquer um. O portal é livre!
+  </p>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <p>
+    Fonte: <a href="http://www.dominiopublico.gov.br/">http://www.dominiopublico.gov.br</a>
+  </p>
+</div>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/biblioteca">biblioteca</a>,   <a href="/tags/educacional">educacional</a>,   <a href="/tags/linux">Linux</a>,   <a href="/tags/software-livre">Software livre</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/edigley-alexandre" title="Mais posts de /author/edigley-alexandre">Edigley Alexandre</a> em 24 de Mar de 2011 | <a href="http://ubuntero.com.br/biblioteca-digital-desenvolvida-em-software-livre/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2fbiblioteca-digital-desenvolvida-em-software-livre%2f&url=http%3a%2f%2fubuntero.com.br%2fbiblioteca-digital-desenvolvida-em-software-livre%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2fbiblioteca-digital-desenvolvida-em-software-livre%2f&t=Biblioteca%20digital%20desenvolvida%20em%20software%20livre" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2fbiblioteca-digital-desenvolvida-em-software-livre%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/firefox-4-0/" title="Firefox 4.0">Firefox 4.0</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p><a href="http://www.ubuntero.com.br/wp-content/uploads/2011/03/firefox-logo.png"><img class="size-full wp-image-1944 alignleft" title="firefox logo" src="http://www.ubuntero.com.br/wp-content/uploads/2011/03/firefox-logo.png" alt="logotipo do firefox" width="146" height="150" /></a></p>
+
+<p>Como todos já sabem, foi lançado o Firefox 4.0 e muitos usuários já estão baixando e usando. Em 12 horas o número de downloads ultrapassou o número alcançado pelo Internet Explorer 9 em 24 horas.</p>
+
+<p>Se você quer usufruir de todas as vantagens desta nova versão do Firefox siga os passos abaixo:</p>
+
+<ul>
+<li>Abra o terminal em Aplicativos &gt;&gt; Acessórios &gt;&gt; Terminal e digite os seguintes comandos:</li>
+</ul>
+
+<pre class="brush:shell">sudo add-apt-repository ppa:mozillateam/firefox-stable
+sudo apt-get update && sudo apt-get upgrade</pre>
+
+<p>Pronto, é só abrir o Firefox que ele lhe fará algumas poucas perguntas e poderá utilizar o Firefox no seu Ubuntu 10.04 ou 10.10. A versão 11.04 já virá com o Firefox 4 instalado por padrão.</p>
+
+<p><strong>Fonte: <a href="http://www.omgubuntu.co.uk/2011/03/firefox-4-ppa-for-ubuntu-10-04-and-10-10-users/">OMG Ubuntu</a></strong></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/10.04">10.04</a>,   <a href="/tags/10.1">10.1</a>,   <a href="/tags/4">4</a>,   <a href="/tags/4">4</a>,   <a href="/tags/firefox">Firefox</a>,   <a href="/tags/firefox-4">firefox 4</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/ivan-brasil-fuzzer" title="Mais posts de /author/ivan-brasil-fuzzer">Ivan Brasil Fuzzer</a> em 22 de Mar de 2011 | <a href="http://ubuntero.com.br/firefox-4-0/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2ffirefox-4-0%2f&url=http%3a%2f%2fubuntero.com.br%2ffirefox-4-0%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2ffirefox-4-0%2f&t=Firefox%204.0" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2ffirefox-4-0%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="post">
+			<h1><a href="http://ubuntero.com.br/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/" title="4º Tema – Vancouver 2010 1º aniversário">4º Tema – Vancouver 2010 1º aniversário</a></h1>
+
+			<div class="entry-meta">
+				<div class="commentbalao sprite">#</div>
+			</div>
+
+			<div class="entry">
+				<p>Olá, é com muito gosto que vos apresento hoje o quarto tema da série aqui no Ubuntero. O tema de hoje foi criado por um brasileiro, &#8211; que está de parabéns &#8211; o Gustavo Reis. O tema é relativamente &#8220;simples&#8221;, mas foi essa &#8220;simplicidade&#8221; que me levou à adicioná-lo à série de temas. Hoje não terá nenhum vídeo, estou com problemas na rede, mas o processo de instalação é relativamente simples. Primeiro é necessário que tenhamos o pacote em mãos para instalarmos, para isso faça o download <strong><a href="http://www.4shared.com/file/Mt3B-Jk4/Vancouver2010_Theme.html">clicando aqui</a></strong>.</p>
+
+<p>Após feito o download em uma pasta a seu gosto, extraia o arquivo em <em>.zip</em> e dentro da pasta resultante da extração encontrará várias sub-pastas, onde encontrará todos os arquivos necessários para o tema. Vamos agora então começar a instalação.</p>
+
+<p>Vá em <em>Sistema; Preferências; Aparência.</em> Mova para as Preferências de Aparência a pasta Vancouver2010 e o arquivo Vancocons.tar.gz assim terá instalado o tema e também os ícones. Talvez os ícones corretos podem não aparecer por padrão, então caso isso aconteça, vá em <em>Personalizar</em> e na guia <em>Ícones</em> selecione o ícone de mesmo nome do arquivo tar.gz.</p>
+
+<p>Agora vamos adicionar ao Painel do Gnome, uma imagem para que fique com aparência de gelo. No painel superior do Gnome, clique em <em>Propriedades</em> e em <em>Plano de Fundo</em> vá em <em>Imagem de fundo</em> e selecione dentro da pasta do tema o arquivo <em>menu do ubuntu 3.png</em>.</p>
+
+<p>Agora vamos adicionar um fundo ao <em>Nautilus</em>, para isso ainda na pasta vá no menu do mesmo e clique em <em>Editar</em> e vá em <em>Planos de fundo e emblemas</em> e selecione a imagem de nome <em>Fundo do nautilus.png</em>.</p>
+
+<p>Feito, vamos instalar o tema para Google Chrome ou Chromium; vamos fazer isso abrindo o arquivo em .crx dentro da pasta Google Chrome no browser, para isso use o comando Crtl + O e navegue até a pasta. A única coisa que deixo à escolha de vocês, é o quesito fontes. Eu acho melhor deixar as fontes padrão do Ubuntu, mas se não o quiser, instale-as.</p>
+
+<p>Falta agora a tela de login e a splash screen. Para por a funcionar a tela de login, vá como root até a pasta /usr/share/gdm/.themes e copie a pasta Vancouver2010 1st Birthday GDM Theme. Quanto à splash screen vá até a pasta da extração e rode os seguintes comandos;</p>
+
+<blockquote>
+<p><em>sudo cp -RVancouver2010-1st-sudo cp -RBirthday-Ubuntu-10.10-Vancouver2010-1st-theme/Birthday-Ubuntu-10.10-/lib/plymouth/themes/theme/sudo update-/lib/plymouth/themes/alternativessudo update-alternatives&#8211;install&#8211;install/lib/plymouth/themes/de/lib/plymouth/themes/deffault.plymouthault.plymouthdefault.plymouthdefault.plymouth/lib/plymouth/themes/Van /lib/plymouth/themes/Vancouver2010-1st-couver2010-1st-Birthday-Birthday-Ubuntu-10.10-Ubuntu-10.10-theme/Vancouver2010-theme/Vancouver2010-1st-1st-Birthday-Ubuntu-Birthday-Ubuntu-10.10-10.10-theme.plymouththeme.plymouth 100100sudo update-alternativessudo update&#8212;configalternatives &#8211;configdefault.plymouthdefault.plymouth &amp;&amp; sudo update-initramfs -u</em></p>
+</blockquote>
+
+<p>Agora basta que selecione o Plano de Fundo da Área de Trabalho que deseje e já se tem o tema funcionando em perfeito estado. Abaixo confira uma screen.</p>
+
+<p style="text-align: center">
+  &nbsp;
+</p>
+
+<p><img class="aligncenter" src="http://leetleech.org/images/31269684583857091656.png" alt="" /></p>
+
+			</div>
+
+			<div class="post-utility">
+				<p>Tags:   <a href="/tags/personaliza%C3%A7%C3%A3o">Personalização</a>,   <a href="/tags/tema">tema</a>,   <a href="/tags/ubuntu">Ubuntu</a>,   <a href="/tags/vancouver">vancouver</a>,   </p>
+			</div>
+
+			<div class="entry-meta">
+				<p><span style="padding-bottom:15px;">Por <a href="/author/anderson-henrique" title="Mais posts de /author/anderson-henrique">Anderson Henrique</a> em 19 de Mar de 2011 | <a href="http://ubuntero.com.br/4%C2%BA-tema-vancouver-2010-1%C2%BA-aniversario/">Comente</a> | Divulgue</span> <a href="http://twitter.com/intent/tweet?text=http%3a%2f%2fubuntero.com.br%2f4%25C2%25BA-tema-vancouver-2010-1%25C2%25BA-aniversario%2f&url=http%3a%2f%2fubuntero.com.br%2f4%25C2%25BA-tema-vancouver-2010-1%25C2%25BA-aniversario%2f&via=Ubunterobr&related=Ubunterobr" title="Twittar" width="24" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-twitter.png" alt="Twittar" width="24" /></a> <a href="http://www.facebook.com/share.php?v=4&src=bm&u=http%3a%2f%2fubuntero.com.br%2f4%25C2%25BA-tema-vancouver-2010-1%25C2%25BA-aniversario%2f&t=4%c2%ba%20Tema%20%e2%80%93%20Vancouver%202010%201%c2%ba%20anivers%c3%a1rio" title="Curtir" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-facebook.png" alt="Curtir" width="24" /></a> <a href="https://plus.google.com/share?url=http%3a%2f%2fubuntero.com.br%2f4%25C2%25BA-tema-vancouver-2010-1%25C2%25BA-aniversario%2f" title="Compartilhar no Google Plus" rel="nofollow" target="_blank"><img src="http://ubuntero.com.br//dist/images/icon-googleplus.png" alt="Google Plus" width="24" /></a></p>
+			</div>
+		</div>
+
+		
+		<div class="adsmiddle">
+
+<script type="text/javascript" language="javascript">
+lmd_source="25569110";
+lmd_si="33338950";
+lmd_pu="22227150";
+lmd_c="BR";
+lmd_wi="468";
+lmd_he="60";
+</script>
+<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+
+</div>
+
+
+<div class="paginacao">
+	
+	<a href="/page/112/" class="current" rel="nofollow"> &lt;&lt; Anterior </a>
+	
+	<span class="current">...</span>
+	Página: <span class="current">113</span> de <span class="current">173</span>
+	<span class="current">...</span>
+	
+	<a href="/page/114/" class="current" rel="nofollow"> Próximo >> </a>
+	
+	</div>
+	</div>
+<div id="sidebar">
+
+	<div id="social" class="group">
+		<div id="social-rss" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="" title="Assinar Feed RSS"></a></p>
+		</div>
+		<div id="social-twitter" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="http://twitter.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-facebook" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://www.facebook.com/Ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+		<div id="social-gplus" class="social-box float-left social-box-margin">
+			<p><a class="sprite trans" href="https://plus.google.com/116904557812459236393" target="_blank" rel="publisher"></a></p>
+		</div>
+		<div id="social-youtube" class="social-box float-left social-box-last">
+			<p><a class="sprite trans" href="http://www.youtube.com/user/ubunterobr" target="_blank" rel="nofollow"></a></p>
+		</div>
+	</div>
+
+	<div class="side-box">
+		<h3>Busca</h3>
+		<form method="get" id="site-searchform" class="searchform" action="http://www.google.com/search" accept-charset="UTF-8" role="search">
+			<input type="search" name="q" autocomplete="on" placeholder="Pesquisar&hellip;" style="width:100%">
+			<input type="hidden" name="sitesearch" value="http://ubuntero.com.br/">
+		</form>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153641";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Últimas novidades</h3>
+		<ul>
+			
+			<li><a href="http://ubuntero.com.br/passada-a-black-friday-porque-nao-participamos/">Passada a black friday, porque não participamos?</a></li>
+			
+			<li><a href="http://ubuntero.com.br/participe-do-sorteio-e-concorra-a-um-ano-de-acesso-ao-curso-de-desenvolvimento-android-accelerate/">Participe do Sorteio e  Concorra a um ano de acesso ao curso de   desenvolvimento Android Accelerate!</a></li>
+			
+			<li><a href="http://ubuntero.com.br/resolvendo-problemas-ao-enviar-arquivos-para-a-lixeira/">Resolvendo problemas ao enviar arquivos para a lixeira</a></li>
+			
+			<li><a href="http://ubuntero.com.br/smartphone-com-ubuntu-ja-pode-ser-comprado-por-brasileiros/">Smartphone com Ubuntu já pode ser comprado por brasileiros</a></li>
+			
+			<li><a href="http://ubuntero.com.br/tecla-no-lenovo-e431/">Tecla “?” no Lenovo E431</a></li>
+			
+			<li><a href="http://ubuntero.com.br/apt-get-upgrade-ou-dist-upgrade/">Apt-get upgrade ou dist-upgrade?</a></li>
+			
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Opencast</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione o episódio</option>
+
+				<option value="https://tecnologiaaberta.com.br" title="Ubuntero">Tecnologia Aberta</option>
+
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Ubuntero no Facebook</h3>
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FUbunterobr%2F&amp;width=300&amp;height=340&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:340px;" allowTransparency="true"></iframe>
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153678";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+	<div class="side-box">
+		<h3>Circule o Ubuntero no Google+</h3>
+		
+		<div class="g-plus" data-href="//plus.google.com/116904557812459236393" data-rel="publisher"></div>
+		
+		
+		<script type="text/javascript">
+		window.___gcfg = {lang: 'pt-BR'};
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+	</div>
+
+	<div class="side-box">
+		<h3>Arquivos</h3>
+		<form action="" class="side-archives">
+			<label>
+			<select onchange="document.location.href=this.options[this.selectedIndex].value;">
+				<option value="" style="font-weight:bold;">Selecione a categoria</option>
+				
+				
+				<option value="http://ubuntero.com.br/ubuntu-studio/">Ubuntu Studio</option>
+				
+				<option value="http://ubuntero.com.br/beagle-search/">Beagle Search</option>
+				
+				<option value="http://ubuntero.com.br/internet-explorer-no-linux/">Internet Explorer no Linux</option>
+				
+				<option value="http://ubuntero.com.br/nada-importante/">Nada importante</option>
+				
+				<option value="http://ubuntero.com.br/impressoeshardware-ubuntu-linux-606-dapper-drake/">Impressões(hardware) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/skype-13-beta/">Skype 1.3 Beta</option>
+				
+				<option value="http://ubuntero.com.br/saindo-um-pouco-do-mundo-do-ubuntu/">Saindo um pouco do mundo do Ubuntu</option>
+				
+				<option value="http://ubuntero.com.br/impresssoesvisuais-ubuntu-linux-606-dapper-drake/">Impressões(visuais) Ubuntu Linux 6.06 – Dapper Drake</option>
+				
+				<option value="http://ubuntero.com.br/caixa-preta/">Caixa preta</option>
+				
+				<option value="http://ubuntero.com.br/comecando/">Começando</option>
+				
+				
+			</select>
+			</label>
+		</form>
+	</div>
+
+	<div class="side-box">
+		<h3>Youtube UbunteroBR</h3>
+		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/d4vhzJnGZ4A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+		<ul>
+			<li><a href="http://www.youtube.com/user/ubunterobr" title="Canal do Ubuntero no Youtube" target="_blank">Canal do Ubuntero no Youtube</a></li>
+		</ul>
+	</div>
+
+	<div class="side-box">
+		<h3>Divulgue nosso Banner</h3>
+		<p style="text-align:center; padding-bottom:10px;"><img class="banner-blog" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" alt="ferramentas blog banner" /><br />
+<textarea style="width:240px" name="textarea" onmouseover="this.focus()" onfocus="this.select()" rows="3" cols="15">&lt;a href="http://www.ubuntero.com.br/"&gt;
+&lt;img border="0" style="border:1px solid #CCC;" src="http://ubuntero.com.br//images/ubuntero/ubuntero.jpg" title="Ubuntero - Dicas e tutorias sobre Ubuntu" alt="Ubuntero.com.br" /&gt;&lt;/a&gt;</textarea>
+		</p>
+	</div>
+
+	<div class="side-box links">
+		<h3>Links</h3>
+		
+		<ul>
+			
+			<li><a href="http://tecnologiaaberta.com.br"> http://tecnologiaaberta.com.br</a></li>
+			
+			<li><a href="http://dtumelero.blogspot.com.br/"> http://dtumelero.blogspot.com.br/</a></li>
+			
+			<li><a href="http://www.diolinux.com.br/"> http://www.diolinux.com.br/</a></li>
+			
+			<li><a href="http://mundoandre.wordpress.com/"> http://mundoandre.wordpress.com/</a></li>
+			
+			<li><a href="http://www.tchelinux.org/blog/"> http://www.tchelinux.org/blog/</a></li>
+			
+			<li><a href="http://tiagohillebrandt.eti.br/blog/"> http://tiagohillebrandt.eti.br/blog/</a></li>
+			
+			<li><a href="http://ubuntudicas.com.br/"> http://ubuntudicas.com.br/</a></li>
+			
+			<li><a href="http://www.ubuntugames.org/"> http://www.ubuntugames.org/</a></li>
+			
+			<li><a href="http://planeta.ubuntu-br.org/"> http://planeta.ubuntu-br.org/</a></li>
+			
+			<li><a href="http://www.ubuntubrsc.com/"> http://www.ubuntubrsc.com/</a></li>
+			
+			<li><a href="http://www.ubuntued.info/"> http://www.ubuntued.info/</a></li>
+			
+		</ul>
+		
+	</div>
+
+	<div class="adssidebar">
+		
+			<script type="text/javascript" language="javascript">
+				lmd_source="26153688";
+				lmd_si="33338950";
+				lmd_pu="22227150";
+				lmd_c="BR";
+				lmd_wi="300";
+				lmd_he="250";
+			</script>
+			<script src="http://image.lomadee.com/js/ad_lomadee.js" type="text/javascript" language="javascript"></script>
+		
+	</div>
+
+</div>
+
+
+<div id="footer">
+  <ul class="left">
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/downloads/">Downloads</a></li>
+    
+    <li><a href="/ajude/">Quer ajudar?</a></li>
+    
+    <li><a href="/sobre-mim/">Sobre o Ubuntero</a></li>
+    
+    <li><a href="/store/">Store</a></li>
+    
+  </ul>
+  <ul class="left tright">
+    <li>Mantido com o <a href="http://gohugo.io" target="_blank" rel="nofollow" title="Site oficial do Hugo">Hugo</a>. Tema desenvolvido pela equipe <a href="http://www.ubuntero.com.br">Ubuntero</a>.</li>
+    <li><strong>Ubuntu</strong> e <strong>Canonical</strong> são marcas registradas da Canonical Ltd.</li>
+    <li><a href="http://creativecommons.org/licenses/by/3.0/br/" target="_blank" rel="nofollow" title="Conteúdo sob licença Creative Commons de Atribuição (BY)"><img src="http://ubuntero.com.br//images/ubuntero/cc-by.png" alt="CC-BY" width="80" /></a></li>
+  </ul>
+</div>
+
+</div>
+
+</body>
+</html>
+
